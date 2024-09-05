@@ -11,7 +11,7 @@ Where:
 - `category` is the category name
 - `filename` is the specific filename
 
-For example: `PA_dn_4.tsv` or `SA_sn_22_59.tsv`
+For example: `PA_dn_4.tsv` or `SA_T06_sthmavt.tsv`
 
 ## Purpose of This Format
 

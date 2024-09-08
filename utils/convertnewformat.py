@@ -60,6 +60,8 @@ for collection in collectionfile:
 
                 
                 file["collection"] = collection["collection"]
+
+                # Calculating Pali folios
                 folios = []
                 try:
                     currentfile = open(files_dir+'segments/'+file["filename"]+'.tsv','r', encoding='utf8')

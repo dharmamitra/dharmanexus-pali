@@ -1,240 +1,240 @@
-segmentnr	original	analyzed	translated
-['PA_ds_1.2:0.1']	Dhammasaṅgaṇī	dhammasaṅgaṇī 	The Numerical Discourses
-['PA_ds_1.2:0.2', 'PA_ds_1.2:1.0.1']	Dukamātikā🔽Hetugocchaka	       hetu ga ucchaka 	The Book of Twos🔽The Chapter on Causes
-['PA_ds_1.2:1.0.2', 'PA_ds_1.2:1.1']	1. Hetuduka🔽Hetū dhammā. (1059, 1077, 1441)	hetu duka  hetū dhammā 	The Section on Causes🔽Causes and things that are causes.
-['PA_ds_1.2:2.1']	Na hetū dhammā. (1078, 1442)	na hetū dhammā 	Not causes and things that are not causes.
-['PA_ds_1.2:3.0', 'PA_ds_1.2:3.1']	2. Sahetukaduka🔽Sahetukā dhammā. (1079, 1443)	sa hetuka duka  sa hetukāḥ dhammāḥ 	The Section on Associated with Causes
-['PA_ds_1.2:4.1', 'PA_ds_1.2:5.0', 'PA_ds_1.2:5.1']	Ahetukā dhammā. (1080, 1444)🔽3. Hetusampayuttaduka🔽Hetusampayuttā dhammā. (1081, 1445)	ahetukāḥ dhammāḥ  hetu sampayutta duka  hetu sampayuttāḥ dhammāḥ 	Associated with causes and things that are associated with causes.
-['PA_ds_1.2:6.1']	Hetuvippayuttā dhammā. (1082, 1446)	hetu vippayuttāḥ dhammāḥ 	Not associated with causes and things that are not associated with causes.
-['PA_ds_1.2:7.0', 'PA_ds_1.2:7.1']	4. Hetusahetukaduka🔽Hetū ceva dhammā sahetukā ca. (1083, 1447)	hetu sa hetuka duka  hetū ca iva dhammā sa hetukā ca 	The Section on Causes and Being a Cause🔽Causes and things that are causes.
-['PA_ds_1.2:8.1']	Sahetukā ceva dhammā na ca hetū. (1084, 1448)	sa hetukā ca iva dhammā na ca hetū 	Things that are causes and not causes.
-['PA_ds_1.2:9.0', 'PA_ds_1.2:9.1']	5. Hetuhetusampayuttaduka🔽Hetū ceva dhammā hetusampayuttā ca. (1085, 1449)	hetu hetu sampayutta duka  hetū ca iva dhammā hetu sampayuttā ca 	The Section on Causes and Being Associated with Causes🔽Causes and things that are associated with causes.
-['PA_ds_1.2:10.1', 'PA_ds_1.2:11.0', 'PA_ds_1.2:11.1', 'PA_ds_1.2:12.1']	Hetusampayuttā ceva dhammā na ca hetū. (1086, 1450)🔽6. Nahetusahetukaduka🔽Na hetū kho pana dhammā sahetukāpi. (1087, 1451)🔽Ahetukāpi. (1088, 1452)	hetu sampayuttā ca iva dhammā na ca hetū  na hetu sa hetuka duka  na hetū kho pana dhammā sa hetukā api  ahetukā api 	Things that are associated with causes and not causes.🔽The Section on Not Being a Cause and Being Associated with Causes🔽Not causes and things that are associated with causes.
-['PA_ds_1.2:12.2']	Hetugocchakaṁ.	hetu ga ucchaka 	Not causes and things that are not associated with causes.🔽The Chapter on Causes is finished.
-['PA_ds_1.2:13.0.1']	Cūḷantaraduka	cūḍantaraduka 	The Shorter Chapter on Pairs
-['PA_ds_1.2:13.0.2', 'PA_ds_1.2:13.1']	1. Sappaccayaduka🔽Sappaccayā dhammā. (1089, 1453)	sap paccaya duka  sappaccayāḥ dhammāḥ 	The Section on Conditions🔽With conditions and things that have conditions.
-['PA_ds_1.2:14.1']	Appaccayā dhammā. (1090, 1454)	appaccayāḥ dhammā 	Without conditions and things that do not have conditions.
-['PA_ds_1.2:15.0']	2. Saṅkhataduka	saṅkha taduka 	The Section on Conditioned
-['PA_ds_1.2:15.1']	Saṅkhatā dhammā. (1091, 1455)	saṅkhatāḥ dhammāḥ 	Conditioned and things that are conditioned.
-['PA_ds_1.2:16.1']	Asaṅkhatā dhammā. (1092, 1456)	asaṅkhatāḥ dhammāḥ 	Unconditioned and things that are unconditioned.
-['PA_ds_1.2:17.0']	3. Sanidassanaduka	sani das sana duka 	The Section on Visible
-['PA_ds_1.2:17.1']	Sanidassanā dhammā. (1093, 1457)	sa nidassanāḥ dhammāḥ 	Things that are visible.
-['PA_ds_1.2:18.1']	Anidassanā dhammā. (1094, 1458)	a nidassanāḥ dhammāḥ 	Things that are not visible.
-['PA_ds_1.2:19.0']	4. Sappaṭighaduka	sappaṭigha duka 	The dyad on impingement
-['PA_ds_1.2:19.1']	Sappaṭighā dhammā. (1095, 1459)	sappaṭighāḥ dhammāḥ 	Things that impinge.
-['PA_ds_1.2:20.1']	Appaṭighā dhammā. (1096, 1460)	appaṭighāḥ dhammāḥ 	Things that do not impinge.
-['PA_ds_1.2:21.0']	5. Rūpīduka	rūpīduka 	The dyad on the form-possessing
-['PA_ds_1.2:21.1']	Rūpino dhammā. (1097, 1461)	rūpinaḥ dhammā 	Things that are form-possessing.
-['PA_ds_1.2:22.1', 'PA_ds_1.2:23.0', 'PA_ds_1.2:23.1']	Arūpino dhammā. (1098, 1462)🔽6. Lokiyaduka🔽Lokiyā dhammā. (1099, 1463)	arūpinaḥ dhammā  lokiyaduka  lokiyāḥ dhammāḥ 	Things that are formless.🔽The dyad on the mundane🔽Mundane things.
-['PA_ds_1.2:24.1']	Lokuttarā dhammā. (1100, 1464)	lokuttarāḥ dhammāḥ 	Supramundane things.
-['PA_ds_1.2:25.0', 'PA_ds_1.2:25.1']	7. Kenaciviññeyyaduka🔽Kenaci viññeyyā dhammā. (1101, 1464)	kenacid viññeyya duka  kenaci viññeyyāḥ dhammāḥ 	The dyad on cognizable by some🔽Things cognizable by some.
-['PA_ds_1.2:26.1', 'PA_ds_1.2:26.2', 'PA_ds_1.2:27.0.1']	Kenaci na viññeyyā dhammā. (1101, 1464)🔽Cūḷantaradukaṁ.🔽Āsavagocchaka	kenacid na viññeyyāḥ dhammāḥ  cūḍantaraduka  āsavagocchaka 	Things not cognizable by some.🔽The dyad on the lesser internal🔽The section on the effluents
-['PA_ds_1.2:27.0.2']	1. Āsavaduka	āsavaduka 	The dyad on the effluents
-['PA_ds_1.2:27.1']	Āsavā dhammā. (1102, 1465)	āsavā dhammā 	Things that are effluents.
-['PA_ds_1.2:28.1']	No āsavā dhammā. (1107, 1466)	no āsavā dhammā 	Things that are not effluents.
-['PA_ds_1.2:29.0']	2. Sāsavaduka	sāsavaduka 	The dyad on the possessed of effluents
-['PA_ds_1.2:29.1']	Sāsavā dhammā. (1108, 1467)	sa āsavā dhammā 	Things that are possessed of effluents.
-['PA_ds_1.2:30.1', 'PA_ds_1.2:31.0', 'PA_ds_1.2:31.1']	Anāsavā dhammā. (1109, 1468)🔽3. Āsavasampayuttaduka🔽Āsavasampayuttā dhammā. (1110, 1469)	anāsavāḥ dhammā       āsava sampayuttāḥ dhammāḥ 	Things that are not possessed of effluents.🔽The dyad on the effluents and the possessed of effluents
-['PA_ds_1.2:32.1', 'PA_ds_1.2:33.0', 'PA_ds_1.2:33.1']	Āsavavippayuttā dhammā. (1111, 1470)🔽4. Āsavasāsavaduka🔽Āsavā ceva dhammā sāsavā ca. (1112, 1471)	āsava vippayuttāḥ dhammāḥ  āsavasāsavaduka  āsavā ca iva dhammā sa āsavā ca 	Things that are effluents and possessed of effluents.
-['PA_ds_1.2:34.1', 'PA_ds_1.2:35.0']	Sāsavā ceva dhammā no ca āsavā. (1113, 1472)🔽5. Āsavaāsavasampayuttaduka	sa āsavā ca iva dhammā no ca āsavā        	Things that are possessed of effluents but are not effluents.🔽The dyad on the effluents and the possessed of effluents
-['PA_ds_1.2:35.1']	Āsavā ceva dhammā āsavasampayuttā ca. (1114, 1473)	āsavā ca iva dhammā āsava sampayuttā ca 	Things that are effluents and associated with effluents.🔽Things that are associated with effluents but are not effluents.
-['PA_ds_1.2:36.1']	Āsavasampayuttā ceva dhammā no ca āsavā. (1115, 1474)	āsava sampayuttā ca iva dhammā no ca āsavā 	Ideas associated with the cankers and ideas dissociated from the cankers.
-['PA_ds_1.2:37.0']	6. Āsavavippayuttasāsavaduka	      	The Undetermined Section on Ideas Dissociated from the Cankers
-['PA_ds_1.2:37.1']	Āsavavippayuttā kho pana dhammā sāsavāpi. (1116, 1475)	āsava vippayuttāḥ kho pana dhammā sa āsavā api 	Ideas dissociated from the cankers are nevertheless subject to cankers.
-['PA_ds_1.2:38.1', 'PA_ds_1.2:38.2']	Anāsavāpi. (1117, 1476)🔽Āsavagocchakaṁ.	anāsavā api  āsavagocchaka 	They are also not subject to cankers.
-['PA_ds_1.2:39.0.1']	Saññojanagocchaka	saññojana gocchaka 	The Canker-Class🔽The Fetters
-['PA_ds_1.2:39.0.2', 'PA_ds_1.2:39.1']	1. Saññojanaduka🔽Saññojanā dhammā. (1118, 1477)	saññojana duka  saññojanāḥ dhammā 	The Undetermined Section on Fetters🔽Ideas that are fetters.
-['PA_ds_1.2:40.1']	No saññojanā dhammā. (1129, 1478)	no saññojanāḥ dhammā 	Ideas that are not fetters.
-['PA_ds_1.2:41.0']	2. Saññojaniyaduka	saññojaniya duka 	The Undetermined Section on Fetterable
-['PA_ds_1.2:41.1']	Saññojaniyā dhammā. (1130, 1479)	saññojaniyāḥ dhammāḥ 	Ideas that are fetterable.
-['PA_ds_1.2:42.1']	Asaññojaniyā dhammā. (1131, 1480)	asaññojaniyāḥ dhammāḥ 	Ideas that are not fetterable.
-['PA_ds_1.2:43.0', 'PA_ds_1.2:43.1']	3. Saññojanasampayuttaduka🔽Saññojanasampayuttā dhammā. (1132, 1481)	saññojana sampayutta duka  saññojana sampayuttāḥ dhammāḥ 	The Undetermined Section on Associated with a Fetter🔽Ideas associated with a fetter.
-['PA_ds_1.2:44.1']	Saññojanavippayuttā dhammā. (1133, 1482)	saññojana vippayuttāḥ dhammāḥ 	Ideas dissociated from a fetter.
-['PA_ds_1.2:45.0']	4. Saññojanasaññojaniyaduka	saññojana saññojaniya duka 	The Undetermined Section on Fetters and Fetterable
-['PA_ds_1.2:45.1']	Saññojanā ceva dhammā saññojaniyā ca. (1134, 1483)	saññojanā ca iva dhammā saññojaniyā ca 	Ideas that are fetters and also fetterable.
-['PA_ds_1.2:46.1']	Saññojaniyā ceva dhammā no ca saññojanā. (1135, 1484)	saññojaniyāḥ ca iva dhammāḥ no ca saññojanā 	Ideas that are fetterable but are not fetters.
-['PA_ds_1.2:47.0']	5. Saññojanasaññojanasampayuttaduka	saññojana saññojana sampayutta duka 	The Undetermined Section on Associated with a Fetter and Fetterable
-['PA_ds_1.2:47.1']	Saññojanā ceva dhammā saññojanasampayuttā ca. (1136, 1485)	saññojanā ca iva dhammā saññojana sampayuttā ca 	Ideas that are fetters and also associated with a fetter.
-['PA_ds_1.2:48.1']	Saññojanasampayuttā ceva dhammā no ca saññojanā. (1137, 1486)	saññojana sampayuttā ca iva dhammā no ca saññojanā 	Ideas that are associated with a fetter but are not fetters.
-['PA_ds_1.2:49.0']	6. Saññojanavippayuttasaññojaniyaduka	       	The Undetermined Section on Dissociated from a Fetter and Fetterable
-['PA_ds_1.2:49.1']	Saññojanavippayuttā kho pana dhammā saññojaniyāpi. (1138, 1487)	saññojana vippayuttāḥ kho pana dhammāḥ saññojaniyā api 	But states that are dissociated from fetters are objects of fetters.
-['PA_ds_1.2:50.1']	Asaññojaniyāpi. (1139, 1488)	a saññojaniyā api 	They are not objects of fetters.
-['PA_ds_1.2:50.2']	Saññojanagocchakaṁ.	saññojana gocchaka 	The section on fetters.
-['PA_ds_1.2:51.0.1', 'PA_ds_1.2:51.0.2']	Ganthagocchaka🔽1. Ganthaduka	gantha gocchaka  ganthaduka 	The section on ties🔽The dyad on the floods🔽The dyad on the bonds🔽The dyad on the hindrances🔽The dyad on the kinds of existence🔽The dyad on the clingings🔽The dyad on the taints🔽The dyad on the roots🔽The dyad on the kinds of action🔽The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming
-['PA_ds_1.2:51.1', 'PA_ds_1.2:52.1']	Ganthā dhammā. (1140, 1489)🔽No ganthā dhammā. (1145, 1490)	ganthā dhammā  no ganthā dhammā 	The dyad on the kinds of strand🔽The dyad on the kinds of rebirth-linking
-['PA_ds_1.2:53.0', 'PA_ds_1.2:53.1']	2. Ganthaniyaduka🔽Ganthaniyā dhammā. (1146, 1491)	gantha niyaduka  ganthaniyāḥ dhammā 	The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action🔽The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
-['PA_ds_1.2:54.1']	Aganthaniyā dhammā. (1147, 1492)	a ganthaniyāḥ dhammāḥ 	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action
-['PA_ds_1.2:55.0', 'PA_ds_1.2:55.1']	3. Ganthasampayuttaduka🔽Ganthasampayuttā dhammā. (1148, 1493)	gantha sampayutta duka  gantha sampayuttāḥ dhammāḥ 	The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
-['PA_ds_1.2:56.1', 'PA_ds_1.2:57.0']	Ganthavippayuttā dhammā. (1149, 1494)🔽4. Ganthaganthaniyaduka	gantha vippayuttāḥ dhammāḥ  gantha gantha niyaduka 	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action
-['PA_ds_1.2:57.1', 'PA_ds_1.2:58.1']	Ganthā ceva dhammā ganthaniyā ca. (1150, 1495)🔽Ganthaniyā ceva dhammā no ca ganthā. (1151, 1496)	ganthā ca iva dhammā ganthaniyā ca  ganthaniyā ca iva dhammā no ca ganthā 	The dyad on the kinds of destiny
-['PA_ds_1.2:59.0']	5. Ganthaganthasampayuttaduka	gantha gantha sampayutta duka 	The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
-['PA_ds_1.2:59.1', 'PA_ds_1.2:60.1']	Ganthā ceva dhammā ganthasampayuttā ca. (1152, 1497)🔽Ganthasampayuttā ceva dhammā no ca ganthā. (1153, 1498)	ganthā ca iva dhammā gantha sampayuttā ca  gantha sampayuttā ca iva dhammā no ca ganthā 	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action
-['PA_ds_1.2:61.0', 'PA_ds_1.2:61.1']	6. Ganthavippayuttaganthaniyaduka🔽Ganthavippayuttā kho pana dhammā ganthaniyāpi. (1154, 1499)	     gantha vippayuttāḥ kho pana dhammāḥ gantha niyā api 	The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
-['PA_ds_1.2:62.1', 'PA_ds_1.2:62.2', 'PA_ds_1.2:63.0.1']	Aganthaniyāpi. (1155, 1500)🔽Ganthagocchakaṁ.🔽Oghagocchaka	a ganthaniyā api  gantha gocchaka  ogha gocchaka 	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation
-['PA_ds_1.2:63.0.2']	1. Oghaduka	ogha duka 	The dyad on the kinds of destiny🔽The dyad on the kinds
-['PA_ds_1.2:63.1', 'PA_ds_1.2:64.1', 'PA_ds_1.2:65.0', 'PA_ds_1.2:65.1']	Oghā dhammā. (1156, 1501)🔽No oghā dhammā.🔽2. Oghaniyaduka🔽Oghaniyā dhammā.	oghāḥ dhammā  no oghā dhammā  ogha niyaduka  ogha niyāḥ dhammā 	Things that are floods.
-['PA_ds_1.2:66.1']	Anoghaniyā dhammā.	anogha niyāḥ dhammā 	Things that are not floods.
-['PA_ds_1.2:67.0', 'PA_ds_1.2:67.1']	3. Oghasampayuttaduka🔽Oghasampayuttā dhammā.	ogha sampayutta duka  ogha sampayuttāḥ dhammāḥ 	The connected factors of the floods🔽Things that are connected with the floods.
-['PA_ds_1.2:68.1']	Oghavippayuttā dhammā.	ogha vippayuttāḥ dhammāḥ 	Things that are not connected with the floods.
-['PA_ds_1.2:69.0', 'PA_ds_1.2:69.1']	4. Oghaoghaniyaduka🔽Oghā ceva dhammā oghaniyā ca.	ogha ogha niyaduka  oghā ca iva dhammā ogha niyā ca 	The unconnected factors of the floods🔽Things that are floods and are also connected with the floods.
-['PA_ds_1.2:70.1']	Oghaniyā ceva dhammā no ca oghā.	ogha niyā ca iva dhammā no ca oghā 	Things that are connected with the floods but are not floods.
-['PA_ds_1.2:71.0']	5. Oghaoghasampayuttaduka	ogha ogha sampayutta duka 	The connected factors of the floods
-['PA_ds_1.2:71.1']	Oghā ceva dhammā oghasampayuttā ca.	oghā ca iva dhammā ogha sampayuttā ca 	Things that are floods and are also connected with the floods.
-['PA_ds_1.2:72.1']	Oghasampayuttā ceva dhammā no ca oghā.	ogha sampayuttā ca iva dhammā no ca oghā 	Things that are connected with the floods but are not floods.
-['PA_ds_1.2:73.0']	6. Oghavippayuttaoghaniyaduka	ogha vippayutta ogha niyaduka 	The unconnected factors of the floods and the connected factors of the floods
-['PA_ds_1.2:73.1']	Oghavippayuttā kho pana dhammā oghaniyāpi.	ogha vippayuttāḥ kho pana dhammāḥ ogha niyā api 	Things that are unconnected with the floods are either connected with the floods
-['PA_ds_1.2:74.1', 'PA_ds_1.2:74.2']	Anoghaniyāpi.🔽Oghagocchakaṁ.	an ogha niyā api  ogha gocchaka 	or unconnected with the floods.🔽The section on the floods is finished.
-['PA_ds_1.2:75.0.1', 'PA_ds_1.2:75.0.2', 'PA_ds_1.2:75.1', 'PA_ds_1.2:76.1']	Yogagocchaka🔽1. Yogaduka🔽Yogā dhammā. (1157, 1502)🔽No yogā dhammā.	yoga gocchaka  yogaduka  yogāḥ dhammāḥ  no yogā dhammā 	The section on the yokes
-['PA_ds_1.2:77.0']	2. Yoganiyaduka	yoganiyaduka 	The dyad on the yokes
-['PA_ds_1.2:77.1']	Yoganiyā dhammā.	yoganiyāḥ dhammā 	Things that are yokes.
-['PA_ds_1.2:78.1']	Ayoganiyā dhammā.	a yoganiyāḥ dhammā 	Things that are not yokes.
-['PA_ds_1.2:79.0', 'PA_ds_1.2:79.1']	3. Yogasampayuttaduka🔽Yogasampayuttā dhammā.	     yoga sampayuttāḥ dhammāḥ 	The connected factors of the yokes🔽Things that are connected with the yokes.
-['PA_ds_1.2:80.1', 'PA_ds_1.2:81.0', 'PA_ds_1.2:81.1']	Yogavippayuttā dhammā.🔽4. Yogayoganiyaduka🔽Yogā ceva dhammā yoganiyā ca.	yoga vippayuttāḥ dhammāḥ  yogayoganiyaduka  yogā ca iva dhammā yoganiyā ca 	Things that are not connected with the yokes.🔽The unconnected factors of the yokes and the connected factors of the yokes🔽Things that are yokes and are also connected with the yokes.
-['PA_ds_1.2:82.1']	Yoganiyā ceva dhammā no ca yogā.	yoga niyā ca iva dhammā no ca yogā 	Things that are connected with the yokes but are not yokes.
-['PA_ds_1.2:83.0']	5. Yogayogasampayuttaduka	    	5. The Pairs with Bondage and with what is Associated with Bondage, etc.
-['PA_ds_1.2:83.1']	Yogā ceva dhammā yogasampayuttā ca.	yogā ca iva dhammā yoga sampayuttā ca 	There are ideas that are a bond and are associated with a bond.
-['PA_ds_1.2:84.1']	Yogasampayuttā ceva dhammā no ca yogā.	yoga sampayuttā ca iva dhammā no ca yogā 	There are ideas that are associated with a bond but are not a bond.
-['PA_ds_1.2:85.0', 'PA_ds_1.2:85.1', 'PA_ds_1.2:86.1']	6. Yogavippayuttayoganiyaduka🔽Yogavippayuttā kho pana dhammā yoganiyāpi.🔽Ayoganiyāpi.	     yoga vippayuttāḥ kho pana dhammāḥ yoga niyāpi  a yoga niyā api 	. The Pairs with what is not Associated with Bondage and with what is not Subject to Bondage, etc.🔽Ideas that are not associated with a bond are also subject to bondage.
-['PA_ds_1.2:86.2']	Yogagocchakaṁ.	yoga gocchaka 	They are also not subject to bondage.🔽The Bondage Category is ended.
-['PA_ds_1.2:87.0.1', 'PA_ds_1.2:87.0.2', 'PA_ds_1.2:87.1']	Nīvaraṇagocchaka🔽1. Nīvaraṇaduka🔽Nīvaraṇā dhammā. (1158, 1503)	nīvaraṇa gocchaka  nīvaraṇa duka  nīvaraṇāḥ dhammā 	The Hindrance Category🔽. The Pairs with Hindrances, etc.🔽Ideas with hindrances.
-['PA_ds_1.2:88.1']	No nīvaraṇā dhammā. (1169, 1504)	no nīvaraṇāḥ dhammā 	Ideas without hindrances.
-['PA_ds_1.2:89.0']	2. Nīvaraṇiyaduka	nīvara ṇiyaduka 	. The Pairs with what is Subject to Hindrances, etc.
-['PA_ds_1.2:89.1']	Nīvaraṇiyā dhammā. (1170, 1505)	nīvaraṇiyāḥ dhammā 	Ideas subject to hindrances.
-['PA_ds_1.2:90.1', 'PA_ds_1.2:91.0']	Anīvaraṇiyā dhammā. (1171, 1506)🔽3. Nīvaraṇasampayuttaduka	anīvaraṇiyāḥ dhammā      	Ideas not subject to hindrances.🔽. The Pairs with what is Associated with Hindrances, etc.
-['PA_ds_1.2:91.1']	Nīvaraṇasampayuttā dhammā. (1172, 1507)	nīvaraṇa sampayuttāḥ dhammā 	Ideas associated with hindrances.
-['PA_ds_1.2:92.1', 'PA_ds_1.2:93.0']	Nīvaraṇavippayuttā dhammā. (1173, 1508)🔽4. Nīvaraṇanīvaraṇiyaduka	nīvaraṇa vippayuttāḥ dhammā  nīvaraṇa nīvaraṇiyaduka 	Ideas dissociated from hindrances.🔽. The Pairs with Hindrances and with what is Subject to Hindrances, etc.
-['PA_ds_1.2:93.1']	Nīvaraṇā ceva dhammā nīvaraṇiyā ca. (1174, 1509)	nīvaraṇā ca iva dhammā nīvaraṇiyā ca 	Ideas that are hindrances and are also subject to hindrances.
-['PA_ds_1.2:94.1', 'PA_ds_1.2:95.0']	Nīvaraṇiyā ceva dhammā no ca nīvaraṇā. (1175, 1510)🔽5. Nīvaraṇanīvaraṇasampayuttaduka	nīvaraṇiyāḥ ca iva dhammāḥ no ca nīvaraṇā         	Ideas that are subject to hindrances but are not hindrances.🔽. The Pairs with Hindrances and with what is Associated with Hindrances, etc.
-['PA_ds_1.2:95.1']	Nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca. (1176, 1511)	nīvaraṇā ca iva dhammā nīvaraṇa sampayuttā ca 	Ideas that are hindrances and are also associated with hindrances.
-['PA_ds_1.2:96.1']	Nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā. (1177, 1512)	nīvaraṇa sampayuttā ca iva dhammā no ca nīvaraṇā 	Ideas that are associated with hindrances but are not hindrances.
-['PA_ds_1.2:97.0']	6. Nīvaraṇavippayuttanīvaraṇiyaduka	      	6. The Pair: Not Associated with Hindrances, Related to Hindrances
-['PA_ds_1.2:97.1']	Nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi. (1178, 1513)	nīvaraṇa vippayuttāḥ kho pana dhammāḥ nīvaraṇiyā api 	The things not associated with hindrances are related to the hindrances.
-['PA_ds_1.2:98.1', 'PA_ds_1.2:98.2', 'PA_ds_1.2:99.0.1']	Anīvaraṇiyāpi. (1179, 1514)🔽Nīvaraṇagocchakaṁ.🔽Parāmāsagocchaka	an īvaraṇiyā api  nīvaraṇa gocchaka  parā māsa gocchaka 	They are unrelated to the hindrances.🔽The Hindrances’ Group🔽The Group on Grasping
-['PA_ds_1.2:99.0.2']	1. Parāmāsaduka	parāmāsaduka 	The Pair: Grasping
-['PA_ds_1.2:99.1']	Parāmāsā dhammā. (1180, 1515)	parāmāsāḥ dhammā 	The things that are grasping.
-['PA_ds_1.2:100.1']	No parāmāsā dhammā. (1182, 1516)	no parāmāsāḥ dhammā 	The things that are not grasping.
-['PA_ds_1.2:101.0']	2. Parāmaṭṭhaduka	parāmaṭṭhaduka 	The Pair: The Grasped
-['PA_ds_1.2:101.1']	Parāmaṭṭhā dhammā. (1183, 1517)	parāmaṭṭhāḥ dhammā 	The things that are the grasped.
-['PA_ds_1.2:102.1']	Aparāmaṭṭhā dhammā. (1184, 1518)	aparāmaṭṭhāḥ dhammā 	The things that are not the grasped.
-['PA_ds_1.2:103.0', 'PA_ds_1.2:103.1']	3. Parāmāsasampayuttaduka🔽Parāmāsasampayuttā dhammā. (1185, 1519)	para amāsa sampayutta duka  parāmāsa sampayuttāḥ dhammāḥ 	The Pair: Associated with Grasping🔽The things associated with grasping.
-['PA_ds_1.2:104.1']	Parāmāsavippayuttā dhammā. (1186, 1520)	parāmāsa vippayuttāḥ dhammāḥ 	The things dissociated from grasping.
-['PA_ds_1.2:105.0']	4. Parāmāsaparāmaṭṭhaduka	parāmāsa parāmaṭṭha duka 	The Pair: Grasping and the Grasped
-['PA_ds_1.2:105.1']	Parāmāsā ceva dhammā parāmaṭṭhā ca. (1187, 1521)	parāmāsā ca iva dhammā parāmaṭṭhā ca 	The things that are grasping and the grasped.
-['PA_ds_1.2:106.1']	Parāmaṭṭhā ceva dhammā no ca parāmāsā. (1188, 1522)	parāmaṭṭhāḥ ca iva dhammāḥ no ca parāmāsāḥ 	The things that are the grasped but are not grasping.
-['PA_ds_1.2:107.0']	5. Parāmāsavippayuttaparāmaṭṭhaduka	       	The Pair: Dissociated from Grasping and the Grasped
-['PA_ds_1.2:107.1']	Parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi. (1189, 1523)	parāmāsa vippayuttāḥ kho pana dhammā 	The things dissociated from grasping are the grasped.
-['PA_ds_1.2:108.1', 'PA_ds_1.2:108.2']	Aparāmaṭṭhāpi. (1190, 1524)🔽Parāmāsagocchakaṁ.	aparāmaṭṭhā api  parā māsa gocchaka 	They are the ungrasped.🔽The Hindrances’ Group
-['PA_ds_1.2:109.0.1', 'PA_ds_1.2:109.0.2']	Mahantaraduka🔽1. Sārammaṇaduka	mahantaraduka  sa ārammaṇa duka 	The Pair: With a Great Interval🔽The Pair: With an Object
-['PA_ds_1.2:109.1']	Sārammaṇā dhammā. (1191, 1525)	sa ārammaṇāḥ dhammāḥ 	The things that have an object.
-['PA_ds_1.2:110.1']	Anārammaṇā dhammā. (1192, 1526)	anārammaṇāḥ dhammāḥ 	The things that have no object.
-['PA_ds_1.2:111.0']	2. Cittaduka	cittaduka 	The Pair: Consciousness
-['PA_ds_1.2:111.1']	Cittā dhammā. (1193, 1527)	cittā dhammā 	Mental phenomena.
-['PA_ds_1.2:112.1']	No cittā dhammā. (1194, 1528)	no cittāḥ dhammāḥ 	Non-mental phenomena.
-['PA_ds_1.2:113.0']	3. Cetasikaduka	cetasika duka 	The dyad on mental factors
-['PA_ds_1.2:113.1']	Cetasikā dhammā. (1195, 1529)	cetasikāḥ dhammāḥ 	Mental factors.
-['PA_ds_1.2:114.1']	Acetasikā dhammā. (1196, 1530)	acetasikāḥ dhammāḥ 	Non-mental factors.
-['PA_ds_1.2:115.0', 'PA_ds_1.2:115.1']	4. Cittasampayuttaduka🔽Cittasampayuttā dhammā. (1197, 1531)	citta sampayutta duka  citta sampayuttāḥ dhammāḥ 	The dyad on conjoined with mind🔽Dhammas conjoined with mind.
-['PA_ds_1.2:116.1', 'PA_ds_1.2:117.0']	Cittavippayuttā dhammā. (1198, 1532)🔽5. Cittasaṁsaṭṭhaduka	citta vippayuttāḥ dhammāḥ  citta sa sa ṭṭha duka 	Dhammas disjoined from mind.🔽The dyad on associated with consciousness
-['PA_ds_1.2:117.1']	Cittasaṁsaṭṭhā dhammā. (1199, 1533)	citta sasaṭṭhāḥ dhammā 	Dhammas associated with consciousness.
-['PA_ds_1.2:118.1']	Cittavisaṁsaṭṭhā dhammā. (1200, 1534)	citta visasaṭṭhāḥ dhammā 	Dhammas disassociated from consciousness.
-['PA_ds_1.2:119.0']	6. Cittasamuṭṭhānaduka	citta samuṭṭhāna duka 	The dyad on originated by mind
-['PA_ds_1.2:119.1']	Cittasamuṭṭhānā dhammā. (1201, 1535)	citta samuṭṭhānāḥ dhammāḥ 	Dhammas originated by mind.
-['PA_ds_1.2:120.1']	No cittasamuṭṭhānā dhammā. (1202, 1536)	no citta samuṭṭhānāḥ dhammā 	Dhammas not originated by mind.
-['PA_ds_1.2:121.0']	7. Cittasahabhūduka	cittasaha bhūduka 	The dyad on conascent with mind
-['PA_ds_1.2:121.1']	Cittasahabhuno dhammā. (1203, 1537)	citta sahabhunaḥ dhammā 	Dhammas conascent with mind.
-['PA_ds_1.2:122.1']	No cittasahabhuno dhammā. (1204, 1538)	no citta sahabhunaḥ dhammā 	Dhammas not conascent with mind.
-['PA_ds_1.2:123.0']	8. Cittānuparivattiduka	citta anuparivatti duka 	The dyad on concomitant with mind
-['PA_ds_1.2:123.1']	Cittānuparivattino dhammā. (1205, 1539)	citta anuparivattinaḥ dhammā 	Dhammas concomitant with mind.
-['PA_ds_1.2:124.1', 'PA_ds_1.2:125.0', 'PA_ds_1.2:125.1', 'PA_ds_1.2:126.1']	No cittānuparivattino dhammā. (1206, 1540)🔽9. Cittasaṁsaṭṭhasamuṭṭhānaduka🔽Cittasaṁsaṭṭhasamuṭṭhānā dhammā. (1207, 1541)🔽No cittasaṁsaṭṭhasamuṭṭhānā dhammā. (1208, 1542)	no citta anuparivattinaḥ dhammā  citta sa saṭṭha samuṭṭhāna duka  citta sasaṭṭha samuṭṭhānāḥ dhammāḥ  no citta sasaṭṭha samuṭṭhānāḥ dhammā 	Dhammas not concomitant with mind.
-['PA_ds_1.2:127.0']	10. Cittasaṁsaṭṭhasamuṭṭhānasahabhūduka	        	The dyad on originated by and conascent with consciousness
-['PA_ds_1.2:127.1']	Cittasaṁsaṭṭhasamuṭṭhānasahabhuno dhammā. (1209, 1543)	dhammā 	The phenomena that are associated with mind and originate together with mind. (1209, 1543)
-['PA_ds_1.2:128.1']	No cittasaṁsaṭṭhasamuṭṭhānasahabhuno dhammā. (1210, 1544)	no dhammā 	The phenomena that are not associated with mind and do not originate together with mind. (,)
-['PA_ds_1.2:129.0']	11. Cittasaṁsaṭṭhasamuṭṭhānānuparivattiduka	citta sa saṭṭha samuṭṭhāna anuparivatti duka 	The pair: associated with mind and originating together with mind, and following along with mind
-['PA_ds_1.2:129.1']	Cittasaṁsaṭṭhasamuṭṭhānānuparivattino dhammā. (1211, 1545)	citta sasaṭṭha samuṭṭhāna anuparivattinaḥ dhammā 	The phenomena that are associated with mind and originate together with mind, and follow along with mind. (,)
-['PA_ds_1.2:130.1', 'PA_ds_1.2:131.0', 'PA_ds_1.2:131.1']	No cittasaṁsaṭṭhasamuṭṭhānānuparivattino dhammā. (1212, 1546)🔽12. Ajjhattikaduka🔽Ajjhattikā dhammā. (1213, 1547)	no citta sasaṭṭha samuṭṭhāna anuparivattinaḥ dhammā  ajjhattika duka  ajjhattikāḥ dhammāḥ 	The phenomena that are not associated with mind and do not originate together with mind, and do not follow along with mind. (,)🔽The pair: internal and external🔽The internal phenomena. (,)🔽The external phenomena. (,)
-['PA_ds_1.2:132.1', 'PA_ds_1.2:133.0', 'PA_ds_1.2:133.1']	Bāhirā dhammā. (1214, 1548)🔽13. Upādāduka🔽Upādā dhammā. (1215, 1549)	bāhirāḥ dhammāḥ  upādāduka  upādāḥ dhammā 	The pair: with clinging and without clinging🔽The phenomena with clinging. (,)🔽The phenomena without clinging. (,)🔽The pair: internal and external
-['PA_ds_1.2:134.1', 'PA_ds_1.2:135.0']	No upādā dhammā. (1216, 1550)🔽14. Upādinnaduka	no upādāḥ dhammā  upādinna duka 	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:135.1']	Upādinnā dhammā. (1217, 1551)	upādinnāḥ dhammāḥ 	The pair: internal and external
-['PA_ds_1.2:136.1', 'PA_ds_1.2:136.2', 'PA_ds_1.2:137.0.1']	Anupādinnā dhammā. (1218, 1552)🔽Mahantaradukaṁ.🔽Upādānagocchaka	anupādinnāḥ dhammāḥ  mahantaraduka  upādānagocchaka 	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:137.0.2', 'PA_ds_1.2:137.1']	1. Upādānaduka🔽Upādānā dhammā. (1219, 1553)	upādāna duka  upādānāḥ dhammā 	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:138.1', 'PA_ds_1.2:139.0']	No upādānā dhammā. (1224, 1554)🔽2. Upādāniyaduka	no upādānāḥ dhammā  upādāniyaduka 	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:139.1']	Upādāniyā dhammā. (1225, 1555)	upādāniyāḥ dhammāḥ 	The pair: internal and external
-['PA_ds_1.2:140.1']	Anupādāniyā dhammā. (1226, 1556)	anupādāniyāḥ dhammāḥ 	The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:141.0', 'PA_ds_1.2:141.1']	3. Upādānasampayuttaduka🔽Upādānasampayuttā dhammā. (1227, 1557)	     upādāna sampayuttāḥ dhammāḥ 	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:142.1']	Upādānavippayuttā dhammā. (1228, 1558)	upādāna vippayuttāḥ dhammāḥ 	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
-['PA_ds_1.2:143.0']	4. Upādānaupādāniyaduka	    	The pair: internal and external🔽The pair: internal
-['PA_ds_1.2:143.1']	Upādānā ceva dhammā upādāniyā ca. (1229, 1559)	upādānā ca iva dhammā upādāniyā ca 	There are ideas that are clingings and are also objects of clinging.
-['PA_ds_1.2:144.1']	Upādāniyā ceva dhammā no ca upādānā. (1230, 1560)	upādāniyā ca iva dhammā no ca upādānā 	There are ideas that are objects of clinging but are not clingings.
-['PA_ds_1.2:145.0']	5. Upādānaupādānasampayuttaduka	        	Clinging and Associated with Clinging
-['PA_ds_1.2:145.1']	Upādānā ceva dhammā upādānasampayuttā ca. (1231, 1561)	upādānā ca iva dhammā upādāna sampayuttā ca 	There are ideas that are clingings and are also associated with clingings.
-['PA_ds_1.2:146.1']	Upādānasampayuttā ceva dhammā no ca upādānā. (1232, 1562)	upādāna sampayuttā ca iva dhammā no ca upādānā 	There are ideas that are associated with clingings but are not clingings.
-['PA_ds_1.2:147.0', 'PA_ds_1.2:147.1']	6. Upādānavippayuttaupādāniyaduka🔽Upādānavippayuttā kho pana dhammā upādāniyāpi. (1233, 1563)	        upādāna vippayuttāḥ kho pana dhammāḥ upādāniyā api 	Not Clinging and Objects of Clinging🔽Ideas that are not clingings are objects of clinging.
-['PA_ds_1.2:148.1', 'PA_ds_1.2:148.2', 'PA_ds_1.2:149.0.1']	Anupādāniyāpi. (1234, 1564)🔽Upādānagocchakaṁ.🔽Kilesagocchaka	anupādāniyā api  upādānagocchaka  kilesagocchaka 	Ideas that are not clingings are not objects of clinging.🔽The Category of the Corruptions
-['PA_ds_1.2:149.0.2', 'PA_ds_1.2:149.1']	1. Kilesaduka🔽Kilesā dhammā. (1235, 1565)	kilesaduka  kilesāḥ dhammā 	The Category of the Corruptions🔽The Category of the Corruptions🔽Corruptions are ideas.
-['PA_ds_1.2:150.1']	No kilesā dhammā. (1246, 1566)	no kilesā dhammā 	Non-corruptions are ideas.
-['PA_ds_1.2:151.0', 'PA_ds_1.2:151.1']	2. Saṅkilesikaduka🔽Saṅkilesikā dhammā. (1247, 1567)	saṅkilesika duka  saṅkilesikāḥ dhammāḥ 	The Category of the Corrupted🔽The Corrupted are ideas.
-['PA_ds_1.2:152.1']	Asaṅkilesikā dhammā. (1248, 1568)	asaṅkilesikāḥ dhammāḥ 	The Uncorrupted are ideas.
-['PA_ds_1.2:153.0', 'PA_ds_1.2:153.1']	3. Saṅkiliṭṭhaduka🔽Saṅkiliṭṭhā dhammā. (1249, 1569)	saṅkiliṭṭhaduka  saṅkiliṭṭhāḥ dhammā 	The Category of the Corrupted🔽The Corrupted are ideas.
-['PA_ds_1.2:154.1']	Asaṅkiliṭṭhā dhammā. (1250, 1570)	asaṅkiliṭṭhāḥ dhammā 	The Uncorrupted are ideas.
-['PA_ds_1.2:155.0', 'PA_ds_1.2:155.1']	4. Kilesasampayuttaduka🔽Kilesasampayuttā dhammā. (1251, 1571)	     kilesa sampayuttāḥ dhammāḥ 	The Category of Associated with Clinging🔽Associated with Clinging are ideas.
-['PA_ds_1.2:156.1']	Kilesavippayuttā dhammā. (1252, 1572)	kilesa vippayuttāḥ dhammāḥ 	Dissociated from Clinging are ideas.
-['PA_ds_1.2:157.0']	5. Kilesasaṅkilesikaduka	kilesa saṅkilesika duka 	The Category of Corruptions and Corrupted
-['PA_ds_1.2:157.1']	Kilesā ceva dhammā saṅkilesikā ca. (1253, 1573)	kilesā ca iva dhammā saṅkilesikā ca 	States that are defilements are also defiling.
-['PA_ds_1.2:158.1']	Saṅkilesikā ceva dhammā no ca kilesā. (1254, 1574)	saṅkilesikā ca iva dhammā no ca kilesā 	States that are defiling but are not defilements.
-['PA_ds_1.2:159.0', 'PA_ds_1.2:159.1']	6. Kilesasaṅkiliṭṭhaduka🔽Kilesā ceva dhammā saṅkiliṭṭhā ca. (1255, 1575)	kilesa saṅkiliṭṭha duka  kilesā ca iva dhammā saṅkiliṭṭhā ca 	The Corrupted-by-Defilements Category🔽States that are defilements are also corrupted by defilements.
-['PA_ds_1.2:160.1']	Saṅkiliṭṭhā ceva dhammā no ca kilesā. (1256, 1576)	saṅkiliṭṭhā ca iva dhammā no ca kilesā 	States that are corrupted by defilements but are not defilements.
-['PA_ds_1.2:161.0']	7. Kilesakilesasampayuttaduka	      	The Defilement-Conjoined Category
-['PA_ds_1.2:161.1']	Kilesā ceva dhammā kilesasampayuttā ca. (1257, 1577)	kilesā ca iva dhammā kilesa sampayuttā ca 	States that are defilements are also conjoined with defilements.
-['PA_ds_1.2:162.1']	Kilesasampayuttā ceva dhammā no ca kilesā. (1258, 1578)	kilesa sampayuttā ca iva dhammā no ca kilesā 	States that are conjoined with defilements but are not defilements.
-['PA_ds_1.2:163.0']	8. Kilesavippayuttasaṅkilesikaduka	kilesa vippayutta saṅkilesika duka 	The Defilement-Disjoined-Defiling Category
-['PA_ds_1.2:163.1']	Kilesavippayuttā kho pana dhammā saṅkilesikāpi. (1259, 1579)	kilesa vippayuttāḥ kho pana dhammāḥ saṅkilesikā api 	States that are disjoined from defilements are also defiling.
-['PA_ds_1.2:164.1']	Asaṅkilesikāpi. (1260, 1580)	asaṅkilesikā api 	They are also undefiling.
-['PA_ds_1.2:164.2']	Kilesagocchakaṁ.	kilesagocchaka 	The defilement group.
-['PA_ds_1.2:165.0.1', 'PA_ds_1.2:165.0.2']	Piṭṭhiduka🔽1. Dassanenapahātabbaduka	piṭṭhiduka  dassanena apahātabba duka 	The Back Category🔽The Category of What Should Be Abandoned by Seeing
-['PA_ds_1.2:165.1']	Dassanena pahātabbā dhammā. (1261, 1581)	dassanena pahātabbāḥ dhammāḥ 	States that should be abandoned by seeing.
-['PA_ds_1.2:166.1']	Na dassanena pahātabbā dhammā. (1265, 1582)	na dassanena pahātabbāḥ dhammāḥ 	States that should not be abandoned by seeing.
-['PA_ds_1.2:167.0']	2. Bhāvanāyapahātabbaduka	bhāvanāya pahātabbaduka 	The Category of What Should Be Abandoned by Development
-['PA_ds_1.2:167.1']	Bhāvanāya pahātabbā dhammā. (1266, 1583)	bhāvanāya pahātabbāḥ dhammāḥ 	States that should be abandoned by development.
-['PA_ds_1.2:168.1']	Na bhāvanāya pahātabbā dhammā. (1267, 1584)	na bhāvanāya pahātabbāḥ dhammā 	States that should not be abandoned by development.
-['PA_ds_1.2:169.0']	3. Dassanenapahātabbahetukaduka	dassanena apahātabba hetuka duka 	The Category of What Should Be Abandoned by Seeing and What Has a Root That Should Be Abandoned by Seeing
-['PA_ds_1.2:169.1']	Dassanena pahātabbahetukā dhammā. (1268, 1585)	dassanena pahātabba hetukāḥ dhammāḥ 	Ideas that are causes to be given up by seeing. (1268, 1585)
-['PA_ds_1.2:170.1']	Na dassanena pahātabbahetukā dhammā. (1272, 1586)	na dassanena pahātabba hetukāḥ dhammāḥ 	Ideas that are not causes to be given up by seeing. ( )
-['PA_ds_1.2:171.0']	4. Bhāvanāyapahātabbahetukaduka	bhāvanāya apahātabba hetuka duka 	The Section on Causes to be Given up by Development
-['PA_ds_1.2:171.1']	Bhāvanāya pahātabbahetukā dhammā. (1273, 1587)	bhāvanāya pahātabba hetukāḥ dhammāḥ 	Ideas that are causes to be given up by development. ( )
-['PA_ds_1.2:172.1']	Na bhāvanāya pahātabbahetukā dhammā. (1274, 1588)	na bhāvanāya pahātabba hetukāḥ dhammāḥ 	Ideas that are not causes to be given up by development. ( )
-['PA_ds_1.2:173.0', 'PA_ds_1.2:173.1']	5. Savitakkaduka🔽Savitakkā dhammā. (1275, 1589)	sa vitakka duka  sa vitakkāḥ dhammāḥ 	The Section on Contemplation🔽Ideas that are with contemplation. ( )
-['PA_ds_1.2:174.1']	Avitakkā dhammā. (1276, 1590)	a vitakkāḥ dhammāḥ 	Ideas that are without contemplation. ( )
-['PA_ds_1.2:175.0', 'PA_ds_1.2:175.1']	6. Savicāraduka🔽Savicārā dhammā. (1277, 1591)	sa vicāra duka  sa vicārāḥ dhammāḥ 	The Section on Investigation🔽Ideas that are with investigation. ( )
-['PA_ds_1.2:176.1']	Avicārā dhammā. (1278, 1592)	avicārāḥ dhammā 	Ideas that are without investigation. ( )
-['PA_ds_1.2:177.0']	7. Sappītikaduka	sappītikaduka 	The Section on Happiness
-['PA_ds_1.2:177.1']	Sappītikā dhammā. (1279, 1593)	sappītikāḥ dhammāḥ 	Ideas that are with happiness. ( )
-['PA_ds_1.2:178.1']	Appītikā dhammā. (1280, 1594)	appītikāḥ dhammāḥ 	Ideas that are without happiness. ( )
-['PA_ds_1.2:179.0']	8. Pītisahagataduka	pīti sahagata duka 	The Section on Associated with Happiness
-['PA_ds_1.2:179.1']	Pītisahagatā dhammā. (1281, 1595)	pīti sahagatāḥ dhammāḥ 	Ideas that are associated with happiness. ( )
-['PA_ds_1.2:180.1']	Na pītisahagatā dhammā. (1282, 1596)	na pīti sahagatāḥ dhammāḥ 	Ideas that are not associated with happiness. ( )
-['PA_ds_1.2:181.0']	9. Sukhasahagataduka	sukha sahagata duka 	The Section on Associated with Pleasure
-['PA_ds_1.2:181.1']	Sukhasahagatā dhammā. (1283, 1597)	sukha sahagatāḥ dhammāḥ 	Ideas that are associated with pleasure. ( )
-['PA_ds_1.2:182.1']	Na sukhasahagatā dhammā. (1284, 1598)	na sukha sahagatāḥ dhammāḥ 	Ideas that are not associated with pleasure. ( )
-['PA_ds_1.2:183.0', 'PA_ds_1.2:183.1']	10. Upekkhāsahagataduka🔽Upekkhāsahagatā dhammā. (1285, 1599)	upekkhā sahagata duka  upekkhā sahagatāḥ dhammāḥ 	The Section on Associated with Equanimity🔽Ideas that are associated with equanimity. ( )
-['PA_ds_1.2:184.1']	Na upekkhāsahagatā dhammā. (1286, 1600)	na upekkhā sahagatāḥ dhammā 	Ideas that are not associated with equanimity. ( )
-['PA_ds_1.2:185.0', 'PA_ds_1.2:185.1']	11. Kāmāvacaraduka🔽Kāmāvacarā dhammā. (1287, 1601)	kāmāvacaraduka  kāmāvacarāḥ dhammāḥ 	The Section on the Sense-Desire Realm🔽Ideas that are in the sense-desire realm. ( )
-['PA_ds_1.2:186.1']	Na kāmāvacarā dhammā. (1288, 1602)	na kāmāvacarā dhammā 	Ideas that are not in the sense-desire realm. ( )
-['PA_ds_1.2:187.0']	12. Rūpāvacaraduka	rūpa avacaraduka 	12. The Section on the Form Sphere
-['PA_ds_1.2:187.1']	Rūpāvacarā dhammā. (1289, 1603)	rūpāvacarāḥ dhammāḥ 	Form-sphere thoughts.
-['PA_ds_1.2:188.1']	Na rūpāvacarā dhammā. (1290, 1604)	na rūpāvacarāḥ dhammāḥ 	Not form-sphere thoughts.
-['PA_ds_1.2:189.0']	13. Arūpāvacaraduka	a rūpa avacara duka 	. The Section on the Formless Sphere
-['PA_ds_1.2:189.1']	Arūpāvacarā dhammā. (1291, 1605)	arūpāvacarāḥ dhammāḥ 	Formless-sphere thoughts.
-['PA_ds_1.2:190.1']	Na arūpāvacarā dhammā. (1292, 1606)	na arūpāvacarā dhammā 	Not formless-sphere thoughts.
-['PA_ds_1.2:191.0', 'PA_ds_1.2:191.1']	14. Pariyāpannaduka🔽Pariyāpannā dhammā. (1293, 1607)	pariyāpannaduka  pariyāpannāḥ dhammāḥ 	. The Section on the Included🔽Included thoughts.
-['PA_ds_1.2:192.1']	Apariyāpannā dhammā. (1294, 1608)	a pariyāpannāḥ dhammā 	Not included thoughts.
-['PA_ds_1.2:193.0', 'PA_ds_1.2:193.1']	15. Niyyānikaduka🔽Niyyānikā dhammā. (1295, 1609)	niyyānikaduka  niyyānikāḥ dhammāḥ 	. The Section on the Outlet🔽Thoughts with an outlet.
-['PA_ds_1.2:194.1']	Aniyyānikā dhammā. (1296, 1610)	aniyyānikāḥ dhammā 	Thoughts without an outlet.
-['PA_ds_1.2:195.0', 'PA_ds_1.2:195.1']	16. Niyataduka🔽Niyatā dhammā. (1297, 1611)	niyata duka  niyatāḥ dhammāḥ 	. The Section on the Fixed🔽Fixed thoughts.
-['PA_ds_1.2:196.1']	Aniyatā dhammā. (1298, 1612)	aniyatāḥ dhammāḥ 	Unfixed thoughts.
-['PA_ds_1.2:197.0']	17. Sauttaraduka	sauttaraduka 	. The Section on the Supreme
-['PA_ds_1.2:197.1']	Sauttarā dhammā. (1299, 1613)	sauttarāḥ dhammāḥ 	Supreme thoughts.
-['PA_ds_1.2:198.1']	Anuttarā dhammā. (1300, 1614)	anuttarāḥ dhammāḥ 	Unsurpassed thoughts.
-['PA_ds_1.2:199.0', 'PA_ds_1.2:199.1']	18. Saraṇaduka🔽Saraṇā dhammā. (1301, 1615)	saraṇaduka  saraṇāḥ dhammā 	. The Section on the Refuge🔽Thoughts that are a refuge.
-['PA_ds_1.2:200.1']	Araṇā dhammā. (1302, 1616)	araṇāḥ dhammā 	Thoughts that are no refuge.
-['PA_ds_1.2:200.2']	Piṭṭhidukaṁ.	piṭṭhiduka 	The Rear Section.
-['PA_ds_1.2:200.3']	Abhidhammadukamātikā.	      	The Abhidhamma Pairs.
+segmentnr	original	analyzed	folio	translated
+['PA_ds_1.2:0.1']	Dhammasaṅgaṇī	dhammasaṅgaṇī 	0	The Numerical Discourses
+['PA_ds_1.2:0.2', 'PA_ds_1.2:1.0.1']	Dukamātikā🔽Hetugocchaka	       hetu ga ucchaka 	0	The Book of Twos🔽The Chapter on Causes
+['PA_ds_1.2:1.0.2', 'PA_ds_1.2:1.1']	1. Hetuduka🔽Hetū dhammā. (1059, 1077, 1441)	hetu duka  hetū dhammā 	1	The Section on Causes🔽Causes and things that are causes.
+['PA_ds_1.2:2.1']	Na hetū dhammā. (1078, 1442)	na hetū dhammā 	2	Not causes and things that are not causes.
+['PA_ds_1.2:3.0', 'PA_ds_1.2:3.1']	2. Sahetukaduka🔽Sahetukā dhammā. (1079, 1443)	sa hetuka duka  sa hetukāḥ dhammāḥ 	3	The Section on Associated with Causes
+['PA_ds_1.2:4.1', 'PA_ds_1.2:5.0', 'PA_ds_1.2:5.1']	Ahetukā dhammā. (1080, 1444)🔽3. Hetusampayuttaduka🔽Hetusampayuttā dhammā. (1081, 1445)	ahetukāḥ dhammāḥ  hetu sampayutta duka  hetu sampayuttāḥ dhammāḥ 	4	Associated with causes and things that are associated with causes.
+['PA_ds_1.2:6.1']	Hetuvippayuttā dhammā. (1082, 1446)	hetu vippayuttāḥ dhammāḥ 	6	Not associated with causes and things that are not associated with causes.
+['PA_ds_1.2:7.0', 'PA_ds_1.2:7.1']	4. Hetusahetukaduka🔽Hetū ceva dhammā sahetukā ca. (1083, 1447)	hetu sa hetuka duka  hetū ca iva dhammā sa hetukā ca 	7	The Section on Causes and Being a Cause🔽Causes and things that are causes.
+['PA_ds_1.2:8.1']	Sahetukā ceva dhammā na ca hetū. (1084, 1448)	sa hetukā ca iva dhammā na ca hetū 	8	Things that are causes and not causes.
+['PA_ds_1.2:9.0', 'PA_ds_1.2:9.1']	5. Hetuhetusampayuttaduka🔽Hetū ceva dhammā hetusampayuttā ca. (1085, 1449)	hetu hetu sampayutta duka  hetū ca iva dhammā hetu sampayuttā ca 	9	The Section on Causes and Being Associated with Causes🔽Causes and things that are associated with causes.
+['PA_ds_1.2:10.1', 'PA_ds_1.2:11.0', 'PA_ds_1.2:11.1', 'PA_ds_1.2:12.1']	Hetusampayuttā ceva dhammā na ca hetū. (1086, 1450)🔽6. Nahetusahetukaduka🔽Na hetū kho pana dhammā sahetukāpi. (1087, 1451)🔽Ahetukāpi. (1088, 1452)	hetu sampayuttā ca iva dhammā na ca hetū  na hetu sa hetuka duka  na hetū kho pana dhammā sa hetukā api  ahetukā api 	10	Things that are associated with causes and not causes.🔽The Section on Not Being a Cause and Being Associated with Causes🔽Not causes and things that are associated with causes.
+['PA_ds_1.2:12.2']	Hetugocchakaṁ.	hetu ga ucchaka 	12	Not causes and things that are not associated with causes.🔽The Chapter on Causes is finished.
+['PA_ds_1.2:13.0.1']	Cūḷantaraduka	cūḍantaraduka 	13	The Shorter Chapter on Pairs
+['PA_ds_1.2:13.0.2', 'PA_ds_1.2:13.1']	1. Sappaccayaduka🔽Sappaccayā dhammā. (1089, 1453)	sap paccaya duka  sappaccayāḥ dhammāḥ 	13	The Section on Conditions🔽With conditions and things that have conditions.
+['PA_ds_1.2:14.1']	Appaccayā dhammā. (1090, 1454)	appaccayāḥ dhammā 	14	Without conditions and things that do not have conditions.
+['PA_ds_1.2:15.0']	2. Saṅkhataduka	saṅkha taduka 	15	The Section on Conditioned
+['PA_ds_1.2:15.1']	Saṅkhatā dhammā. (1091, 1455)	saṅkhatāḥ dhammāḥ 	15	Conditioned and things that are conditioned.
+['PA_ds_1.2:16.1']	Asaṅkhatā dhammā. (1092, 1456)	asaṅkhatāḥ dhammāḥ 	16	Unconditioned and things that are unconditioned.
+['PA_ds_1.2:17.0']	3. Sanidassanaduka	sani das sana duka 	17	The Section on Visible
+['PA_ds_1.2:17.1']	Sanidassanā dhammā. (1093, 1457)	sa nidassanāḥ dhammāḥ 	17	Things that are visible.
+['PA_ds_1.2:18.1']	Anidassanā dhammā. (1094, 1458)	a nidassanāḥ dhammāḥ 	18	Things that are not visible.
+['PA_ds_1.2:19.0']	4. Sappaṭighaduka	sappaṭigha duka 	19	The dyad on impingement
+['PA_ds_1.2:19.1']	Sappaṭighā dhammā. (1095, 1459)	sappaṭighāḥ dhammāḥ 	19	Things that impinge.
+['PA_ds_1.2:20.1']	Appaṭighā dhammā. (1096, 1460)	appaṭighāḥ dhammāḥ 	20	Things that do not impinge.
+['PA_ds_1.2:21.0']	5. Rūpīduka	rūpīduka 	21	The dyad on the form-possessing
+['PA_ds_1.2:21.1']	Rūpino dhammā. (1097, 1461)	rūpinaḥ dhammā 	21	Things that are form-possessing.
+['PA_ds_1.2:22.1', 'PA_ds_1.2:23.0', 'PA_ds_1.2:23.1']	Arūpino dhammā. (1098, 1462)🔽6. Lokiyaduka🔽Lokiyā dhammā. (1099, 1463)	arūpinaḥ dhammā  lokiyaduka  lokiyāḥ dhammāḥ 	22	Things that are formless.🔽The dyad on the mundane🔽Mundane things.
+['PA_ds_1.2:24.1']	Lokuttarā dhammā. (1100, 1464)	lokuttarāḥ dhammāḥ 	24	Supramundane things.
+['PA_ds_1.2:25.0', 'PA_ds_1.2:25.1']	7. Kenaciviññeyyaduka🔽Kenaci viññeyyā dhammā. (1101, 1464)	kenacid viññeyya duka  kenaci viññeyyāḥ dhammāḥ 	25	The dyad on cognizable by some🔽Things cognizable by some.
+['PA_ds_1.2:26.1', 'PA_ds_1.2:26.2', 'PA_ds_1.2:27.0.1']	Kenaci na viññeyyā dhammā. (1101, 1464)🔽Cūḷantaradukaṁ.🔽Āsavagocchaka	kenacid na viññeyyāḥ dhammāḥ  cūḍantaraduka  āsavagocchaka 	26	Things not cognizable by some.🔽The dyad on the lesser internal🔽The section on the effluents
+['PA_ds_1.2:27.0.2']	1. Āsavaduka	āsavaduka 	27	The dyad on the effluents
+['PA_ds_1.2:27.1']	Āsavā dhammā. (1102, 1465)	āsavā dhammā 	27	Things that are effluents.
+['PA_ds_1.2:28.1']	No āsavā dhammā. (1107, 1466)	no āsavā dhammā 	28	Things that are not effluents.
+['PA_ds_1.2:29.0']	2. Sāsavaduka	sāsavaduka 	29	The dyad on the possessed of effluents
+['PA_ds_1.2:29.1']	Sāsavā dhammā. (1108, 1467)	sa āsavā dhammā 	29	Things that are possessed of effluents.
+['PA_ds_1.2:30.1', 'PA_ds_1.2:31.0', 'PA_ds_1.2:31.1']	Anāsavā dhammā. (1109, 1468)🔽3. Āsavasampayuttaduka🔽Āsavasampayuttā dhammā. (1110, 1469)	anāsavāḥ dhammā       āsava sampayuttāḥ dhammāḥ 	30	Things that are not possessed of effluents.🔽The dyad on the effluents and the possessed of effluents
+['PA_ds_1.2:32.1', 'PA_ds_1.2:33.0', 'PA_ds_1.2:33.1']	Āsavavippayuttā dhammā. (1111, 1470)🔽4. Āsavasāsavaduka🔽Āsavā ceva dhammā sāsavā ca. (1112, 1471)	āsava vippayuttāḥ dhammāḥ  āsavasāsavaduka  āsavā ca iva dhammā sa āsavā ca 	32	Things that are effluents and possessed of effluents.
+['PA_ds_1.2:34.1', 'PA_ds_1.2:35.0']	Sāsavā ceva dhammā no ca āsavā. (1113, 1472)🔽5. Āsavaāsavasampayuttaduka	sa āsavā ca iva dhammā no ca āsavā        	34	Things that are possessed of effluents but are not effluents.🔽The dyad on the effluents and the possessed of effluents
+['PA_ds_1.2:35.1']	Āsavā ceva dhammā āsavasampayuttā ca. (1114, 1473)	āsavā ca iva dhammā āsava sampayuttā ca 	35	Things that are effluents and associated with effluents.🔽Things that are associated with effluents but are not effluents.
+['PA_ds_1.2:36.1']	Āsavasampayuttā ceva dhammā no ca āsavā. (1115, 1474)	āsava sampayuttā ca iva dhammā no ca āsavā 	36	Ideas associated with the cankers and ideas dissociated from the cankers.
+['PA_ds_1.2:37.0']	6. Āsavavippayuttasāsavaduka	      	37	The Undetermined Section on Ideas Dissociated from the Cankers
+['PA_ds_1.2:37.1']	Āsavavippayuttā kho pana dhammā sāsavāpi. (1116, 1475)	āsava vippayuttāḥ kho pana dhammā sa āsavā api 	37	Ideas dissociated from the cankers are nevertheless subject to cankers.
+['PA_ds_1.2:38.1', 'PA_ds_1.2:38.2']	Anāsavāpi. (1117, 1476)🔽Āsavagocchakaṁ.	anāsavā api  āsavagocchaka 	38	They are also not subject to cankers.
+['PA_ds_1.2:39.0.1']	Saññojanagocchaka	saññojana gocchaka 	39	The Canker-Class🔽The Fetters
+['PA_ds_1.2:39.0.2', 'PA_ds_1.2:39.1']	1. Saññojanaduka🔽Saññojanā dhammā. (1118, 1477)	saññojana duka  saññojanāḥ dhammā 	39	The Undetermined Section on Fetters🔽Ideas that are fetters.
+['PA_ds_1.2:40.1']	No saññojanā dhammā. (1129, 1478)	no saññojanāḥ dhammā 	40	Ideas that are not fetters.
+['PA_ds_1.2:41.0']	2. Saññojaniyaduka	saññojaniya duka 	41	The Undetermined Section on Fetterable
+['PA_ds_1.2:41.1']	Saññojaniyā dhammā. (1130, 1479)	saññojaniyāḥ dhammāḥ 	41	Ideas that are fetterable.
+['PA_ds_1.2:42.1']	Asaññojaniyā dhammā. (1131, 1480)	asaññojaniyāḥ dhammāḥ 	42	Ideas that are not fetterable.
+['PA_ds_1.2:43.0', 'PA_ds_1.2:43.1']	3. Saññojanasampayuttaduka🔽Saññojanasampayuttā dhammā. (1132, 1481)	saññojana sampayutta duka  saññojana sampayuttāḥ dhammāḥ 	43	The Undetermined Section on Associated with a Fetter🔽Ideas associated with a fetter.
+['PA_ds_1.2:44.1']	Saññojanavippayuttā dhammā. (1133, 1482)	saññojana vippayuttāḥ dhammāḥ 	44	Ideas dissociated from a fetter.
+['PA_ds_1.2:45.0']	4. Saññojanasaññojaniyaduka	saññojana saññojaniya duka 	45	The Undetermined Section on Fetters and Fetterable
+['PA_ds_1.2:45.1']	Saññojanā ceva dhammā saññojaniyā ca. (1134, 1483)	saññojanā ca iva dhammā saññojaniyā ca 	45	Ideas that are fetters and also fetterable.
+['PA_ds_1.2:46.1']	Saññojaniyā ceva dhammā no ca saññojanā. (1135, 1484)	saññojaniyāḥ ca iva dhammāḥ no ca saññojanā 	46	Ideas that are fetterable but are not fetters.
+['PA_ds_1.2:47.0']	5. Saññojanasaññojanasampayuttaduka	saññojana saññojana sampayutta duka 	47	The Undetermined Section on Associated with a Fetter and Fetterable
+['PA_ds_1.2:47.1']	Saññojanā ceva dhammā saññojanasampayuttā ca. (1136, 1485)	saññojanā ca iva dhammā saññojana sampayuttā ca 	47	Ideas that are fetters and also associated with a fetter.
+['PA_ds_1.2:48.1']	Saññojanasampayuttā ceva dhammā no ca saññojanā. (1137, 1486)	saññojana sampayuttā ca iva dhammā no ca saññojanā 	48	Ideas that are associated with a fetter but are not fetters.
+['PA_ds_1.2:49.0']	6. Saññojanavippayuttasaññojaniyaduka	       	49	The Undetermined Section on Dissociated from a Fetter and Fetterable
+['PA_ds_1.2:49.1']	Saññojanavippayuttā kho pana dhammā saññojaniyāpi. (1138, 1487)	saññojana vippayuttāḥ kho pana dhammāḥ saññojaniyā api 	49	But states that are dissociated from fetters are objects of fetters.
+['PA_ds_1.2:50.1']	Asaññojaniyāpi. (1139, 1488)	a saññojaniyā api 	50	They are not objects of fetters.
+['PA_ds_1.2:50.2']	Saññojanagocchakaṁ.	saññojana gocchaka 	50	The section on fetters.
+['PA_ds_1.2:51.0.1', 'PA_ds_1.2:51.0.2']	Ganthagocchaka🔽1. Ganthaduka	gantha gocchaka  ganthaduka 	51	The section on ties🔽The dyad on the floods🔽The dyad on the bonds🔽The dyad on the hindrances🔽The dyad on the kinds of existence🔽The dyad on the clingings🔽The dyad on the taints🔽The dyad on the roots🔽The dyad on the kinds of action🔽The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming
+['PA_ds_1.2:51.1', 'PA_ds_1.2:52.1']	Ganthā dhammā. (1140, 1489)🔽No ganthā dhammā. (1145, 1490)	ganthā dhammā  no ganthā dhammā 	51	The dyad on the kinds of strand🔽The dyad on the kinds of rebirth-linking
+['PA_ds_1.2:53.0', 'PA_ds_1.2:53.1']	2. Ganthaniyaduka🔽Ganthaniyā dhammā. (1146, 1491)	gantha niyaduka  ganthaniyāḥ dhammā 	53	The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action🔽The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
+['PA_ds_1.2:54.1']	Aganthaniyā dhammā. (1147, 1492)	a ganthaniyāḥ dhammāḥ 	54	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action
+['PA_ds_1.2:55.0', 'PA_ds_1.2:55.1']	3. Ganthasampayuttaduka🔽Ganthasampayuttā dhammā. (1148, 1493)	gantha sampayutta duka  gantha sampayuttāḥ dhammāḥ 	55	The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
+['PA_ds_1.2:56.1', 'PA_ds_1.2:57.0']	Ganthavippayuttā dhammā. (1149, 1494)🔽4. Ganthaganthaniyaduka	gantha vippayuttāḥ dhammāḥ  gantha gantha niyaduka 	56	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action
+['PA_ds_1.2:57.1', 'PA_ds_1.2:58.1']	Ganthā ceva dhammā ganthaniyā ca. (1150, 1495)🔽Ganthaniyā ceva dhammā no ca ganthā. (1151, 1496)	ganthā ca iva dhammā ganthaniyā ca  ganthaniyā ca iva dhammā no ca ganthā 	57	The dyad on the kinds of destiny
+['PA_ds_1.2:59.0']	5. Ganthaganthasampayuttaduka	gantha gantha sampayutta duka 	59	The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
+['PA_ds_1.2:59.1', 'PA_ds_1.2:60.1']	Ganthā ceva dhammā ganthasampayuttā ca. (1152, 1497)🔽Ganthasampayuttā ceva dhammā no ca ganthā. (1153, 1498)	ganthā ca iva dhammā gantha sampayuttā ca  gantha sampayuttā ca iva dhammā no ca ganthā 	59	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation🔽The dyad on the kinds of destiny🔽The dyad on the kinds of action
+['PA_ds_1.2:61.0', 'PA_ds_1.2:61.1']	6. Ganthavippayuttaganthaniyaduka🔽Ganthavippayuttā kho pana dhammā ganthaniyāpi. (1154, 1499)	     gantha vippayuttāḥ kho pana dhammāḥ gantha niyā api 	61	The dyad on the kinds of destiny🔽The dyad on the kinds of generation🔽The dyad on the kinds of becoming🔽The dyad on the kinds of strand
+['PA_ds_1.2:62.1', 'PA_ds_1.2:62.2', 'PA_ds_1.2:63.0.1']	Aganthaniyāpi. (1155, 1500)🔽Ganthagocchakaṁ.🔽Oghagocchaka	a ganthaniyā api  gantha gocchaka  ogha gocchaka 	62	The dyad on the kinds of rebirth-linking🔽The dyad on the kinds of birth🔽The dyad on the kinds of generation
+['PA_ds_1.2:63.0.2']	1. Oghaduka	ogha duka 	63	The dyad on the kinds of destiny🔽The dyad on the kinds
+['PA_ds_1.2:63.1', 'PA_ds_1.2:64.1', 'PA_ds_1.2:65.0', 'PA_ds_1.2:65.1']	Oghā dhammā. (1156, 1501)🔽No oghā dhammā.🔽2. Oghaniyaduka🔽Oghaniyā dhammā.	oghāḥ dhammā  no oghā dhammā  ogha niyaduka  ogha niyāḥ dhammā 	63	Things that are floods.
+['PA_ds_1.2:66.1']	Anoghaniyā dhammā.	anogha niyāḥ dhammā 	66	Things that are not floods.
+['PA_ds_1.2:67.0', 'PA_ds_1.2:67.1']	3. Oghasampayuttaduka🔽Oghasampayuttā dhammā.	ogha sampayutta duka  ogha sampayuttāḥ dhammāḥ 	67	The connected factors of the floods🔽Things that are connected with the floods.
+['PA_ds_1.2:68.1']	Oghavippayuttā dhammā.	ogha vippayuttāḥ dhammāḥ 	68	Things that are not connected with the floods.
+['PA_ds_1.2:69.0', 'PA_ds_1.2:69.1']	4. Oghaoghaniyaduka🔽Oghā ceva dhammā oghaniyā ca.	ogha ogha niyaduka  oghā ca iva dhammā ogha niyā ca 	69	The unconnected factors of the floods🔽Things that are floods and are also connected with the floods.
+['PA_ds_1.2:70.1']	Oghaniyā ceva dhammā no ca oghā.	ogha niyā ca iva dhammā no ca oghā 	70	Things that are connected with the floods but are not floods.
+['PA_ds_1.2:71.0']	5. Oghaoghasampayuttaduka	ogha ogha sampayutta duka 	71	The connected factors of the floods
+['PA_ds_1.2:71.1']	Oghā ceva dhammā oghasampayuttā ca.	oghā ca iva dhammā ogha sampayuttā ca 	71	Things that are floods and are also connected with the floods.
+['PA_ds_1.2:72.1']	Oghasampayuttā ceva dhammā no ca oghā.	ogha sampayuttā ca iva dhammā no ca oghā 	72	Things that are connected with the floods but are not floods.
+['PA_ds_1.2:73.0']	6. Oghavippayuttaoghaniyaduka	ogha vippayutta ogha niyaduka 	73	The unconnected factors of the floods and the connected factors of the floods
+['PA_ds_1.2:73.1']	Oghavippayuttā kho pana dhammā oghaniyāpi.	ogha vippayuttāḥ kho pana dhammāḥ ogha niyā api 	73	Things that are unconnected with the floods are either connected with the floods
+['PA_ds_1.2:74.1', 'PA_ds_1.2:74.2']	Anoghaniyāpi.🔽Oghagocchakaṁ.	an ogha niyā api  ogha gocchaka 	74	or unconnected with the floods.🔽The section on the floods is finished.
+['PA_ds_1.2:75.0.1', 'PA_ds_1.2:75.0.2', 'PA_ds_1.2:75.1', 'PA_ds_1.2:76.1']	Yogagocchaka🔽1. Yogaduka🔽Yogā dhammā. (1157, 1502)🔽No yogā dhammā.	yoga gocchaka  yogaduka  yogāḥ dhammāḥ  no yogā dhammā 	75	The section on the yokes
+['PA_ds_1.2:77.0']	2. Yoganiyaduka	yoganiyaduka 	77	The dyad on the yokes
+['PA_ds_1.2:77.1']	Yoganiyā dhammā.	yoganiyāḥ dhammā 	77	Things that are yokes.
+['PA_ds_1.2:78.1']	Ayoganiyā dhammā.	a yoganiyāḥ dhammā 	78	Things that are not yokes.
+['PA_ds_1.2:79.0', 'PA_ds_1.2:79.1']	3. Yogasampayuttaduka🔽Yogasampayuttā dhammā.	     yoga sampayuttāḥ dhammāḥ 	79	The connected factors of the yokes🔽Things that are connected with the yokes.
+['PA_ds_1.2:80.1', 'PA_ds_1.2:81.0', 'PA_ds_1.2:81.1']	Yogavippayuttā dhammā.🔽4. Yogayoganiyaduka🔽Yogā ceva dhammā yoganiyā ca.	yoga vippayuttāḥ dhammāḥ  yogayoganiyaduka  yogā ca iva dhammā yoganiyā ca 	80	Things that are not connected with the yokes.🔽The unconnected factors of the yokes and the connected factors of the yokes🔽Things that are yokes and are also connected with the yokes.
+['PA_ds_1.2:82.1']	Yoganiyā ceva dhammā no ca yogā.	yoga niyā ca iva dhammā no ca yogā 	82	Things that are connected with the yokes but are not yokes.
+['PA_ds_1.2:83.0']	5. Yogayogasampayuttaduka	    	83	5. The Pairs with Bondage and with what is Associated with Bondage, etc.
+['PA_ds_1.2:83.1']	Yogā ceva dhammā yogasampayuttā ca.	yogā ca iva dhammā yoga sampayuttā ca 	83	There are ideas that are a bond and are associated with a bond.
+['PA_ds_1.2:84.1']	Yogasampayuttā ceva dhammā no ca yogā.	yoga sampayuttā ca iva dhammā no ca yogā 	84	There are ideas that are associated with a bond but are not a bond.
+['PA_ds_1.2:85.0', 'PA_ds_1.2:85.1', 'PA_ds_1.2:86.1']	6. Yogavippayuttayoganiyaduka🔽Yogavippayuttā kho pana dhammā yoganiyāpi.🔽Ayoganiyāpi.	     yoga vippayuttāḥ kho pana dhammāḥ yoga niyāpi  a yoga niyā api 	85	. The Pairs with what is not Associated with Bondage and with what is not Subject to Bondage, etc.🔽Ideas that are not associated with a bond are also subject to bondage.
+['PA_ds_1.2:86.2']	Yogagocchakaṁ.	yoga gocchaka 	86	They are also not subject to bondage.🔽The Bondage Category is ended.
+['PA_ds_1.2:87.0.1', 'PA_ds_1.2:87.0.2', 'PA_ds_1.2:87.1']	Nīvaraṇagocchaka🔽1. Nīvaraṇaduka🔽Nīvaraṇā dhammā. (1158, 1503)	nīvaraṇa gocchaka  nīvaraṇa duka  nīvaraṇāḥ dhammā 	87	The Hindrance Category🔽. The Pairs with Hindrances, etc.🔽Ideas with hindrances.
+['PA_ds_1.2:88.1']	No nīvaraṇā dhammā. (1169, 1504)	no nīvaraṇāḥ dhammā 	88	Ideas without hindrances.
+['PA_ds_1.2:89.0']	2. Nīvaraṇiyaduka	nīvara ṇiyaduka 	89	. The Pairs with what is Subject to Hindrances, etc.
+['PA_ds_1.2:89.1']	Nīvaraṇiyā dhammā. (1170, 1505)	nīvaraṇiyāḥ dhammā 	89	Ideas subject to hindrances.
+['PA_ds_1.2:90.1', 'PA_ds_1.2:91.0']	Anīvaraṇiyā dhammā. (1171, 1506)🔽3. Nīvaraṇasampayuttaduka	anīvaraṇiyāḥ dhammā      	90	Ideas not subject to hindrances.🔽. The Pairs with what is Associated with Hindrances, etc.
+['PA_ds_1.2:91.1']	Nīvaraṇasampayuttā dhammā. (1172, 1507)	nīvaraṇa sampayuttāḥ dhammā 	91	Ideas associated with hindrances.
+['PA_ds_1.2:92.1', 'PA_ds_1.2:93.0']	Nīvaraṇavippayuttā dhammā. (1173, 1508)🔽4. Nīvaraṇanīvaraṇiyaduka	nīvaraṇa vippayuttāḥ dhammā  nīvaraṇa nīvaraṇiyaduka 	92	Ideas dissociated from hindrances.🔽. The Pairs with Hindrances and with what is Subject to Hindrances, etc.
+['PA_ds_1.2:93.1']	Nīvaraṇā ceva dhammā nīvaraṇiyā ca. (1174, 1509)	nīvaraṇā ca iva dhammā nīvaraṇiyā ca 	93	Ideas that are hindrances and are also subject to hindrances.
+['PA_ds_1.2:94.1', 'PA_ds_1.2:95.0']	Nīvaraṇiyā ceva dhammā no ca nīvaraṇā. (1175, 1510)🔽5. Nīvaraṇanīvaraṇasampayuttaduka	nīvaraṇiyāḥ ca iva dhammāḥ no ca nīvaraṇā         	94	Ideas that are subject to hindrances but are not hindrances.🔽. The Pairs with Hindrances and with what is Associated with Hindrances, etc.
+['PA_ds_1.2:95.1']	Nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca. (1176, 1511)	nīvaraṇā ca iva dhammā nīvaraṇa sampayuttā ca 	95	Ideas that are hindrances and are also associated with hindrances.
+['PA_ds_1.2:96.1']	Nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā. (1177, 1512)	nīvaraṇa sampayuttā ca iva dhammā no ca nīvaraṇā 	96	Ideas that are associated with hindrances but are not hindrances.
+['PA_ds_1.2:97.0']	6. Nīvaraṇavippayuttanīvaraṇiyaduka	      	97	6. The Pair: Not Associated with Hindrances, Related to Hindrances
+['PA_ds_1.2:97.1']	Nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi. (1178, 1513)	nīvaraṇa vippayuttāḥ kho pana dhammāḥ nīvaraṇiyā api 	97	The things not associated with hindrances are related to the hindrances.
+['PA_ds_1.2:98.1', 'PA_ds_1.2:98.2', 'PA_ds_1.2:99.0.1']	Anīvaraṇiyāpi. (1179, 1514)🔽Nīvaraṇagocchakaṁ.🔽Parāmāsagocchaka	an īvaraṇiyā api  nīvaraṇa gocchaka  parā māsa gocchaka 	98	They are unrelated to the hindrances.🔽The Hindrances’ Group🔽The Group on Grasping
+['PA_ds_1.2:99.0.2']	1. Parāmāsaduka	parāmāsaduka 	99	The Pair: Grasping
+['PA_ds_1.2:99.1']	Parāmāsā dhammā. (1180, 1515)	parāmāsāḥ dhammā 	99	The things that are grasping.
+['PA_ds_1.2:100.1']	No parāmāsā dhammā. (1182, 1516)	no parāmāsāḥ dhammā 	100	The things that are not grasping.
+['PA_ds_1.2:101.0']	2. Parāmaṭṭhaduka	parāmaṭṭhaduka 	101	The Pair: The Grasped
+['PA_ds_1.2:101.1']	Parāmaṭṭhā dhammā. (1183, 1517)	parāmaṭṭhāḥ dhammā 	101	The things that are the grasped.
+['PA_ds_1.2:102.1']	Aparāmaṭṭhā dhammā. (1184, 1518)	aparāmaṭṭhāḥ dhammā 	102	The things that are not the grasped.
+['PA_ds_1.2:103.0', 'PA_ds_1.2:103.1']	3. Parāmāsasampayuttaduka🔽Parāmāsasampayuttā dhammā. (1185, 1519)	para amāsa sampayutta duka  parāmāsa sampayuttāḥ dhammāḥ 	103	The Pair: Associated with Grasping🔽The things associated with grasping.
+['PA_ds_1.2:104.1']	Parāmāsavippayuttā dhammā. (1186, 1520)	parāmāsa vippayuttāḥ dhammāḥ 	104	The things dissociated from grasping.
+['PA_ds_1.2:105.0']	4. Parāmāsaparāmaṭṭhaduka	parāmāsa parāmaṭṭha duka 	105	The Pair: Grasping and the Grasped
+['PA_ds_1.2:105.1']	Parāmāsā ceva dhammā parāmaṭṭhā ca. (1187, 1521)	parāmāsā ca iva dhammā parāmaṭṭhā ca 	105	The things that are grasping and the grasped.
+['PA_ds_1.2:106.1']	Parāmaṭṭhā ceva dhammā no ca parāmāsā. (1188, 1522)	parāmaṭṭhāḥ ca iva dhammāḥ no ca parāmāsāḥ 	106	The things that are the grasped but are not grasping.
+['PA_ds_1.2:107.0']	5. Parāmāsavippayuttaparāmaṭṭhaduka	       	107	The Pair: Dissociated from Grasping and the Grasped
+['PA_ds_1.2:107.1']	Parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi. (1189, 1523)	parāmāsa vippayuttāḥ kho pana dhammā 	107	The things dissociated from grasping are the grasped.
+['PA_ds_1.2:108.1', 'PA_ds_1.2:108.2']	Aparāmaṭṭhāpi. (1190, 1524)🔽Parāmāsagocchakaṁ.	aparāmaṭṭhā api  parā māsa gocchaka 	108	They are the ungrasped.🔽The Hindrances’ Group
+['PA_ds_1.2:109.0.1', 'PA_ds_1.2:109.0.2']	Mahantaraduka🔽1. Sārammaṇaduka	mahantaraduka  sa ārammaṇa duka 	109	The Pair: With a Great Interval🔽The Pair: With an Object
+['PA_ds_1.2:109.1']	Sārammaṇā dhammā. (1191, 1525)	sa ārammaṇāḥ dhammāḥ 	109	The things that have an object.
+['PA_ds_1.2:110.1']	Anārammaṇā dhammā. (1192, 1526)	anārammaṇāḥ dhammāḥ 	110	The things that have no object.
+['PA_ds_1.2:111.0']	2. Cittaduka	cittaduka 	111	The Pair: Consciousness
+['PA_ds_1.2:111.1']	Cittā dhammā. (1193, 1527)	cittā dhammā 	111	Mental phenomena.
+['PA_ds_1.2:112.1']	No cittā dhammā. (1194, 1528)	no cittāḥ dhammāḥ 	112	Non-mental phenomena.
+['PA_ds_1.2:113.0']	3. Cetasikaduka	cetasika duka 	113	The dyad on mental factors
+['PA_ds_1.2:113.1']	Cetasikā dhammā. (1195, 1529)	cetasikāḥ dhammāḥ 	113	Mental factors.
+['PA_ds_1.2:114.1']	Acetasikā dhammā. (1196, 1530)	acetasikāḥ dhammāḥ 	114	Non-mental factors.
+['PA_ds_1.2:115.0', 'PA_ds_1.2:115.1']	4. Cittasampayuttaduka🔽Cittasampayuttā dhammā. (1197, 1531)	citta sampayutta duka  citta sampayuttāḥ dhammāḥ 	115	The dyad on conjoined with mind🔽Dhammas conjoined with mind.
+['PA_ds_1.2:116.1', 'PA_ds_1.2:117.0']	Cittavippayuttā dhammā. (1198, 1532)🔽5. Cittasaṁsaṭṭhaduka	citta vippayuttāḥ dhammāḥ  citta sa sa ṭṭha duka 	116	Dhammas disjoined from mind.🔽The dyad on associated with consciousness
+['PA_ds_1.2:117.1']	Cittasaṁsaṭṭhā dhammā. (1199, 1533)	citta sasaṭṭhāḥ dhammā 	117	Dhammas associated with consciousness.
+['PA_ds_1.2:118.1']	Cittavisaṁsaṭṭhā dhammā. (1200, 1534)	citta visasaṭṭhāḥ dhammā 	118	Dhammas disassociated from consciousness.
+['PA_ds_1.2:119.0']	6. Cittasamuṭṭhānaduka	citta samuṭṭhāna duka 	119	The dyad on originated by mind
+['PA_ds_1.2:119.1']	Cittasamuṭṭhānā dhammā. (1201, 1535)	citta samuṭṭhānāḥ dhammāḥ 	119	Dhammas originated by mind.
+['PA_ds_1.2:120.1']	No cittasamuṭṭhānā dhammā. (1202, 1536)	no citta samuṭṭhānāḥ dhammā 	120	Dhammas not originated by mind.
+['PA_ds_1.2:121.0']	7. Cittasahabhūduka	cittasaha bhūduka 	121	The dyad on conascent with mind
+['PA_ds_1.2:121.1']	Cittasahabhuno dhammā. (1203, 1537)	citta sahabhunaḥ dhammā 	121	Dhammas conascent with mind.
+['PA_ds_1.2:122.1']	No cittasahabhuno dhammā. (1204, 1538)	no citta sahabhunaḥ dhammā 	122	Dhammas not conascent with mind.
+['PA_ds_1.2:123.0']	8. Cittānuparivattiduka	citta anuparivatti duka 	123	The dyad on concomitant with mind
+['PA_ds_1.2:123.1']	Cittānuparivattino dhammā. (1205, 1539)	citta anuparivattinaḥ dhammā 	123	Dhammas concomitant with mind.
+['PA_ds_1.2:124.1', 'PA_ds_1.2:125.0', 'PA_ds_1.2:125.1', 'PA_ds_1.2:126.1']	No cittānuparivattino dhammā. (1206, 1540)🔽9. Cittasaṁsaṭṭhasamuṭṭhānaduka🔽Cittasaṁsaṭṭhasamuṭṭhānā dhammā. (1207, 1541)🔽No cittasaṁsaṭṭhasamuṭṭhānā dhammā. (1208, 1542)	no citta anuparivattinaḥ dhammā  citta sa saṭṭha samuṭṭhāna duka  citta sasaṭṭha samuṭṭhānāḥ dhammāḥ  no citta sasaṭṭha samuṭṭhānāḥ dhammā 	124	Dhammas not concomitant with mind.
+['PA_ds_1.2:127.0']	10. Cittasaṁsaṭṭhasamuṭṭhānasahabhūduka	        	127	The dyad on originated by and conascent with consciousness
+['PA_ds_1.2:127.1']	Cittasaṁsaṭṭhasamuṭṭhānasahabhuno dhammā. (1209, 1543)	dhammā 	127	The phenomena that are associated with mind and originate together with mind. (1209, 1543)
+['PA_ds_1.2:128.1']	No cittasaṁsaṭṭhasamuṭṭhānasahabhuno dhammā. (1210, 1544)	no dhammā 	128	The phenomena that are not associated with mind and do not originate together with mind. (,)
+['PA_ds_1.2:129.0']	11. Cittasaṁsaṭṭhasamuṭṭhānānuparivattiduka	citta sa saṭṭha samuṭṭhāna anuparivatti duka 	129	The pair: associated with mind and originating together with mind, and following along with mind
+['PA_ds_1.2:129.1']	Cittasaṁsaṭṭhasamuṭṭhānānuparivattino dhammā. (1211, 1545)	citta sasaṭṭha samuṭṭhāna anuparivattinaḥ dhammā 	129	The phenomena that are associated with mind and originate together with mind, and follow along with mind. (,)
+['PA_ds_1.2:130.1', 'PA_ds_1.2:131.0', 'PA_ds_1.2:131.1']	No cittasaṁsaṭṭhasamuṭṭhānānuparivattino dhammā. (1212, 1546)🔽12. Ajjhattikaduka🔽Ajjhattikā dhammā. (1213, 1547)	no citta sasaṭṭha samuṭṭhāna anuparivattinaḥ dhammā  ajjhattika duka  ajjhattikāḥ dhammāḥ 	130	The phenomena that are not associated with mind and do not originate together with mind, and do not follow along with mind. (,)🔽The pair: internal and external🔽The internal phenomena. (,)🔽The external phenomena. (,)
+['PA_ds_1.2:132.1', 'PA_ds_1.2:133.0', 'PA_ds_1.2:133.1']	Bāhirā dhammā. (1214, 1548)🔽13. Upādāduka🔽Upādā dhammā. (1215, 1549)	bāhirāḥ dhammāḥ  upādāduka  upādāḥ dhammā 	132	The pair: with clinging and without clinging🔽The phenomena with clinging. (,)🔽The phenomena without clinging. (,)🔽The pair: internal and external
+['PA_ds_1.2:134.1', 'PA_ds_1.2:135.0']	No upādā dhammā. (1216, 1550)🔽14. Upādinnaduka	no upādāḥ dhammā  upādinna duka 	134	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:135.1']	Upādinnā dhammā. (1217, 1551)	upādinnāḥ dhammāḥ 	135	The pair: internal and external
+['PA_ds_1.2:136.1', 'PA_ds_1.2:136.2', 'PA_ds_1.2:137.0.1']	Anupādinnā dhammā. (1218, 1552)🔽Mahantaradukaṁ.🔽Upādānagocchaka	anupādinnāḥ dhammāḥ  mahantaraduka  upādānagocchaka 	136	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:137.0.2', 'PA_ds_1.2:137.1']	1. Upādānaduka🔽Upādānā dhammā. (1219, 1553)	upādāna duka  upādānāḥ dhammā 	137	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:138.1', 'PA_ds_1.2:139.0']	No upādānā dhammā. (1224, 1554)🔽2. Upādāniyaduka	no upādānāḥ dhammā  upādāniyaduka 	138	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:139.1']	Upādāniyā dhammā. (1225, 1555)	upādāniyāḥ dhammāḥ 	139	The pair: internal and external
+['PA_ds_1.2:140.1']	Anupādāniyā dhammā. (1226, 1556)	anupādāniyāḥ dhammāḥ 	140	The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:141.0', 'PA_ds_1.2:141.1']	3. Upādānasampayuttaduka🔽Upādānasampayuttā dhammā. (1227, 1557)	     upādāna sampayuttāḥ dhammāḥ 	141	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:142.1']	Upādānavippayuttā dhammā. (1228, 1558)	upādāna vippayuttāḥ dhammāḥ 	142	The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external🔽The pair: internal and external
+['PA_ds_1.2:143.0']	4. Upādānaupādāniyaduka	    	143	The pair: internal and external🔽The pair: internal
+['PA_ds_1.2:143.1']	Upādānā ceva dhammā upādāniyā ca. (1229, 1559)	upādānā ca iva dhammā upādāniyā ca 	143	There are ideas that are clingings and are also objects of clinging.
+['PA_ds_1.2:144.1']	Upādāniyā ceva dhammā no ca upādānā. (1230, 1560)	upādāniyā ca iva dhammā no ca upādānā 	144	There are ideas that are objects of clinging but are not clingings.
+['PA_ds_1.2:145.0']	5. Upādānaupādānasampayuttaduka	        	145	Clinging and Associated with Clinging
+['PA_ds_1.2:145.1']	Upādānā ceva dhammā upādānasampayuttā ca. (1231, 1561)	upādānā ca iva dhammā upādāna sampayuttā ca 	145	There are ideas that are clingings and are also associated with clingings.
+['PA_ds_1.2:146.1']	Upādānasampayuttā ceva dhammā no ca upādānā. (1232, 1562)	upādāna sampayuttā ca iva dhammā no ca upādānā 	146	There are ideas that are associated with clingings but are not clingings.
+['PA_ds_1.2:147.0', 'PA_ds_1.2:147.1']	6. Upādānavippayuttaupādāniyaduka🔽Upādānavippayuttā kho pana dhammā upādāniyāpi. (1233, 1563)	        upādāna vippayuttāḥ kho pana dhammāḥ upādāniyā api 	147	Not Clinging and Objects of Clinging🔽Ideas that are not clingings are objects of clinging.
+['PA_ds_1.2:148.1', 'PA_ds_1.2:148.2', 'PA_ds_1.2:149.0.1']	Anupādāniyāpi. (1234, 1564)🔽Upādānagocchakaṁ.🔽Kilesagocchaka	anupādāniyā api  upādānagocchaka  kilesagocchaka 	148	Ideas that are not clingings are not objects of clinging.🔽The Category of the Corruptions
+['PA_ds_1.2:149.0.2', 'PA_ds_1.2:149.1']	1. Kilesaduka🔽Kilesā dhammā. (1235, 1565)	kilesaduka  kilesāḥ dhammā 	149	The Category of the Corruptions🔽The Category of the Corruptions🔽Corruptions are ideas.
+['PA_ds_1.2:150.1']	No kilesā dhammā. (1246, 1566)	no kilesā dhammā 	150	Non-corruptions are ideas.
+['PA_ds_1.2:151.0', 'PA_ds_1.2:151.1']	2. Saṅkilesikaduka🔽Saṅkilesikā dhammā. (1247, 1567)	saṅkilesika duka  saṅkilesikāḥ dhammāḥ 	151	The Category of the Corrupted🔽The Corrupted are ideas.
+['PA_ds_1.2:152.1']	Asaṅkilesikā dhammā. (1248, 1568)	asaṅkilesikāḥ dhammāḥ 	152	The Uncorrupted are ideas.
+['PA_ds_1.2:153.0', 'PA_ds_1.2:153.1']	3. Saṅkiliṭṭhaduka🔽Saṅkiliṭṭhā dhammā. (1249, 1569)	saṅkiliṭṭhaduka  saṅkiliṭṭhāḥ dhammā 	153	The Category of the Corrupted🔽The Corrupted are ideas.
+['PA_ds_1.2:154.1']	Asaṅkiliṭṭhā dhammā. (1250, 1570)	asaṅkiliṭṭhāḥ dhammā 	154	The Uncorrupted are ideas.
+['PA_ds_1.2:155.0', 'PA_ds_1.2:155.1']	4. Kilesasampayuttaduka🔽Kilesasampayuttā dhammā. (1251, 1571)	     kilesa sampayuttāḥ dhammāḥ 	155	The Category of Associated with Clinging🔽Associated with Clinging are ideas.
+['PA_ds_1.2:156.1']	Kilesavippayuttā dhammā. (1252, 1572)	kilesa vippayuttāḥ dhammāḥ 	156	Dissociated from Clinging are ideas.
+['PA_ds_1.2:157.0']	5. Kilesasaṅkilesikaduka	kilesa saṅkilesika duka 	157	The Category of Corruptions and Corrupted
+['PA_ds_1.2:157.1']	Kilesā ceva dhammā saṅkilesikā ca. (1253, 1573)	kilesā ca iva dhammā saṅkilesikā ca 	157	States that are defilements are also defiling.
+['PA_ds_1.2:158.1']	Saṅkilesikā ceva dhammā no ca kilesā. (1254, 1574)	saṅkilesikā ca iva dhammā no ca kilesā 	158	States that are defiling but are not defilements.
+['PA_ds_1.2:159.0', 'PA_ds_1.2:159.1']	6. Kilesasaṅkiliṭṭhaduka🔽Kilesā ceva dhammā saṅkiliṭṭhā ca. (1255, 1575)	kilesa saṅkiliṭṭha duka  kilesā ca iva dhammā saṅkiliṭṭhā ca 	159	The Corrupted-by-Defilements Category🔽States that are defilements are also corrupted by defilements.
+['PA_ds_1.2:160.1']	Saṅkiliṭṭhā ceva dhammā no ca kilesā. (1256, 1576)	saṅkiliṭṭhā ca iva dhammā no ca kilesā 	160	States that are corrupted by defilements but are not defilements.
+['PA_ds_1.2:161.0']	7. Kilesakilesasampayuttaduka	      	161	The Defilement-Conjoined Category
+['PA_ds_1.2:161.1']	Kilesā ceva dhammā kilesasampayuttā ca. (1257, 1577)	kilesā ca iva dhammā kilesa sampayuttā ca 	161	States that are defilements are also conjoined with defilements.
+['PA_ds_1.2:162.1']	Kilesasampayuttā ceva dhammā no ca kilesā. (1258, 1578)	kilesa sampayuttā ca iva dhammā no ca kilesā 	162	States that are conjoined with defilements but are not defilements.
+['PA_ds_1.2:163.0']	8. Kilesavippayuttasaṅkilesikaduka	kilesa vippayutta saṅkilesika duka 	163	The Defilement-Disjoined-Defiling Category
+['PA_ds_1.2:163.1']	Kilesavippayuttā kho pana dhammā saṅkilesikāpi. (1259, 1579)	kilesa vippayuttāḥ kho pana dhammāḥ saṅkilesikā api 	163	States that are disjoined from defilements are also defiling.
+['PA_ds_1.2:164.1']	Asaṅkilesikāpi. (1260, 1580)	asaṅkilesikā api 	164	They are also undefiling.
+['PA_ds_1.2:164.2']	Kilesagocchakaṁ.	kilesagocchaka 	164	The defilement group.
+['PA_ds_1.2:165.0.1', 'PA_ds_1.2:165.0.2']	Piṭṭhiduka🔽1. Dassanenapahātabbaduka	piṭṭhiduka  dassanena apahātabba duka 	165	The Back Category🔽The Category of What Should Be Abandoned by Seeing
+['PA_ds_1.2:165.1']	Dassanena pahātabbā dhammā. (1261, 1581)	dassanena pahātabbāḥ dhammāḥ 	165	States that should be abandoned by seeing.
+['PA_ds_1.2:166.1']	Na dassanena pahātabbā dhammā. (1265, 1582)	na dassanena pahātabbāḥ dhammāḥ 	166	States that should not be abandoned by seeing.
+['PA_ds_1.2:167.0']	2. Bhāvanāyapahātabbaduka	bhāvanāya pahātabbaduka 	167	The Category of What Should Be Abandoned by Development
+['PA_ds_1.2:167.1']	Bhāvanāya pahātabbā dhammā. (1266, 1583)	bhāvanāya pahātabbāḥ dhammāḥ 	167	States that should be abandoned by development.
+['PA_ds_1.2:168.1']	Na bhāvanāya pahātabbā dhammā. (1267, 1584)	na bhāvanāya pahātabbāḥ dhammā 	168	States that should not be abandoned by development.
+['PA_ds_1.2:169.0']	3. Dassanenapahātabbahetukaduka	dassanena apahātabba hetuka duka 	169	The Category of What Should Be Abandoned by Seeing and What Has a Root That Should Be Abandoned by Seeing
+['PA_ds_1.2:169.1']	Dassanena pahātabbahetukā dhammā. (1268, 1585)	dassanena pahātabba hetukāḥ dhammāḥ 	169	Ideas that are causes to be given up by seeing. (1268, 1585)
+['PA_ds_1.2:170.1']	Na dassanena pahātabbahetukā dhammā. (1272, 1586)	na dassanena pahātabba hetukāḥ dhammāḥ 	170	Ideas that are not causes to be given up by seeing. ( )
+['PA_ds_1.2:171.0']	4. Bhāvanāyapahātabbahetukaduka	bhāvanāya apahātabba hetuka duka 	171	The Section on Causes to be Given up by Development
+['PA_ds_1.2:171.1']	Bhāvanāya pahātabbahetukā dhammā. (1273, 1587)	bhāvanāya pahātabba hetukāḥ dhammāḥ 	171	Ideas that are causes to be given up by development. ( )
+['PA_ds_1.2:172.1']	Na bhāvanāya pahātabbahetukā dhammā. (1274, 1588)	na bhāvanāya pahātabba hetukāḥ dhammāḥ 	172	Ideas that are not causes to be given up by development. ( )
+['PA_ds_1.2:173.0', 'PA_ds_1.2:173.1']	5. Savitakkaduka🔽Savitakkā dhammā. (1275, 1589)	sa vitakka duka  sa vitakkāḥ dhammāḥ 	173	The Section on Contemplation🔽Ideas that are with contemplation. ( )
+['PA_ds_1.2:174.1']	Avitakkā dhammā. (1276, 1590)	a vitakkāḥ dhammāḥ 	174	Ideas that are without contemplation. ( )
+['PA_ds_1.2:175.0', 'PA_ds_1.2:175.1']	6. Savicāraduka🔽Savicārā dhammā. (1277, 1591)	sa vicāra duka  sa vicārāḥ dhammāḥ 	175	The Section on Investigation🔽Ideas that are with investigation. ( )
+['PA_ds_1.2:176.1']	Avicārā dhammā. (1278, 1592)	avicārāḥ dhammā 	176	Ideas that are without investigation. ( )
+['PA_ds_1.2:177.0']	7. Sappītikaduka	sappītikaduka 	177	The Section on Happiness
+['PA_ds_1.2:177.1']	Sappītikā dhammā. (1279, 1593)	sappītikāḥ dhammāḥ 	177	Ideas that are with happiness. ( )
+['PA_ds_1.2:178.1']	Appītikā dhammā. (1280, 1594)	appītikāḥ dhammāḥ 	178	Ideas that are without happiness. ( )
+['PA_ds_1.2:179.0']	8. Pītisahagataduka	pīti sahagata duka 	179	The Section on Associated with Happiness
+['PA_ds_1.2:179.1']	Pītisahagatā dhammā. (1281, 1595)	pīti sahagatāḥ dhammāḥ 	179	Ideas that are associated with happiness. ( )
+['PA_ds_1.2:180.1']	Na pītisahagatā dhammā. (1282, 1596)	na pīti sahagatāḥ dhammāḥ 	180	Ideas that are not associated with happiness. ( )
+['PA_ds_1.2:181.0']	9. Sukhasahagataduka	sukha sahagata duka 	181	The Section on Associated with Pleasure
+['PA_ds_1.2:181.1']	Sukhasahagatā dhammā. (1283, 1597)	sukha sahagatāḥ dhammāḥ 	181	Ideas that are associated with pleasure. ( )
+['PA_ds_1.2:182.1']	Na sukhasahagatā dhammā. (1284, 1598)	na sukha sahagatāḥ dhammāḥ 	182	Ideas that are not associated with pleasure. ( )
+['PA_ds_1.2:183.0', 'PA_ds_1.2:183.1']	10. Upekkhāsahagataduka🔽Upekkhāsahagatā dhammā. (1285, 1599)	upekkhā sahagata duka  upekkhā sahagatāḥ dhammāḥ 	183	The Section on Associated with Equanimity🔽Ideas that are associated with equanimity. ( )
+['PA_ds_1.2:184.1']	Na upekkhāsahagatā dhammā. (1286, 1600)	na upekkhā sahagatāḥ dhammā 	184	Ideas that are not associated with equanimity. ( )
+['PA_ds_1.2:185.0', 'PA_ds_1.2:185.1']	11. Kāmāvacaraduka🔽Kāmāvacarā dhammā. (1287, 1601)	kāmāvacaraduka  kāmāvacarāḥ dhammāḥ 	185	The Section on the Sense-Desire Realm🔽Ideas that are in the sense-desire realm. ( )
+['PA_ds_1.2:186.1']	Na kāmāvacarā dhammā. (1288, 1602)	na kāmāvacarā dhammā 	186	Ideas that are not in the sense-desire realm. ( )
+['PA_ds_1.2:187.0']	12. Rūpāvacaraduka	rūpa avacaraduka 	187	12. The Section on the Form Sphere
+['PA_ds_1.2:187.1']	Rūpāvacarā dhammā. (1289, 1603)	rūpāvacarāḥ dhammāḥ 	187	Form-sphere thoughts.
+['PA_ds_1.2:188.1']	Na rūpāvacarā dhammā. (1290, 1604)	na rūpāvacarāḥ dhammāḥ 	188	Not form-sphere thoughts.
+['PA_ds_1.2:189.0']	13. Arūpāvacaraduka	a rūpa avacara duka 	189	. The Section on the Formless Sphere
+['PA_ds_1.2:189.1']	Arūpāvacarā dhammā. (1291, 1605)	arūpāvacarāḥ dhammāḥ 	189	Formless-sphere thoughts.
+['PA_ds_1.2:190.1']	Na arūpāvacarā dhammā. (1292, 1606)	na arūpāvacarā dhammā 	190	Not formless-sphere thoughts.
+['PA_ds_1.2:191.0', 'PA_ds_1.2:191.1']	14. Pariyāpannaduka🔽Pariyāpannā dhammā. (1293, 1607)	pariyāpannaduka  pariyāpannāḥ dhammāḥ 	191	. The Section on the Included🔽Included thoughts.
+['PA_ds_1.2:192.1']	Apariyāpannā dhammā. (1294, 1608)	a pariyāpannāḥ dhammā 	192	Not included thoughts.
+['PA_ds_1.2:193.0', 'PA_ds_1.2:193.1']	15. Niyyānikaduka🔽Niyyānikā dhammā. (1295, 1609)	niyyānikaduka  niyyānikāḥ dhammāḥ 	193	. The Section on the Outlet🔽Thoughts with an outlet.
+['PA_ds_1.2:194.1']	Aniyyānikā dhammā. (1296, 1610)	aniyyānikāḥ dhammā 	194	Thoughts without an outlet.
+['PA_ds_1.2:195.0', 'PA_ds_1.2:195.1']	16. Niyataduka🔽Niyatā dhammā. (1297, 1611)	niyata duka  niyatāḥ dhammāḥ 	195	. The Section on the Fixed🔽Fixed thoughts.
+['PA_ds_1.2:196.1']	Aniyatā dhammā. (1298, 1612)	aniyatāḥ dhammāḥ 	196	Unfixed thoughts.
+['PA_ds_1.2:197.0']	17. Sauttaraduka	sauttaraduka 	197	. The Section on the Supreme
+['PA_ds_1.2:197.1']	Sauttarā dhammā. (1299, 1613)	sauttarāḥ dhammāḥ 	197	Supreme thoughts.
+['PA_ds_1.2:198.1']	Anuttarā dhammā. (1300, 1614)	anuttarāḥ dhammāḥ 	198	Unsurpassed thoughts.
+['PA_ds_1.2:199.0', 'PA_ds_1.2:199.1']	18. Saraṇaduka🔽Saraṇā dhammā. (1301, 1615)	saraṇaduka  saraṇāḥ dhammā 	199	. The Section on the Refuge🔽Thoughts that are a refuge.
+['PA_ds_1.2:200.1']	Araṇā dhammā. (1302, 1616)	araṇāḥ dhammā 	200	Thoughts that are no refuge.
+['PA_ds_1.2:200.2']	Piṭṭhidukaṁ.	piṭṭhiduka 	200	The Rear Section.
+['PA_ds_1.2:200.3']	Abhidhammadukamātikā.	      	200	The Abhidhamma Pairs.

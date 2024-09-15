@@ -1,60 +1,60 @@
-segmentnr	original	analyzed	translated
-['PA_ps_1.7:0.1']	Paṭisambhidāmagga	paṭisambhidā magga 	The Path of Discrimination
-['PA_ps_1.7:0.2']	1 Mahāvagga	mahāvagga 	The Great Section
-['PA_ps_1.7:0.3']	1.7. Kammakathā	kamma kathā 	… Discussion of Action
-['PA_ps_1.7:1.1']	Ahosi kammaṁ, ahosi kammavipāko.	ahosi kamma ahosi kamma vipāko 	There was action, there was the result of action.
-['PA_ps_1.7:1.2']	Ahosi kammaṁ, nāhosi kammavipāko.	ahosi kamma na ahosi kamma vipāko 	There was action, there was not the result of action.
-['PA_ps_1.7:1.3']	Ahosi kammaṁ, atthi kammavipāko.	ahosi kamma atthi kamma vipāko 	There was action, there is the result of action.
-['PA_ps_1.7:1.4']	Ahosi kammaṁ, natthi kammavipāko.	ahosi kamma natthi kamma vipāko 	There was action, there is not the result of action.
-['PA_ps_1.7:1.5']	Ahosi kammaṁ, bhavissati kammavipāko.	ahosi kamma bhavissati kamma vipāko 	There was action, there will be the result of action.
-['PA_ps_1.7:1.6']	Ahosi kammaṁ, na bhavissati kammavipāko.	ahosi kamma na bhavissati kamma vipāko 	There was action, there will not be the result of action.
-['PA_ps_1.7:1.7']	(Atītakammaṁ)	atīta kamma 	(Past action)
-['PA_ps_1.7:2.1']	Atthi kammaṁ, atthi kammavipāko.	atthi kamma atthi kamma vipāko 	There is action, there is the result of action.
-['PA_ps_1.7:2.2']	Atthi kammaṁ, natthi kammavipāko.	atthi kamma na atthi kamma vipāko 	There is action, there is not the result of action.
-['PA_ps_1.7:2.3']	Atthi kammaṁ, bhavissati kammavipāko.	atthi kamma bhavissati kamma vipāko 	There is action, there will be the result of action.
-['PA_ps_1.7:2.4']	Atthi kammaṁ, na bhavissati kammavipāko.	atthi kamma na bhavissati kamma vipāko 	There is action, there will not be the result of action.
-['PA_ps_1.7:2.5']	(Paccuppannakammaṁ)	paccuppanna kamma 	(Present action)
-['PA_ps_1.7:3.1']	Bhavissati kammaṁ, bhavissati kammavipāko.	bhavissati kamma bhavissati kamma vipāko 	There will be action, there will be the result of action.
-['PA_ps_1.7:3.2']	Bhavissati kammaṁ, na bhavissati kammavipāko.	bhavissati kamma na bhavissati kamma vipāko 	There will be action, there will not be the result of action.
-['PA_ps_1.7:3.3', 'PA_ps_1.7:4.1']	(Anāgatakammaṁ)🔽Ahosi kusalaṁ kammaṁ, ahosi kusalassa kammassa vipāko.	anāgata kamma  ahosi kusalam kamma ahosi kusalassa kammassa vipāko 	(Future action)🔽There was wholesome action, there was the result of wholesome action.
-['PA_ps_1.7:4.2']	Ahosi kusalaṁ kammaṁ, nāhosi kusalassa kammassa vipāko.	ahosi kusalam kamma na ahosi kusalassa kammassa vipākaḥ 	There was wholesome action, there was not the result of wholesome action.
-['PA_ps_1.7:4.3']	Ahosi kusalaṁ kammaṁ, atthi kusalassa kammassa vipāko.	ahosi kusalam kamma atthi kusalassa kammassa vipāko 	There was wholesome kamma, there is the result of wholesome kamma.
-['PA_ps_1.7:4.4']	Ahosi kusalaṁ kammaṁ, natthi kusalassa kammassa vipāko.	ahosi kusalam kamma na atthi kusalassa kammassa vipāko 	There was wholesome kamma, there is no result of wholesome kamma.
-['PA_ps_1.7:4.5']	Ahosi kusalaṁ kammaṁ, bhavissati kusalassa kammassa vipāko.	ahosi kusalam kamma bhavissati kusalassa kammassa vipāko 	There was wholesome kamma, there will be the result of wholesome kamma.
-['PA_ps_1.7:4.6']	Ahosi kusalaṁ kammaṁ, na bhavissati kusalassa kammassa vipāko.	ahosi kusalam kamma na bhavissati kusalassa kammassa vipāko 	There was wholesome kamma, there will not be the result of wholesome kamma.
-['PA_ps_1.7:5.1']	Atthi kusalaṁ kammaṁ, atthi kusalassa kammassa vipāko.	atthi kusalam kamma atthi kusalassa kammassa vipāko 	There is wholesome kamma, there is the result of wholesome kamma.
-['PA_ps_1.7:5.2']	Atthi kusalaṁ kammaṁ, natthi kusalassa kammassa vipāko.	atthi kusalam kamma na atthi kusalassa kammassa vipākaḥ 	There is wholesome kamma, there is no result of wholesome kamma.
-['PA_ps_1.7:5.3']	Atthi kusalaṁ kammaṁ, bhavissati kusalassa kammassa vipāko.	atthi kusalam kamma bhavissati kusalassa kammassa vipāko 	There is wholesome kamma, there will be the result of wholesome kamma.
-['PA_ps_1.7:5.4']	Atthi kusalaṁ kammaṁ, na bhavissati kusalassa kammassa vipāko.	atthi kusalam kamma na bhavissati kusalassa kammassa vipākaḥ 	There is wholesome kamma, there will not be the result of wholesome kamma.
-['PA_ps_1.7:6.1']	Bhavissati kusalaṁ kammaṁ, bhavissati kusalassa kammassa vipāko.	bhavissati kusalam kamma bhavissati kusalassa kammassa vipāko 	There will be wholesome kamma, there will be the result of wholesome kamma.
-['PA_ps_1.7:6.2']	Bhavissati kusalaṁ kammaṁ, na bhavissati kusalassa kammassa vipāko.	bhavissati kusalam kamma na bhavissati kusalassa kammassa vipākaḥ 	There will be wholesome kamma, there will not be the result of wholesome kamma.
-['PA_ps_1.7:7.1']	Ahosi akusalaṁ kammaṁ, ahosi akusalassa kammassa vipāko.	ahosi akusalam kamma ahosi akusalassa kammassa vipāko 	There was unwholesome kamma, there was the result of unwholesome kamma.
-['PA_ps_1.7:7.2']	Ahosi akusalaṁ kammaṁ, nāhosi akusalassa kammassa vipāko.	ahosi akusalam kamma na ahosi akusalassa kammassa vipāko 	There was an unwholesome deed, but there was no result of an unwholesome deed.
-['PA_ps_1.7:7.3']	Ahosi akusalaṁ kammaṁ, atthi akusalassa kammassa vipāko.	ahosi akusalam kamma atthi akusalassa kammassa vipāko 	There was an unwholesome deed, and there is a result of an unwholesome deed.
-['PA_ps_1.7:7.4']	Ahosi akusalaṁ kammaṁ, natthi akusalassa kammassa vipāko.	ahosi akusalam kamma na atthi akusalassa kammassa vipāko 	There was an unwholesome deed, but there is no result of an unwholesome deed.
-['PA_ps_1.7:7.5']	Ahosi akusalaṁ kammaṁ, bhavissati akusalassa kammassa vipāko.	ahosi akusalam kamma bhavissati akusalassa kammassa vipāko 	There was an unwholesome deed, and there will be a result of an unwholesome deed.
-['PA_ps_1.7:7.6']	Ahosi akusalaṁ kammaṁ, na bhavissati akusalassa kammassa vipāko.	ahosi akusalam kamma na bhavissati akusalassa kammassa vipāko 	There was an unwholesome deed, but there will be no result of an unwholesome deed.
-['PA_ps_1.7:8.1']	Atthi akusalaṁ kammaṁ, atthi akusalassa kammassa vipāko.	atthi akusalam kamma atthi akusalassa kammassa vipāko 	There is an unwholesome deed, and there is a result of an unwholesome deed.
-['PA_ps_1.7:8.2']	Atthi akusalaṁ kammaṁ, natthi akusalassa kammassa vipāko.	atthi akusalam kamma na atthi akusalassa kammassa vipāko 	There is an unwholesome deed, but there is no result of an unwholesome deed.
-['PA_ps_1.7:8.3']	Atthi akusalaṁ kammaṁ, bhavissati akusalassa kammassa vipāko.	atthi akusalam kamma bhavissati akusalassa kammassa vipāko 	There is an unwholesome deed, and there will be a result of an unwholesome deed.
-['PA_ps_1.7:8.4']	Atthi akusalaṁ kammaṁ, na bhavissati akusalassa kammassa vipāko.	atthi akusalam kamma na bhavissati akusalassa kammassa vipāko 	There is an unwholesome deed, but there will be no result of an unwholesome deed.
-['PA_ps_1.7:9.1']	Bhavissati akusalaṁ kammaṁ, bhavissati akusalassa kammassa vipāko.	bhavissati akusalam kamma bhavissati akusalassa kammassa vipāko 	There will be an unwholesome deed, and there will be a result of an unwholesome deed.
-['PA_ps_1.7:9.2']	Bhavissati akusalaṁ kammaṁ, na bhavissati akusalassa kammassa vipāko.	bhavissati akusalam kamma na bhavissati akusalassa kammassa vipāko 	There will be an unwholesome deed, but there will be no result of an unwholesome deed.
-['PA_ps_1.7:10.1']	Ahosi sāvajjaṁ kammaṁ …pe…	ahosi sāvajjam kammam pe 	There was blameworthy deeds …
-['PA_ps_1.7:10.2', 'PA_ps_1.7:10.3']	ahosi anavajjaṁ kammaṁ …pe…🔽ahosi kaṇhaṁ kammaṁ …pe…	ahosi anavajjam kammam pe  ahosi kaṇham kammam pe 	There was blameless deeds …🔽There was dark deeds …
-['PA_ps_1.7:10.4', 'PA_ps_1.7:10.5']	ahosi sukkaṁ kammaṁ …pe…🔽ahosi sukhudrayaṁ kammaṁ …pe…	ahosi sukkam kammam pe  kammam pe 	There was bright deeds …🔽There was deeds that lead to a small place …
-['PA_ps_1.7:10.6']	ahosi dukkhudrayaṁ kammaṁ …pe…	ahosi dukkhudrayam kammam pe 	There was deeds that lead to a great place …
-['PA_ps_1.7:10.7']	ahosi sukhavipākaṁ kammaṁ …pe…	ahosi sukha vipākam kammaṃ pe 	There was deeds that ripen in happiness …
-['PA_ps_1.7:10.8']	ahosi dukkhavipākaṁ kammaṁ, ahosi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma ahosi dukkha vipākassa kammassa vipāko 	There was deeds that ripen in suffering, and there was the ripening of deeds that ripen in suffering.
-['PA_ps_1.7:10.9']	Ahosi dukkhavipākaṁ kammaṁ, nāhosi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma na ahosi dukkha vipākassa kammassa vipāko 	There was deeds that ripen in suffering, but there was no ripening of deeds that ripen in suffering.
-['PA_ps_1.7:10.10']	Ahosi dukkhavipākaṁ kammaṁ, atthi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma atthi dukkha vipākassa kammassa vipāko 	There was deeds that ripen in suffering, and there was the ripening of deeds that ripen in suffering.
-['PA_ps_1.7:10.11']	Ahosi dukkhavipākaṁ kammaṁ, natthi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma natthi dukkha vipākassa kammassa vipāko 	There was deeds that ripen in suffering, but there was no ripening of deeds that ripen in suffering.
-['PA_ps_1.7:10.12']	Ahosi dukkhavipākaṁ kammaṁ, bhavissati dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma bhavissati dukkha vipākassa kammassa vipākaḥ 	There was deeds that ripen in suffering, and there will be the ripening of deeds that ripen in suffering.
-['PA_ps_1.7:10.13']	Ahosi dukkhavipākaṁ kammaṁ, na bhavissati dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma na bhavissati dukkha vipākassa kammassa vipākaḥ 	There was deeds that ripen in suffering, but there will be no ripening of deeds that ripen in suffering.
-['PA_ps_1.7:11.1']	Atthi dukkhavipākaṁ kammaṁ, atthi dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma atthi dukkha vipākassa kammassa vipāko 	There are deeds that ripen in suffering, and there is the ripening of deeds that ripen in suffering.
-['PA_ps_1.7:11.2']	Atthi dukkhavipākaṁ kammaṁ, natthi dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma na atthi dukkha vipākassa kammassa vipāko 	There is kamma that has results in the form of pain, but there is no result of that kamma.
-['PA_ps_1.7:11.3']	Atthi dukkhavipākaṁ kammaṁ, bhavissati dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma bhavissati dukkha vipākassa kammassa vipākaḥ 	There is kamma that has results in the form of pain, and there will be a result of that kamma.
-['PA_ps_1.7:11.4']	Atthi dukkhavipākaṁ kammaṁ, na bhavissati dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma na bhavissati dukkha vipākassa kammassa vipākaḥ 	There is kamma that has results in the form of pain, but there will be no result of that kamma.
-['PA_ps_1.7:12.1']	Bhavissati dukkhavipākaṁ kammaṁ, bhavissati dukkhavipākassa kammassa vipāko.	bhavissati dukkha vipākam kamma bhavissati dukkha vipākassa kammassa vipākaḥ 	There will be kamma that has results in the form of pain, and there will be a result of that kamma.
-['PA_ps_1.7:12.2']	Bhavissati dukkhavipākaṁ kammaṁ, na bhavissati dukkhavipākassa kammassa vipākoti.	bhavissati dukkha vipākam kamma na bhavissati dukkha vipākassa kammassa vipākaḥ ti 	There will be kamma that has results in the form of pain, but there will be no result of that kamma.
-['PA_ps_1.7:12.3']	Kammakathā niṭṭhitā.	kamma kathā niṭṭhitā 	The Discussion of Kamma is finished.
+segmentnr	original	analyzed	folio	translated
+['PA_ps_1.7:0.1']	Paṭisambhidāmagga	paṭisambhidā magga 	0	The Path of Discrimination
+['PA_ps_1.7:0.2']	1 Mahāvagga	mahāvagga 	0	The Great Section
+['PA_ps_1.7:0.3']	1.7. Kammakathā	kamma kathā 	0	… Discussion of Action
+['PA_ps_1.7:1.1']	Ahosi kammaṁ, ahosi kammavipāko.	ahosi kamma ahosi kamma vipāko 	1	There was action, there was the result of action.
+['PA_ps_1.7:1.2']	Ahosi kammaṁ, nāhosi kammavipāko.	ahosi kamma na ahosi kamma vipāko 	1	There was action, there was not the result of action.
+['PA_ps_1.7:1.3']	Ahosi kammaṁ, atthi kammavipāko.	ahosi kamma atthi kamma vipāko 	1	There was action, there is the result of action.
+['PA_ps_1.7:1.4']	Ahosi kammaṁ, natthi kammavipāko.	ahosi kamma natthi kamma vipāko 	1	There was action, there is not the result of action.
+['PA_ps_1.7:1.5']	Ahosi kammaṁ, bhavissati kammavipāko.	ahosi kamma bhavissati kamma vipāko 	1	There was action, there will be the result of action.
+['PA_ps_1.7:1.6']	Ahosi kammaṁ, na bhavissati kammavipāko.	ahosi kamma na bhavissati kamma vipāko 	1	There was action, there will not be the result of action.
+['PA_ps_1.7:1.7']	(Atītakammaṁ)	atīta kamma 	1	(Past action)
+['PA_ps_1.7:2.1']	Atthi kammaṁ, atthi kammavipāko.	atthi kamma atthi kamma vipāko 	2	There is action, there is the result of action.
+['PA_ps_1.7:2.2']	Atthi kammaṁ, natthi kammavipāko.	atthi kamma na atthi kamma vipāko 	2	There is action, there is not the result of action.
+['PA_ps_1.7:2.3']	Atthi kammaṁ, bhavissati kammavipāko.	atthi kamma bhavissati kamma vipāko 	2	There is action, there will be the result of action.
+['PA_ps_1.7:2.4']	Atthi kammaṁ, na bhavissati kammavipāko.	atthi kamma na bhavissati kamma vipāko 	2	There is action, there will not be the result of action.
+['PA_ps_1.7:2.5']	(Paccuppannakammaṁ)	paccuppanna kamma 	2	(Present action)
+['PA_ps_1.7:3.1']	Bhavissati kammaṁ, bhavissati kammavipāko.	bhavissati kamma bhavissati kamma vipāko 	3	There will be action, there will be the result of action.
+['PA_ps_1.7:3.2']	Bhavissati kammaṁ, na bhavissati kammavipāko.	bhavissati kamma na bhavissati kamma vipāko 	3	There will be action, there will not be the result of action.
+['PA_ps_1.7:3.3', 'PA_ps_1.7:4.1']	(Anāgatakammaṁ)🔽Ahosi kusalaṁ kammaṁ, ahosi kusalassa kammassa vipāko.	anāgata kamma  ahosi kusalam kamma ahosi kusalassa kammassa vipāko 	3	(Future action)🔽There was wholesome action, there was the result of wholesome action.
+['PA_ps_1.7:4.2']	Ahosi kusalaṁ kammaṁ, nāhosi kusalassa kammassa vipāko.	ahosi kusalam kamma na ahosi kusalassa kammassa vipākaḥ 	4	There was wholesome action, there was not the result of wholesome action.
+['PA_ps_1.7:4.3']	Ahosi kusalaṁ kammaṁ, atthi kusalassa kammassa vipāko.	ahosi kusalam kamma atthi kusalassa kammassa vipāko 	4	There was wholesome kamma, there is the result of wholesome kamma.
+['PA_ps_1.7:4.4']	Ahosi kusalaṁ kammaṁ, natthi kusalassa kammassa vipāko.	ahosi kusalam kamma na atthi kusalassa kammassa vipāko 	4	There was wholesome kamma, there is no result of wholesome kamma.
+['PA_ps_1.7:4.5']	Ahosi kusalaṁ kammaṁ, bhavissati kusalassa kammassa vipāko.	ahosi kusalam kamma bhavissati kusalassa kammassa vipāko 	4	There was wholesome kamma, there will be the result of wholesome kamma.
+['PA_ps_1.7:4.6']	Ahosi kusalaṁ kammaṁ, na bhavissati kusalassa kammassa vipāko.	ahosi kusalam kamma na bhavissati kusalassa kammassa vipāko 	4	There was wholesome kamma, there will not be the result of wholesome kamma.
+['PA_ps_1.7:5.1']	Atthi kusalaṁ kammaṁ, atthi kusalassa kammassa vipāko.	atthi kusalam kamma atthi kusalassa kammassa vipāko 	5	There is wholesome kamma, there is the result of wholesome kamma.
+['PA_ps_1.7:5.2']	Atthi kusalaṁ kammaṁ, natthi kusalassa kammassa vipāko.	atthi kusalam kamma na atthi kusalassa kammassa vipākaḥ 	5	There is wholesome kamma, there is no result of wholesome kamma.
+['PA_ps_1.7:5.3']	Atthi kusalaṁ kammaṁ, bhavissati kusalassa kammassa vipāko.	atthi kusalam kamma bhavissati kusalassa kammassa vipāko 	5	There is wholesome kamma, there will be the result of wholesome kamma.
+['PA_ps_1.7:5.4']	Atthi kusalaṁ kammaṁ, na bhavissati kusalassa kammassa vipāko.	atthi kusalam kamma na bhavissati kusalassa kammassa vipākaḥ 	5	There is wholesome kamma, there will not be the result of wholesome kamma.
+['PA_ps_1.7:6.1']	Bhavissati kusalaṁ kammaṁ, bhavissati kusalassa kammassa vipāko.	bhavissati kusalam kamma bhavissati kusalassa kammassa vipāko 	6	There will be wholesome kamma, there will be the result of wholesome kamma.
+['PA_ps_1.7:6.2']	Bhavissati kusalaṁ kammaṁ, na bhavissati kusalassa kammassa vipāko.	bhavissati kusalam kamma na bhavissati kusalassa kammassa vipākaḥ 	6	There will be wholesome kamma, there will not be the result of wholesome kamma.
+['PA_ps_1.7:7.1']	Ahosi akusalaṁ kammaṁ, ahosi akusalassa kammassa vipāko.	ahosi akusalam kamma ahosi akusalassa kammassa vipāko 	7	There was unwholesome kamma, there was the result of unwholesome kamma.
+['PA_ps_1.7:7.2']	Ahosi akusalaṁ kammaṁ, nāhosi akusalassa kammassa vipāko.	ahosi akusalam kamma na ahosi akusalassa kammassa vipāko 	7	There was an unwholesome deed, but there was no result of an unwholesome deed.
+['PA_ps_1.7:7.3']	Ahosi akusalaṁ kammaṁ, atthi akusalassa kammassa vipāko.	ahosi akusalam kamma atthi akusalassa kammassa vipāko 	7	There was an unwholesome deed, and there is a result of an unwholesome deed.
+['PA_ps_1.7:7.4']	Ahosi akusalaṁ kammaṁ, natthi akusalassa kammassa vipāko.	ahosi akusalam kamma na atthi akusalassa kammassa vipāko 	7	There was an unwholesome deed, but there is no result of an unwholesome deed.
+['PA_ps_1.7:7.5']	Ahosi akusalaṁ kammaṁ, bhavissati akusalassa kammassa vipāko.	ahosi akusalam kamma bhavissati akusalassa kammassa vipāko 	7	There was an unwholesome deed, and there will be a result of an unwholesome deed.
+['PA_ps_1.7:7.6']	Ahosi akusalaṁ kammaṁ, na bhavissati akusalassa kammassa vipāko.	ahosi akusalam kamma na bhavissati akusalassa kammassa vipāko 	7	There was an unwholesome deed, but there will be no result of an unwholesome deed.
+['PA_ps_1.7:8.1']	Atthi akusalaṁ kammaṁ, atthi akusalassa kammassa vipāko.	atthi akusalam kamma atthi akusalassa kammassa vipāko 	8	There is an unwholesome deed, and there is a result of an unwholesome deed.
+['PA_ps_1.7:8.2']	Atthi akusalaṁ kammaṁ, natthi akusalassa kammassa vipāko.	atthi akusalam kamma na atthi akusalassa kammassa vipāko 	8	There is an unwholesome deed, but there is no result of an unwholesome deed.
+['PA_ps_1.7:8.3']	Atthi akusalaṁ kammaṁ, bhavissati akusalassa kammassa vipāko.	atthi akusalam kamma bhavissati akusalassa kammassa vipāko 	8	There is an unwholesome deed, and there will be a result of an unwholesome deed.
+['PA_ps_1.7:8.4']	Atthi akusalaṁ kammaṁ, na bhavissati akusalassa kammassa vipāko.	atthi akusalam kamma na bhavissati akusalassa kammassa vipāko 	8	There is an unwholesome deed, but there will be no result of an unwholesome deed.
+['PA_ps_1.7:9.1']	Bhavissati akusalaṁ kammaṁ, bhavissati akusalassa kammassa vipāko.	bhavissati akusalam kamma bhavissati akusalassa kammassa vipāko 	9	There will be an unwholesome deed, and there will be a result of an unwholesome deed.
+['PA_ps_1.7:9.2']	Bhavissati akusalaṁ kammaṁ, na bhavissati akusalassa kammassa vipāko.	bhavissati akusalam kamma na bhavissati akusalassa kammassa vipāko 	9	There will be an unwholesome deed, but there will be no result of an unwholesome deed.
+['PA_ps_1.7:10.1']	Ahosi sāvajjaṁ kammaṁ …pe…	ahosi sāvajjam kammam pe 	10	There was blameworthy deeds …
+['PA_ps_1.7:10.2', 'PA_ps_1.7:10.3']	ahosi anavajjaṁ kammaṁ …pe…🔽ahosi kaṇhaṁ kammaṁ …pe…	ahosi anavajjam kammam pe  ahosi kaṇham kammam pe 	10	There was blameless deeds …🔽There was dark deeds …
+['PA_ps_1.7:10.4', 'PA_ps_1.7:10.5']	ahosi sukkaṁ kammaṁ …pe…🔽ahosi sukhudrayaṁ kammaṁ …pe…	ahosi sukkam kammam pe  kammam pe 	10	There was bright deeds …🔽There was deeds that lead to a small place …
+['PA_ps_1.7:10.6']	ahosi dukkhudrayaṁ kammaṁ …pe…	ahosi dukkhudrayam kammam pe 	10	There was deeds that lead to a great place …
+['PA_ps_1.7:10.7']	ahosi sukhavipākaṁ kammaṁ …pe…	ahosi sukha vipākam kammaṃ pe 	10	There was deeds that ripen in happiness …
+['PA_ps_1.7:10.8']	ahosi dukkhavipākaṁ kammaṁ, ahosi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma ahosi dukkha vipākassa kammassa vipāko 	10	There was deeds that ripen in suffering, and there was the ripening of deeds that ripen in suffering.
+['PA_ps_1.7:10.9']	Ahosi dukkhavipākaṁ kammaṁ, nāhosi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma na ahosi dukkha vipākassa kammassa vipāko 	10	There was deeds that ripen in suffering, but there was no ripening of deeds that ripen in suffering.
+['PA_ps_1.7:10.10']	Ahosi dukkhavipākaṁ kammaṁ, atthi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma atthi dukkha vipākassa kammassa vipāko 	10	There was deeds that ripen in suffering, and there was the ripening of deeds that ripen in suffering.
+['PA_ps_1.7:10.11']	Ahosi dukkhavipākaṁ kammaṁ, natthi dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma natthi dukkha vipākassa kammassa vipāko 	10	There was deeds that ripen in suffering, but there was no ripening of deeds that ripen in suffering.
+['PA_ps_1.7:10.12']	Ahosi dukkhavipākaṁ kammaṁ, bhavissati dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma bhavissati dukkha vipākassa kammassa vipākaḥ 	10	There was deeds that ripen in suffering, and there will be the ripening of deeds that ripen in suffering.
+['PA_ps_1.7:10.13']	Ahosi dukkhavipākaṁ kammaṁ, na bhavissati dukkhavipākassa kammassa vipāko.	ahosi dukkha vipākam kamma na bhavissati dukkha vipākassa kammassa vipākaḥ 	10	There was deeds that ripen in suffering, but there will be no ripening of deeds that ripen in suffering.
+['PA_ps_1.7:11.1']	Atthi dukkhavipākaṁ kammaṁ, atthi dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma atthi dukkha vipākassa kammassa vipāko 	11	There are deeds that ripen in suffering, and there is the ripening of deeds that ripen in suffering.
+['PA_ps_1.7:11.2']	Atthi dukkhavipākaṁ kammaṁ, natthi dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma na atthi dukkha vipākassa kammassa vipāko 	11	There is kamma that has results in the form of pain, but there is no result of that kamma.
+['PA_ps_1.7:11.3']	Atthi dukkhavipākaṁ kammaṁ, bhavissati dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma bhavissati dukkha vipākassa kammassa vipākaḥ 	11	There is kamma that has results in the form of pain, and there will be a result of that kamma.
+['PA_ps_1.7:11.4']	Atthi dukkhavipākaṁ kammaṁ, na bhavissati dukkhavipākassa kammassa vipāko.	atthi dukkha vipākam kamma na bhavissati dukkha vipākassa kammassa vipākaḥ 	11	There is kamma that has results in the form of pain, but there will be no result of that kamma.
+['PA_ps_1.7:12.1']	Bhavissati dukkhavipākaṁ kammaṁ, bhavissati dukkhavipākassa kammassa vipāko.	bhavissati dukkha vipākam kamma bhavissati dukkha vipākassa kammassa vipākaḥ 	12	There will be kamma that has results in the form of pain, and there will be a result of that kamma.
+['PA_ps_1.7:12.2']	Bhavissati dukkhavipākaṁ kammaṁ, na bhavissati dukkhavipākassa kammassa vipākoti.	bhavissati dukkha vipākam kamma na bhavissati dukkha vipākassa kammassa vipākaḥ ti 	12	There will be kamma that has results in the form of pain, but there will be no result of that kamma.
+['PA_ps_1.7:12.3']	Kammakathā niṭṭhitā.	kamma kathā niṭṭhitā 	12	The Discussion of Kamma is finished.

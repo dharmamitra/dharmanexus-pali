@@ -1,69 +1,69 @@
-segmentnr	original	analyzed	translated
-['PA_ds_1.1:0.1', 'PA_ds_1.1:0.2']	Dhammasaṅgaṇī🔽Tikamātikā	dhammasaṅgaṇī  tikamātikā 	The Numerical Discourses🔽The Triad-based Numerical Lists
-['PA_ds_1.1:1.0.1']	1. Kusalattika	kusalattika 	The Triad on the Wholesome
-['PA_ds_1.1:1.0.2']	Namo tassa Bhagavato Arahato Sammāsambuddhassa.	namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa 	Homage to that Blessed One, the Worthy One, the Rightly Self-awakened One.
-['PA_ds_1.1:1.1', 'PA_ds_1.1:2.1']	Kusalā dhammā. (1, 363, 985, 1384)🔽Akusalā dhammā. (365, 427, 986, 1385)	kusalāḥ dhammāḥ  akusalāḥ dhammāḥ 	Wholesome thoughts. (, , , )🔽Unwholesome thoughts. (, , , )
-['PA_ds_1.1:3.1']	Abyākatā dhammā. (431, 583, 987, 1386)	abyākatāḥ dhammāḥ 	Undetermined thoughts. (, , , )
-['PA_ds_1.1:4.0']	2. Vedanāttika	vedanā ttika 	. The Triad on Feeling
-['PA_ds_1.1:4.1']	Sukhāya vedanāya sampayuttā dhammā. (988, 1387)	sukhāya vedanāya sampayuttāḥ dhammāḥ 	Thoughts associated with pleasant feeling. (, )
-['PA_ds_1.1:5.1']	Dukkhāya vedanāya sampayuttā dhammā. (989, 1388)	dukkhāya vedanāya sampayuttāḥ dhammāḥ 	Thoughts associated with painful feeling. (, )
-['PA_ds_1.1:6.1']	Adukkhamasukhāya vedanāya sampayuttā dhammā. (990, 1389)	adukkhamasukhāya vedanāya sampayuttāḥ dhammāḥ 	Thoughts associated with neither-painful-nor-pleasant feeling. (, )
-['PA_ds_1.1:7.0', 'PA_ds_1.1:7.1']	3. Vipākattika🔽Vipākā dhammā. (991, 1390)	vipākattika  vipākāḥ dhammā 	. The Triad on Result🔽Thoughts that are results. (, )
-['PA_ds_1.1:8.1']	Vipākadhammadhammā. (992, 1391)	vipāka dhamma dhammā 	Thoughts that are states subject to results. (, )
-['PA_ds_1.1:9.1']	Nevavipākanavipākadhammadhammā. (993, 1392)	na iva vipāka na vipāka dhamma dhammā 	Thoughts that are neither results nor states subject to results. (, )
-['PA_ds_1.1:10.0']	4. Upādinnattika	upādinnattika 	. The Triad on the Clinging Aggregates
-['PA_ds_1.1:10.1', 'PA_ds_1.1:11.1']	Upādinnupādāniyā dhammā. (994, 1393)🔽Anupādinnupādāniyā dhammā. (995, 1394)	upādinnupādāniyāḥ dhammāḥ  an upādinna upādāniyāḥ dhammāḥ 	Thoughts that are clinging and related to clinging. (, )🔽Thoughts that are not clinging but are related to clinging. (, )
-['PA_ds_1.1:12.1']	Anupādinnaanupādāniyā dhammā. (996, 1395)	anupādinna anupādāniyāḥ dhammāḥ 	Thoughts that are neither clinging nor related to clinging. (, )
-['PA_ds_1.1:13.0']	5. Saṅkiliṭṭhattika	saṅkiliṭṭhattika 	. The Triad on the Corrupted
-['PA_ds_1.1:13.1', 'PA_ds_1.1:14.1']	Saṅkiliṭṭhasaṅkilesikā dhammā. (997, 1396)🔽Asaṅkiliṭṭhasaṅkilesikā dhammā. (998, 1397)	saṅkiliṭṭha saṅkilesikāḥ dhammāḥ  asaṅkiliṭṭha saṅkilesikāḥ dhammāḥ 	Thoughts that are corrupted and related to corruption. (, )🔽Thoughts that are not corrupted but are related to corruption. (, )
-['PA_ds_1.1:15.1']	Asaṅkiliṭṭhaasaṅkilesikā dhammā. (999, 1398)	asaṅkiliṭṭha asaṅkilesikāḥ dhammāḥ 	Thoughts that are neither corrupted nor related to corruption. (, )
-['PA_ds_1.1:16.0']	6. Vitakkattika	vitakkattika 	. The Triad on Applied Thought
-['PA_ds_1.1:16.1', 'PA_ds_1.1:17.1']	Savitakkasavicārā dhammā. (1000, 1399)🔽Avitakkavicāramattā dhammā. (1001, 1400)	sa vitakka sa vicārāḥ dhammāḥ  a vitakka vicāra mattāḥ dhammāḥ 	Thoughts associated with applied thought and sustained thought.🔽Thoughts not associated with applied thought but only with sustained thought.
-['PA_ds_1.1:18.1']	Avitakkaavicārā dhammā. (1002, 1401)	a vitakka a vicārāḥ dhammā 	Thoughts not associated with applied thought or sustained thought.
-['PA_ds_1.1:19.0', 'PA_ds_1.1:19.1']	7. Pītittika🔽Pītisahagatā dhammā. (1003, 1402)	pītittika  pīti sahagatāḥ dhammāḥ 	With joy🔽Thoughts associated with joy.
-['PA_ds_1.1:20.1']	Sukhasahagatā dhammā. (1004, 1403)	sukha sahagatāḥ dhammāḥ 	Thoughts associated with pleasure.
-['PA_ds_1.1:21.1', 'PA_ds_1.1:22.0', 'PA_ds_1.1:22.1']	Upekkhāsahagatā dhammā. (1005, 1404)🔽8. Dassanenapahātabbattika🔽Dassanena pahātabbā dhammā. (1006, 1405)	upekkhā sahagatāḥ dhammāḥ  dassanena apahātabba ttika  dassanena pahātabbāḥ dhammāḥ 	Thoughts associated with equanimity.🔽To be abandoned by vision🔽Thoughts to be abandoned by vision.
-['PA_ds_1.1:23.1']	Bhāvanāya pahātabbā dhammā. (1011, 1406)	bhāvanāya pahātabbāḥ dhammāḥ 	Thoughts to be abandoned by development.
-['PA_ds_1.1:24.1', 'PA_ds_1.1:25.0']	Neva dassanena na bhāvanāya pahātabbā dhammā. (1012, 1407)🔽9. Dassanenapahātabbahetukattika	na iva dassanena na bhāvanāya pahātabbāḥ dhammā  dassanena apahātabba hetukattika 	Thoughts not to be abandoned by vision or development.🔽With cause to be abandoned by vision
-['PA_ds_1.1:25.1']	Dassanena pahātabbahetukā dhammā. (1013, 1408)	dassanena pahātabba hetukāḥ dhammāḥ 	Thoughts with cause to be abandoned by vision.
-['PA_ds_1.1:26.1']	Bhāvanāya pahātabbahetukā dhammā. (1018, 1409)	bhāvanāya pahātabba hetukāḥ dhammāḥ 	Thoughts with cause to be abandoned by development.
-['PA_ds_1.1:27.1']	Neva dassanena na bhāvanāya pahātabbahetukā dhammā. (1019, 1410)	na iva dassanena na bhāvanāya pahātabba hetukāḥ dhammāḥ 	Thoughts with cause not to be abandoned by vision or development.
-['PA_ds_1.1:28.0', 'PA_ds_1.1:28.1']	10. Ācayagāmittika🔽Ācayagāmino dhammā. (1020, 1411)	ācaya gāmittika  ācaya gāminaḥ dhammā 	With increase🔽Thoughts with increase.
-['PA_ds_1.1:29.1']	Apacayagāmino dhammā. (1021, 1412)	apacaya gāminaḥ dhammā 	Thoughts with decrease.
-['PA_ds_1.1:30.1']	Nevācayagāmināpacayagāmino dhammā. (1022, 1413)	na iva ācaya gāminā apacaya gāminaḥ dhammā 	Thoughts with neither increase nor decrease.
-['PA_ds_1.1:31.0', 'PA_ds_1.1:31.1']	11. Sekkhattika🔽Sekkhā dhammā. (1023, 1414)	sekkhattika  sekkhāḥ dhammāḥ 	With training🔽Thoughts with training.
-['PA_ds_1.1:32.1']	Asekkhā dhammā. (1024, 1415)	asekkhāḥ dhammāḥ 	Thoughts without training.
-['PA_ds_1.1:33.1']	Nevasekkhanāsekkhā dhammā. (1025, 1416)	nevasekkha nāsekkhāḥ dhammāḥ 	Neither-in-training-nor-beyond-training.🔽(1025, 1416)
-['PA_ds_1.1:34.0', 'PA_ds_1.1:34.1']	12. Parittattika🔽Parittā dhammā. (1026, 1417)	parittattika  parittāḥ dhammāḥ 	. The limited🔽Limited phenomena.
-['PA_ds_1.1:35.1']	Mahaggatā dhammā. (1027, 1418)	mahaggatāḥ dhammāḥ 	Extensive phenomena.
-['PA_ds_1.1:36.1']	Appamāṇā dhammā. (1028, 1419)	appamāṇāḥ dhammāḥ 	Immeasurable phenomena.
-['PA_ds_1.1:37.0', 'PA_ds_1.1:37.1']	13. Parittārammaṇattika🔽Parittārammaṇā dhammā. (1029, 1420)	paritta ārammaṇa ttika  paritta ārammaṇāḥ dhammāḥ 	. The limited as object🔽Limited as object phenomena.
-['PA_ds_1.1:38.1']	Mahaggatārammaṇā dhammā. (1030, 1421)	mahaggata ārammaṇāḥ dhammāḥ 	Extensive as object phenomena.
-['PA_ds_1.1:39.1']	Appamāṇārammaṇā dhammā. (1031, 1422)	appamāṇa ārammaṇāḥ dhammāḥ 	Immeasurable as object phenomena.
-['PA_ds_1.1:40.0', 'PA_ds_1.1:40.1']	14. Hīnattika🔽Hīnā dhammā. (1032, 1423)	hīnattika  hīnāḥ dhammā 	. The inferior🔽Inferior phenomena.
-['PA_ds_1.1:41.1']	Majjhimā dhammā. (1033, 1424)	majjhimāḥ dhammāḥ 	Medium phenomena.
-['PA_ds_1.1:42.1']	Paṇītā dhammā. (1034, 1425)	paṇītāḥ dhammāḥ 	Superior phenomena.
-['PA_ds_1.1:43.0', 'PA_ds_1.1:43.1']	15. Micchattaniyatattika🔽Micchattaniyatā dhammā. (1035, 1426)	micchat ta niya ta ttika  micchat ta niyatāḥ dhammāḥ 	. The fixed in wrongness🔽Fixed in wrongness phenomena.
-['PA_ds_1.1:44.1']	Sammattaniyatā dhammā. (1036, 1427)	sammatta niyatāḥ dhammāḥ 	Fixed in rightness phenomena.
-['PA_ds_1.1:45.1']	Aniyatā dhammā. (1037, 1428)	aniyatāḥ dhammāḥ 	Unfixed phenomena.
-['PA_ds_1.1:46.0', 'PA_ds_1.1:46.1']	16. Maggārammaṇattika🔽Maggārammaṇā dhammā. (1038, 1429)	magga ārammaṇa ttika  magga ārammaṇāḥ dhammāḥ 	. The path as object🔽Path as object phenomena.
-['PA_ds_1.1:47.1']	Maggahetukā dhammā. (1039, 1429)	magga hetukāḥ dhammāḥ 	Path as cause phenomena.
-['PA_ds_1.1:48.1']	Maggādhipatino dhammā. (1040, 1429)	magga adhipatinaḥ dhammāḥ 	Path as dominant phenomena.
-['PA_ds_1.1:49.0', 'PA_ds_1.1:49.1']	17. Uppannattika🔽Uppannā dhammā. (1041, 1430)	uppanna ttika  uppannāḥ dhammāḥ 	. The arisen🔽Arisen phenomena.
-['PA_ds_1.1:50.1']	Anuppannā dhammā. (1042, 1430)	anuppannāḥ dhammāḥ 	Unarisen phenomena.
-['PA_ds_1.1:51.1']	Uppādino dhammā. (1043, 1430)	uppādinaḥ dhammā 	Arising phenomena.
-['PA_ds_1.1:52.0', 'PA_ds_1.1:52.1']	18. Atītattika🔽Atītā dhammā. (1044, 1431)	atītattika  atītāḥ dhammāḥ 	. The past🔽Past phenomena.
-['PA_ds_1.1:53.1']	Anāgatā dhammā. (1045, 1431)	anāgatāḥ dhammāḥ 	Future phenomena.
-['PA_ds_1.1:54.1', 'PA_ds_1.1:55.0']	Paccuppannā dhammā. (1046, 1431)🔽19. Atītārammaṇattika	paccuppannāḥ dhammāḥ 🔽     	Present phenomena.
-['PA_ds_1.1:55.1', 'PA_ds_1.1:56.1']	Atītārammaṇā dhammā. (1047, 1432)🔽Anāgatārammaṇā dhammā. (1048, 1433)	atīta ārammaṇāḥ dhammāḥ  anāgata ārammaṇāḥ dhammāḥ 	Thoughts that have past as their object.🔽Thoughts that have future as their object.
-['PA_ds_1.1:57.1']	Paccuppannārammaṇā dhammā. (1049, 1434)	paccuppanna ārammaṇāḥ dhammāḥ 	Thoughts that have present as their object.
-['PA_ds_1.1:58.0']	20. Ajjhattattika	ajjhattattika 	. Internal
-['PA_ds_1.1:58.1', 'PA_ds_1.1:59.1']	Ajjhattā dhammā. (1050, 1435)🔽Bahiddhā dhammā. (1051, 1435)	ajjhattāḥ dhammāḥ  bahiddhā dhammā 	Internal thoughts.🔽External thoughts.
-['PA_ds_1.1:60.1']	Ajjhattabahiddhā dhammā. (1052, 1435)	ajjhatta bahiddhāḥ dhammāḥ 	Internal and external thoughts.
-['PA_ds_1.1:61.0', 'PA_ds_1.1:61.1']	21. Ajjhattārammaṇattika🔽Ajjhattārammaṇā dhammā. (1053, 1436)	       ajjhatta ārammaṇāḥ dhammāḥ 	. Having an internal object🔽Thoughts that have an internal object.
-['PA_ds_1.1:62.1']	Bahiddhārammaṇā dhammā. (1054, 1437)	bahiddhā ārammaṇāḥ dhammāḥ 	Thoughts that have an external object.
-['PA_ds_1.1:63.1']	Ajjhattabahiddhārammaṇā dhammā. (1055, 1437)	ajjhatta bahiddhā ārammaṇāḥ dhammāḥ 	Thoughts that have an internal and external object.
-['PA_ds_1.1:64.0']	22. Sanidassanattika	sani dassana ttika 	. Visible
-['PA_ds_1.1:64.1', 'PA_ds_1.1:65.1']	Sanidassanasappaṭighā dhammā. (1056, 1438)🔽Anidassanasappaṭighā dhammā. (1057, 1439)	sa nidassana sa paṭighāḥ dhammāḥ  a nidassana sa paṭighāḥ dhammāḥ 	Thoughts that are visible and have impingement.🔽Thoughts that are invisible and have impingement.
-['PA_ds_1.1:66.1']	Anidassanaappaṭighā dhammā. (1058, 1440)	anidassana appaṭighāḥ dhammāḥ 	Thoughts that are invisible and have no impingement.
-['PA_ds_1.1:66.2']	Tikamātikā.	tikamātikā 	The Triad-Couplet Matrix.
+segmentnr	original	analyzed	folio	translated
+['PA_ds_1.1:0.1', 'PA_ds_1.1:0.2']	Dhammasaṅgaṇī🔽Tikamātikā	dhammasaṅgaṇī  tikamātikā 	0	The Numerical Discourses🔽The Triad-based Numerical Lists
+['PA_ds_1.1:1.0.1']	1. Kusalattika	kusalattika 	1	The Triad on the Wholesome
+['PA_ds_1.1:1.0.2']	Namo tassa Bhagavato Arahato Sammāsambuddhassa.	namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa 	1	Homage to that Blessed One, the Worthy One, the Rightly Self-awakened One.
+['PA_ds_1.1:1.1', 'PA_ds_1.1:2.1']	Kusalā dhammā. (1, 363, 985, 1384)🔽Akusalā dhammā. (365, 427, 986, 1385)	kusalāḥ dhammāḥ  akusalāḥ dhammāḥ 	1	Wholesome thoughts. (, , , )🔽Unwholesome thoughts. (, , , )
+['PA_ds_1.1:3.1']	Abyākatā dhammā. (431, 583, 987, 1386)	abyākatāḥ dhammāḥ 	3	Undetermined thoughts. (, , , )
+['PA_ds_1.1:4.0']	2. Vedanāttika	vedanā ttika 	4	. The Triad on Feeling
+['PA_ds_1.1:4.1']	Sukhāya vedanāya sampayuttā dhammā. (988, 1387)	sukhāya vedanāya sampayuttāḥ dhammāḥ 	4	Thoughts associated with pleasant feeling. (, )
+['PA_ds_1.1:5.1']	Dukkhāya vedanāya sampayuttā dhammā. (989, 1388)	dukkhāya vedanāya sampayuttāḥ dhammāḥ 	5	Thoughts associated with painful feeling. (, )
+['PA_ds_1.1:6.1']	Adukkhamasukhāya vedanāya sampayuttā dhammā. (990, 1389)	adukkhamasukhāya vedanāya sampayuttāḥ dhammāḥ 	6	Thoughts associated with neither-painful-nor-pleasant feeling. (, )
+['PA_ds_1.1:7.0', 'PA_ds_1.1:7.1']	3. Vipākattika🔽Vipākā dhammā. (991, 1390)	vipākattika  vipākāḥ dhammā 	7	. The Triad on Result🔽Thoughts that are results. (, )
+['PA_ds_1.1:8.1']	Vipākadhammadhammā. (992, 1391)	vipāka dhamma dhammā 	8	Thoughts that are states subject to results. (, )
+['PA_ds_1.1:9.1']	Nevavipākanavipākadhammadhammā. (993, 1392)	na iva vipāka na vipāka dhamma dhammā 	9	Thoughts that are neither results nor states subject to results. (, )
+['PA_ds_1.1:10.0']	4. Upādinnattika	upādinnattika 	10	. The Triad on the Clinging Aggregates
+['PA_ds_1.1:10.1', 'PA_ds_1.1:11.1']	Upādinnupādāniyā dhammā. (994, 1393)🔽Anupādinnupādāniyā dhammā. (995, 1394)	upādinnupādāniyāḥ dhammāḥ  an upādinna upādāniyāḥ dhammāḥ 	10	Thoughts that are clinging and related to clinging. (, )🔽Thoughts that are not clinging but are related to clinging. (, )
+['PA_ds_1.1:12.1']	Anupādinnaanupādāniyā dhammā. (996, 1395)	anupādinna anupādāniyāḥ dhammāḥ 	12	Thoughts that are neither clinging nor related to clinging. (, )
+['PA_ds_1.1:13.0']	5. Saṅkiliṭṭhattika	saṅkiliṭṭhattika 	13	. The Triad on the Corrupted
+['PA_ds_1.1:13.1', 'PA_ds_1.1:14.1']	Saṅkiliṭṭhasaṅkilesikā dhammā. (997, 1396)🔽Asaṅkiliṭṭhasaṅkilesikā dhammā. (998, 1397)	saṅkiliṭṭha saṅkilesikāḥ dhammāḥ  asaṅkiliṭṭha saṅkilesikāḥ dhammāḥ 	13	Thoughts that are corrupted and related to corruption. (, )🔽Thoughts that are not corrupted but are related to corruption. (, )
+['PA_ds_1.1:15.1']	Asaṅkiliṭṭhaasaṅkilesikā dhammā. (999, 1398)	asaṅkiliṭṭha asaṅkilesikāḥ dhammāḥ 	15	Thoughts that are neither corrupted nor related to corruption. (, )
+['PA_ds_1.1:16.0']	6. Vitakkattika	vitakkattika 	16	. The Triad on Applied Thought
+['PA_ds_1.1:16.1', 'PA_ds_1.1:17.1']	Savitakkasavicārā dhammā. (1000, 1399)🔽Avitakkavicāramattā dhammā. (1001, 1400)	sa vitakka sa vicārāḥ dhammāḥ  a vitakka vicāra mattāḥ dhammāḥ 	16	Thoughts associated with applied thought and sustained thought.🔽Thoughts not associated with applied thought but only with sustained thought.
+['PA_ds_1.1:18.1']	Avitakkaavicārā dhammā. (1002, 1401)	a vitakka a vicārāḥ dhammā 	18	Thoughts not associated with applied thought or sustained thought.
+['PA_ds_1.1:19.0', 'PA_ds_1.1:19.1']	7. Pītittika🔽Pītisahagatā dhammā. (1003, 1402)	pītittika  pīti sahagatāḥ dhammāḥ 	19	With joy🔽Thoughts associated with joy.
+['PA_ds_1.1:20.1']	Sukhasahagatā dhammā. (1004, 1403)	sukha sahagatāḥ dhammāḥ 	20	Thoughts associated with pleasure.
+['PA_ds_1.1:21.1', 'PA_ds_1.1:22.0', 'PA_ds_1.1:22.1']	Upekkhāsahagatā dhammā. (1005, 1404)🔽8. Dassanenapahātabbattika🔽Dassanena pahātabbā dhammā. (1006, 1405)	upekkhā sahagatāḥ dhammāḥ  dassanena apahātabba ttika  dassanena pahātabbāḥ dhammāḥ 	21	Thoughts associated with equanimity.🔽To be abandoned by vision🔽Thoughts to be abandoned by vision.
+['PA_ds_1.1:23.1']	Bhāvanāya pahātabbā dhammā. (1011, 1406)	bhāvanāya pahātabbāḥ dhammāḥ 	23	Thoughts to be abandoned by development.
+['PA_ds_1.1:24.1', 'PA_ds_1.1:25.0']	Neva dassanena na bhāvanāya pahātabbā dhammā. (1012, 1407)🔽9. Dassanenapahātabbahetukattika	na iva dassanena na bhāvanāya pahātabbāḥ dhammā  dassanena apahātabba hetukattika 	24	Thoughts not to be abandoned by vision or development.🔽With cause to be abandoned by vision
+['PA_ds_1.1:25.1']	Dassanena pahātabbahetukā dhammā. (1013, 1408)	dassanena pahātabba hetukāḥ dhammāḥ 	25	Thoughts with cause to be abandoned by vision.
+['PA_ds_1.1:26.1']	Bhāvanāya pahātabbahetukā dhammā. (1018, 1409)	bhāvanāya pahātabba hetukāḥ dhammāḥ 	26	Thoughts with cause to be abandoned by development.
+['PA_ds_1.1:27.1']	Neva dassanena na bhāvanāya pahātabbahetukā dhammā. (1019, 1410)	na iva dassanena na bhāvanāya pahātabba hetukāḥ dhammāḥ 	27	Thoughts with cause not to be abandoned by vision or development.
+['PA_ds_1.1:28.0', 'PA_ds_1.1:28.1']	10. Ācayagāmittika🔽Ācayagāmino dhammā. (1020, 1411)	ācaya gāmittika  ācaya gāminaḥ dhammā 	28	With increase🔽Thoughts with increase.
+['PA_ds_1.1:29.1']	Apacayagāmino dhammā. (1021, 1412)	apacaya gāminaḥ dhammā 	29	Thoughts with decrease.
+['PA_ds_1.1:30.1']	Nevācayagāmināpacayagāmino dhammā. (1022, 1413)	na iva ācaya gāminā apacaya gāminaḥ dhammā 	30	Thoughts with neither increase nor decrease.
+['PA_ds_1.1:31.0', 'PA_ds_1.1:31.1']	11. Sekkhattika🔽Sekkhā dhammā. (1023, 1414)	sekkhattika  sekkhāḥ dhammāḥ 	31	With training🔽Thoughts with training.
+['PA_ds_1.1:32.1']	Asekkhā dhammā. (1024, 1415)	asekkhāḥ dhammāḥ 	32	Thoughts without training.
+['PA_ds_1.1:33.1']	Nevasekkhanāsekkhā dhammā. (1025, 1416)	nevasekkha nāsekkhāḥ dhammāḥ 	33	Neither-in-training-nor-beyond-training.🔽(1025, 1416)
+['PA_ds_1.1:34.0', 'PA_ds_1.1:34.1']	12. Parittattika🔽Parittā dhammā. (1026, 1417)	parittattika  parittāḥ dhammāḥ 	34	. The limited🔽Limited phenomena.
+['PA_ds_1.1:35.1']	Mahaggatā dhammā. (1027, 1418)	mahaggatāḥ dhammāḥ 	35	Extensive phenomena.
+['PA_ds_1.1:36.1']	Appamāṇā dhammā. (1028, 1419)	appamāṇāḥ dhammāḥ 	36	Immeasurable phenomena.
+['PA_ds_1.1:37.0', 'PA_ds_1.1:37.1']	13. Parittārammaṇattika🔽Parittārammaṇā dhammā. (1029, 1420)	paritta ārammaṇa ttika  paritta ārammaṇāḥ dhammāḥ 	37	. The limited as object🔽Limited as object phenomena.
+['PA_ds_1.1:38.1']	Mahaggatārammaṇā dhammā. (1030, 1421)	mahaggata ārammaṇāḥ dhammāḥ 	38	Extensive as object phenomena.
+['PA_ds_1.1:39.1']	Appamāṇārammaṇā dhammā. (1031, 1422)	appamāṇa ārammaṇāḥ dhammāḥ 	39	Immeasurable as object phenomena.
+['PA_ds_1.1:40.0', 'PA_ds_1.1:40.1']	14. Hīnattika🔽Hīnā dhammā. (1032, 1423)	hīnattika  hīnāḥ dhammā 	40	. The inferior🔽Inferior phenomena.
+['PA_ds_1.1:41.1']	Majjhimā dhammā. (1033, 1424)	majjhimāḥ dhammāḥ 	41	Medium phenomena.
+['PA_ds_1.1:42.1']	Paṇītā dhammā. (1034, 1425)	paṇītāḥ dhammāḥ 	42	Superior phenomena.
+['PA_ds_1.1:43.0', 'PA_ds_1.1:43.1']	15. Micchattaniyatattika🔽Micchattaniyatā dhammā. (1035, 1426)	micchat ta niya ta ttika  micchat ta niyatāḥ dhammāḥ 	43	. The fixed in wrongness🔽Fixed in wrongness phenomena.
+['PA_ds_1.1:44.1']	Sammattaniyatā dhammā. (1036, 1427)	sammatta niyatāḥ dhammāḥ 	44	Fixed in rightness phenomena.
+['PA_ds_1.1:45.1']	Aniyatā dhammā. (1037, 1428)	aniyatāḥ dhammāḥ 	45	Unfixed phenomena.
+['PA_ds_1.1:46.0', 'PA_ds_1.1:46.1']	16. Maggārammaṇattika🔽Maggārammaṇā dhammā. (1038, 1429)	magga ārammaṇa ttika  magga ārammaṇāḥ dhammāḥ 	46	. The path as object🔽Path as object phenomena.
+['PA_ds_1.1:47.1']	Maggahetukā dhammā. (1039, 1429)	magga hetukāḥ dhammāḥ 	47	Path as cause phenomena.
+['PA_ds_1.1:48.1']	Maggādhipatino dhammā. (1040, 1429)	magga adhipatinaḥ dhammāḥ 	48	Path as dominant phenomena.
+['PA_ds_1.1:49.0', 'PA_ds_1.1:49.1']	17. Uppannattika🔽Uppannā dhammā. (1041, 1430)	uppanna ttika  uppannāḥ dhammāḥ 	49	. The arisen🔽Arisen phenomena.
+['PA_ds_1.1:50.1']	Anuppannā dhammā. (1042, 1430)	anuppannāḥ dhammāḥ 	50	Unarisen phenomena.
+['PA_ds_1.1:51.1']	Uppādino dhammā. (1043, 1430)	uppādinaḥ dhammā 	51	Arising phenomena.
+['PA_ds_1.1:52.0', 'PA_ds_1.1:52.1']	18. Atītattika🔽Atītā dhammā. (1044, 1431)	atītattika  atītāḥ dhammāḥ 	52	. The past🔽Past phenomena.
+['PA_ds_1.1:53.1']	Anāgatā dhammā. (1045, 1431)	anāgatāḥ dhammāḥ 	53	Future phenomena.
+['PA_ds_1.1:54.1', 'PA_ds_1.1:55.0']	Paccuppannā dhammā. (1046, 1431)🔽19. Atītārammaṇattika	paccuppannāḥ dhammāḥ 🔽     	54	Present phenomena.
+['PA_ds_1.1:55.1', 'PA_ds_1.1:56.1']	Atītārammaṇā dhammā. (1047, 1432)🔽Anāgatārammaṇā dhammā. (1048, 1433)	atīta ārammaṇāḥ dhammāḥ  anāgata ārammaṇāḥ dhammāḥ 	55	Thoughts that have past as their object.🔽Thoughts that have future as their object.
+['PA_ds_1.1:57.1']	Paccuppannārammaṇā dhammā. (1049, 1434)	paccuppanna ārammaṇāḥ dhammāḥ 	57	Thoughts that have present as their object.
+['PA_ds_1.1:58.0']	20. Ajjhattattika	ajjhattattika 	58	. Internal
+['PA_ds_1.1:58.1', 'PA_ds_1.1:59.1']	Ajjhattā dhammā. (1050, 1435)🔽Bahiddhā dhammā. (1051, 1435)	ajjhattāḥ dhammāḥ  bahiddhā dhammā 	58	Internal thoughts.🔽External thoughts.
+['PA_ds_1.1:60.1']	Ajjhattabahiddhā dhammā. (1052, 1435)	ajjhatta bahiddhāḥ dhammāḥ 	60	Internal and external thoughts.
+['PA_ds_1.1:61.0', 'PA_ds_1.1:61.1']	21. Ajjhattārammaṇattika🔽Ajjhattārammaṇā dhammā. (1053, 1436)	       ajjhatta ārammaṇāḥ dhammāḥ 	61	. Having an internal object🔽Thoughts that have an internal object.
+['PA_ds_1.1:62.1']	Bahiddhārammaṇā dhammā. (1054, 1437)	bahiddhā ārammaṇāḥ dhammāḥ 	62	Thoughts that have an external object.
+['PA_ds_1.1:63.1']	Ajjhattabahiddhārammaṇā dhammā. (1055, 1437)	ajjhatta bahiddhā ārammaṇāḥ dhammāḥ 	63	Thoughts that have an internal and external object.
+['PA_ds_1.1:64.0']	22. Sanidassanattika	sani dassana ttika 	64	. Visible
+['PA_ds_1.1:64.1', 'PA_ds_1.1:65.1']	Sanidassanasappaṭighā dhammā. (1056, 1438)🔽Anidassanasappaṭighā dhammā. (1057, 1439)	sa nidassana sa paṭighāḥ dhammāḥ  a nidassana sa paṭighāḥ dhammāḥ 	64	Thoughts that are visible and have impingement.🔽Thoughts that are invisible and have impingement.
+['PA_ds_1.1:66.1']	Anidassanaappaṭighā dhammā. (1058, 1440)	anidassana appaṭighāḥ dhammāḥ 	66	Thoughts that are invisible and have no impingement.
+['PA_ds_1.1:66.2']	Tikamātikā.	tikamātikā 	66	The Triad-Couplet Matrix.

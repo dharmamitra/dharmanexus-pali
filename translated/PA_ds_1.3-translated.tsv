@@ -1,94 +1,94 @@
-segmentnr	original	analyzed	translated
-['PA_ds_1.3:0.1']	Dhammasaṅgaṇī	dhammasaṅgaṇī 	The Numerical Discourses🔽
-['PA_ds_1.3:0.2', 'PA_ds_1.3:1.0']	Suttantikadukamātikā🔽1. Vijjābhāgīduka	       vijjābhāgīduka 	The Numerical Discourses🔽The Numerical Lists in the Chapter on the Discourses🔽The Pairs on the Factors of Awakening
-['PA_ds_1.3:1.1']	Vijjābhāgino dhammā. (1303)	vijjā bhāginaḥ dhammā 	The factors of awakening.
-['PA_ds_1.3:2.1']	Avijjābhāgino dhammā. (1304)	avijjā bhāginaḥ dhammā 	The factors of ignorance.
-['PA_ds_1.3:3.0', 'PA_ds_1.3:3.1']	2. Vijjūpamaduka🔽Vijjūpamā dhammā. (1305)	vijjūpamaduka  vijju upamāḥ dhammāḥ 	The Pairs on Lightning🔽The states that are like lightning.
-['PA_ds_1.3:4.1']	Vajirūpamā dhammā. (1306)	vaji rūpamāḥ dhammāḥ 	The states that are like a thunderbolt.
-['PA_ds_1.3:5.0', 'PA_ds_1.3:5.1']	3. Bāladuka🔽Bālā dhammā. (1307)	bāladuka  bālāḥ dhammāḥ 	The Pairs on Fools🔽The states of a fool.
-['PA_ds_1.3:6.1']	Paṇḍitā dhammā. (1308)	paṇḍitāḥ dhammāḥ 	The states of a wise person.
-['PA_ds_1.3:7.0', 'PA_ds_1.3:7.1']	4. Kaṇhaduka🔽Kaṇhā dhammā. (1309)	kaṇhaduka  kaṇhāḥ dhammāḥ 	The Pairs on Dark🔽The dark states.
-['PA_ds_1.3:8.1']	Sukkā dhammā. (1310)	sukkāḥ dhammāḥ 	The bright states.
-['PA_ds_1.3:9.0', 'PA_ds_1.3:9.1']	5. Tapanīyaduka🔽Tapanīyā dhammā. (1311)	tapanīya duka  tapanīyāḥ dhammāḥ 	The Pairs on Burning🔽The states that burn.
-['PA_ds_1.3:10.1']	Atapanīyā dhammā. (1312)	a tapanīyāḥ dhammāḥ 	The states that do not burn.
-['PA_ds_1.3:11.0', 'PA_ds_1.3:11.1']	6. Adhivacanaduka🔽Adhivacanā dhammā. (1313)	adhivacana duka  adhivacanā dhammā 	The Pairs on Terms🔽The states that are terms.
-['PA_ds_1.3:12.1']	Adhivacanapathā dhammā. (1313)	adhivacana pathāḥ dhammāḥ 	The states that are the path of terms.
-['PA_ds_1.3:13.0', 'PA_ds_1.3:13.1']	7. Niruttiduka🔽Nirutti dhammā. (1314)	nirutti duka  nirutti dhammā 	The Pairs on Language🔽The states that are language.
-['PA_ds_1.3:14.1']	Niruttipathā dhammā. (1314)	nirutti pathāḥ dhammāḥ 	The states that are the path of language.
-['PA_ds_1.3:15.0', 'PA_ds_1.3:15.1']	8. Paññattiduka🔽Paññatti dhammā. (1315)	paññatti duka  paññatti dhammā 	The Pairs on Description🔽The states that are descriptions.
-['PA_ds_1.3:16.1']	Paññattipathā dhammā. (1315)	paññatti pathāḥ dhammāḥ 	The states that are the path of descriptions.
-['PA_ds_1.3:17.0', 'PA_ds_1.3:17.1']	9. Nāmaduka🔽Nāmañca. (1316)	nāmaduka  nāman ca 	The Pairs on Name🔽Name and form.
-['PA_ds_1.3:18.1']	Rūpañca. (1317)	rūpam ca 	The states that are name.
-['PA_ds_1.3:19.0', 'PA_ds_1.3:19.1']	10. Avijjāduka🔽Avijjā ca. (1318)	avijjāduka  avijjā ca 	The Pairs on Ignorance
-['PA_ds_1.3:20.1']	Bhavataṇhā ca. (1319)	bhavataṇhā ca 	Ignorance and craving for existence.
-['PA_ds_1.3:21.0', 'PA_ds_1.3:21.1']	11. Bhavadiṭṭhiduka🔽Bhavadiṭṭhi ca. (1320)	bhavat iṭṭhi duka  bhava diṭṭhi ca 	The Pairs on Views on Existence
-['PA_ds_1.3:22.1']	Vibhavadiṭṭhi ca. (1321)	vibhava diṭṭhi ca 	Views on existence and views on non-existence.
-['PA_ds_1.3:23.0', 'PA_ds_1.3:23.1']	12. Sassatadiṭṭhiduka🔽Sassatadiṭṭhi ca. (1322)	sa ssa ta diṭṭhi duka  sassata diṭṭhi ca 	The Pairs on Views on Eternity
-['PA_ds_1.3:24.1']	Ucchedadiṭṭhi ca. (1323)	uccheda diṭṭhi ca 	Views on eternity and views on annihilation.
-['PA_ds_1.3:25.0', 'PA_ds_1.3:25.1']	13. Antavādiṭṭhiduka🔽Antavā diṭṭhi ca. (1324)	anta vā diṭṭhi duka  antavā diṭṭhi ca 	13. The Section on Views about an End🔽Views about an end.
-['PA_ds_1.3:26.1']	Anantavā diṭṭhi ca. (1325)	anantavā diṭṭhi ca 	Views about no end.
-['PA_ds_1.3:27.0', 'PA_ds_1.3:27.1']	14. Pubbantānudiṭṭhiduka🔽Pubbantānudiṭṭhi ca. (1326)	pubba anta anudiṭṭhi duka  pubbanta anudiṭṭhi ca 	. The Section on Views about the Past🔽Views about the past.
-['PA_ds_1.3:28.1']	Aparantānudiṭṭhi ca. (1327)	aparanta anudiṭṭhi ca 	Views about the future.
-['PA_ds_1.3:29.0']	15. Ahirikaduka	ahirikaduka 	. The Section on Shamelessness
-['PA_ds_1.3:29.1']	Ahirikañca. (1328)	ahirikam ca 	Shamelessness.
-['PA_ds_1.3:30.1']	Anottappañca. (1329)	an uttappan ca 	Lack of compunction.
-['PA_ds_1.3:31.0']	16. Hiriduka	hiriduka 	. The Section on Conscience
-['PA_ds_1.3:31.1']	Hirī ca. (1330)	hi rī ca 	Conscience.
-['PA_ds_1.3:32.1']	Ottappañca. (1331)	ottappañca 	Fear of wrongdoing.
-['PA_ds_1.3:33.0', 'PA_ds_1.3:33.1']	17. Dovacassatāduka🔽Dovacassatā ca. (1332)	do vacaḥ sata āduka  dovacassatā ca 	. The Section on Being Difficult to Correct🔽Being difficult to correct.
-['PA_ds_1.3:34.1']	Pāpamittatā ca. (1333)	pāpa mitta tā ca 	Having bad friends.
-['PA_ds_1.3:35.0', 'PA_ds_1.3:35.1']	18. Sovacassatāduka🔽Sovacassatā ca. (1334)	so vacaḥ sa ta āduka  sovacassatā ca 	. The Section on Being Easy to Correct🔽Being easy to correct.
-['PA_ds_1.3:36.1']	Kalyāṇamittatā ca. (1335)	kalyāṇa mitta tā ca 	Having good friends.
-['PA_ds_1.3:37.0', 'PA_ds_1.3:37.1']	19. Āpattikusalatāduka🔽Āpattikusalatā ca. (1336)	āpatti kusala tā duka  āpatti kusala tā ca 	. The Section on Skill in Offenses🔽Skill in offenses.
-['PA_ds_1.3:38.1']	Āpattivuṭṭhānakusalatā ca. (1337)	āpatti vuṭṭhāna kusala tā ca 	Skill in clearing offenses.
-['PA_ds_1.3:39.0', 'PA_ds_1.3:39.1']	20. Samāpattikusalatāduka🔽Samāpattikusalatā ca. (1338)	       samāpatti kusala tā ca 	. The Section on Skill in Attainments🔽Skill in attainments.
-['PA_ds_1.3:40.1', 'PA_ds_1.3:41.0']	Samāpattivuṭṭhānakusalatā ca. (1339)🔽21. Dhātukusalatāduka	samāpatti vuṭṭhāna kusala tā ca  dhātu kusala tāduka 	Skill in emerging from attainments.🔽. The Section on Skill in Elements
-['PA_ds_1.3:41.1']	Dhātukusalatā ca. (1340)	dhātu kusala tā ca 	Skill in the elements.
-['PA_ds_1.3:42.1']	Manasikārakusalatā ca. (1341)	manasikāra kusala tā ca 	Skill in directing the mind.
-['PA_ds_1.3:43.0', 'PA_ds_1.3:43.1', 'PA_ds_1.3:44.1']	22. Āyatanakusalatāduka🔽Āyatanakusalatā ca. (1342)🔽Paṭiccasamuppādakusalatā ca. (1343)	āyatana kusala tāduka  āyatana kusala tā ca  paṭiccasamuppāda kusala tā ca 	. The Section on Skill in Sense-spheres🔽Skill in the sense-spheres.🔽Skill in dependent origination.
-['PA_ds_1.3:45.0']	23. Ṭhānakusalatāduka	ṭhāna kusala tāduka 	. The Section on Skill in Situations
-['PA_ds_1.3:45.1']	Ṭhānakusalatā ca. (1344)	ṭhāna kusala tā ca 	Skill in situations.
-['PA_ds_1.3:46.1']	Aṭṭhānakusalatā ca. (1345)	aṭṭhāna kusala tā ca 	(1345)
-['PA_ds_1.3:47.0']	24. Ajjavaduka	ajjavaduka 	Swiftness
-['PA_ds_1.3:47.1']	Ajjavo ca. (1346)	ajjavaḥ ca 	and swiftness.🔽and gentleness.
-['PA_ds_1.3:48.1']	Maddavo ca. (1347)	maddavaḥ ca 	(1346)
-['PA_ds_1.3:49.0', 'PA_ds_1.3:49.1']	25. Khantiduka🔽Khanti ca. (1348)	khantiduka  khanti ca 	Patience🔽and patience.🔽and gentleness.
-['PA_ds_1.3:50.1']	Soraccañca. (1349)	soḥ raccan ca 	(1347)
-['PA_ds_1.3:51.0', 'PA_ds_1.3:51.1']	26. Sākhalyaduka🔽Sākhalyañca. (1350)	sākhalyaduka  sākhalyam ca 	Friendliness🔽and friendliness.🔽and hospitality.
-['PA_ds_1.3:52.1', 'PA_ds_1.3:53.0']	Paṭisanthāro ca. (1351)🔽27. Indriyesuaguttadvāratāduka	paṭisanthāro ca        	(1348)🔽Not guarding the sense doors
-['PA_ds_1.3:53.1']	Indriyesuaguttadvāratā ca. (1352)	ca 	and not guarding the sense doors.
-['PA_ds_1.3:54.1']	Bhojane amattaññutā ca. (1353)	bhojane amattaññu tā ca 	and lack of moderation in eating.🔽(1349)
-['PA_ds_1.3:55.0', 'PA_ds_1.3:55.1']	28. Indriyesuguttadvāratāduka🔽Indriyesu guttadvāratā ca. (1354)	indriya  indriyesu gutta dvāra tā ca 	Guarding the sense doors🔽and guarding the sense doors.🔽and moderation in eating.
-['PA_ds_1.3:56.1']	Bhojane mattaññutā ca. (1355)	bhojane mattaññu tā ca 	(1350)
-['PA_ds_1.3:57.0', 'PA_ds_1.3:57.1']	29. Muṭṭhasaccaduka🔽Muṭṭhasaccañca. (1356)	muṭṭha sacca duka  muṭṭha saccam ca 	Lack of clear awareness🔽and lack of clear awareness.🔽(1351)🔽Mindfulness and clear awareness
-['PA_ds_1.3:58.1', 'PA_ds_1.3:59.0', 'PA_ds_1.3:59.1']	Asampajaññañca. (1357)🔽30. Satisampajaññaduka🔽Sati ca. (1358)	a sampajaññam ca  sati sampa jañña duka  sati ca 	and mindfulness.
-['PA_ds_1.3:60.1']	Sampajaññañca. (1359)	sampajaññam ca 	and clear awareness.🔽(1352)
-['PA_ds_1.3:61.0']	31. Paṭisaṅkhānabaladuka	paṭisaṅkhāna baladuka 	The power of reflection
-['PA_ds_1.3:61.1']	Paṭisaṅkhānabalañca. (1360)	paṭisaṅkhāna balam ca 	and the power of reflection.
-['PA_ds_1.3:62.1']	Bhāvanābalañca. (1361)	bhāvanā balañca 	and the power of development.🔽(1353)
-['PA_ds_1.3:63.0']	32. Samathavipassanāduka	samatha vipassana āduka 	Tranquility and insight
-['PA_ds_1.3:63.1']	Samatho ca. (1362)	sam atha u ca 	and tranquility.🔽and insight.
-['PA_ds_1.3:64.1']	Vipassanā ca. (1363)	vipassanā ca 	(1354)
-['PA_ds_1.3:65.0']	33. Samathanimittaduka	samatha nimitta duka 	The sign of tranquility
-['PA_ds_1.3:65.1']	Samathanimittañca. (1364)	samatha nimittam ca 	and the sign of tranquility.🔽and the sign of exertion.
-['PA_ds_1.3:66.1']	Paggāhanimittañca. (1365)	paggāha nimittam ca 	(1355)
-['PA_ds_1.3:67.0']	34. Paggāhaduka	paggāha duka 	Exertion
-['PA_ds_1.3:67.1']	Paggāho ca. (1366)	paggāhaḥ ca 	and exertion.
-['PA_ds_1.3:68.1']	Avikkhepo ca. (1367)	avikkhepaḥ ca 	and non-distraction.🔽(1356)
-['PA_ds_1.3:69.0']	35. Sīlavipattiduka	  	Failure in virtue
-['PA_ds_1.3:69.1']	Sīlavipatti ca. (1368)	sīla vipatti ca 	and failure in morality.
-['PA_ds_1.3:70.1', 'PA_ds_1.3:71.0']	Diṭṭhivipatti ca. (1369)🔽36. Sīlasampadāduka	diṭṭhi vipatti ca  sīla sampad āduka 	and failure in view.🔽The pair on the perfection of morality:
-['PA_ds_1.3:71.1']	Sīlasampadā ca. (1370)	sīla sampadā ca 	and the perfection of morality.
-['PA_ds_1.3:72.1', 'PA_ds_1.3:73.0']	Diṭṭhisampadā ca. (1371)🔽37. Sīlavisuddhiduka	diṭṭhi sampadā ca    	and the perfection of view.
-['PA_ds_1.3:73.1']	Sīlavisuddhi ca. (1372)	ca 	The pair on purification of morality:
-['PA_ds_1.3:74.1', 'PA_ds_1.3:75.0', 'PA_ds_1.3:75.1']	Diṭṭhivisuddhi ca. (1373)🔽38. Diṭṭhivisuddhikhopanaduka🔽Diṭṭhivisuddhikhopana. (1374)	ca  diṭṭhi visuddhi khopana duka  diṭṭhi visuddhi khopana 	and purification of view.🔽The pair on purification of view and striving:
-['PA_ds_1.3:76.1', 'PA_ds_1.3:77.0', 'PA_ds_1.3:77.1']	Yathādiṭṭhissa ca padhānaṁ. (1375)🔽39. Saṁvegasaṁvejananiyaṭṭhānaduka🔽Saṁvego ca saṁvejaniyesu ṭhānesu. (1376)	yathā ādiṭṭhissa ca padhāna  sa vega sa vejana niyaṭṭhāna duka  ca sa vejaniyesu ṭhānesu 	and striving in accordance with one’s view.🔽The pair on urgency and the grounds for urgency:
-['PA_ds_1.3:78.1', 'PA_ds_1.3:79.0']	Saṁviggassa ca yoniso padhānaṁ. (1377)🔽40. Asantuṭṭhitākusaladhammaduka	saviggassa ca yonisaḥ  a santuṭṭhita akusala dhamma duka 	and urgency about the grounds for urgency.🔽and proper effort by one who is urgent.🔽The pair on skillfulness and discontent:
-['PA_ds_1.3:79.1']	Asantuṭṭhitā ca kusalesu dhammesu. (1378)	a santuṭṭhi tā ca kusalesu dhammesu 	and discontent with skillful qualities.
-['PA_ds_1.3:80.1', 'PA_ds_1.3:81.0']	Appaṭivānitā ca padhānasmiṁ. (1379)🔽41. Vijjāduka	appaṭivānitā ca  vijjāduka 	and not giving up the effort.
-['PA_ds_1.3:81.1']	Vijjā ca. (1380)	vijjā ca 	The pair on knowledge:
-['PA_ds_1.3:82.1']	Vimutti ca. (1381)	vimutti ca 	and freedom.🔽The pair on knowledge of destruction and knowledge of non-arising:
-['PA_ds_1.3:83.0', 'PA_ds_1.3:83.1']	42. Khayeñāṇaduka🔽Khayeñāṇaṁ. (1382)	kha ya iñ āṇa duka  khayeñāṇa 	knowledge of destruction
-['PA_ds_1.3:84.1']	Anuppāde ñāṇanti. (1383)	anuppāde 	and knowledge of non-arising.
-['PA_ds_1.3:84.2']	Suttantikadukamātikā.	      	The Numerical Lists in the Suttas
-['PA_ds_1.3:84.3']	Mātikā niṭṭhitā.	mātikā niṭṭhitā 	The Numerical Lists are finished.
+segmentnr	original	analyzed	folio	translated
+['PA_ds_1.3:0.1']	Dhammasaṅgaṇī	dhammasaṅgaṇī 	0	The Numerical Discourses🔽
+['PA_ds_1.3:0.2', 'PA_ds_1.3:1.0']	Suttantikadukamātikā🔽1. Vijjābhāgīduka	       vijjābhāgīduka 	0	The Numerical Discourses🔽The Numerical Lists in the Chapter on the Discourses🔽The Pairs on the Factors of Awakening
+['PA_ds_1.3:1.1']	Vijjābhāgino dhammā. (1303)	vijjā bhāginaḥ dhammā 	1	The factors of awakening.
+['PA_ds_1.3:2.1']	Avijjābhāgino dhammā. (1304)	avijjā bhāginaḥ dhammā 	2	The factors of ignorance.
+['PA_ds_1.3:3.0', 'PA_ds_1.3:3.1']	2. Vijjūpamaduka🔽Vijjūpamā dhammā. (1305)	vijjūpamaduka  vijju upamāḥ dhammāḥ 	3	The Pairs on Lightning🔽The states that are like lightning.
+['PA_ds_1.3:4.1']	Vajirūpamā dhammā. (1306)	vaji rūpamāḥ dhammāḥ 	4	The states that are like a thunderbolt.
+['PA_ds_1.3:5.0', 'PA_ds_1.3:5.1']	3. Bāladuka🔽Bālā dhammā. (1307)	bāladuka  bālāḥ dhammāḥ 	5	The Pairs on Fools🔽The states of a fool.
+['PA_ds_1.3:6.1']	Paṇḍitā dhammā. (1308)	paṇḍitāḥ dhammāḥ 	6	The states of a wise person.
+['PA_ds_1.3:7.0', 'PA_ds_1.3:7.1']	4. Kaṇhaduka🔽Kaṇhā dhammā. (1309)	kaṇhaduka  kaṇhāḥ dhammāḥ 	7	The Pairs on Dark🔽The dark states.
+['PA_ds_1.3:8.1']	Sukkā dhammā. (1310)	sukkāḥ dhammāḥ 	8	The bright states.
+['PA_ds_1.3:9.0', 'PA_ds_1.3:9.1']	5. Tapanīyaduka🔽Tapanīyā dhammā. (1311)	tapanīya duka  tapanīyāḥ dhammāḥ 	9	The Pairs on Burning🔽The states that burn.
+['PA_ds_1.3:10.1']	Atapanīyā dhammā. (1312)	a tapanīyāḥ dhammāḥ 	10	The states that do not burn.
+['PA_ds_1.3:11.0', 'PA_ds_1.3:11.1']	6. Adhivacanaduka🔽Adhivacanā dhammā. (1313)	adhivacana duka  adhivacanā dhammā 	11	The Pairs on Terms🔽The states that are terms.
+['PA_ds_1.3:12.1']	Adhivacanapathā dhammā. (1313)	adhivacana pathāḥ dhammāḥ 	12	The states that are the path of terms.
+['PA_ds_1.3:13.0', 'PA_ds_1.3:13.1']	7. Niruttiduka🔽Nirutti dhammā. (1314)	nirutti duka  nirutti dhammā 	13	The Pairs on Language🔽The states that are language.
+['PA_ds_1.3:14.1']	Niruttipathā dhammā. (1314)	nirutti pathāḥ dhammāḥ 	14	The states that are the path of language.
+['PA_ds_1.3:15.0', 'PA_ds_1.3:15.1']	8. Paññattiduka🔽Paññatti dhammā. (1315)	paññatti duka  paññatti dhammā 	15	The Pairs on Description🔽The states that are descriptions.
+['PA_ds_1.3:16.1']	Paññattipathā dhammā. (1315)	paññatti pathāḥ dhammāḥ 	16	The states that are the path of descriptions.
+['PA_ds_1.3:17.0', 'PA_ds_1.3:17.1']	9. Nāmaduka🔽Nāmañca. (1316)	nāmaduka  nāman ca 	17	The Pairs on Name🔽Name and form.
+['PA_ds_1.3:18.1']	Rūpañca. (1317)	rūpam ca 	18	The states that are name.
+['PA_ds_1.3:19.0', 'PA_ds_1.3:19.1']	10. Avijjāduka🔽Avijjā ca. (1318)	avijjāduka  avijjā ca 	19	The Pairs on Ignorance
+['PA_ds_1.3:20.1']	Bhavataṇhā ca. (1319)	bhavataṇhā ca 	20	Ignorance and craving for existence.
+['PA_ds_1.3:21.0', 'PA_ds_1.3:21.1']	11. Bhavadiṭṭhiduka🔽Bhavadiṭṭhi ca. (1320)	bhavat iṭṭhi duka  bhava diṭṭhi ca 	21	The Pairs on Views on Existence
+['PA_ds_1.3:22.1']	Vibhavadiṭṭhi ca. (1321)	vibhava diṭṭhi ca 	22	Views on existence and views on non-existence.
+['PA_ds_1.3:23.0', 'PA_ds_1.3:23.1']	12. Sassatadiṭṭhiduka🔽Sassatadiṭṭhi ca. (1322)	sa ssa ta diṭṭhi duka  sassata diṭṭhi ca 	23	The Pairs on Views on Eternity
+['PA_ds_1.3:24.1']	Ucchedadiṭṭhi ca. (1323)	uccheda diṭṭhi ca 	24	Views on eternity and views on annihilation.
+['PA_ds_1.3:25.0', 'PA_ds_1.3:25.1']	13. Antavādiṭṭhiduka🔽Antavā diṭṭhi ca. (1324)	anta vā diṭṭhi duka  antavā diṭṭhi ca 	25	13. The Section on Views about an End🔽Views about an end.
+['PA_ds_1.3:26.1']	Anantavā diṭṭhi ca. (1325)	anantavā diṭṭhi ca 	26	Views about no end.
+['PA_ds_1.3:27.0', 'PA_ds_1.3:27.1']	14. Pubbantānudiṭṭhiduka🔽Pubbantānudiṭṭhi ca. (1326)	pubba anta anudiṭṭhi duka  pubbanta anudiṭṭhi ca 	27	. The Section on Views about the Past🔽Views about the past.
+['PA_ds_1.3:28.1']	Aparantānudiṭṭhi ca. (1327)	aparanta anudiṭṭhi ca 	28	Views about the future.
+['PA_ds_1.3:29.0']	15. Ahirikaduka	ahirikaduka 	29	. The Section on Shamelessness
+['PA_ds_1.3:29.1']	Ahirikañca. (1328)	ahirikam ca 	29	Shamelessness.
+['PA_ds_1.3:30.1']	Anottappañca. (1329)	an uttappan ca 	30	Lack of compunction.
+['PA_ds_1.3:31.0']	16. Hiriduka	hiriduka 	31	. The Section on Conscience
+['PA_ds_1.3:31.1']	Hirī ca. (1330)	hi rī ca 	31	Conscience.
+['PA_ds_1.3:32.1']	Ottappañca. (1331)	ottappañca 	32	Fear of wrongdoing.
+['PA_ds_1.3:33.0', 'PA_ds_1.3:33.1']	17. Dovacassatāduka🔽Dovacassatā ca. (1332)	do vacaḥ sata āduka  dovacassatā ca 	33	. The Section on Being Difficult to Correct🔽Being difficult to correct.
+['PA_ds_1.3:34.1']	Pāpamittatā ca. (1333)	pāpa mitta tā ca 	34	Having bad friends.
+['PA_ds_1.3:35.0', 'PA_ds_1.3:35.1']	18. Sovacassatāduka🔽Sovacassatā ca. (1334)	so vacaḥ sa ta āduka  sovacassatā ca 	35	. The Section on Being Easy to Correct🔽Being easy to correct.
+['PA_ds_1.3:36.1']	Kalyāṇamittatā ca. (1335)	kalyāṇa mitta tā ca 	36	Having good friends.
+['PA_ds_1.3:37.0', 'PA_ds_1.3:37.1']	19. Āpattikusalatāduka🔽Āpattikusalatā ca. (1336)	āpatti kusala tā duka  āpatti kusala tā ca 	37	. The Section on Skill in Offenses🔽Skill in offenses.
+['PA_ds_1.3:38.1']	Āpattivuṭṭhānakusalatā ca. (1337)	āpatti vuṭṭhāna kusala tā ca 	38	Skill in clearing offenses.
+['PA_ds_1.3:39.0', 'PA_ds_1.3:39.1']	20. Samāpattikusalatāduka🔽Samāpattikusalatā ca. (1338)	       samāpatti kusala tā ca 	39	. The Section on Skill in Attainments🔽Skill in attainments.
+['PA_ds_1.3:40.1', 'PA_ds_1.3:41.0']	Samāpattivuṭṭhānakusalatā ca. (1339)🔽21. Dhātukusalatāduka	samāpatti vuṭṭhāna kusala tā ca  dhātu kusala tāduka 	40	Skill in emerging from attainments.🔽. The Section on Skill in Elements
+['PA_ds_1.3:41.1']	Dhātukusalatā ca. (1340)	dhātu kusala tā ca 	41	Skill in the elements.
+['PA_ds_1.3:42.1']	Manasikārakusalatā ca. (1341)	manasikāra kusala tā ca 	42	Skill in directing the mind.
+['PA_ds_1.3:43.0', 'PA_ds_1.3:43.1', 'PA_ds_1.3:44.1']	22. Āyatanakusalatāduka🔽Āyatanakusalatā ca. (1342)🔽Paṭiccasamuppādakusalatā ca. (1343)	āyatana kusala tāduka  āyatana kusala tā ca  paṭiccasamuppāda kusala tā ca 	43	. The Section on Skill in Sense-spheres🔽Skill in the sense-spheres.🔽Skill in dependent origination.
+['PA_ds_1.3:45.0']	23. Ṭhānakusalatāduka	ṭhāna kusala tāduka 	45	. The Section on Skill in Situations
+['PA_ds_1.3:45.1']	Ṭhānakusalatā ca. (1344)	ṭhāna kusala tā ca 	45	Skill in situations.
+['PA_ds_1.3:46.1']	Aṭṭhānakusalatā ca. (1345)	aṭṭhāna kusala tā ca 	46	(1345)
+['PA_ds_1.3:47.0']	24. Ajjavaduka	ajjavaduka 	47	Swiftness
+['PA_ds_1.3:47.1']	Ajjavo ca. (1346)	ajjavaḥ ca 	47	and swiftness.🔽and gentleness.
+['PA_ds_1.3:48.1']	Maddavo ca. (1347)	maddavaḥ ca 	48	(1346)
+['PA_ds_1.3:49.0', 'PA_ds_1.3:49.1']	25. Khantiduka🔽Khanti ca. (1348)	khantiduka  khanti ca 	49	Patience🔽and patience.🔽and gentleness.
+['PA_ds_1.3:50.1']	Soraccañca. (1349)	soḥ raccan ca 	50	(1347)
+['PA_ds_1.3:51.0', 'PA_ds_1.3:51.1']	26. Sākhalyaduka🔽Sākhalyañca. (1350)	sākhalyaduka  sākhalyam ca 	51	Friendliness🔽and friendliness.🔽and hospitality.
+['PA_ds_1.3:52.1', 'PA_ds_1.3:53.0']	Paṭisanthāro ca. (1351)🔽27. Indriyesuaguttadvāratāduka	paṭisanthāro ca        	52	(1348)🔽Not guarding the sense doors
+['PA_ds_1.3:53.1']	Indriyesuaguttadvāratā ca. (1352)	ca 	53	and not guarding the sense doors.
+['PA_ds_1.3:54.1']	Bhojane amattaññutā ca. (1353)	bhojane amattaññu tā ca 	54	and lack of moderation in eating.🔽(1349)
+['PA_ds_1.3:55.0', 'PA_ds_1.3:55.1']	28. Indriyesuguttadvāratāduka🔽Indriyesu guttadvāratā ca. (1354)	indriya  indriyesu gutta dvāra tā ca 	55	Guarding the sense doors🔽and guarding the sense doors.🔽and moderation in eating.
+['PA_ds_1.3:56.1']	Bhojane mattaññutā ca. (1355)	bhojane mattaññu tā ca 	56	(1350)
+['PA_ds_1.3:57.0', 'PA_ds_1.3:57.1']	29. Muṭṭhasaccaduka🔽Muṭṭhasaccañca. (1356)	muṭṭha sacca duka  muṭṭha saccam ca 	57	Lack of clear awareness🔽and lack of clear awareness.🔽(1351)🔽Mindfulness and clear awareness
+['PA_ds_1.3:58.1', 'PA_ds_1.3:59.0', 'PA_ds_1.3:59.1']	Asampajaññañca. (1357)🔽30. Satisampajaññaduka🔽Sati ca. (1358)	a sampajaññam ca  sati sampa jañña duka  sati ca 	58	and mindfulness.
+['PA_ds_1.3:60.1']	Sampajaññañca. (1359)	sampajaññam ca 	60	and clear awareness.🔽(1352)
+['PA_ds_1.3:61.0']	31. Paṭisaṅkhānabaladuka	paṭisaṅkhāna baladuka 	61	The power of reflection
+['PA_ds_1.3:61.1']	Paṭisaṅkhānabalañca. (1360)	paṭisaṅkhāna balam ca 	61	and the power of reflection.
+['PA_ds_1.3:62.1']	Bhāvanābalañca. (1361)	bhāvanā balañca 	62	and the power of development.🔽(1353)
+['PA_ds_1.3:63.0']	32. Samathavipassanāduka	samatha vipassana āduka 	63	Tranquility and insight
+['PA_ds_1.3:63.1']	Samatho ca. (1362)	sam atha u ca 	63	and tranquility.🔽and insight.
+['PA_ds_1.3:64.1']	Vipassanā ca. (1363)	vipassanā ca 	64	(1354)
+['PA_ds_1.3:65.0']	33. Samathanimittaduka	samatha nimitta duka 	65	The sign of tranquility
+['PA_ds_1.3:65.1']	Samathanimittañca. (1364)	samatha nimittam ca 	65	and the sign of tranquility.🔽and the sign of exertion.
+['PA_ds_1.3:66.1']	Paggāhanimittañca. (1365)	paggāha nimittam ca 	66	(1355)
+['PA_ds_1.3:67.0']	34. Paggāhaduka	paggāha duka 	67	Exertion
+['PA_ds_1.3:67.1']	Paggāho ca. (1366)	paggāhaḥ ca 	67	and exertion.
+['PA_ds_1.3:68.1']	Avikkhepo ca. (1367)	avikkhepaḥ ca 	68	and non-distraction.🔽(1356)
+['PA_ds_1.3:69.0']	35. Sīlavipattiduka	  	69	Failure in virtue
+['PA_ds_1.3:69.1']	Sīlavipatti ca. (1368)	sīla vipatti ca 	69	and failure in morality.
+['PA_ds_1.3:70.1', 'PA_ds_1.3:71.0']	Diṭṭhivipatti ca. (1369)🔽36. Sīlasampadāduka	diṭṭhi vipatti ca  sīla sampad āduka 	70	and failure in view.🔽The pair on the perfection of morality:
+['PA_ds_1.3:71.1']	Sīlasampadā ca. (1370)	sīla sampadā ca 	71	and the perfection of morality.
+['PA_ds_1.3:72.1', 'PA_ds_1.3:73.0']	Diṭṭhisampadā ca. (1371)🔽37. Sīlavisuddhiduka	diṭṭhi sampadā ca    	72	and the perfection of view.
+['PA_ds_1.3:73.1']	Sīlavisuddhi ca. (1372)	ca 	73	The pair on purification of morality:
+['PA_ds_1.3:74.1', 'PA_ds_1.3:75.0', 'PA_ds_1.3:75.1']	Diṭṭhivisuddhi ca. (1373)🔽38. Diṭṭhivisuddhikhopanaduka🔽Diṭṭhivisuddhikhopana. (1374)	ca  diṭṭhi visuddhi khopana duka  diṭṭhi visuddhi khopana 	74	and purification of view.🔽The pair on purification of view and striving:
+['PA_ds_1.3:76.1', 'PA_ds_1.3:77.0', 'PA_ds_1.3:77.1']	Yathādiṭṭhissa ca padhānaṁ. (1375)🔽39. Saṁvegasaṁvejananiyaṭṭhānaduka🔽Saṁvego ca saṁvejaniyesu ṭhānesu. (1376)	yathā ādiṭṭhissa ca padhāna  sa vega sa vejana niyaṭṭhāna duka  ca sa vejaniyesu ṭhānesu 	76	and striving in accordance with one’s view.🔽The pair on urgency and the grounds for urgency:
+['PA_ds_1.3:78.1', 'PA_ds_1.3:79.0']	Saṁviggassa ca yoniso padhānaṁ. (1377)🔽40. Asantuṭṭhitākusaladhammaduka	saviggassa ca yonisaḥ  a santuṭṭhita akusala dhamma duka 	78	and urgency about the grounds for urgency.🔽and proper effort by one who is urgent.🔽The pair on skillfulness and discontent:
+['PA_ds_1.3:79.1']	Asantuṭṭhitā ca kusalesu dhammesu. (1378)	a santuṭṭhi tā ca kusalesu dhammesu 	79	and discontent with skillful qualities.
+['PA_ds_1.3:80.1', 'PA_ds_1.3:81.0']	Appaṭivānitā ca padhānasmiṁ. (1379)🔽41. Vijjāduka	appaṭivānitā ca  vijjāduka 	80	and not giving up the effort.
+['PA_ds_1.3:81.1']	Vijjā ca. (1380)	vijjā ca 	81	The pair on knowledge:
+['PA_ds_1.3:82.1']	Vimutti ca. (1381)	vimutti ca 	82	and freedom.🔽The pair on knowledge of destruction and knowledge of non-arising:
+['PA_ds_1.3:83.0', 'PA_ds_1.3:83.1']	42. Khayeñāṇaduka🔽Khayeñāṇaṁ. (1382)	kha ya iñ āṇa duka  khayeñāṇa 	83	knowledge of destruction
+['PA_ds_1.3:84.1']	Anuppāde ñāṇanti. (1383)	anuppāde 	84	and knowledge of non-arising.
+['PA_ds_1.3:84.2']	Suttantikadukamātikā.	      	84	The Numerical Lists in the Suttas
+['PA_ds_1.3:84.3']	Mātikā niṭṭhitā.	mātikā niṭṭhitā 	84	The Numerical Lists are finished.

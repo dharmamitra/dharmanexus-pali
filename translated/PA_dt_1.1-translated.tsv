@@ -1,12 +1,12 @@
-segmentnr	original	analyzed	translated
-['PA_dt_1.1:0.1', 'PA_dt_1.1:0.2']	Dhātukathā🔽Uddesa	dhātu kathā  uddesa 	The Treatise on the Elements
-['PA_dt_1.1:0.3']	1. Nayamātikā	nayamātikā 	The Contents🔽This is the mātikā:
-['PA_dt_1.1:1.1']	Namo tassa Bhagavato Arahato Sammāsambuddhassa.	namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa 	Homage to that Blessed One, the Worthy One, the Rightly Self-awakened One.
-['PA_dt_1.1:2.1']	Saṅgaho asaṅgaho	saṅgahaḥ a saṅgahaḥ 	Inclusion, non-inclusion
-['PA_dt_1.1:3.1']	Saṅgahitena asaṅgahitaṁ	saṅgahitena a saṅgahita 	Included by the included
-['PA_dt_1.1:4.1']	Asaṅgahitena saṅgahitaṁ	a saṅgahitena saṅgahita 	Included by the unincluded
-['PA_dt_1.1:5.1']	Saṅgahitena saṅgahitaṁ	saṅgahitena saṅgahita 	Included by the included
-['PA_dt_1.1:6.1', 'PA_dt_1.1:7.1']	Asaṅgahitena asaṅgahitaṁ🔽Sampayogo vippayogo	asaṅgahitena asaṅgahita  sampayogaḥ vippayogaḥ 	Unincluded by the unincluded🔽Conjoined, disjoined
-['PA_dt_1.1:8.1', 'PA_dt_1.1:9.1', 'PA_dt_1.1:10.1']	Sampayuttena vippayuttaṁ🔽Vippayuttena sampayuttaṁ🔽Sampayuttena sampayuttaṁ	sampayuttena vippayutta  vippayuttena sampayutta  sampayuttena sampayutta 	Disjoined by the conjoined🔽Conjoined by the disjoined🔽Conjoined by the conjoined🔽Disjoined by the disjoined
-['PA_dt_1.1:11.1', 'PA_dt_1.1:12.1', 'PA_dt_1.1:13.1']	Vippayuttena vippayuttaṁ🔽Saṅgahitena sampayuttaṁ vippayuttaṁ🔽Sampayuttena saṅgahitaṁ asaṅgahitaṁ	vippayuttena  saṅgahitena sampayuttam vippayutta  sampayuttena saṅgahitam a saṅgahita 	Included and conjoined, disjoined🔽Conjoined by the included, unincluded🔽Disjoined by the unincluded, included
-['PA_dt_1.1:14.1', 'PA_dt_1.1:15.1']	Asaṅgahitena sampayuttaṁ vippayuttaṁ🔽Vippayuttena saṅgahitaṁ asaṅgahitaṁ.	asaṅgahitena sampayuttam vippayutta 🔽vippayuttena saṅgahitam a saṅgahita 	Disjoined by the included, unincluded.
+segmentnr	original	analyzed	folio	translated
+['PA_dt_1.1:0.1', 'PA_dt_1.1:0.2']	Dhātukathā🔽Uddesa	dhātu kathā  uddesa 	0	The Treatise on the Elements
+['PA_dt_1.1:0.3']	1. Nayamātikā	nayamātikā 	0	The Contents🔽This is the mātikā:
+['PA_dt_1.1:1.1']	Namo tassa Bhagavato Arahato Sammāsambuddhassa.	namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa 	1	Homage to that Blessed One, the Worthy One, the Rightly Self-awakened One.
+['PA_dt_1.1:2.1']	Saṅgaho asaṅgaho	saṅgahaḥ a saṅgahaḥ 	2	Inclusion, non-inclusion
+['PA_dt_1.1:3.1']	Saṅgahitena asaṅgahitaṁ	saṅgahitena a saṅgahita 	3	Included by the included
+['PA_dt_1.1:4.1']	Asaṅgahitena saṅgahitaṁ	a saṅgahitena saṅgahita 	4	Included by the unincluded
+['PA_dt_1.1:5.1']	Saṅgahitena saṅgahitaṁ	saṅgahitena saṅgahita 	5	Included by the included
+['PA_dt_1.1:6.1', 'PA_dt_1.1:7.1']	Asaṅgahitena asaṅgahitaṁ🔽Sampayogo vippayogo	asaṅgahitena asaṅgahita  sampayogaḥ vippayogaḥ 	6	Unincluded by the unincluded🔽Conjoined, disjoined
+['PA_dt_1.1:8.1', 'PA_dt_1.1:9.1', 'PA_dt_1.1:10.1']	Sampayuttena vippayuttaṁ🔽Vippayuttena sampayuttaṁ🔽Sampayuttena sampayuttaṁ	sampayuttena vippayutta  vippayuttena sampayutta  sampayuttena sampayutta 	8	Disjoined by the conjoined🔽Conjoined by the disjoined🔽Conjoined by the conjoined🔽Disjoined by the disjoined
+['PA_dt_1.1:11.1', 'PA_dt_1.1:12.1', 'PA_dt_1.1:13.1']	Vippayuttena vippayuttaṁ🔽Saṅgahitena sampayuttaṁ vippayuttaṁ🔽Sampayuttena saṅgahitaṁ asaṅgahitaṁ	vippayuttena  saṅgahitena sampayuttam vippayutta  sampayuttena saṅgahitam a saṅgahita 	11	Included and conjoined, disjoined🔽Conjoined by the included, unincluded🔽Disjoined by the unincluded, included
+['PA_dt_1.1:14.1', 'PA_dt_1.1:15.1']	Asaṅgahitena sampayuttaṁ vippayuttaṁ🔽Vippayuttena saṅgahitaṁ asaṅgahitaṁ.	asaṅgahitena sampayuttam vippayutta 🔽vippayuttena saṅgahitam a saṅgahita 	14	Disjoined by the included, unincluded.

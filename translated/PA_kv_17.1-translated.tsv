@@ -1,49 +1,49 @@
-segmentnr	original	analyzed	translated
-['PA_kv_17.1:0.1']	Kathāvatthu	kathāvatthu 	Points of Controversy
-['PA_kv_17.1:0.2']	Niggahapaṇṇāsaka	niggahapaṇṇāsaka 	The Fifty on Refutation
-['PA_kv_17.1:0.3']	Sattarasamavagga	satta rasama vagga 	The Seventeenth Chapter
-['PA_kv_17.1:0.4']	Atthiarahatopuññūpacayotikathā	atthi araha topuñña upacaya uti kathā 	The Discussion on Whether Merit Increases for an Arahant
-['PA_kv_17.1:1.1']	Atthi arahato puññūpacayoti?	atthi arahato puññūpacayo ti 	“Is there an increase of merit for an Arahant?”
-['PA_kv_17.1:1.2']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:1.3']	Atthi arahato apuññūpacayoti?	atthi arahataḥ a puñña upacayo ti 	“Is there an increase of demerit for an Arahant?”
-['PA_kv_17.1:1.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
-['PA_kv_17.1:1.5']	natthi arahato apuññūpacayoti?	na atthi arahataḥ a puñña upacayo ti 	“Is there no increase of demerit for an Arahant?”
-['PA_kv_17.1:1.6']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:1.7']	Natthi arahato puññūpacayoti?	na atthi arahato puññūpacayo ti 	“Is there no increase of merit for an Arahant?”
-['PA_kv_17.1:1.8']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
-['PA_kv_17.1:2.1']	Atthi arahato puññūpacayoti?	atthi arahato puññūpacayo ti 	“Is there an increase of merit for an Arahant?”
-['PA_kv_17.1:2.2', 'PA_kv_17.1:2.3_0']	Āmantā.🔽Arahā puññābhisaṅkhāraṁ abhisaṅkharoti, āneñjābhisaṅkhāraṁ abhisaṅkharoti, gatisaṁvattaniyaṁ	āmantā  arahā puñña abhisaṅkhāram abhisaṅkharoti āneñja abhisaṅkhāram abhisaṅkharoti gati savattaniya 	“Yes.”
-['PA_kv_17.1:2.3_1', 'PA_kv_17.1:2.3_2']	kammaṁ karoti, bhavasaṁvattaniyaṁ kammaṁ karoti, issariyasaṁvattaniyaṁ kammaṁ karoti,🔽adhipaccasaṁvattaniyaṁ kammaṁ karoti, mahābhogasaṁvattaniyaṁ kammaṁ karoti, mahāparivārasaṁvattaniyaṁ	kammam karoti bhava savattaniyam kammam karoti issariya savattaniyam kammam karoti  adhipacca savattaniyam kammam karoti mahā bhoga savattaniyam kammam karoti mahā parivāra savattaniya 	“An Arahant performs a meritorious volitional formation, a desireless volitional formation, an action that leads to destiny, an action that leads to becoming, an action that leads to sovereignty,🔽an action that leads to predominance, an action that leads to great influence, an action that leads to great wealth, an action that leads to a great retinue,
-['PA_kv_17.1:2.3_3']	kammaṁ karoti, devasobhagyasaṁvattaniyaṁ kammaṁ karoti, manussasobhagyasaṁvattaniyaṁ kammaṁ karotīti?	kammam karoti deva sobhagya savattaniyam kammam karoti manussa sobhagya savattaniyam kammam karoti iti 	an action that leads to good luck in the heavens, an action that leads to good luck among human beings?”🔽“Yes.”
-['PA_kv_17.1:2.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That is not so,” he said.
-['PA_kv_17.1:3.1']	Atthi arahato puññūpacayoti?	atthi arahato puññūpacayo ti 	“Is there an accumulation of merit for one who is an arahant?”
-['PA_kv_17.1:3.2']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:3.3']	Arahā ācinātīti?	ara hā ācināti iti 	“Does one who is an arahant accumulate?”
-['PA_kv_17.1:3.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“That is not so,” he said.
-['PA_kv_17.1:3.5']	arahā apacinātīti?	ara hā apacināti iti 	“Does one who is an arahant diminish?”
-['PA_kv_17.1:3.6', 'PA_kv_17.1:3.7']	Na hevaṁ vattabbe …pe…🔽arahā pajahatīti …pe…	na ha ivam vattabbe pe  arahā pajahati iti pe 	“That is not so,” he said.🔽“Does one who is an arahant abandon?”
-['PA_kv_17.1:3.8', 'PA_kv_17.1:3.9']	arahā upādiyatīti …pe…🔽arahā visinetīti …pe…	arahāḥ upādiyati iti pe  arahāḥ visineti iti pe 	“Does one who is an arahant cling?”🔽“Does one who is an arahant throw away?”
-['PA_kv_17.1:3.10', 'PA_kv_17.1:3.11']	arahā ussinetīti …pe…🔽arahā vidhūpetīti …pe…	arahāḥ ussineti iti pe  arahāḥ vidhūpa iti iti pe 	“Does one who is an arahant throw out?”🔽“Does one who is an arahant fan out?”
-['PA_kv_17.1:3.12']	arahā sandhūpetīti?	arahā sandhūpeti iti 	“Does one who is an arahant fan out and then gather in?”
-['PA_kv_17.1:3.13']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“That is not so,” he said.
-['PA_kv_17.1:3.14']	nanu arahā nevācināti na apacināti apacinitvā ṭhitoti?	nanu arahā na iva ācināti na apacināti apacinitvā 	“But, friend, doesn’t one who is an arahant neither accumulate nor diminish, but stands having accumulated and diminished?”
-['PA_kv_17.1:3.15', 'PA_kv_17.1:3.16']	Āmantā.🔽Hañci arahā nevācināti nāpacināti apacinitvā ṭhito, no ca vata re vattabbe—	āmantā  hañci arahā na iva ācināti na apacināti apacinitvā ṭhitaḥ no ca vata re vattabbe 	“Yes.”
-['PA_kv_17.1:3.17']	“atthi arahato puññūpacayo”ti.	atthi arahato puññūpacayo ti 	“Then it is not right to say that ‘There is an accumulation of merit for one who is an arahant.’
-['PA_kv_17.1:4.1']	Nanu arahā neva pajahati na upādiyati pajahitvā ṭhito, neva visineti na ussineti visinetvā ṭhito, neva vidhūpeti na sandhūpeti vidhūpetvā ṭhitoti?	nanu arahā na iva pajahati na upādiyati pajahitvā ṭhitaḥ na iva visineti na ussineti visinetvā ṭhitaḥ na iva vidhūpeti na sandhūpeti vidhūpetvā ṭhitaḥ uti 	“But, friend, doesn’t one who is an arahant neither abandon nor cling, but stands having abandoned and clung? Doesn’t he neither throw away nor throw out, but stands having thrown away and thrown out? Doesn’t he neither fan out nor fan out and then gather in, but stands having fanned out and fanned out and then gathered in?”
-['PA_kv_17.1:4.2']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:4.3']	Hañci arahā neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito, no ca vata re vattabbe—	hañci arahā na iva vidhūpeti na sandhūpeti vidhūpetvā ṭhitaḥ no ca vata re vattabbe 	“Well then, it seems the perfected one neither fans the fire nor puts out the fire, but stands having fanned it out. But it’s not right to say that
-['PA_kv_17.1:4.4']	“atthi arahato puññūpacayo”ti.	atthi arahato puññūpacayo ti 	there’s an increase of merit for the perfected one.”
-['PA_kv_17.1:5.1']	Natthi arahato puññūpacayoti?	na atthi arahato puññūpacayo ti 	“There’s no increase of merit for the perfected one?”
-['PA_kv_17.1:5.2']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:5.3']	Arahā dānaṁ dadeyyāti?	ara hā dānam dadeyyā iti 	“Would a perfected one give a gift?”
-['PA_kv_17.1:5.4']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:5.5']	Hañci arahā dānaṁ dadeyya, no ca vata re vattabbe—	hañci arahā dānam dadeyya no ca vata re vattabbe 	“Well then, it seems a perfected one would give a gift, and it’s not right to say that
-['PA_kv_17.1:5.6', 'PA_kv_17.1:6.1']	“natthi arahato puññūpacayo”ti.🔽Arahā cīvaraṁ dadeyya …pe…	na atthi arahato puññūpacayo ti  arahā cīvaram dadeyya pe 	there’s no increase of merit for the perfected one.”🔽“Would a perfected one give a robe?”🔽“Would a perfected one give almsfood?”
-['PA_kv_17.1:6.2', 'PA_kv_17.1:6.3', 'PA_kv_17.1:6.4']	piṇḍapātaṁ dadeyya …🔽senāsanaṁ dadeyya …🔽gilānapaccayabhesajjaparikkhāraṁ dadeyya …	piṇḍapātam dadeyya  senāsanam dadeyya  gilāna paccaya bhesajja parikkhāram dadeyya 	“Would a perfected one give a dwelling?”🔽“Would a perfected one give medicine when sick?”🔽“Would a perfected one give fresh produce?”
-['PA_kv_17.1:6.5', 'PA_kv_17.1:6.6', 'PA_kv_17.1:6.7']	khādanīyaṁ dadeyya …🔽bhojanīyaṁ dadeyya …🔽pānīyaṁ dadeyya …	khādanīyam dadeyya  bhojanīyam dadeyya  pānīyam dadeyya 	“Would a perfected one give cooked food?”🔽“Would a perfected one give water?”🔽“Would a perfected one worship a shrine?”
-['PA_kv_17.1:6.8', 'PA_kv_17.1:6.9', 'PA_kv_17.1:6.10', 'PA_kv_17.1:6.11']	cetiyaṁ vandeyya …🔽cetiye mālaṁ āropeyya …🔽gandhaṁ āropeyya …🔽vilepanaṁ āropeyya …pe…	cetiyam vandeyya  cetiye mālam āropeyya  gandham āropeyya  vilepanam āropeyya pe 	“Would a perfected one hang a garland on a shrine?”🔽“Would a perfected one apply perfume to a shrine?”🔽“Would a perfected one apply ointment to a shrine?”
-['PA_kv_17.1:6.12']	cetiyaṁ abhidakkhiṇaṁ kareyyāti?	cetiyam abhidakkhiṇam kareyya ati 	“Would a perfected one circumambulate a shrine while keeping it to one’s right?”
-['PA_kv_17.1:6.13']	Āmantā.	āmantā 	“Yes.”
-['PA_kv_17.1:6.14']	Hañci arahā cetiyaṁ abhidakkhiṇaṁ kareyya, no ca vata re vattabbe—	hañci arahā cetiyam abhidakkhiṇam kareyya no ca vata re vattabbe 	“Well then, it seems a perfected one would circumambulate a shrine while keeping it to one’s right, and it’s not right to say that
-['PA_kv_17.1:6.15']	“natthi arahato puññūpacayo”ti.	na atthi arahato puññūpacayo ti 	there’s no increase of merit for the perfected one.”
-['PA_kv_17.1:6.16']	Atthi arahato puññūpacayotikathā niṭṭhitā.	atthi arahato puñña upacayaḥ ti kathā niṭṭhitā 	Discussion of whether there is fresh merit for one who is an Arahant is ended.
+segmentnr	original	analyzed	folio	translated
+['PA_kv_17.1:0.1']	Kathāvatthu	kathāvatthu 	0	Points of Controversy
+['PA_kv_17.1:0.2']	Niggahapaṇṇāsaka	niggahapaṇṇāsaka 	0	The Fifty on Refutation
+['PA_kv_17.1:0.3']	Sattarasamavagga	satta rasama vagga 	0	The Seventeenth Chapter
+['PA_kv_17.1:0.4']	Atthiarahatopuññūpacayotikathā	atthi araha topuñña upacaya uti kathā 	0	The Discussion on Whether Merit Increases for an Arahant
+['PA_kv_17.1:1.1']	Atthi arahato puññūpacayoti?	atthi arahato puññūpacayo ti 	1	“Is there an increase of merit for an Arahant?”
+['PA_kv_17.1:1.2']	Āmantā.	āmantā 	1	“Yes.”
+['PA_kv_17.1:1.3']	Atthi arahato apuññūpacayoti?	atthi arahataḥ a puñña upacayo ti 	1	“Is there an increase of demerit for an Arahant?”
+['PA_kv_17.1:1.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	1	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_17.1:1.5']	natthi arahato apuññūpacayoti?	na atthi arahataḥ a puñña upacayo ti 	1	“Is there no increase of demerit for an Arahant?”
+['PA_kv_17.1:1.6']	Āmantā.	āmantā 	1	“Yes.”
+['PA_kv_17.1:1.7']	Natthi arahato puññūpacayoti?	na atthi arahato puññūpacayo ti 	1	“Is there no increase of merit for an Arahant?”
+['PA_kv_17.1:1.8']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	1	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
+['PA_kv_17.1:2.1']	Atthi arahato puññūpacayoti?	atthi arahato puññūpacayo ti 	2	“Is there an increase of merit for an Arahant?”
+['PA_kv_17.1:2.2', 'PA_kv_17.1:2.3_0']	Āmantā.🔽Arahā puññābhisaṅkhāraṁ abhisaṅkharoti, āneñjābhisaṅkhāraṁ abhisaṅkharoti, gatisaṁvattaniyaṁ	āmantā  arahā puñña abhisaṅkhāram abhisaṅkharoti āneñja abhisaṅkhāram abhisaṅkharoti gati savattaniya 	2	“Yes.”
+['PA_kv_17.1:2.3_1', 'PA_kv_17.1:2.3_2']	kammaṁ karoti, bhavasaṁvattaniyaṁ kammaṁ karoti, issariyasaṁvattaniyaṁ kammaṁ karoti,🔽adhipaccasaṁvattaniyaṁ kammaṁ karoti, mahābhogasaṁvattaniyaṁ kammaṁ karoti, mahāparivārasaṁvattaniyaṁ	kammam karoti bhava savattaniyam kammam karoti issariya savattaniyam kammam karoti  adhipacca savattaniyam kammam karoti mahā bhoga savattaniyam kammam karoti mahā parivāra savattaniya 	2	“An Arahant performs a meritorious volitional formation, a desireless volitional formation, an action that leads to destiny, an action that leads to becoming, an action that leads to sovereignty,🔽an action that leads to predominance, an action that leads to great influence, an action that leads to great wealth, an action that leads to a great retinue,
+['PA_kv_17.1:2.3_3']	kammaṁ karoti, devasobhagyasaṁvattaniyaṁ kammaṁ karoti, manussasobhagyasaṁvattaniyaṁ kammaṁ karotīti?	kammam karoti deva sobhagya savattaniyam kammam karoti manussa sobhagya savattaniyam kammam karoti iti 	2	an action that leads to good luck in the heavens, an action that leads to good luck among human beings?”🔽“Yes.”
+['PA_kv_17.1:2.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	2	“That is not so,” he said.
+['PA_kv_17.1:3.1']	Atthi arahato puññūpacayoti?	atthi arahato puññūpacayo ti 	3	“Is there an accumulation of merit for one who is an arahant?”
+['PA_kv_17.1:3.2']	Āmantā.	āmantā 	3	“Yes.”
+['PA_kv_17.1:3.3']	Arahā ācinātīti?	ara hā ācināti iti 	3	“Does one who is an arahant accumulate?”
+['PA_kv_17.1:3.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	3	“That is not so,” he said.
+['PA_kv_17.1:3.5']	arahā apacinātīti?	ara hā apacināti iti 	3	“Does one who is an arahant diminish?”
+['PA_kv_17.1:3.6', 'PA_kv_17.1:3.7']	Na hevaṁ vattabbe …pe…🔽arahā pajahatīti …pe…	na ha ivam vattabbe pe  arahā pajahati iti pe 	3	“That is not so,” he said.🔽“Does one who is an arahant abandon?”
+['PA_kv_17.1:3.8', 'PA_kv_17.1:3.9']	arahā upādiyatīti …pe…🔽arahā visinetīti …pe…	arahāḥ upādiyati iti pe  arahāḥ visineti iti pe 	3	“Does one who is an arahant cling?”🔽“Does one who is an arahant throw away?”
+['PA_kv_17.1:3.10', 'PA_kv_17.1:3.11']	arahā ussinetīti …pe…🔽arahā vidhūpetīti …pe…	arahāḥ ussineti iti pe  arahāḥ vidhūpa iti iti pe 	3	“Does one who is an arahant throw out?”🔽“Does one who is an arahant fan out?”
+['PA_kv_17.1:3.12']	arahā sandhūpetīti?	arahā sandhūpeti iti 	3	“Does one who is an arahant fan out and then gather in?”
+['PA_kv_17.1:3.13']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	3	“That is not so,” he said.
+['PA_kv_17.1:3.14']	nanu arahā nevācināti na apacināti apacinitvā ṭhitoti?	nanu arahā na iva ācināti na apacināti apacinitvā 	3	“But, friend, doesn’t one who is an arahant neither accumulate nor diminish, but stands having accumulated and diminished?”
+['PA_kv_17.1:3.15', 'PA_kv_17.1:3.16']	Āmantā.🔽Hañci arahā nevācināti nāpacināti apacinitvā ṭhito, no ca vata re vattabbe—	āmantā  hañci arahā na iva ācināti na apacināti apacinitvā ṭhitaḥ no ca vata re vattabbe 	3	“Yes.”
+['PA_kv_17.1:3.17']	“atthi arahato puññūpacayo”ti.	atthi arahato puññūpacayo ti 	3	“Then it is not right to say that ‘There is an accumulation of merit for one who is an arahant.’
+['PA_kv_17.1:4.1']	Nanu arahā neva pajahati na upādiyati pajahitvā ṭhito, neva visineti na ussineti visinetvā ṭhito, neva vidhūpeti na sandhūpeti vidhūpetvā ṭhitoti?	nanu arahā na iva pajahati na upādiyati pajahitvā ṭhitaḥ na iva visineti na ussineti visinetvā ṭhitaḥ na iva vidhūpeti na sandhūpeti vidhūpetvā ṭhitaḥ uti 	4	“But, friend, doesn’t one who is an arahant neither abandon nor cling, but stands having abandoned and clung? Doesn’t he neither throw away nor throw out, but stands having thrown away and thrown out? Doesn’t he neither fan out nor fan out and then gather in, but stands having fanned out and fanned out and then gathered in?”
+['PA_kv_17.1:4.2']	Āmantā.	āmantā 	4	“Yes.”
+['PA_kv_17.1:4.3']	Hañci arahā neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito, no ca vata re vattabbe—	hañci arahā na iva vidhūpeti na sandhūpeti vidhūpetvā ṭhitaḥ no ca vata re vattabbe 	4	“Well then, it seems the perfected one neither fans the fire nor puts out the fire, but stands having fanned it out. But it’s not right to say that
+['PA_kv_17.1:4.4']	“atthi arahato puññūpacayo”ti.	atthi arahato puññūpacayo ti 	4	there’s an increase of merit for the perfected one.”
+['PA_kv_17.1:5.1']	Natthi arahato puññūpacayoti?	na atthi arahato puññūpacayo ti 	5	“There’s no increase of merit for the perfected one?”
+['PA_kv_17.1:5.2']	Āmantā.	āmantā 	5	“Yes.”
+['PA_kv_17.1:5.3']	Arahā dānaṁ dadeyyāti?	ara hā dānam dadeyyā iti 	5	“Would a perfected one give a gift?”
+['PA_kv_17.1:5.4']	Āmantā.	āmantā 	5	“Yes.”
+['PA_kv_17.1:5.5']	Hañci arahā dānaṁ dadeyya, no ca vata re vattabbe—	hañci arahā dānam dadeyya no ca vata re vattabbe 	5	“Well then, it seems a perfected one would give a gift, and it’s not right to say that
+['PA_kv_17.1:5.6', 'PA_kv_17.1:6.1']	“natthi arahato puññūpacayo”ti.🔽Arahā cīvaraṁ dadeyya …pe…	na atthi arahato puññūpacayo ti  arahā cīvaram dadeyya pe 	5	there’s no increase of merit for the perfected one.”🔽“Would a perfected one give a robe?”🔽“Would a perfected one give almsfood?”
+['PA_kv_17.1:6.2', 'PA_kv_17.1:6.3', 'PA_kv_17.1:6.4']	piṇḍapātaṁ dadeyya …🔽senāsanaṁ dadeyya …🔽gilānapaccayabhesajjaparikkhāraṁ dadeyya …	piṇḍapātam dadeyya  senāsanam dadeyya  gilāna paccaya bhesajja parikkhāram dadeyya 	6	“Would a perfected one give a dwelling?”🔽“Would a perfected one give medicine when sick?”🔽“Would a perfected one give fresh produce?”
+['PA_kv_17.1:6.5', 'PA_kv_17.1:6.6', 'PA_kv_17.1:6.7']	khādanīyaṁ dadeyya …🔽bhojanīyaṁ dadeyya …🔽pānīyaṁ dadeyya …	khādanīyam dadeyya  bhojanīyam dadeyya  pānīyam dadeyya 	6	“Would a perfected one give cooked food?”🔽“Would a perfected one give water?”🔽“Would a perfected one worship a shrine?”
+['PA_kv_17.1:6.8', 'PA_kv_17.1:6.9', 'PA_kv_17.1:6.10', 'PA_kv_17.1:6.11']	cetiyaṁ vandeyya …🔽cetiye mālaṁ āropeyya …🔽gandhaṁ āropeyya …🔽vilepanaṁ āropeyya …pe…	cetiyam vandeyya  cetiye mālam āropeyya  gandham āropeyya  vilepanam āropeyya pe 	6	“Would a perfected one hang a garland on a shrine?”🔽“Would a perfected one apply perfume to a shrine?”🔽“Would a perfected one apply ointment to a shrine?”
+['PA_kv_17.1:6.12']	cetiyaṁ abhidakkhiṇaṁ kareyyāti?	cetiyam abhidakkhiṇam kareyya ati 	6	“Would a perfected one circumambulate a shrine while keeping it to one’s right?”
+['PA_kv_17.1:6.13']	Āmantā.	āmantā 	6	“Yes.”
+['PA_kv_17.1:6.14']	Hañci arahā cetiyaṁ abhidakkhiṇaṁ kareyya, no ca vata re vattabbe—	hañci arahā cetiyam abhidakkhiṇam kareyya no ca vata re vattabbe 	6	“Well then, it seems a perfected one would circumambulate a shrine while keeping it to one’s right, and it’s not right to say that
+['PA_kv_17.1:6.15']	“natthi arahato puññūpacayo”ti.	na atthi arahato puññūpacayo ti 	6	there’s no increase of merit for the perfected one.”
+['PA_kv_17.1:6.16']	Atthi arahato puññūpacayotikathā niṭṭhitā.	atthi arahato puñña upacayaḥ ti kathā niṭṭhitā 	6	Discussion of whether there is fresh merit for one who is an Arahant is ended.

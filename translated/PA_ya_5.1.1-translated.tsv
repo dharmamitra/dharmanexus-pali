@@ -1,85 +1,85 @@
-segmentnr	original	analyzed	translated
-['PA_ya_5.1.1:0.1', 'PA_ya_5.1.1:0.2']	5 Saccayamaka🔽5.1 Paṇṇattivāra	saccayamaka  paṇṇattivāra 	The Truths🔽The Mode of Conveying Description
-['PA_ya_5.1.1:0.3']	5.1.1. Paṇṇattivārauddesa	paṇṇatti vāra uddesa 	. The Mode of Conveying Description: Outline
-['PA_ya_5.1.1:1.1']	Namo tassa Bhagavato Arahato Sammāsambuddhassa.	namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa 	Homage to that Blessed One, perfected one, fully awakened Buddha.
-['PA_ya_5.1.1:2.1', 'PA_ya_5.1.1:3.0.1']	Cattāri saccāni—dukkhasaccaṁ, samudayasaccaṁ nirodhasaccaṁ, maggasaccaṁ.🔽5.1.1.1. Padasodhanavāra	cattāri saccā anidukkha sacca samudaya saccam nirodha sacca magga sacca      	There are four truths: the truth of suffering, the truth of origin, the truth of cessation, the truth of the path.🔽.... The Mode of Conveying Analysis of Terms
-['PA_ya_5.1.1:3.0.2', 'PA_ya_5.1.1:3.1']	5.1.1.1.1. Anuloma🔽Dukkhaṁ dukkhasaccaṁ?	anuloma  dukkham dukkha sat ca 	.... Direct🔽Is suffering the truth of suffering?
-['PA_ya_5.1.1:4.1', 'PA_ya_5.1.1:5.1']	Dukkhasaccaṁ dukkhaṁ?🔽Samudayo samudayasaccaṁ?	dukkha saccam  samudayaḥ samudaya sad ca 	Is the truth of suffering suffering?🔽Is origin origin?
-['PA_ya_5.1.1:6.1', 'PA_ya_5.1.1:7.1']	Samudayasaccaṁ samudayo?🔽Nirodho nirodhasaccaṁ?	samudaya saccam  nirodhaḥ nirodha sat ca 	Is origin the truth of origin?🔽Is cessation cessation?
-['PA_ya_5.1.1:8.1', 'PA_ya_5.1.1:9.1']	Nirodhasaccaṁ nirodho?🔽Maggo maggasaccaṁ?	nirodha saccam nirodhaḥ  maggaḥ magga sad ca 	Is cessation the truth of cessation?🔽Is the path the path?
-['PA_ya_5.1.1:10.1']	Maggasaccaṁ maggo?	magga saccam maggo 	Is the path the truth of the path?
-['PA_ya_5.1.1:11.0', 'PA_ya_5.1.1:11.1']	5.1.1.1.2. Paccanīka🔽Na dukkhaṁ na dukkhasaccaṁ?	paccanīka  na dukkham na dukkha sat ca 	.... Reverse🔽Is it not suffering, not the truth of suffering?
-['PA_ya_5.1.1:12.1', 'PA_ya_5.1.1:13.1']	Na dukkhasaccaṁ na dukkhaṁ?🔽Na samudayo na samudayasaccaṁ?	na dukkha saccam na dukkha  na samudayaḥ na samudaya sat ca 	Is it not the truth of suffering, not suffering?🔽Is it not origin, not the truth of origin?
-['PA_ya_5.1.1:14.1', 'PA_ya_5.1.1:15.1']	Na samudayasaccaṁ na samudayo?🔽Na nirodho na nirodhasaccaṁ?	na samudaya saccam na  na nirodhaḥ na nirodha sat ca 	Is it not the truth of origin, not origin?🔽Is it not cessation, not the truth of cessation?
-['PA_ya_5.1.1:16.1', 'PA_ya_5.1.1:17.1']	Na nirodhasaccaṁ na nirodho?🔽Na maggo na maggasaccaṁ?	na nirodha saccam na nirodhaḥ  na maggaḥ na magga saddhi 	Is it not the truth of cessation, not cessation?🔽Is it not the path, not the truth of the path?
-['PA_ya_5.1.1:18.1', 'PA_ya_5.1.1:19.0.1']	Na maggasaccaṁ na maggo?🔽5.1.1.2. Padasodhanamūlacakkavāra	na magga saccam na maggaḥ        	Is it not the truth of the path, not the path?🔽.... The Mode of Conveying Analysis of Terms: Root List
-['PA_ya_5.1.1:19.0.2']	5.1.1.2.1. Anuloma	anuloma 	.... Direct
-['PA_ya_5.1.1:19.1']	Dukkhaṁ dukkhasaccaṁ?	dukkham dukkha sat ca 	Is suffering the truth of suffering?
-['PA_ya_5.1.1:20.1', 'PA_ya_5.1.1:21.1']	Saccā samudayasaccaṁ?🔽Dukkhaṁ dukkhasaccaṁ?	sat ca samudaya sat ca  dukkham dukkha sat ca 	Is origination the truth of origination?🔽Is suffering the truth of suffering?
-['PA_ya_5.1.1:22.1', 'PA_ya_5.1.1:23.1']	Saccā nirodhasaccaṁ?🔽Dukkhaṁ dukkhasaccaṁ?	sat ca nirodha sat ca  dukkham dukkha sat ca 	Is cessation the truth of cessation?🔽Is suffering the truth of suffering?
-['PA_ya_5.1.1:24.1']	Saccā maggasaccaṁ?	saccā magga sacca 	Is the path the truth of the path?
-['PA_ya_5.1.1:25.1']	Samudayo samudayasaccaṁ?	samudayaḥ samudaya sad ca 	Is origination the truth of origination?
-['PA_ya_5.1.1:26.1', 'PA_ya_5.1.1:27.1', 'PA_ya_5.1.1:28.1']	Saccā dukkhasaccaṁ?🔽Samudayo samudayasaccaṁ?🔽Saccā nirodhasaccaṁ?	saccā dukkha sacca  samudayaḥ samudaya sad ca  sat ca nirodha sat ca 	Is suffering the truth of suffering?🔽Is origination the truth of origination?🔽Is cessation the truth of cessation?
-['PA_ya_5.1.1:29.1']	Samudayo samudayasaccaṁ?	samudayaḥ samudaya sad ca 	Is origination the truth of origination?
-['PA_ya_5.1.1:30.1']	Saccā maggasaccaṁ?	saccā magga sacca 	Is the path the truth of the path?
-['PA_ya_5.1.1:31.1']	Nirodho nirodhasaccaṁ?	nirodhaḥ nirodha sat ca 	Is cessation the truth of cessation?
-['PA_ya_5.1.1:32.1']	Saccā dukkhasaccaṁ?	saccā dukkha sacca 	Is suffering the truth of suffering?
-['PA_ya_5.1.1:33.1', 'PA_ya_5.1.1:34.1']	Nirodho nirodhasaccaṁ?🔽Saccā samudayasaccaṁ?	nirodhaḥ nirodha sat ca  sat ca samudaya sat ca 	Is cessation the truth of cessation?🔽Is origination the truth of origination?
-['PA_ya_5.1.1:35.1', 'PA_ya_5.1.1:36.1', 'PA_ya_5.1.1:37.1']	Nirodho nirodhasaccaṁ?🔽Saccā maggasaccaṁ?🔽Maggo maggasaccaṁ?	nirodhaḥ nirodha sat ca  saccā magga sacca  maggaḥ magga sad ca 	Is cessation the truth of cessation?🔽Is the path the truth of the path?🔽Is the path the truth of the path?
-['PA_ya_5.1.1:38.1', 'PA_ya_5.1.1:39.1']	Saccā dukkhasaccaṁ?🔽Maggo maggasaccaṁ?	saccā dukkha sacca  maggaḥ magga sad ca 	Is suffering the truth of suffering?🔽Is the path the truth of the path?
-['PA_ya_5.1.1:40.1', 'PA_ya_5.1.1:41.1']	Saccā samudayasaccaṁ?🔽Maggo maggasaccaṁ?	sat ca samudaya sat ca  maggaḥ magga sad ca 	Is origination the truth of origination?🔽Is the path the truth of the path?
-['PA_ya_5.1.1:42.1']	Saccā nirodhasaccaṁ?	sat ca nirodha sat ca 	Is cessation the truth of cessation?
-['PA_ya_5.1.1:43.0', 'PA_ya_5.1.1:43.1']	5.1.1.2.2. Paccanīka🔽Na dukkhaṁ na dukkhasaccaṁ?	paccanīka  na dukkham na dukkha sat ca 	..... Reverse🔽Is not suffering not the truth of suffering?
-['PA_ya_5.1.1:44.1', 'PA_ya_5.1.1:45.1', 'PA_ya_5.1.1:46.1']	Na saccā na samudayasaccaṁ?🔽Na dukkhaṁ na dukkhasaccaṁ?🔽Na saccā na nirodhasaccaṁ?	na sat ca na samudaya sat ca  na dukkham na dukkha sat ca  na sat ca na nirodha sat ca 	Is not origination not the truth of origination?🔽Is not suffering not the truth of suffering?🔽Is not cessation not the truth of cessation?
-['PA_ya_5.1.1:47.1']	Na dukkhaṁ na dukkhasaccaṁ?	na dukkham na dukkha sat ca 	Is not suffering not the truth of suffering?
-['PA_ya_5.1.1:48.1']	Na saccā na maggasaccaṁ?	na saccā na magga sacca 	Is not the path not the truth of the path?
-['PA_ya_5.1.1:49.1']	Na samudayo na samudayasaccaṁ?	na samudayaḥ na samudaya sat ca 	Not origin, not the truth of origin?
-['PA_ya_5.1.1:50.1', 'PA_ya_5.1.1:51.1', 'PA_ya_5.1.1:52.1']	Na saccā na dukkhasaccaṁ?🔽Na samudayo na samudayasaccaṁ?🔽Na saccā na nirodhasaccaṁ?	na saccā na dukkha sacca  na samudayaḥ na samudaya sat ca  na sat ca na nirodha sat ca 	Not the truths, not the truth of suffering?🔽Not origin, not the truth of origin?🔽Not the truths, not the truth of cessation?
-['PA_ya_5.1.1:53.1']	Na samudayo na samudayasaccaṁ?	na samudayaḥ na samudaya sat ca 	Not origin, not the truth of origin?
-['PA_ya_5.1.1:54.1']	Na saccā na maggasaccaṁ?	na saccā na magga sacca 	Not the truths, not the truth of the path?
-['PA_ya_5.1.1:55.1']	Na nirodho na nirodhasaccaṁ?	na nirodhaḥ na nirodha sat ca 	Not cessation, not the truth of cessation?
-['PA_ya_5.1.1:56.1']	Na saccā na dukkhasaccaṁ?	na saccā na dukkha sacca 	Not the truths, not the truth of suffering?
-['PA_ya_5.1.1:57.1']	Na nirodho na nirodhasaccaṁ?	na nirodhaḥ na nirodha sat ca 	Not cessation, not the truth of cessation?
-['PA_ya_5.1.1:58.1']	Na saccā na samudayasaccaṁ?	na sat ca na samudaya sat ca 	Not the truths, not the truth of origin?
-['PA_ya_5.1.1:59.1', 'PA_ya_5.1.1:60.1']	Na nirodho na nirodhasaccaṁ?🔽Na saccā na maggasaccaṁ?	na nirodhaḥ na nirodha sat ca  na saccā na magga sacca 	Not cessation, not the truth of cessation?🔽Not the truths, not the truth of the path?
-['PA_ya_5.1.1:61.1']	Na maggo na maggasaccaṁ?	na maggaḥ na magga saddhi 	Not the path, not the truth of the path?
-['PA_ya_5.1.1:62.1', 'PA_ya_5.1.1:63.1']	Na saccā na dukkhasaccaṁ?🔽Na maggo na maggasaccaṁ?	na saccā na dukkha sacca  na maggaḥ na magga saddhi 	Not the truths, not the truth of suffering?🔽Not the path, not the truth of the path?
-['PA_ya_5.1.1:64.1', 'PA_ya_5.1.1:65.1']	Na saccā na samudayasaccaṁ?🔽Na maggo na maggasaccaṁ?	na sat ca na samudaya sat ca  na maggaḥ na magga saddhi 	Not the truths, not the truth of origin?🔽Not the path, not the truth of the path?
-['PA_ya_5.1.1:66.1']	Na saccā na nirodhasaccaṁ?	na sat ca na nirodha sat ca 	Not the truths, not the truth of cessation?
-['PA_ya_5.1.1:67.0.1']	5.1.1.3. Suddhasaccavāra	suddha sacca vāra 	.... The section on pure truths
-['PA_ya_5.1.1:67.0.2', 'PA_ya_5.1.1:67.1']	5.1.1.3.1. Anuloma🔽Dukkhaṁ saccaṁ?	anuloma  dukkham sat ca 	..... The forward order🔽Is suffering a truth?
-['PA_ya_5.1.1:68.1', 'PA_ya_5.1.1:69.1']	Saccā dukkhaṁ?🔽Samudayo saccaṁ?	saccā  samudayaḥ sat ca 	Are the truths suffering?🔽Is origin a truth?
-['PA_ya_5.1.1:70.1', 'PA_ya_5.1.1:71.1']	Saccā samudayo?🔽Nirodho saccaṁ?	satcā samudayaḥ  nirodhaḥ sat ca 	Are the truths origin?🔽Is cessation a truth?
-['PA_ya_5.1.1:72.1', 'PA_ya_5.1.1:73.1']	Saccā nirodho?🔽Maggo saccaṁ?	saccā nirodhaḥ  maggaḥ sacca 	Are the truths cessation?🔽Is the path a truth?
-['PA_ya_5.1.1:74.1']	Saccā maggo?	saccā maggaḥ 	Are the truths the path?
-['PA_ya_5.1.1:75.0']	5.1.1.3.2. Paccanīka	paccanīka 	..... The reverse order
-['PA_ya_5.1.1:75.1']	Na dukkhaṁ na saccaṁ?	na dukkham na sat ca 	Is not suffering not a truth?
-['PA_ya_5.1.1:76.1', 'PA_ya_5.1.1:77.1']	Na saccā na dukkhaṁ?🔽Na samudayo na saccaṁ?	na saccā na dukkha  na samudayaḥ na sat ca 	Not suffering and not a truth?🔽Not origin and not a truth?
-['PA_ya_5.1.1:78.1', 'PA_ya_5.1.1:79.1']	Na saccā na samudayo?🔽Na nirodho na saccaṁ?	na satcā na samudayaḥ  na nirodhaḥ na sat ca 	Not a truth and not origin?🔽Not cessation and not a truth?
-['PA_ya_5.1.1:80.1', 'PA_ya_5.1.1:81.1']	Na saccā na nirodho?🔽Na maggo na saccaṁ?	na saccā na nirodhaḥ  na maggaḥ na sacca 	Not a truth and not cessation?🔽Not path and not a truth?
-['PA_ya_5.1.1:82.1']	Na saccā na maggo?	na saccā na maggo 	Not a truth and not path?
-['PA_ya_5.1.1:83.0.1']	5.1.1.4. Suddhasaccamūlacakkavāra	       	.... The Root-Discourse Set on Purity
-['PA_ya_5.1.1:83.0.2']	5.1.1.4.1. Anuloma	anuloma 	.... Forward
-['PA_ya_5.1.1:83.1']	Dukkhaṁ saccaṁ?	dukkham sat ca 	Is suffering a truth?
-['PA_ya_5.1.1:84.1', 'PA_ya_5.1.1:85.1']	Saccā samudayo?🔽Dukkhaṁ saccaṁ?	satcā samudayaḥ  dukkham sat ca 	Is origin a truth?🔽Is suffering a truth?
-['PA_ya_5.1.1:86.1', 'PA_ya_5.1.1:87.1']	Saccā nirodho?🔽Dukkhaṁ saccaṁ?	saccā nirodhaḥ  dukkham sat ca 	Is cessation a truth?🔽Is suffering a truth?
-['PA_ya_5.1.1:88.1']	Saccā maggo?	saccā maggaḥ 	Is path a truth?
-['PA_ya_5.1.1:89.1']	Samudayo saccaṁ?	samudayaḥ sat ca 	Is origin a truth?
-['PA_ya_5.1.1:90.1']	Saccā dukkhaṁ? …pe… Saccā maggo?	saccā dukkha pe saccā maggo 	Is suffering a truth? … Is path a truth?
-['PA_ya_5.1.1:91.1', 'PA_ya_5.1.1:92.1']	Nirodho saccaṁ?🔽Saccā dukkhaṁ? …pe… Saccā maggo?	nirodhaḥ sat ca  saccā dukkha pe saccā maggo 	Is cessation a truth?🔽Is suffering a truth? … Is path a truth?
-['PA_ya_5.1.1:93.1']	Maggo saccaṁ?	maggaḥ sacca 	Is path a truth?
-['PA_ya_5.1.1:94.1', 'PA_ya_5.1.1:95.1', 'PA_ya_5.1.1:96.1']	Saccā dukkhaṁ?🔽Maggo saccaṁ?🔽Saccā samudayo?	saccā  maggaḥ sacca  satcā samudayaḥ 	Is suffering a truth?🔽Is path a truth?🔽Is origin a truth?
-['PA_ya_5.1.1:97.1']	Maggo saccaṁ?	maggaḥ sacca 	Is path a truth?
-['PA_ya_5.1.1:98.1']	Saccā nirodho?	saccā nirodhaḥ 	Is cessation a truth?
-['PA_ya_5.1.1:99.0', 'PA_ya_5.1.1:99.1']	5.1.1.4.2. Paccanīka🔽Na dukkhaṁ na saccaṁ?	paccanīka  na dukkham na sat ca 	.... Reverse🔽Not suffering and not a truth?
-['PA_ya_5.1.1:100.1', 'PA_ya_5.1.1:101.1', 'PA_ya_5.1.1:102.1']	Na saccā na samudayo?🔽Na dukkhaṁ na saccaṁ?🔽Na saccā na nirodho?	na satcā na samudayaḥ  na dukkham na sat ca  na saccā na nirodhaḥ 	Not a truth and not origin?🔽Not suffering and not a truth?🔽Not a truth and not cessation?
-['PA_ya_5.1.1:103.1']	Na dukkhaṁ na saccaṁ?	na dukkham na sat ca 	Not suffering and not a truth?
-['PA_ya_5.1.1:104.1']	Na saccā na maggo?	na saccā na maggo 	Not a truth and not path?
-['PA_ya_5.1.1:105.1']	Na samudayo na saccaṁ?	na samudayaḥ na sat ca 	Not origin and not a truth?
-['PA_ya_5.1.1:106.1']	Na saccā na dukkhaṁ? …pe… Na saccā na maggo?	na saccā na dukkha pe na saccā na maggo 	Not a truth and not suffering? … Not a truth and not path?
-['PA_ya_5.1.1:107.1']	Na nirodho na saccaṁ?	na nirodhaḥ na sat ca 	Is there no cessation, no truth?🔽Is there no truth, no suffering? … Is there no truth, no path?
-['PA_ya_5.1.1:108.1', 'PA_ya_5.1.1:109.1']	Na saccā na dukkhaṁ? …pe… Na saccā na maggo?🔽Na maggo na saccaṁ?	na saccā na dukkha pe na saccā na maggo  na maggaḥ na sacca 	Is there no path, no truth?🔽Is there no truth, no suffering?
-['PA_ya_5.1.1:110.1', 'PA_ya_5.1.1:111.1', 'PA_ya_5.1.1:112.1']	Na saccā na dukkhaṁ?🔽Na maggo na saccaṁ?🔽Na saccā na samudayo?	na saccā na dukkha  na maggaḥ na sacca  na satcā na samudayaḥ 	Is there no path, no truth?🔽Is there no path, no truth?🔽Is there no truth, no origin?
-['PA_ya_5.1.1:113.1']	Na maggo na saccaṁ?	na maggaḥ na sacca 	Is there no path, no truth?
-['PA_ya_5.1.1:114.1']	Na saccā na nirodho?	na saccā na nirodhaḥ 	Is there no truth, no cessation?
-['PA_ya_5.1.1:115.1']	Paṇṇattiuddesavāro.	paṇṇatti uddesa vāraḥ 	The section on the enumeration of terms.
+segmentnr	original	analyzed	folio	translated
+['PA_ya_5.1.1:0.1', 'PA_ya_5.1.1:0.2']	5 Saccayamaka🔽5.1 Paṇṇattivāra	saccayamaka  paṇṇattivāra 	0	The Truths🔽The Mode of Conveying Description
+['PA_ya_5.1.1:0.3']	5.1.1. Paṇṇattivārauddesa	paṇṇatti vāra uddesa 	0	. The Mode of Conveying Description: Outline
+['PA_ya_5.1.1:1.1']	Namo tassa Bhagavato Arahato Sammāsambuddhassa.	namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa 	1	Homage to that Blessed One, perfected one, fully awakened Buddha.
+['PA_ya_5.1.1:2.1', 'PA_ya_5.1.1:3.0.1']	Cattāri saccāni—dukkhasaccaṁ, samudayasaccaṁ nirodhasaccaṁ, maggasaccaṁ.🔽5.1.1.1. Padasodhanavāra	cattāri saccā anidukkha sacca samudaya saccam nirodha sacca magga sacca      	2	There are four truths: the truth of suffering, the truth of origin, the truth of cessation, the truth of the path.🔽.... The Mode of Conveying Analysis of Terms
+['PA_ya_5.1.1:3.0.2', 'PA_ya_5.1.1:3.1']	5.1.1.1.1. Anuloma🔽Dukkhaṁ dukkhasaccaṁ?	anuloma  dukkham dukkha sat ca 	3	.... Direct🔽Is suffering the truth of suffering?
+['PA_ya_5.1.1:4.1', 'PA_ya_5.1.1:5.1']	Dukkhasaccaṁ dukkhaṁ?🔽Samudayo samudayasaccaṁ?	dukkha saccam  samudayaḥ samudaya sad ca 	4	Is the truth of suffering suffering?🔽Is origin origin?
+['PA_ya_5.1.1:6.1', 'PA_ya_5.1.1:7.1']	Samudayasaccaṁ samudayo?🔽Nirodho nirodhasaccaṁ?	samudaya saccam  nirodhaḥ nirodha sat ca 	6	Is origin the truth of origin?🔽Is cessation cessation?
+['PA_ya_5.1.1:8.1', 'PA_ya_5.1.1:9.1']	Nirodhasaccaṁ nirodho?🔽Maggo maggasaccaṁ?	nirodha saccam nirodhaḥ  maggaḥ magga sad ca 	8	Is cessation the truth of cessation?🔽Is the path the path?
+['PA_ya_5.1.1:10.1']	Maggasaccaṁ maggo?	magga saccam maggo 	10	Is the path the truth of the path?
+['PA_ya_5.1.1:11.0', 'PA_ya_5.1.1:11.1']	5.1.1.1.2. Paccanīka🔽Na dukkhaṁ na dukkhasaccaṁ?	paccanīka  na dukkham na dukkha sat ca 	11	.... Reverse🔽Is it not suffering, not the truth of suffering?
+['PA_ya_5.1.1:12.1', 'PA_ya_5.1.1:13.1']	Na dukkhasaccaṁ na dukkhaṁ?🔽Na samudayo na samudayasaccaṁ?	na dukkha saccam na dukkha  na samudayaḥ na samudaya sat ca 	12	Is it not the truth of suffering, not suffering?🔽Is it not origin, not the truth of origin?
+['PA_ya_5.1.1:14.1', 'PA_ya_5.1.1:15.1']	Na samudayasaccaṁ na samudayo?🔽Na nirodho na nirodhasaccaṁ?	na samudaya saccam na  na nirodhaḥ na nirodha sat ca 	14	Is it not the truth of origin, not origin?🔽Is it not cessation, not the truth of cessation?
+['PA_ya_5.1.1:16.1', 'PA_ya_5.1.1:17.1']	Na nirodhasaccaṁ na nirodho?🔽Na maggo na maggasaccaṁ?	na nirodha saccam na nirodhaḥ  na maggaḥ na magga saddhi 	16	Is it not the truth of cessation, not cessation?🔽Is it not the path, not the truth of the path?
+['PA_ya_5.1.1:18.1', 'PA_ya_5.1.1:19.0.1']	Na maggasaccaṁ na maggo?🔽5.1.1.2. Padasodhanamūlacakkavāra	na magga saccam na maggaḥ        	18	Is it not the truth of the path, not the path?🔽.... The Mode of Conveying Analysis of Terms: Root List
+['PA_ya_5.1.1:19.0.2']	5.1.1.2.1. Anuloma	anuloma 	19	.... Direct
+['PA_ya_5.1.1:19.1']	Dukkhaṁ dukkhasaccaṁ?	dukkham dukkha sat ca 	19	Is suffering the truth of suffering?
+['PA_ya_5.1.1:20.1', 'PA_ya_5.1.1:21.1']	Saccā samudayasaccaṁ?🔽Dukkhaṁ dukkhasaccaṁ?	sat ca samudaya sat ca  dukkham dukkha sat ca 	20	Is origination the truth of origination?🔽Is suffering the truth of suffering?
+['PA_ya_5.1.1:22.1', 'PA_ya_5.1.1:23.1']	Saccā nirodhasaccaṁ?🔽Dukkhaṁ dukkhasaccaṁ?	sat ca nirodha sat ca  dukkham dukkha sat ca 	22	Is cessation the truth of cessation?🔽Is suffering the truth of suffering?
+['PA_ya_5.1.1:24.1']	Saccā maggasaccaṁ?	saccā magga sacca 	24	Is the path the truth of the path?
+['PA_ya_5.1.1:25.1']	Samudayo samudayasaccaṁ?	samudayaḥ samudaya sad ca 	25	Is origination the truth of origination?
+['PA_ya_5.1.1:26.1', 'PA_ya_5.1.1:27.1', 'PA_ya_5.1.1:28.1']	Saccā dukkhasaccaṁ?🔽Samudayo samudayasaccaṁ?🔽Saccā nirodhasaccaṁ?	saccā dukkha sacca  samudayaḥ samudaya sad ca  sat ca nirodha sat ca 	26	Is suffering the truth of suffering?🔽Is origination the truth of origination?🔽Is cessation the truth of cessation?
+['PA_ya_5.1.1:29.1']	Samudayo samudayasaccaṁ?	samudayaḥ samudaya sad ca 	29	Is origination the truth of origination?
+['PA_ya_5.1.1:30.1']	Saccā maggasaccaṁ?	saccā magga sacca 	30	Is the path the truth of the path?
+['PA_ya_5.1.1:31.1']	Nirodho nirodhasaccaṁ?	nirodhaḥ nirodha sat ca 	31	Is cessation the truth of cessation?
+['PA_ya_5.1.1:32.1']	Saccā dukkhasaccaṁ?	saccā dukkha sacca 	32	Is suffering the truth of suffering?
+['PA_ya_5.1.1:33.1', 'PA_ya_5.1.1:34.1']	Nirodho nirodhasaccaṁ?🔽Saccā samudayasaccaṁ?	nirodhaḥ nirodha sat ca  sat ca samudaya sat ca 	33	Is cessation the truth of cessation?🔽Is origination the truth of origination?
+['PA_ya_5.1.1:35.1', 'PA_ya_5.1.1:36.1', 'PA_ya_5.1.1:37.1']	Nirodho nirodhasaccaṁ?🔽Saccā maggasaccaṁ?🔽Maggo maggasaccaṁ?	nirodhaḥ nirodha sat ca  saccā magga sacca  maggaḥ magga sad ca 	35	Is cessation the truth of cessation?🔽Is the path the truth of the path?🔽Is the path the truth of the path?
+['PA_ya_5.1.1:38.1', 'PA_ya_5.1.1:39.1']	Saccā dukkhasaccaṁ?🔽Maggo maggasaccaṁ?	saccā dukkha sacca  maggaḥ magga sad ca 	38	Is suffering the truth of suffering?🔽Is the path the truth of the path?
+['PA_ya_5.1.1:40.1', 'PA_ya_5.1.1:41.1']	Saccā samudayasaccaṁ?🔽Maggo maggasaccaṁ?	sat ca samudaya sat ca  maggaḥ magga sad ca 	40	Is origination the truth of origination?🔽Is the path the truth of the path?
+['PA_ya_5.1.1:42.1']	Saccā nirodhasaccaṁ?	sat ca nirodha sat ca 	42	Is cessation the truth of cessation?
+['PA_ya_5.1.1:43.0', 'PA_ya_5.1.1:43.1']	5.1.1.2.2. Paccanīka🔽Na dukkhaṁ na dukkhasaccaṁ?	paccanīka  na dukkham na dukkha sat ca 	43	..... Reverse🔽Is not suffering not the truth of suffering?
+['PA_ya_5.1.1:44.1', 'PA_ya_5.1.1:45.1', 'PA_ya_5.1.1:46.1']	Na saccā na samudayasaccaṁ?🔽Na dukkhaṁ na dukkhasaccaṁ?🔽Na saccā na nirodhasaccaṁ?	na sat ca na samudaya sat ca  na dukkham na dukkha sat ca  na sat ca na nirodha sat ca 	44	Is not origination not the truth of origination?🔽Is not suffering not the truth of suffering?🔽Is not cessation not the truth of cessation?
+['PA_ya_5.1.1:47.1']	Na dukkhaṁ na dukkhasaccaṁ?	na dukkham na dukkha sat ca 	47	Is not suffering not the truth of suffering?
+['PA_ya_5.1.1:48.1']	Na saccā na maggasaccaṁ?	na saccā na magga sacca 	48	Is not the path not the truth of the path?
+['PA_ya_5.1.1:49.1']	Na samudayo na samudayasaccaṁ?	na samudayaḥ na samudaya sat ca 	49	Not origin, not the truth of origin?
+['PA_ya_5.1.1:50.1', 'PA_ya_5.1.1:51.1', 'PA_ya_5.1.1:52.1']	Na saccā na dukkhasaccaṁ?🔽Na samudayo na samudayasaccaṁ?🔽Na saccā na nirodhasaccaṁ?	na saccā na dukkha sacca  na samudayaḥ na samudaya sat ca  na sat ca na nirodha sat ca 	50	Not the truths, not the truth of suffering?🔽Not origin, not the truth of origin?🔽Not the truths, not the truth of cessation?
+['PA_ya_5.1.1:53.1']	Na samudayo na samudayasaccaṁ?	na samudayaḥ na samudaya sat ca 	53	Not origin, not the truth of origin?
+['PA_ya_5.1.1:54.1']	Na saccā na maggasaccaṁ?	na saccā na magga sacca 	54	Not the truths, not the truth of the path?
+['PA_ya_5.1.1:55.1']	Na nirodho na nirodhasaccaṁ?	na nirodhaḥ na nirodha sat ca 	55	Not cessation, not the truth of cessation?
+['PA_ya_5.1.1:56.1']	Na saccā na dukkhasaccaṁ?	na saccā na dukkha sacca 	56	Not the truths, not the truth of suffering?
+['PA_ya_5.1.1:57.1']	Na nirodho na nirodhasaccaṁ?	na nirodhaḥ na nirodha sat ca 	57	Not cessation, not the truth of cessation?
+['PA_ya_5.1.1:58.1']	Na saccā na samudayasaccaṁ?	na sat ca na samudaya sat ca 	58	Not the truths, not the truth of origin?
+['PA_ya_5.1.1:59.1', 'PA_ya_5.1.1:60.1']	Na nirodho na nirodhasaccaṁ?🔽Na saccā na maggasaccaṁ?	na nirodhaḥ na nirodha sat ca  na saccā na magga sacca 	59	Not cessation, not the truth of cessation?🔽Not the truths, not the truth of the path?
+['PA_ya_5.1.1:61.1']	Na maggo na maggasaccaṁ?	na maggaḥ na magga saddhi 	61	Not the path, not the truth of the path?
+['PA_ya_5.1.1:62.1', 'PA_ya_5.1.1:63.1']	Na saccā na dukkhasaccaṁ?🔽Na maggo na maggasaccaṁ?	na saccā na dukkha sacca  na maggaḥ na magga saddhi 	62	Not the truths, not the truth of suffering?🔽Not the path, not the truth of the path?
+['PA_ya_5.1.1:64.1', 'PA_ya_5.1.1:65.1']	Na saccā na samudayasaccaṁ?🔽Na maggo na maggasaccaṁ?	na sat ca na samudaya sat ca  na maggaḥ na magga saddhi 	64	Not the truths, not the truth of origin?🔽Not the path, not the truth of the path?
+['PA_ya_5.1.1:66.1']	Na saccā na nirodhasaccaṁ?	na sat ca na nirodha sat ca 	66	Not the truths, not the truth of cessation?
+['PA_ya_5.1.1:67.0.1']	5.1.1.3. Suddhasaccavāra	suddha sacca vāra 	67	.... The section on pure truths
+['PA_ya_5.1.1:67.0.2', 'PA_ya_5.1.1:67.1']	5.1.1.3.1. Anuloma🔽Dukkhaṁ saccaṁ?	anuloma  dukkham sat ca 	67	..... The forward order🔽Is suffering a truth?
+['PA_ya_5.1.1:68.1', 'PA_ya_5.1.1:69.1']	Saccā dukkhaṁ?🔽Samudayo saccaṁ?	saccā  samudayaḥ sat ca 	68	Are the truths suffering?🔽Is origin a truth?
+['PA_ya_5.1.1:70.1', 'PA_ya_5.1.1:71.1']	Saccā samudayo?🔽Nirodho saccaṁ?	satcā samudayaḥ  nirodhaḥ sat ca 	70	Are the truths origin?🔽Is cessation a truth?
+['PA_ya_5.1.1:72.1', 'PA_ya_5.1.1:73.1']	Saccā nirodho?🔽Maggo saccaṁ?	saccā nirodhaḥ  maggaḥ sacca 	72	Are the truths cessation?🔽Is the path a truth?
+['PA_ya_5.1.1:74.1']	Saccā maggo?	saccā maggaḥ 	74	Are the truths the path?
+['PA_ya_5.1.1:75.0']	5.1.1.3.2. Paccanīka	paccanīka 	75	..... The reverse order
+['PA_ya_5.1.1:75.1']	Na dukkhaṁ na saccaṁ?	na dukkham na sat ca 	75	Is not suffering not a truth?
+['PA_ya_5.1.1:76.1', 'PA_ya_5.1.1:77.1']	Na saccā na dukkhaṁ?🔽Na samudayo na saccaṁ?	na saccā na dukkha  na samudayaḥ na sat ca 	76	Not suffering and not a truth?🔽Not origin and not a truth?
+['PA_ya_5.1.1:78.1', 'PA_ya_5.1.1:79.1']	Na saccā na samudayo?🔽Na nirodho na saccaṁ?	na satcā na samudayaḥ  na nirodhaḥ na sat ca 	78	Not a truth and not origin?🔽Not cessation and not a truth?
+['PA_ya_5.1.1:80.1', 'PA_ya_5.1.1:81.1']	Na saccā na nirodho?🔽Na maggo na saccaṁ?	na saccā na nirodhaḥ  na maggaḥ na sacca 	80	Not a truth and not cessation?🔽Not path and not a truth?
+['PA_ya_5.1.1:82.1']	Na saccā na maggo?	na saccā na maggo 	82	Not a truth and not path?
+['PA_ya_5.1.1:83.0.1']	5.1.1.4. Suddhasaccamūlacakkavāra	       	83	.... The Root-Discourse Set on Purity
+['PA_ya_5.1.1:83.0.2']	5.1.1.4.1. Anuloma	anuloma 	83	.... Forward
+['PA_ya_5.1.1:83.1']	Dukkhaṁ saccaṁ?	dukkham sat ca 	83	Is suffering a truth?
+['PA_ya_5.1.1:84.1', 'PA_ya_5.1.1:85.1']	Saccā samudayo?🔽Dukkhaṁ saccaṁ?	satcā samudayaḥ  dukkham sat ca 	84	Is origin a truth?🔽Is suffering a truth?
+['PA_ya_5.1.1:86.1', 'PA_ya_5.1.1:87.1']	Saccā nirodho?🔽Dukkhaṁ saccaṁ?	saccā nirodhaḥ  dukkham sat ca 	86	Is cessation a truth?🔽Is suffering a truth?
+['PA_ya_5.1.1:88.1']	Saccā maggo?	saccā maggaḥ 	88	Is path a truth?
+['PA_ya_5.1.1:89.1']	Samudayo saccaṁ?	samudayaḥ sat ca 	89	Is origin a truth?
+['PA_ya_5.1.1:90.1']	Saccā dukkhaṁ? …pe… Saccā maggo?	saccā dukkha pe saccā maggo 	90	Is suffering a truth? … Is path a truth?
+['PA_ya_5.1.1:91.1', 'PA_ya_5.1.1:92.1']	Nirodho saccaṁ?🔽Saccā dukkhaṁ? …pe… Saccā maggo?	nirodhaḥ sat ca  saccā dukkha pe saccā maggo 	91	Is cessation a truth?🔽Is suffering a truth? … Is path a truth?
+['PA_ya_5.1.1:93.1']	Maggo saccaṁ?	maggaḥ sacca 	93	Is path a truth?
+['PA_ya_5.1.1:94.1', 'PA_ya_5.1.1:95.1', 'PA_ya_5.1.1:96.1']	Saccā dukkhaṁ?🔽Maggo saccaṁ?🔽Saccā samudayo?	saccā  maggaḥ sacca  satcā samudayaḥ 	94	Is suffering a truth?🔽Is path a truth?🔽Is origin a truth?
+['PA_ya_5.1.1:97.1']	Maggo saccaṁ?	maggaḥ sacca 	97	Is path a truth?
+['PA_ya_5.1.1:98.1']	Saccā nirodho?	saccā nirodhaḥ 	98	Is cessation a truth?
+['PA_ya_5.1.1:99.0', 'PA_ya_5.1.1:99.1']	5.1.1.4.2. Paccanīka🔽Na dukkhaṁ na saccaṁ?	paccanīka  na dukkham na sat ca 	99	.... Reverse🔽Not suffering and not a truth?
+['PA_ya_5.1.1:100.1', 'PA_ya_5.1.1:101.1', 'PA_ya_5.1.1:102.1']	Na saccā na samudayo?🔽Na dukkhaṁ na saccaṁ?🔽Na saccā na nirodho?	na satcā na samudayaḥ  na dukkham na sat ca  na saccā na nirodhaḥ 	100	Not a truth and not origin?🔽Not suffering and not a truth?🔽Not a truth and not cessation?
+['PA_ya_5.1.1:103.1']	Na dukkhaṁ na saccaṁ?	na dukkham na sat ca 	103	Not suffering and not a truth?
+['PA_ya_5.1.1:104.1']	Na saccā na maggo?	na saccā na maggo 	104	Not a truth and not path?
+['PA_ya_5.1.1:105.1']	Na samudayo na saccaṁ?	na samudayaḥ na sat ca 	105	Not origin and not a truth?
+['PA_ya_5.1.1:106.1']	Na saccā na dukkhaṁ? …pe… Na saccā na maggo?	na saccā na dukkha pe na saccā na maggo 	106	Not a truth and not suffering? … Not a truth and not path?
+['PA_ya_5.1.1:107.1']	Na nirodho na saccaṁ?	na nirodhaḥ na sat ca 	107	Is there no cessation, no truth?🔽Is there no truth, no suffering? … Is there no truth, no path?
+['PA_ya_5.1.1:108.1', 'PA_ya_5.1.1:109.1']	Na saccā na dukkhaṁ? …pe… Na saccā na maggo?🔽Na maggo na saccaṁ?	na saccā na dukkha pe na saccā na maggo  na maggaḥ na sacca 	108	Is there no path, no truth?🔽Is there no truth, no suffering?
+['PA_ya_5.1.1:110.1', 'PA_ya_5.1.1:111.1', 'PA_ya_5.1.1:112.1']	Na saccā na dukkhaṁ?🔽Na maggo na saccaṁ?🔽Na saccā na samudayo?	na saccā na dukkha  na maggaḥ na sacca  na satcā na samudayaḥ 	110	Is there no path, no truth?🔽Is there no path, no truth?🔽Is there no truth, no origin?
+['PA_ya_5.1.1:113.1']	Na maggo na saccaṁ?	na maggaḥ na sacca 	113	Is there no path, no truth?
+['PA_ya_5.1.1:114.1']	Na saccā na nirodho?	na saccā na nirodhaḥ 	114	Is there no truth, no cessation?
+['PA_ya_5.1.1:115.1']	Paṇṇattiuddesavāro.	paṇṇatti uddesa vāraḥ 	115	The section on the enumeration of terms.

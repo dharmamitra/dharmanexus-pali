@@ -1,0 +1,741 @@
+segmentnr	original	analyzed	translated
+['PA_kv_1.2:0.1']	Kathāvatthu	kathāvatthu 	Points of Controversy
+['PA_kv_1.2:0.2']	Mahāpaṇṇāsaka	mahāpaṇṇāsaka 	The Great Fifty
+['PA_kv_1.2:0.3']	Paṭhamavagga	paṭhama vagga 	First Section
+['PA_kv_1.2:0.4']	Parihānikathā	parihāni kathā 	Discussion of Decline
+['PA_kv_1.2:1.0']	Vādayuttiparihāni	vāda yutti parihāni 	Decline in the Utterance
+['PA_kv_1.2:1.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does an Arahant decline from Arahantship?”
+['PA_kv_1.2:1.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:1.3']	Sabbattha arahā arahattā parihāyatīti?	sabbattha arahā arahattā parihāyati iti 	“Does an Arahant everywhere decline from Arahantship?”
+['PA_kv_1.2:1.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“That is not so.” …
+['PA_kv_1.2:1.5']	sabbattha arahā arahattā parihāyatīti?	sabbattha arahā arahattā parihāyati iti 	“Does an Arahant everywhere decline from Arahantship?”
+['PA_kv_1.2:1.6']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:1.7']	Sabbattha arahato parihānīti?	sabbattha arahataḥ parihāni iti 	“Is there everywhere decline for an Arahant?”
+['PA_kv_1.2:1.8']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That is not so.” …
+['PA_kv_1.2:2.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does an Arahant decline from Arahantship?”
+['PA_kv_1.2:2.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:2.3']	Sabbadā arahā arahattā parihāyatīti?	sabbadā arahā arahattā parihāyati iti 	“Does an Arahant always decline from Arahantship?”
+['PA_kv_1.2:2.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“That is not so.” …
+['PA_kv_1.2:2.5']	sabbadā arahā arahattā parihāyatīti?	sabbadā arahā arahattā parihāyati iti 	“Does an Arahant always decline from Arahantship?”
+['PA_kv_1.2:2.6']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:2.7']	Sabbadā arahato parihānīti?	sabbadā arahataḥ parihāni iti 	“Is there always decline for an Arahant?”
+['PA_kv_1.2:2.8']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That is not so.” …
+['PA_kv_1.2:3.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does an Arahant decline from Arahantship?”
+['PA_kv_1.2:3.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:3.3']	Sabbeva arahanto arahattā parihāyantīti?	sabbe iva arahantaḥ arahattā parihāyanti iti 	“Do all Arahants decline from Arahantship?”
+['PA_kv_1.2:3.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“That is not so.” …
+['PA_kv_1.2:3.5']	sabbeva arahanto arahattā parihāyantīti?	sabbe iva arahantaḥ arahattā parihāyanti iti 	“Do all Arahants decline from Arahantship?”
+['PA_kv_1.2:3.6']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:3.7']	Sabbesaṁyeva arahantānaṁ parihānīti?	sabbesayā iva arahantānam parihāni iti 	“Is there decline for all Arahants?”
+['PA_kv_1.2:3.8']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That is not so.” …
+['PA_kv_1.2:4.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Does a perfected one fall away from his perfection?
+['PA_kv_1.2:4.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:4.3']	Arahā arahattā parihāyamāno catūhi phalehi parihāyatīti?	arahāḥ arahattā parihāyamānaḥ catūhi phalehi parihāyati iti 	“When a perfected one falls away from his perfection, does he fall away from four fruits?
+['PA_kv_1.2:4.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:5.1']	Catūhi satasahassehi seṭṭhī seṭṭhittaṁ kārento satasahasse parihīne seṭṭhittā parihīno hotīti?	catūhi sata sahassehi seṭṭhī seṭṭhittam kārento sata sahasse parihīne seṭṭhittā parihīnaḥ hoti iti 	“When a merchant, having made a profit of 400,000, falls away from 100,000, does he fall away from his merchant-status?”
+['PA_kv_1.2:5.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:5.3']	Sabbasāpateyyā parihīno hotīti?	sabba sāpateyyā parihīnaḥ hoti iti 	“Does he fall away from all his wealth?”
+['PA_kv_1.2:5.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:6.1']	Catūhi satasahassehi seṭṭhī seṭṭhittaṁ kārento satasahasse parihīne bhabbo sabbasāpateyyā parihāyitunti?	catūhi sata sahassehi seṭṭhī seṭṭhittam kārento sata sahasse parihīne bhabbaḥ sabba sāpateyyā parihāyitunti 	“When a merchant, having made a profit of 400,000, falls away from 100,000, is he able to fall away from all his wealth?”
+['PA_kv_1.2:6.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:6.3']	Arahā arahattā parihāyamāno bhabbo catūhi phalehi parihāyitunti?	arahā arahattā parihāyamānaḥ bhabbo catūhi phalehi parihāyitunti 	“When a perfected one falls away from his perfection, is he able to fall away from four fruits?”
+['PA_kv_1.2:6.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye sense-sphere and in the mind-object sense-sphere?” …
+['PA_kv_1.2:7.0']	Ariyapuggalasaṁsandanaparihāni	ariya puggala sa sandana parihāni 	The Discussion of Falling Away of Noble Persons
+['PA_kv_1.2:7.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his perfection?”
+['PA_kv_1.2:7.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:7.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	“Does a stream-enterer fall away from his fruit?”
+['PA_kv_1.2:7.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye sense-sphere and in the mind-object sense-sphere?” …
+['PA_kv_1.2:8.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his perfection?”
+['PA_kv_1.2:8.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:8.3']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	“Does a once-returner fall away from his fruit?”
+['PA_kv_1.2:8.4', 'PA_kv_1.2:9.1', 'PA_kv_1.2:9.2']	Na hevaṁ vattabbe …pe….🔽Parihāyati arahā arahattāti?🔽Āmantā.	na ha ivam vattabbe pe  parihāyati arahāḥ arahattā ati  āmantā 	“He does not fall away from his state of being an arahant.”🔽“He falls away from his state of being an arahant.”
+['PA_kv_1.2:9.3']	Parihāyati anāgāmī anāgāmiphalāti?	anāgāmī 	“He falls away from his state of being a non-returner.”
+['PA_kv_1.2:9.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“He does not fall away from his state of being a non-returner.”
+['PA_kv_1.2:10.1', 'PA_kv_1.2:10.2']	Parihāyati anāgāmī anāgāmiphalāti?🔽Āmantā.	anāgāmī  āmantā 	“He falls away from his state of being a non-returner.”
+['PA_kv_1.2:10.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	“He falls away from his state of being a stream-enterer.”
+['PA_kv_1.2:10.4', 'PA_kv_1.2:11.1', 'PA_kv_1.2:11.2']	Na hevaṁ vattabbe …pe….🔽Parihāyati anāgāmī anāgāmiphalāti?🔽Āmantā.	na ha ivam vattabbe pe  anāgāmī  āmantā 	“He does not fall away from his state of being a stream-enterer.”🔽“He falls away from his state of being a stream-enterer.”
+['PA_kv_1.2:11.3']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	“He falls away from his state of being a once-returner.”
+['PA_kv_1.2:11.4', 'PA_kv_1.2:12.1', 'PA_kv_1.2:12.2']	Na hevaṁ vattabbe …pe….🔽Parihāyati sakadāgāmī sakadāgāmiphalāti?🔽Āmantā.	na ha ivam vattabbe pe  sakadāgāmī  āmantā 	“He does not fall away from his state of being a once-returner.”🔽“He falls away from his state of being a once-returner.”
+['PA_kv_1.2:12.3', 'PA_kv_1.2:12.4']	Parihāyati sotāpanno sotāpattiphalāti?🔽Na hevaṁ vattabbe …pe….	parihāyati sotāpannaḥ sotāpatti phalā ati  na ha ivam vattabbe pe 	“He falls away from his state of being a stream-enterer.”
+['PA_kv_1.2:13.1', 'PA_kv_1.2:13.2', 'PA_kv_1.2:13.3']	Na parihāyati sotāpanno sotāpattiphalāti?🔽Āmantā.🔽Na parihāyati arahā arahattāti?	na parihāyati sotāpannaḥ sotāpatti phalā ati  āmantā  na parihāyati arahāḥ arahattā ati 	“He does not fall away from his state of being a stream-enterer.”🔽“He does not fall away from his state of being an arahant.”
+['PA_kv_1.2:13.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“He falls away from his state of being an arahant.”
+['PA_kv_1.2:14.1', 'PA_kv_1.2:14.2', 'PA_kv_1.2:14.3', 'PA_kv_1.2:14.4']	Na parihāyati sakadāgāmī sakadāgāmiphalāti?🔽Āmantā.🔽Na parihāyati arahā arahattāti?🔽Na hevaṁ vattabbe …pe….	na sakadāgāmī  āmantā  na parihāyati arahāḥ arahattā ati  na ha ivam vattabbe pe 	“He does not fall away from his state of being a once-returner.”🔽“He falls away from his state of being a once-returner.”🔽“He does not fall away from his state of being an arahant.”🔽“He falls away from his state of being an arahant.”
+['PA_kv_1.2:15.1']	Na parihāyati anāgāmī anāgāmiphalāti?	na anāgāmī 	“He does not fall away from his state of being a non-returner.”
+['PA_kv_1.2:15.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:15.3']	Na parihāyati arahā arahattāti?	na parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his perfection?”
+['PA_kv_1.2:15.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
+['PA_kv_1.2:16.1']	Na parihāyati sotāpanno sotāpattiphalāti?	na parihāyati sotāpannaḥ sotāpatti phalā ati 	“Does a stream-enterer fall away from his fruit?”
+['PA_kv_1.2:16.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:16.3']	Na parihāyati anāgāmī anāgāmiphalāti?	na anāgāmī 	“Does a non-returner fall away from his fruit?”
+['PA_kv_1.2:16.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
+['PA_kv_1.2:17.1']	Na parihāyati sakadāgāmī sakadāgāmiphalāti?	na sakadāgāmī 	“Does a once-returner fall away from his fruit?”
+['PA_kv_1.2:17.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:17.3']	Na parihāyati anāgāmī anāgāmiphalāti?	na anāgāmī 	“Does a non-returner fall away from his fruit?”
+['PA_kv_1.2:17.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye sense-sphere and in the eye-consciousness element?” …
+['PA_kv_1.2:18.1']	Na parihāyati sotāpanno sotāpattiphalāti?	na parihāyati sotāpannaḥ sotāpatti phalā ati 	“Does a stream-enterer fall away from his fruit?”
+['PA_kv_1.2:18.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:18.3']	Na parihāyati sakadāgāmī sakadāgāmiphalāti?	na sakadāgāmī 	“Does a once-returner fall away from his fruit?”
+['PA_kv_1.2:18.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the abandoning of lust, the abandoning of hatred, the abandoning of delusion?
+['PA_kv_1.2:19.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his perfection?”
+['PA_kv_1.2:19.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:19.3']	Arahā arahattā parihāyamāno kattha saṇṭhātīti?	arahā arahattā parihāyamāno kattha saṇṭhāti iti 	“When a perfected one falls away from his perfection, where does he reappear?”
+['PA_kv_1.2:19.4']	Anāgāmiphaleti.	anāgāmi phala iti 	“In the fruit of non-return.”
+['PA_kv_1.2:19.5']	Anāgāmī anāgāmiphalā parihāyamāno kattha saṇṭhātīti?	anāgāmī anāgāmi phalā parihāyamāno kattha saṇṭhāti iti 	“When a non-returner falls away from his fruit, where does he reappear?”
+['PA_kv_1.2:19.6']	Sakadāgāmiphaleti.	sakadāgāmi phala iti 	“In the fruit of once-return.”
+['PA_kv_1.2:19.7']	Sakadāgāmī sakadāgāmiphalā parihāyamāno kattha saṇṭhātīti?	sakadāgāmī sakadāgāmi phalā parihāyamāno kattha saṇṭhāti iti 	“When a once-returner falls away from his fruit, where does he reappear?”
+['PA_kv_1.2:19.8']	Sotāpattiphaleti.	sā utāpatti phalā iti 	“In the fruit of stream-entry.”
+['PA_kv_1.2:19.9', 'PA_kv_1.2:19.10']	Sotāpanno sotāpattiphalā parihāyamāno puthujjanabhūmiyaṁ saṇṭhātīti?🔽Na hevaṁ vattabbe.	sotāpannaḥ sotāpatti phalā parihāyamānaḥ puthujjana bhūmiyam saṇṭhāti iti  na ha ivam vattabbe 	Does one who is a stream-enterer, falling away from the fruit of stream-entry, come to be located in the plane of an ordinary person?🔽… ‘It should not be said that… ‘
+['PA_kv_1.2:20.1']	Ājānāhi niggahaṁ.	ājānāhi niggaha 	You are refuted.
+['PA_kv_1.2:20.2_0']	Hañci arahā arahattā parihāyamāno anāgāmiphale saṇṭhāti, anāgāmī anāgāmiphalā parihāyamāno	hañci arahā arahattā parihāyamānaḥ anāgāmi phale saṇṭhāti anāgāmī anāgāmi phalā parihāyamānaḥ 	Now, does a perfected one, falling away from the state of a perfected one, come to be located in the fruit of non-returning…
+['PA_kv_1.2:20.2_1']	sakadāgāmiphale saṇṭhāti, sakadāgāmī sakadāgāmiphalā parihāyamāno sotāpattiphale saṇṭhāti;	sakadāgāmi phale saṇṭhāti sakadāgāmī sakadāgāmi phalā parihāyamānaḥ sa utāpatti phale saṇṭhāti 	in the fruit of once-returning…in the fruit of stream-entry?
+['PA_kv_1.2:20.3', 'PA_kv_1.2:20.4']	tena vata re vattabbe—🔽“sotāpanno sotāpattiphalā parihāyamāno puthujjanabhūmiyaṁ saṇṭhātī”ti.	tena vata re vattabbe  sotāpannaḥ sotāpatti phalā parihāyamānaḥ puthujjana bhūmiyam saṇṭhāti iti 	… ‘It should not be said that… ‘
+['PA_kv_1.2:21.1']	Arahā arahattā parihāyamāno sotāpattiphale saṇṭhātīti?	arahā arahattā parihāyamānaḥ sotāpatti phale saṇṭhāti iti 	Does a perfected one, falling away from the state of a perfected one, come to be located in the fruit of stream-entry?
+['PA_kv_1.2:21.2']	Āmantā.	āmantā 	… ‘Yes.’
+['PA_kv_1.2:21.3']	Sotāpattiphalassa anantarā arahattaṁyeva sacchikarotīti?	sotāpatti phalassa anantarā arahattayā iva sacchikaroti iti 	… ‘Immediately after the fruit of stream-entry does he realize only the state of a perfected one?’
+['PA_kv_1.2:21.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	… ‘It should not be said that… ‘
+['PA_kv_1.2:22.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	… ‘Does a perfected one fall away from the state of a perfected one?’
+['PA_kv_1.2:22.2']	Āmantā.	āmantā 	… ‘Yes.’
+['PA_kv_1.2:22.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	… ‘Does a stream-enterer fall away from the fruit of stream-entry?’
+['PA_kv_1.2:22.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	… ‘It should not be said that… ‘
+['PA_kv_1.2:22.5']	kassa bahutarā kilesā pahīnā arahato vā sotāpannassa vāti?	kassa bahutarā kilesā pahīnāḥ arahataḥ vā sotāpannassa vā ati 	… ‘Between whom are more defilements abandoned: a perfected one or a stream-enterer?’
+['PA_kv_1.2:22.6']	Arahato.	a rahato 	… ‘A perfected one.’
+['PA_kv_1.2:22.7', 'PA_kv_1.2:22.8']	Hañci arahato bahutarā kilesā pahīnā, parihāyati arahā arahattā;🔽tena vata re vattabbe—	hañci arahataḥ bahutarā kilesā pahīnā parihāyati arahā arahattā  tena vata re vattabbe 	“Does the one with more defilements abandoned than the Arahant fall away from Arahantship?
+['PA_kv_1.2:22.9']	“parihāyati sotāpanno sotāpattiphalā”ti.	parihāyati sotāpannaḥ sotāpatti phalā ati 	“Then you must say whether the Stream-Enterer falls away from the fruit of Stream-Entry.
+['PA_kv_1.2:23.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does the Arahant fall away from Arahantship?”
+['PA_kv_1.2:23.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:23.3']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	“Does the Once-Returner fall away from the fruit of Once-Returning?”
+['PA_kv_1.2:23.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:23.5']	kassa bahutarā kilesā pahīnā arahato vā sakadāgāmissa vāti?	kassa bahutarā kilesā pahīnāḥ arahataḥ vā sakadāgāmissa vā ati 	“Whose defilements are more numerous, those of the Arahant or those of the Once-Returner?”
+['PA_kv_1.2:23.6']	Arahato.	a rahato 	“The Arahant’s.”
+['PA_kv_1.2:23.7', 'PA_kv_1.2:23.8']	Hañci arahato bahutarā kilesā pahīnā, parihāyati arahā arahattā;🔽tena vata re vattabbe—	hañci arahataḥ bahutarā kilesā pahīnā parihāyati arahā arahattā  tena vata re vattabbe 	“Does the one with more defilements abandoned than the Arahant fall away from Arahantship?
+['PA_kv_1.2:23.9']	“parihāyati sakadāgāmī sakadāgāmiphalā”ti.	sakadāgāmī 	“Then you must say whether the Once-Returner falls away from the fruit of Once-Returning.
+['PA_kv_1.2:24.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does the Arahant fall away from Arahantship?”
+['PA_kv_1.2:24.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:24.3']	Parihāyati anāgāmī anāgāmiphalāti?	anāgāmī 	“Does the Non-Returner fall away from the fruit of Non-Returning?”
+['PA_kv_1.2:24.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:24.5']	kassa bahutarā kilesā pahīnā arahato vā anāgāmissa vāti?	kassa bahutarā kilesā pahīnā arahataḥ vā anāgāmissa vā ati 	“Whose defilements are more numerous, those of the Arahant or those of the Non-Returner?”
+['PA_kv_1.2:24.6']	Arahato.	a rahato 	“The Arahant’s.”
+['PA_kv_1.2:24.7']	Hañci arahato bahutarā kilesā pahīnā, parihāyati arahā arahattā;	hañci arahataḥ bahutarā kilesā pahīnā parihāyati arahā arahattā 	“Does the one with more defilements abandoned than the Arahant fall away from Arahantship?
+['PA_kv_1.2:24.8']	tena vata re vattabbe—	tena vata re vattabbe 	“Then you must say whether the Non-Returner falls away from the fruit of Non-Returning.
+['PA_kv_1.2:24.9']	“parihāyati anāgāmī anāgāmiphalā”ti.	anāgāmī 	“A non-returner falls away from their fruit.”
+['PA_kv_1.2:25.1']	Parihāyati anāgāmī anāgāmiphalāti?	anāgāmī 	“Does a non-returner fall away from their fruit?”
+['PA_kv_1.2:25.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:25.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	“Does a stream-enterer fall away from their fruit?”
+['PA_kv_1.2:25.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:25.5']	kassa bahutarā kilesā pahīnā anāgāmissa vā sotāpannassa vāti?	kassa bahutarā kilesā pahīnāḥ anāgāmissa vā sotāpannassa vā ati 	“Who has more defilements abandoned: a non-returner or a stream-enterer?”
+['PA_kv_1.2:25.6']	Anāgāmissa.	anāgāmiḥ sa 	“A non-returner.”
+['PA_kv_1.2:25.7']	Hañci anāgāmissa bahutarā kilesā pahīnā, parihāyati anāgāmī anāgāmiphalā;	hañci anāgāmissa bahutarā kilesā pahīnā parihāyati anāgāmī anāgāmi phalā 	“If a non-returner has more defilements abandoned, then a non-returner falls away from their fruit.
+['PA_kv_1.2:25.8', 'PA_kv_1.2:25.9']	tena vata re vattabbe—🔽“parihāyati sotāpanno sotāpattiphalā”ti.	tena vata re vattabbe  parihāyati sotāpannaḥ sotāpatti phalā ati 	In that case you should say🔽that a stream-enterer falls away from their fruit.
+['PA_kv_1.2:26.1']	Parihāyati anāgāmī anāgāmiphalāti?	anāgāmī 	“Does a non-returner fall away from their fruit?”
+['PA_kv_1.2:26.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:26.3']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	“Does a once-returner fall away from their fruit?”
+['PA_kv_1.2:26.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:26.5']	kassa bahutarā kilesā pahīnā anāgāmissa vā sakadāgāmissa vāti?	kassa bahutarā kilesā pahīnā anāgāmissa vā sakadāgāmissa vā ati 	“Who has more defilements abandoned: a non-returner or a once-returner?”
+['PA_kv_1.2:26.6']	Anāgāmissa.	anāgāmiḥ sa 	“A non-returner.”
+['PA_kv_1.2:26.7']	Hañci anāgāmissa bahutarā kilesā pahīnā, parihāyati anāgāmī anāgāmiphalā;	hañci anāgāmissa bahutarā kilesā pahīnā parihāyati anāgāmī anāgāmi phalā 	“If a non-returner has more defilements abandoned, then a non-returner falls away from their fruit.
+['PA_kv_1.2:26.8']	tena vata re vattabbe—	tena vata re vattabbe 	In that case you should say
+['PA_kv_1.2:26.9']	“parihāyati sakadāgāmī sakadāgāmiphalā”ti.	sakadāgāmī 	that a once-returner falls away from their fruit.”
+['PA_kv_1.2:27.1']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	Does a once-returner fall away from the fruit of once-returning?
+['PA_kv_1.2:27.2']	Āmantā.	āmantā 	You have said it.
+['PA_kv_1.2:27.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	Does a stream-enterer fall away from the fruit of stream-entry?
+['PA_kv_1.2:27.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	You should not say so.
+['PA_kv_1.2:27.5']	kassa bahutarā kilesā pahīnā sakadāgāmissa vā sotāpannassa vāti?	kassa bahutarā kilesā pahīnā sakadāgāmissa vā sotāpannassa vā ati 	Between a once-returner and a stream-enterer, which has more defilements abandoned?
+['PA_kv_1.2:27.6']	Sakadāgāmissa.	sakadāgāmiḥ sa 	A once-returner.
+['PA_kv_1.2:27.7']	Hañci sakadāgāmissa bahutarā kilesā pahīnā, parihāyati sakadāgāmī sakadāgāmiphalā;	hañci sakadāgāmissa bahutarā kilesā pahīnā parihāyati sakadāgāmī sakadāgāmi phalā 	If a once-returner has more defilements abandoned, then a once-returner falls away from the fruit of once-returning.
+['PA_kv_1.2:27.8', 'PA_kv_1.2:27.9']	tena vata re vattabbe—🔽“parihāyati sotāpanno sotāpattiphalā”ti.	tena vata re vattabbe  parihāyati sotāpannaḥ sotāpatti phalā ati 	Then you should say🔽that a stream-enterer falls away from the fruit of stream-entry.
+['PA_kv_1.2:28.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Does an arahant fall away from the fruit of arahantship?
+['PA_kv_1.2:28.2']	Āmantā.	āmantā 	You have said it.
+['PA_kv_1.2:28.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	Does a stream-enterer fall away from the fruit of stream-entry?
+['PA_kv_1.2:28.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	You should not say so.
+['PA_kv_1.2:28.5']	kassa adhimattā maggabhāvanā arahato vā sotāpannassa vāti?	kassa adhimattā magga bhāvanā arahataḥ vā sotāpannassa vā ati 	Between an arahant and a stream-enterer, whose development of the path is more outstanding?
+['PA_kv_1.2:28.6']	Arahato.	a rahato 	An arahant.
+['PA_kv_1.2:28.7']	Hañci arahato adhimattā maggabhāvanā, parihāyati arahā arahattā;	hañci arahataḥ adhimattā magga bhāvanā parihāyati arahā arahattā 	If an arahant has more outstanding development of the path, then an arahant falls away from the fruit of arahantship.
+['PA_kv_1.2:28.8', 'PA_kv_1.2:28.9']	tena vata re vattabbe—🔽“parihāyati sotāpanno sotāpattiphalā”ti.	tena vata re vattabbe  parihāyati sotāpannaḥ sotāpatti phalā ati 	Then you should say🔽that a stream-enterer falls away from the fruit of stream-entry.
+['PA_kv_1.2:29.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Does an arahant fall away from the fruit of arahantship?
+['PA_kv_1.2:29.2']	Āmantā.	āmantā 	You have said it.
+['PA_kv_1.2:29.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	Does a stream-enterer fall away from his fruit?
+['PA_kv_1.2:29.4', 'PA_kv_1.2:29.5', 'PA_kv_1.2:29.6']	Na hevaṁ vattabbe …pe…🔽kassa adhimattā satipaṭṭhānabhāvanā …pe…🔽sammappadhānabhāvanā…	na ha ivam vattabbe pe  kassa adhimattā sati paṭṭhāna bhāvanā pe  sammappadhāna bhāvanā 	You may not say so.🔽Is the development of the foundations of mindfulness …🔽the development of the right efforts …
+['PA_kv_1.2:29.7', 'PA_kv_1.2:29.8']	iddhipādabhāvanā…🔽indriyabhāvanā…	iddhipāda bhāvanā  indriya bhāvanā 	the development of the bases of spiritual success …🔽the development of the faculties …
+['PA_kv_1.2:29.9']	balabhāvanā…	bala bhāvanā 	the development of the powers …
+['PA_kv_1.2:29.10']	bojjhaṅgabhāvanā arahato vā sotāpannassa vāti?	bojjhaṅga bhāvanā arahataḥ vā sotāpannassa vā ati 	the development of the factors for awakening in one who is an Arahant or in one who is a stream-enterer?”
+['PA_kv_1.2:29.11']	Arahato.	a rahato 	In one who is an Arahant.
+['PA_kv_1.2:29.12']	Hañci arahato adhimattā bojjhaṅgabhāvanā, parihāyati arahā arahattā;	hañci arahataḥ adhimattā bojjhaṅga bhāvanā parihāyati arahāḥ arahattā 	Now, is the development of the factors for awakening in one who is an Arahant excessive, and does an Arahant fall away from his fruit?
+['PA_kv_1.2:29.13']	tena vata re vattabbe—	tena vata re vattabbe 	Then you should say:
+['PA_kv_1.2:29.14']	“parihāyati sotāpanno sotāpattiphalā”ti.	parihāyati sotāpannaḥ sotāpatti phalā ati 	‘A stream-enterer falls away from his fruit.’
+['PA_kv_1.2:30.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Does an Arahant fall away from his fruit?
+['PA_kv_1.2:30.2']	Āmantā.	āmantā 	Yes.
+['PA_kv_1.2:30.3']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	Does a once-returner fall away from his fruit?
+['PA_kv_1.2:30.4', 'PA_kv_1.2:30.5']	Na hevaṁ vattabbe …pe…🔽kassa adhimattā maggabhāvanā …pe…	na ha ivam vattabbe pe  kassa adhimattā magga bhāvanā pe 	You may not say so.🔽Is the development of the path …
+['PA_kv_1.2:30.6']	bojjhaṅgabhāvanā arahato vā sakadāgāmissa vāti?	bojjhaṅga bhāvanā arahataḥ vā sakadāgāmissa vā ati 	the development of the factors for awakening in one who is an Arahant or in one who is a once-returner?”
+['PA_kv_1.2:30.7']	Arahato.	a rahato 	In one who is an Arahant.
+['PA_kv_1.2:30.8']	Hañci arahato adhimattā bojjhaṅgabhāvanā, parihāyati arahā arahattā;	hañci arahataḥ adhimattā bojjhaṅga bhāvanā parihāyati arahāḥ arahattā 	Now, is the development of the factors for awakening in one who is an Arahant excessive, and does an Arahant fall away from his fruit?
+['PA_kv_1.2:30.9']	tena vata re vattabbe—	tena vata re vattabbe 	Then you should say:
+['PA_kv_1.2:30.10']	“parihāyati sakadāgāmī sakadāgāmiphalā”ti.	sakadāgāmī 	‘A once-returner falls away from his fruit.’
+['PA_kv_1.2:31.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Does a perfected one fall away from his perfection?
+['PA_kv_1.2:31.2']	Āmantā.	āmantā 	You have agreed.
+['PA_kv_1.2:31.3', 'PA_kv_1.2:31.4', 'PA_kv_1.2:31.5']	Parihāyati anāgāmī anāgāmiphalāti?🔽Na hevaṁ vattabbe …pe…🔽kassa adhimattā maggabhāvanā …pe…	anāgāmī  na ha ivam vattabbe pe  kassa adhimattā magga bhāvanā pe 	Does a non-returner fall away from his fruit?🔽You have agreed.🔽Whose development of the path is excessive?
+['PA_kv_1.2:31.6']	bojjhaṅgabhāvanā arahato vā anāgāmissa vāti?	bojjhaṅga bhāvanā arahataḥ vā anāgāmissa vā ati 	Whose development of the factors for Awakening is excessive—that of a perfected one or that of a non-returner?
+['PA_kv_1.2:31.7']	Arahato.	a rahato 	A perfected one’s.
+['PA_kv_1.2:31.8']	Hañci arahato adhimattā bojjhaṅgabhāvanā, parihāyati arahā arahattā;	hañci arahataḥ adhimattā bojjhaṅga bhāvanā parihāyati arahāḥ arahattā 	Now, if a perfected one’s development of the factors for Awakening is excessive, he falls away from his perfection.
+['PA_kv_1.2:31.9']	tena vata re vattabbe—	tena vata re vattabbe 	Then you should say,
+['PA_kv_1.2:31.10']	“parihāyati anāgāmī anāgāmiphalā”ti.	anāgāmī 	‘A non-returner falls away from his fruit.’
+['PA_kv_1.2:32.1']	Parihāyati anāgāmī anāgāmiphalāti?	anāgāmī 	Does a non-returner fall away from his fruit?
+['PA_kv_1.2:32.2']	Āmantā.	āmantā 	You have agreed.
+['PA_kv_1.2:32.3', 'PA_kv_1.2:32.4']	Parihāyati sotāpanno sotāpattiphalāti?🔽Na hevaṁ vattabbe …pe…	parihāyati sotāpannaḥ sotāpatti phalā ati  na ha ivam vattabbe pe 	Does a stream-enterer fall away from his fruit?🔽You have agreed.
+['PA_kv_1.2:32.5']	kassa adhimattā maggabhāvanā …pe…	kassa adhimattā magga bhāvanā pe 	Whose development of the path is excessive?
+['PA_kv_1.2:32.6']	bojjhaṅgabhāvanā anāgāmissa vā sotāpannassa vāti?	bojjhaṅga bhāvanā anāgāmissa vā sotāpannassa vā ati 	Whose development of the factors for Awakening is excessive—that of a non-returner or that of a stream-enterer?
+['PA_kv_1.2:32.7']	Anāgāmissa.	anāgāmiḥ sa 	A non-returner’s.
+['PA_kv_1.2:32.8']	Hañci anāgāmissa adhimattā bojjhaṅgabhāvanā, parihāyati anāgāmī anāgāmiphalā;	hañci anāgāmissa adhimattā bojjhaṅga bhāvanā parihāyati anāgāmī anāgāmi phalā 	Now, if a non-returner’s development of the factors for Awakening is excessive, he falls away from his fruit.
+['PA_kv_1.2:32.9']	tena vata re vattabbe—	tena vata re vattabbe 	Then you should say,
+['PA_kv_1.2:32.10']	“parihāyati sotāpanno sotāpattiphalā”ti.	parihāyati sotāpannaḥ sotāpatti phalā ati 	‘A stream-enterer falls away from his fruit.’
+['PA_kv_1.2:33.1']	Parihāyati anāgāmī anāgāmiphalāti?	anāgāmī 	Does a non-returner fall away from his fruit?
+['PA_kv_1.2:33.2']	Āmantā.	āmantā 	You have agreed.
+['PA_kv_1.2:33.3']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	Does a once-returner fall away from the fruit of once-returning?
+['PA_kv_1.2:33.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	You shouldn’t say that.
+['PA_kv_1.2:33.5']	kassa adhimattā maggabhāvanā …pe…	kassa adhimattā magga bhāvanā pe 	Whose development of the path is excessive? …
+['PA_kv_1.2:33.6']	bojjhaṅgabhāvanā anāgāmissa vā sakadāgāmissa vāti?	bojjhaṅga bhāvanā anāgāmissa vā sakadāgāmissa vā ati 	Whose development of the factors for Awakening is excessive: a non-returner or a once-returner?
+['PA_kv_1.2:33.7']	Anāgāmissa.	anāgāmiḥ sa 	A non-returner.
+['PA_kv_1.2:33.8']	Hañci anāgāmissa adhimattā bojjhaṅgabhāvanā, parihāyati anāgāmī anāgāmiphalā;	hañci anāgāmissa adhimattā bojjhaṅga bhāvanā parihāyati anāgāmī anāgāmi phalā 	If a non-returner’s development of the factors for Awakening is excessive, does a non-returner fall away from the fruit of non-returning?
+['PA_kv_1.2:33.9']	tena vata re vattabbe—	tena vata re vattabbe 	Then you should say:
+['PA_kv_1.2:33.10']	“parihāyati sakadāgāmī sakadāgāmiphalā”ti.	sakadāgāmī 	‘A once-returner falls away from the fruit of once-returning.’
+['PA_kv_1.2:34.1']	Parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmī 	Does a once-returner fall away from the fruit of once-returning?
+['PA_kv_1.2:34.2']	Āmantā.	āmantā 	You’ve accepted the first proposition.
+['PA_kv_1.2:34.3']	Parihāyati sotāpanno sotāpattiphalāti?	parihāyati sotāpannaḥ sotāpatti phalā ati 	Does a stream-enterer fall away from the fruit of stream-entry?
+['PA_kv_1.2:34.4']	Na hevaṁ vattabbe …pe…	na ha ivam vattabbe pe 	You shouldn’t say that.
+['PA_kv_1.2:34.5']	kassa adhimattā maggabhāvanā …pe…	kassa adhimattā magga bhāvanā pe 	Whose development of the path is excessive? …
+['PA_kv_1.2:34.6']	bojjhaṅgabhāvanā sakadāgāmissa vā sotāpannassa vāti?	bojjhaṅga bhāvanā sakadāgāmissa vā sotāpannassa vā ati 	Whose development of the factors for Awakening is excessive: a once-returner or a stream-enterer?
+['PA_kv_1.2:34.7']	Sakadāgāmissa.	sakadāgāmiḥ sa 	A once-returner.
+['PA_kv_1.2:34.8']	Hañci sakadāgāmissa adhimattā bojjhaṅgabhāvanā, parihāyati sakadāgāmī sakadāgāmiphalā;	hañci sakadāgāmissa adhimattā bojjhaṅga bhāvanā parihāyati sakadāgāmī sakadāgāmi phalā 	If a once-returner’s development of the factors for Awakening is excessive, does a once-returner fall away from the fruit of once-returning?
+['PA_kv_1.2:34.9']	tena vata re vattabbe—	tena vata re vattabbe 	Then you should say:
+['PA_kv_1.2:34.10']	“parihāyati sotāpanno sotāpattiphalā”ti …pe….	parihāyati sotāpannaḥ sotāpatti phalā ati pe 	‘A stream-enterer falls away from the fruit of stream-entry.’ …
+['PA_kv_1.2:35.1']	Arahatā dukkhaṁ diṭṭhaṁ, parihāyati arahā arahattāti?	arahatā dukkham diṭṭha parihāyati arahā a rahattā ati 	Is it that when a perfected one has seen suffering, the perfected one falls away from perfection?
+['PA_kv_1.2:35.2']	Āmantā.	āmantā 	You have agreed .
+['PA_kv_1.2:35.3']	Sotāpannena dukkhaṁ diṭṭhaṁ, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena dukkham parihāyati sotāpannaḥ sotāpatti phalā ati 	Is it that when a stream-enterer has seen suffering, the stream-enterer falls away from the fruit of stream-entry?
+['PA_kv_1.2:35.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	You have agreed .
+['PA_kv_1.2:36.1']	Arahatā samudayo diṭṭho, parihāyati arahā arahattāti?	arahatā samudayaḥ diṭṭho parihāyati arahā arahattā ati 	Is it that when a perfected one has seen the origination of suffering, the perfected one falls away from perfection?
+['PA_kv_1.2:36.2']	Āmantā.	āmantā 	You have agreed .
+['PA_kv_1.2:36.3']	Sotāpannena samudayo diṭṭho, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena samudayaḥ diṭṭho parihāyati sotāpannaḥ sotāpatti phalā ati 	Is it that when a stream-enterer has seen the origination of suffering, the stream-enterer falls away from the fruit of stream-entry?
+['PA_kv_1.2:36.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	You have agreed .
+['PA_kv_1.2:37.1']	Arahatā nirodho diṭṭho, parihāyati arahā arahattāti?	arahatā nirodhaḥ diṭṭho parihāyati arahā arahattā ati 	Is it that when a perfected one has seen the cessation of suffering, the perfected one falls away from perfection?
+['PA_kv_1.2:37.2']	Āmantā.	āmantā 	You have agreed .
+['PA_kv_1.2:37.3']	Sotāpannena nirodho diṭṭho, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena nirodhaḥ diṭṭho parihāyati sotāpannaḥ sotāpatti phalā ati 	Is it that when a stream-enterer has seen the cessation of suffering, the stream-enterer falls away from the fruit of stream-entry?
+['PA_kv_1.2:37.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	You have agreed .
+['PA_kv_1.2:38.1']	Arahatā maggo diṭṭho, parihāyati arahā arahattāti?	arahatā maggaḥ diṭṭho parihāyati arahā arahattā ati 	Is it that when a perfected one has seen the way leading to the cessation of suffering, the perfected one falls away from perfection?
+['PA_kv_1.2:38.2']	Āmantā.	āmantā 	You have agreed .
+['PA_kv_1.2:38.3']	Sotāpannena maggo diṭṭho, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena maggaḥ diṭṭho parihāyati sotāpannaḥ sotāpatti phalā ati 	Is it that when a stream-enterer has seen the way leading to the cessation of suffering, the stream-enterer falls away from the fruit of stream-entry?
+['PA_kv_1.2:38.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	You have agreed .
+['PA_kv_1.2:39.1']	Arahatā cattāri saccāni diṭṭhāni, parihāyati arahā arahattāti?	arahatā cattāri saccāni diṭṭhāni parihāyati arahā arahattā ati 	Is it that when a perfected one has seen the four noble truths, the perfected one falls away from perfection?
+['PA_kv_1.2:39.2']	Āmantā.	āmantā 	You have agreed .
+['PA_kv_1.2:39.3']	Sotāpannena cattāri saccāni diṭṭhāni, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena cattāri saccāni diṭṭhāni parihāyati sotāpannaḥ sotāpatti phalā ati 	“When a stream-enterer has seen the four truths, does the stream-enterer fall away from the fruit of stream-entry?”
+['PA_kv_1.2:39.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:40.1']	Arahatā dukkhaṁ diṭṭhaṁ, parihāyati arahā arahattāti?	arahatā dukkham diṭṭha parihāyati arahā a rahattā ati 	“When a perfected one has seen suffering, does the perfected one fall away from perfection?”
+['PA_kv_1.2:40.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:40.3']	Sakadāgāminā dukkhaṁ diṭṭhaṁ, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāminā dukkham parihāyati sakadāgāmī sakadāgāmi phalā ati 	“When a once-returner has seen suffering, does the once-returner fall away from the fruit of once-returning?”
+['PA_kv_1.2:40.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:41.1']	Arahatā samudayo diṭṭho …pe…	arahatā samudayo diṭṭho pe 	“When a perfected one has seen the origin …
+['PA_kv_1.2:41.2']	nirodho diṭṭho …pe…	nirodho diṭṭho pe 	has seen the cessation …
+['PA_kv_1.2:41.3']	maggo diṭṭho …pe…	maggaḥ diṭṭhaḥ pe 	has seen the path …
+['PA_kv_1.2:41.4']	cattāri saccāni diṭṭhāni, parihāyati arahā arahattāti?	cattāri saccāni diṭṭhāni parihāyati arahā arahattā ati 	has seen the four truths, does the perfected one fall away from perfection?”
+['PA_kv_1.2:41.5']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:41.6']	Sakadāgāminā cattāri saccāni diṭṭhāni, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāminā cattāri saccāni diṭṭhāni parihāyati sakadāgāmī sakadāgāmi phalā ati 	“When a once-returner has seen the four truths, does the once-returner fall away from the fruit of once-returning?”
+['PA_kv_1.2:41.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:42.1']	Arahatā dukkhaṁ diṭṭhaṁ, parihāyati arahā arahattāti?	arahatā dukkham diṭṭha parihāyati arahā a rahattā ati 	“When a perfected one has seen suffering, does the perfected one fall away from perfection?”
+['PA_kv_1.2:42.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:42.3']	Anāgāminā dukkhaṁ diṭṭhaṁ, parihāyati anāgāmī anāgāmiphalāti?	anāgāminā dukkham parihāyati anāgāmī anāgāmi phalā ati 	“When a non-returner has seen suffering, does the non-returner fall away from the fruit of non-returning?”
+['PA_kv_1.2:42.4', 'PA_kv_1.2:43.1']	Na hevaṁ vattabbe …pe….🔽Arahatā samudayo diṭṭho …pe…	na ha ivam vattabbe pe  arahatā samudayo diṭṭho pe 	“That can’t be said.”🔽“When a perfected one has seen the origin …🔽has seen the cessation …
+['PA_kv_1.2:43.2']	nirodho diṭṭho …pe…	nirodho diṭṭho pe 	has seen the path …
+['PA_kv_1.2:43.3']	maggo diṭṭho …pe…	maggaḥ diṭṭhaḥ pe 	“The path is seen …
+['PA_kv_1.2:43.4']	cattāri saccāni diṭṭhāni, parihāyati arahā arahattāti?	cattāri saccāni diṭṭhāni parihāyati arahā arahattā ati 	“The four truths are seen, does one fall away from arahantship?”
+['PA_kv_1.2:43.5']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:43.6']	Anāgāminā cattāri saccāni diṭṭhāni, parihāyati anāgāmī anāgāmiphalāti?	anāgāminā cattāri saccāni diṭṭhāni parihāyati anāgāmī anāgāmi phalā ati 	“The four truths are seen by a non-returner, does one fall away from the fruit of non-return?”
+['PA_kv_1.2:43.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:44.1']	Anāgāminā dukkhaṁ diṭṭhaṁ, parihāyati anāgāmī anāgāmiphalāti?	anāgāminā dukkham parihāyati anāgāmī anāgāmi phalā ati 	“Suffering is seen by a non-returner, does one fall away from the fruit of non-return?”
+['PA_kv_1.2:44.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:44.3']	Sotāpannena dukkhaṁ diṭṭhaṁ, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena dukkham parihāyati sotāpannaḥ sotāpatti phalā ati 	“Suffering is seen by a stream-enterer, does one fall away from the fruit of stream-entry?”
+['PA_kv_1.2:44.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:45.1']	Anāgāminā samudayo diṭṭho …pe…	anāgāminā samudayo diṭṭho pe 	“The origin is seen …
+['PA_kv_1.2:45.2']	nirodho diṭṭho …pe…	nirodho diṭṭho pe 	The cessation is seen …
+['PA_kv_1.2:45.3']	maggo diṭṭho …pe…	maggaḥ diṭṭhaḥ pe 	The path is seen …
+['PA_kv_1.2:45.4']	cattāri saccāni diṭṭhāni, parihāyati anāgāmī anāgāmiphalāti?	cattāri saccāni diṭṭhāni parihāyati anāgāmī 	The four truths are seen by a non-returner, does one fall away from the fruit of non-return?”
+['PA_kv_1.2:45.5']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:45.6']	Sotāpannena cattāri saccāni diṭṭhāni, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena cattāri saccāni diṭṭhāni parihāyati sotāpannaḥ sotāpatti phalā ati 	“The four truths are seen by a stream-enterer, does one fall away from the fruit of stream-entry?”
+['PA_kv_1.2:45.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
+['PA_kv_1.2:46.1']	Anāgāminā dukkhaṁ diṭṭhaṁ, parihāyati anāgāmī anāgāmiphalāti?	anāgāminā dukkham parihāyati anāgāmī anāgāmi phalā ati 	“Suffering is seen by a non-returner, does one fall away from the fruit of non-return?”
+['PA_kv_1.2:46.2']	Āmantā.	āmantā 	“Yes.” …
+['PA_kv_1.2:46.3']	Sakadāgāminā dukkhaṁ diṭṭhaṁ, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāminā dukkham parihāyati sakadāgāmī sakadāgāmi phalā ati 	Has the once-returner, who has seen suffering, fallen away from the fruit of once-returner?
+['PA_kv_1.2:46.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	… “That can’t be said.”
+['PA_kv_1.2:47.1']	Anāgāminā samudayo diṭṭho …pe…	anāgāminā samudayo diṭṭho pe 	Has the non-returner, who has seen the origin …
+['PA_kv_1.2:47.2']	nirodho diṭṭho …pe…	nirodho diṭṭho pe 	who has seen the cessation …
+['PA_kv_1.2:47.3']	maggo diṭṭho …pe…	maggaḥ diṭṭhaḥ pe 	who has seen the path …
+['PA_kv_1.2:47.4']	cattāri saccāni diṭṭhāni, parihāyati anāgāmī anāgāmiphalāti?	cattāri saccāni diṭṭhāni parihāyati anāgāmī 	who has seen the four truths, fallen away from the fruit of non-returner?
+['PA_kv_1.2:47.5']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:47.6']	Sakadāgāminā cattāri saccāni diṭṭhāni, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāminā cattāri saccāni diṭṭhāni parihāyati sakadāgāmī sakadāgāmi phalā ati 	Has the once-returner, who has seen the four truths, fallen away from the fruit of once-returner?
+['PA_kv_1.2:47.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	… “That can’t be said.”
+['PA_kv_1.2:48.1']	Sakadāgāminā dukkhaṁ diṭṭhaṁ, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāminā dukkham parihāyati sakadāgāmī sakadāgāmi phalā ati 	Has the once-returner, who has seen suffering, fallen away from the fruit of once-returner?
+['PA_kv_1.2:48.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:48.3']	Sotāpannena dukkhaṁ diṭṭhaṁ, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena dukkham parihāyati sotāpannaḥ sotāpatti phalā ati 	Has the stream-enterer, who has seen suffering, fallen away from the fruit of stream-entry?
+['PA_kv_1.2:48.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	… “That can’t be said.”
+['PA_kv_1.2:49.1']	Sakadāgāminā samudayo diṭṭho …pe…	sakadāgāminā samudayo diṭṭho pe 	Has the once-returner, who has seen the origin …
+['PA_kv_1.2:49.2']	nirodho diṭṭho …pe…	nirodho diṭṭho pe 	who has seen the cessation …
+['PA_kv_1.2:49.3']	maggo diṭṭho …pe…	maggaḥ diṭṭhaḥ pe 	who has seen the path …
+['PA_kv_1.2:49.4']	cattāri saccāni diṭṭhāni, parihāyati sakadāgāmī sakadāgāmiphalāti?	cattāri saccāni diṭṭhāni parihāyati sakadāgāmī sakadāgāmi phalā ati 	who has seen the four truths, fallen away from the fruit of once-returner?
+['PA_kv_1.2:49.5']	Āmantā.	āmantā 	“Yes.”🔽…
+['PA_kv_1.2:49.6']	Sotāpannena cattāri saccāni diṭṭhāni, parihāyati sotāpanno sotāpattiphalāti?	sotāpannena cattāri saccāni diṭṭhāni parihāyati sotāpannaḥ sotāpatti phalā ati 	“When the four truths have been seen by one who is a stream-enterer, does it happen that he falls away from being a stream-enterer, from the fruit of stream-entry?”
+['PA_kv_1.2:49.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:50.1']	Sotāpannena dukkhaṁ diṭṭhaṁ, na parihāyati sotāpanno sotāpattiphalāti?	sotāpannena dukkham diṭṭha na parihāyati sotāpannaḥ sotāpatti phalā ati 	“When suffering has been seen by one who is a stream-enterer, does it happen that he falls away from being a stream-enterer, from the fruit of stream-entry?”
+['PA_kv_1.2:50.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:50.3']	Arahatā dukkhaṁ diṭṭhaṁ, na parihāyati arahā arahattāti?	arahatā dukkham diṭṭha na parihāyati arahā a rahattā ati 	“When suffering has been seen by one who is an arahant, does it happen that he falls away from being an arahant, from arahantship?”
+['PA_kv_1.2:50.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:51.1']	Sotāpannena samudayo diṭṭho …pe…	sotāpannena samudayaḥ diṭṭho pe 	“When the origin has been seen by one who is a stream-enterer …
+['PA_kv_1.2:51.2']	nirodho diṭṭho …pe…	nirodho diṭṭho pe 	When cessation has been seen by one who is a stream-enterer …
+['PA_kv_1.2:51.3']	maggo diṭṭho …pe…	maggaḥ diṭṭhaḥ pe 	When the path has been seen by one who is a stream-enterer …
+['PA_kv_1.2:51.4']	cattāri saccāni diṭṭhāni, na parihāyati sotāpanno sotāpattiphalāti?	cattāri saccāni diṭṭhāni na parihāyati sotāpannaḥ sotāpatti phalā ati 	When the four truths have been seen by one who is a stream-enterer, does it happen that he falls away from being a stream-enterer, from the fruit of stream-entry?”
+['PA_kv_1.2:51.5']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:51.6']	Arahatā cattāri saccāni diṭṭhāni, na parihāyati arahā arahattāti?	arahatā cattāri saccāni diṭṭhāni na parihāyati arahā arahattā ati 	“When the four truths have been seen by one who is an arahant, does it happen that he falls away from being an arahant, from arahantship?”
+['PA_kv_1.2:51.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:52.1']	Sakadāgāminā dukkhaṁ diṭṭhaṁ …pe…	sakadāgāminā dukkham diṭṭham pe 	“When suffering has been seen by one who is a once-returner …
+['PA_kv_1.2:52.2']	cattāri saccāni diṭṭhāni, na parihāyati sakadāgāmī sakadāgāmiphalāti?	cattāri saccāni diṭṭhāni na parihāyati sakadāgāmī sakadāgāmi phalā ati 	When the four truths have been seen by one who is a once-returner, does it happen that he falls away from being a once-returner, from the fruit of once-returning?”
+['PA_kv_1.2:52.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:52.4']	Arahatā cattāri saccāni diṭṭhāni, na parihāyati arahā arahattāti?	arahatā cattāri saccāni diṭṭhāni na parihāyati arahā arahattā ati 	“When the four truths have been seen by one who is an arahant, does it happen that he falls away from being an arahant, from arahantship?”
+['PA_kv_1.2:52.5']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That can’t be said.”
+['PA_kv_1.2:53.1']	Anāgāminā dukkhaṁ diṭṭhaṁ …pe…	anāgāminā dukkham diṭṭham pe 	“Has the suffering of the non-returner been seen …
+['PA_kv_1.2:53.2']	cattāri saccāni diṭṭhāni, na parihāyati anāgāmī anāgāmiphalāti?	cattāri saccāni diṭṭhāni na parihāyati anāgāmī 	“Have the four noble truths been seen by the non-returner? Does the non-returner not fall away from the fruit of non-returnership?”
+['PA_kv_1.2:53.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:53.4']	Arahatā cattāri saccāni diṭṭhāni, na parihāyati arahā arahattāti?	arahatā cattāri saccāni diṭṭhāni na parihāyati arahā arahattā ati 	“Have the four noble truths been seen by the perfected one? Does the perfected one not fall away from the fruit of arahantship?”
+['PA_kv_1.2:53.5']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:54.1']	Sotāpannena dukkhaṁ diṭṭhaṁ …pe…	sotāpannena dukkham diṭṭham pe 	“Has the suffering of the stream-enterer been seen …
+['PA_kv_1.2:54.2']	cattāri saccāni diṭṭhāni, na parihāyati sotāpanno sotāpattiphalāti?	cattāri saccāni diṭṭhāni na parihāyati sotāpannaḥ sotāpatti phalā ati 	“Have the four noble truths been seen by the stream-enterer? Does the stream-enterer not fall away from the fruit of stream-entry?”
+['PA_kv_1.2:54.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:55.1']	Anāgāminā dukkhaṁ diṭṭhaṁ …pe…	anāgāminā dukkham diṭṭham pe 	“Has the suffering of the non-returner been seen …
+['PA_kv_1.2:55.2']	cattāri saccāni diṭṭhāni, na parihāyati anāgāmī anāgāmiphalāti?	cattāri saccāni diṭṭhāni na parihāyati anāgāmī 	“Have the four noble truths been seen by the non-returner? Does the non-returner not fall away from the fruit of non-returnership?”
+['PA_kv_1.2:55.3']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
+['PA_kv_1.2:56.1']	Sakadāgāminā dukkhaṁ diṭṭhaṁ …pe…	sakadāgāminā dukkham diṭṭham pe 	“Has the suffering of the once-returner been seen …
+['PA_kv_1.2:56.2']	cattāri saccāni diṭṭhāni, na parihāyati sakadāgāmī sakadāgāmiphalāti?	cattāri saccāni diṭṭhāni na parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Have the four noble truths been seen by the once-returner? Does the once-returner not fall away from the fruit of once-returnership?”
+['PA_kv_1.2:56.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:56.4']	Anāgāminā dukkhaṁ diṭṭhaṁ …pe…	anāgāminā dukkham diṭṭham pe 	“Has the suffering of the non-returner been seen …
+['PA_kv_1.2:56.5']	cattāri saccāni diṭṭhāni, na parihāyati anāgāmī anāgāmiphalāti?	cattāri saccāni diṭṭhāni na parihāyati anāgāmī 	“Have the four noble truths been seen by the non-returner? Does the non-returner not fall away from the fruit of non-returnership?”
+['PA_kv_1.2:56.6']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye sense-sphere and in the mind-object sense-sphere?” …
+['PA_kv_1.2:57.1']	Sotāpannena dukkhaṁ diṭṭhaṁ …pe…	sotāpannena dukkham diṭṭham pe 	“Has the suffering of the stream-enterer been seen …
+['PA_kv_1.2:57.2']	cattāri saccāni diṭṭhāni, na parihāyati sotāpanno sotāpattiphalāti?	cattāri saccāni diṭṭhāni na parihāyati sotāpannaḥ sotāpatti phalā ati 	“The four truths are seen, and one who has entered the stream does not fall away from the fruit of stream-entry?”
+['PA_kv_1.2:57.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:57.4']	Sakadāgāminā dukkhaṁ diṭṭhaṁ …pe…	sakadāgāminā dukkham diṭṭham pe 	“The one who is a once-returner has seen suffering …
+['PA_kv_1.2:57.5']	cattāri saccāni diṭṭhāni, na parihāyati sakadāgāmī sakadāgāmiphalāti?	cattāri saccāni diṭṭhāni na parihāyati sakadāgāmī sakadāgāmi phalā ati 	The four truths are seen, and the once-returner does not fall away from the fruit of once-returning?”
+['PA_kv_1.2:57.6']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:58.1']	Arahato rāgo pahīno, parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ parihāyati arahāḥ arahattā ati 	“The lust of the perfected one is abandoned, and the perfected one falls away from perfection?”
+['PA_kv_1.2:58.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:58.3']	Sotāpannassa sakkāyadiṭṭhi pahīnā, parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā parihāyati sotāpannaḥ sotāpatti phalā ati 	“The embodiment-view of the one who has entered the stream is abandoned, and one who has entered the stream falls away from the fruit of stream-entry?”
+['PA_kv_1.2:58.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye sense-sphere and in the mind-object sense-sphere?” …
+['PA_kv_1.2:59.1']	Arahato rāgo pahīno, parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ parihāyati arahāḥ arahattā ati 	“The lust of the perfected one is abandoned, and the perfected one falls away from perfection?”
+['PA_kv_1.2:59.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:59.3']	Sotāpannassa vicikicchā pahīnā …pe…	sotāpannassa vicikicchā pahīnā pe 	“The uncertainty of the one who has entered the stream is abandoned …
+['PA_kv_1.2:59.4', 'PA_kv_1.2:59.5']	sīlabbataparāmāso pahīno …pe…🔽apāyagamanīyo rāgo pahīno …pe…	sīlabbata parāmāsaḥ pahīnaḥ pe  apāya gamanīyaḥ rāgaḥ pahīnaḥ pe 	The practice of mere rules and rituals is abandoned …🔽The lust that leads to the lower realms is abandoned …
+['PA_kv_1.2:59.6']	apāyagamanīyo doso pahīno …pe…	apāya gamanīyaḥ dosaḥ pahīnaḥ pe 	The hatred that leads to the lower realms is abandoned …
+['PA_kv_1.2:59.7']	apāyagamanīyo moho pahīno, parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ parihāyati sotāpannaḥ sotāpatti phalā ati 	The delusion that leads to the lower realms is abandoned, and one who has entered the stream falls away from the fruit of stream-entry?”
+['PA_kv_1.2:59.8', 'PA_kv_1.2:60.1', 'PA_kv_1.2:60.2']	Na hevaṁ vattabbe …pe….🔽Arahato doso pahīno …pe…🔽moho pahīno…	na ha ivam vattabbe pe  arahataḥ dosaḥ pahīnaḥ pe  mohaḥ pahīnaḥ 	“It is not proper to say that the Tathagata is the same as the body …🔽“Is it proper to say that hatred is abandoned by the Arahant …🔽“Is it proper to say that delusion is abandoned by the Arahant …
+['PA_kv_1.2:60.3']	māno pahīno…	mānaḥ pahīnaḥ 	“The hatred of the perfected one is abandoned, and the perfected one falls away from perfection?”🔽“Yes.”🔽“The delusion of the perfected one is abandoned, and the perfected one falls away from perfection?”🔽“Yes.”🔽“The conceit of the perfected one is abandoned, and the perfected one falls away from perfection?”🔽“Yes.”
+['PA_kv_1.2:60.4']	diṭṭhi pahīnā…	diṭṭhi pahīnā 	Are his views abandoned?
+['PA_kv_1.2:60.5', 'PA_kv_1.2:60.6', 'PA_kv_1.2:60.7']	vicikicchā pahīnā…🔽thinaṁ pahīnaṁ…🔽uddhaccaṁ pahīnaṁ…	vicikicchā pahīnā  thinam  uddhaccam 	Is his doubt abandoned?🔽Is his stiffness abandoned?🔽Is his agitation abandoned?
+['PA_kv_1.2:60.8']	ahirikaṁ pahīnaṁ …pe…	ahirikam pahīnam pe 	Is his lack of conscience abandoned? …
+['PA_kv_1.2:60.9']	anottappaṁ pahīnaṁ, parihāyati arahā arahattāti?	anottappam parihāyati arahā arahattā ati 	Is his lack of shame abandoned? Does he fall away from being an Arahant, from Arahantship?”
+['PA_kv_1.2:60.10']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:60.11']	Sotāpannassa sakkāyadiṭṭhi pahīnā, parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā parihāyati sotāpannaḥ sotāpatti phalā ati 	“Are the wrong views of one who is a Stream-Enterer abandoned? Does he fall away from being a Stream-Enterer, from the fruit of Stream-Entry?”
+['PA_kv_1.2:60.12']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the abandoning of lust, the abandoning of hatred, the abandoning of delusion?
+['PA_kv_1.2:61.1']	Arahato anottappaṁ pahīnaṁ, parihāyati arahā arahattāti?	arahataḥ anottappam parihāyati arahāḥ arahattā ati 	“Is his lack of shame abandoned? Does he fall away from being an Arahant, from Arahantship?”
+['PA_kv_1.2:61.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:61.3']	Sotāpannassa vicikicchā pahīnā …pe…	sotāpannassa vicikicchā pahīnā pe 	“Is his doubt abandoned? …
+['PA_kv_1.2:61.4', 'PA_kv_1.2:61.5']	sīlabbataparāmāso pahīno …pe…🔽apāyagamanīyo rāgo pahīno …pe…	sīlabbata parāmāsaḥ pahīnaḥ pe  apāya gamanīyaḥ rāgaḥ pahīnaḥ pe 	Is his adherence to rules and observances abandoned? …🔽Is his lust for the lower realms abandoned? …
+['PA_kv_1.2:61.6']	apāyagamanīyo doso pahīno …pe…	apāya gamanīyaḥ dosaḥ pahīnaḥ pe 	Is his hatred for the lower realms abandoned? …
+['PA_kv_1.2:61.7']	apāyagamanīyo moho pahīno, parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ parihāyati sotāpannaḥ sotāpatti phalā ati 	Is his delusion for the lower realms abandoned? Does he fall away from being a Stream-Enterer, from the fruit of Stream-Entry?”
+['PA_kv_1.2:61.8']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the four noble truths?” …
+['PA_kv_1.2:62.1']	Arahato rāgo pahīno, parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ parihāyati arahāḥ arahattā ati 	“Is his lust abandoned? Does he fall away from being an Arahant, from Arahantship?”
+['PA_kv_1.2:62.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:62.3']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmissa sakkāya diṭṭhi pahīnā parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Are the wrong views of a Once-Returner abandoned? Does he fall away from being a Once-Returner, from the fruit of Once-Returning?”
+['PA_kv_1.2:62.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it not the view of one who is not a recluse, the view of one who is not a brahmin?” “No.”
+['PA_kv_1.2:63.1']	Arahato rāgo pahīno, parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ parihāyati arahāḥ arahattā ati 	“Is greed abandoned in one who is an Arahant? Does he fall away from Arahantship?”
+['PA_kv_1.2:63.2', 'PA_kv_1.2:63.3']	Āmantā.🔽Sakadāgāmissa vicikicchā pahīnā …pe…	āmantā  sakadāgāmissa vicikicchā pahīnā pe 	“Yes.”🔽“Is doubt abandoned in a once-returner? …
+['PA_kv_1.2:63.4']	sīlabbataparāmāso pahīno …pe…	sīlabbata parāmāsaḥ pahīnaḥ pe 	“Is adherence to rules and observances abandoned in a once-returner? …
+['PA_kv_1.2:63.5']	oḷāriko kāmarāgo pahīno…	oḷārikaḥ kāma rāgaḥ pahīnaḥ 	“Is gross greed abandoned in a once-returner? …
+['PA_kv_1.2:63.6']	oḷāriko byāpādo pahīno, parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ parihāyati sakadāgāmī 	“Is gross ill will abandoned in a once-returner? Does he fall away from the fruit of once-returnership?”
+['PA_kv_1.2:63.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that it is not to be said that it is a person who is the same in the eye faculty and the eye consciousness?” …
+['PA_kv_1.2:64.1']	Arahato doso pahīno …pe…	arahataḥ dosaḥ pahīnaḥ pe 	“Is hatred abandoned in one who is an Arahant? …
+['PA_kv_1.2:64.2']	anottappaṁ pahīnaṁ, parihāyati arahā arahattāti?	anottappam parihāyati arahā arahattā ati 	“Is lack of conscience abandoned in one who is an Arahant? Does he fall away from Arahantship?”
+['PA_kv_1.2:64.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:64.4']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā …pe…	sakadāgāmissa sakkāya diṭṭhi pahīnā pe 	“Is personality view abandoned in a once-returner? …
+['PA_kv_1.2:64.5']	oḷāriko byāpādo pahīno, parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ parihāyati sakadāgāmī 	“Is gross ill will abandoned in a once-returner? Does he fall away from the fruit of once-returnership?”
+['PA_kv_1.2:64.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:65.1']	Arahato rāgo pahīno, parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ parihāyati arahāḥ arahattā ati 	“Is greed abandoned in one who is an Arahant? Does he fall away from Arahantship?”
+['PA_kv_1.2:65.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:65.3']	Anāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā parihāyati anāgāmī anāgāmi phalā ati 	“Is personality view abandoned in a non-returner? Does he fall away from the fruit of non-returnership?”
+['PA_kv_1.2:65.4']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“Is it so that the Blessed One has not declared the abandoning of lust, the abandoning of hatred, the abandoning of delusion?
+['PA_kv_1.2:66.1']	Arahato rāgo pahīno, parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ parihāyati arahāḥ arahattā ati 	“Is greed abandoned in one who is an Arahant? Does he fall away from Arahantship?”
+['PA_kv_1.2:66.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:66.3']	Anāgāmissa vicikicchā pahīnā …pe…	anāgāmissa vicikicchā pahīnā pe 	“Is doubt abandoned in a non-returner? …
+['PA_kv_1.2:66.4']	sīlabbataparāmāso pahīno…	sīlabbata parāmāsaḥ pahīnaḥ 	Is clinging to rules and observances abandoned …
+['PA_kv_1.2:66.5']	aṇusahagato kāmarāgo pahīno…	aṇu sahagataḥ kāma rāgaḥ pahīnaḥ 	Is lust for sensual pleasures that is deep-seated and innate abandoned …
+['PA_kv_1.2:66.6']	aṇusahagato byāpādo pahīno, parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ anāgāmī 	Is ill will that is deep-seated and innate abandoned, does the non-returner fall away from the fruit of non-return?”
+['PA_kv_1.2:66.7']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:67.1']	Arahato doso pahīno …pe…	arahataḥ dosaḥ pahīnaḥ pe 	“Is hatred abandoned …
+['PA_kv_1.2:67.2']	anottappaṁ pahīnaṁ, parihāyati arahā arahattāti?	anottappam parihāyati arahā arahattā ati 	Is lack of conscience abandoned, does the perfected one fall away from perfection?”
+['PA_kv_1.2:67.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:67.4']	Anāgāmissa sakkāyadiṭṭhi pahīnā …pe…	anāgāmissa sakkāyadiṭṭhi pahīnā pe 	“Is the view of individuality abandoned …
+['PA_kv_1.2:67.5']	aṇusahagato byāpādo pahīno, parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ anāgāmī 	Is ill will that is deep-seated and innate abandoned, does the non-returner fall away from the fruit of non-return?”
+['PA_kv_1.2:67.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:68.1']	Anāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā parihāyati anāgāmī anāgāmi phalā ati 	“Is the view of individuality abandoned, does the non-returner fall away from the fruit of non-return?”
+['PA_kv_1.2:68.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:68.3']	Sotāpannassa sakkāyadiṭṭhi pahīnā, parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā parihāyati sotāpannaḥ sotāpatti phalā ati 	“Is the view of individuality abandoned, does the stream-enterer fall away from the fruit of stream-entry?”
+['PA_kv_1.2:68.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:69.1']	Anāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā parihāyati anāgāmī anāgāmi phalā ati 	“Is the view of individuality abandoned, does the non-returner fall away from the fruit of non-return?”
+['PA_kv_1.2:69.2', 'PA_kv_1.2:69.3']	Āmantā.🔽Sotāpannassa vicikicchā pahīnā …pe…	āmantā  sotāpannassa vicikicchā pahīnā pe 	“Yes.”🔽“Is uncertainty abandoned …🔽Is the delusion that leads to the lower realms abandoned, does the stream-enterer fall away from the fruit of stream-entry?”
+['PA_kv_1.2:69.4']	apāyagamanīyo moho pahīno, parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ parihāyati sotāpannaḥ sotāpatti phalā ati 	“Is delusion that leads to the lower realms abandoned? Does a stream-enterer decline from the fruit of stream-entry?”
+['PA_kv_1.2:69.5', 'PA_kv_1.2:70.1']	Na hevaṁ vattabbe.🔽Anāgāmissa vicikicchā pahīnā …pe…	na ha ivam vattabbe  anāgāmissa vicikicchā pahīnā pe 	“No, friend.”
+['PA_kv_1.2:70.2']	aṇusahagato byāpādo pahīno, parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ anāgāmī 	“Are doubt, adherence to rules and observances, sensual desire, and ill will abandoned by the non-returner who has entered upon the way to the fruit of non-returning? Does he fall away from the fruit of non-returning?”
+['PA_kv_1.2:70.3', 'PA_kv_1.2:70.4']	Āmantā.🔽Sotāpannassa sakkāyadiṭṭhi pahīnā …pe…	āmantā  sotāpannassa sakkāya diṭṭhi pahīnā pe 	“Yes, friend.”
+['PA_kv_1.2:70.5']	apāyagamanīyo moho pahīno, parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ parihāyati sotāpannaḥ sotāpatti phalā ati 	“Are wrong view, adherence to rules and observances, doubt, and the conceit ‘I am’ abandoned by the stream-enterer who has entered upon the way to the fruit of stream-entry? Does he fall away from the fruit of stream-entry?”
+['PA_kv_1.2:70.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:71.1']	Anāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā parihāyati anāgāmī anāgāmi phalā ati 	“Are wrong view, adherence to rules and observances, doubt, and the conceit ‘I am’ abandoned by the non-returner who has entered upon the way to the fruit of non-returning? Does he fall away from the fruit of non-returning?”
+['PA_kv_1.2:71.2']	Āmantā.	āmantā 	“Yes, friend.”
+['PA_kv_1.2:71.3']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmissa sakkāya diṭṭhi pahīnā parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Are wrong view, adherence to rules and observances, doubt, and the conceit ‘I am’ abandoned by the once-returner who has entered upon the way to the fruit of once-return? Does he fall away from the fruit of once-return?”
+['PA_kv_1.2:71.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:72.1']	Anāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā parihāyati anāgāmī anāgāmi phalā ati 	“Are wrong view, adherence to rules and observances, doubt, and the conceit ‘I am’ abandoned by the non-returner who has entered upon the way to the fruit of non-returning? Does he fall away from the fruit of non-returning?”
+['PA_kv_1.2:72.2', 'PA_kv_1.2:72.3', 'PA_kv_1.2:72.4', 'PA_kv_1.2:72.5']	Āmantā.🔽Sakadāgāmissa vicikicchā pahīnā …pe…🔽sīlabbataparāmāso pahīno…🔽oḷāriko kāmarāgo pahīno…	āmantā  sakadāgāmissa vicikicchā pahīnā pe  sīlabbata parāmāsaḥ pahīnaḥ  oḷārikaḥ kāma rāgaḥ pahīnaḥ 	“Yes, friend.”
+['PA_kv_1.2:72.6']	oḷāriko byāpādo pahīno, parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ parihāyati sakadāgāmī 	“Are doubt, adherence to rules and observances, sensual desire, and ill will abandoned by the once-returner who has entered upon the way to the fruit of once-return? Does he fall away from the fruit of once-return?”
+['PA_kv_1.2:72.7']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:73.1']	Anāgāmissa vicikicchā pahīnā …pe…	anāgāmissa vicikicchā pahīnā pe 	Has the non-returner’s uncertainty …
+['PA_kv_1.2:73.2']	aṇusahagato byāpādo pahīno, parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ anāgāmī 	has the non-returner’s slight hostility …
+['PA_kv_1.2:73.3', 'PA_kv_1.2:73.4']	Āmantā.🔽Sakadāgāmissa sakkāyadiṭṭhi pahīnā …pe…	āmantā  sakadāgāmissa sakkāya diṭṭhi pahīnā pe 	“Yes.”🔽“Has the once-returner’s bodily-form view …
+['PA_kv_1.2:73.5']	oḷāriko byāpādo pahīno, parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ parihāyati sakadāgāmī 	has the once-returner’s gross hostility …
+['PA_kv_1.2:73.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:74.1']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmissa sakkāya diṭṭhi pahīnā parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Has the once-returner’s bodily-form view …
+['PA_kv_1.2:74.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:74.3']	Sotāpannassa sakkāyadiṭṭhi pahīnā, parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā parihāyati sotāpannaḥ sotāpatti phalā ati 	“Has the stream-enterer’s bodily-form view …
+['PA_kv_1.2:74.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it not so that the Blessed One has not declared the past of the world, the future of the world, and the present becoming of the world?” “No, I have not declared that.”
+['PA_kv_1.2:75.1']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā, parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmissa sakkāya diṭṭhi pahīnā parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Has the once-returner’s bodily-form view …
+['PA_kv_1.2:75.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:75.3']	Sotāpannassa vicikicchā pahīnā …pe…	sotāpannassa vicikicchā pahīnā pe 	“Has the stream-enterer’s uncertainty …
+['PA_kv_1.2:75.4']	apāyagamanīyo moho pahīno, parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ parihāyati sotāpannaḥ sotāpatti phalā ati 	has the stream-enterer’s delusion that leads to the lower realms …
+['PA_kv_1.2:75.5', 'PA_kv_1.2:76.1']	Na hevaṁ vattabbe.🔽Sakadāgāmissa vicikicchā pahīnā …pe…	na ha ivam vattabbe  sakadāgāmissa vicikicchā pahīnā pe 	“No.”🔽“Has the once-returner’s uncertainty …
+['PA_kv_1.2:76.2']	oḷāriko kāmarāgo pahīno…	oḷārikaḥ kāma rāgaḥ pahīnaḥ 	has the once-returner’s gross sensual desire …
+['PA_kv_1.2:76.3']	oḷāriko byāpādo pahīno, parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ parihāyati sakadāgāmī 	Is gross ill will abandoned, does the once-returner decline from the fruit of once-returning?
+['PA_kv_1.2:76.4']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:76.5']	Sotāpannassa sakkāyadiṭṭhi pahīnā …pe…	sotāpannassa sakkāya diṭṭhi pahīnā pe 	“Is the sakkāyadiṭṭhi of one who is a stream-enterer abandoned …
+['PA_kv_1.2:76.6']	apāyagamanīyo moho pahīno, parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ parihāyati sotāpannaḥ sotāpatti phalā ati 	Is the delusion that leads to the lower world abandoned, does the stream-enterer decline from the fruit of stream-entry?”
+['PA_kv_1.2:76.7']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:77.1']	Sotāpannassa sakkāyadiṭṭhi pahīnā, na parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā na parihāyati sotāpannaḥ sotāpatti phalā ati 	“Is the sakkāyadiṭṭhi of one who is a stream-enterer abandoned, but does the stream-enterer not decline from the fruit of stream-entry?”
+['PA_kv_1.2:77.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:77.3']	Arahato rāgo pahīno, na parihāyati arahā arahattāti?	arahataḥ rāgaḥ pahīnaḥ na parihāyati arahāḥ arahattā ati 	“Is lust abandoned in an arahant, but does the arahant not decline from arahantship?”
+['PA_kv_1.2:77.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:78.1']	Sotāpannassa sakkāyadiṭṭhi pahīnā, na parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā na parihāyati sotāpannaḥ sotāpatti phalā ati 	“Is the sakkāyadiṭṭhi of one who is a stream-enterer abandoned, but does the stream-enterer not decline from the fruit of stream-entry?”
+['PA_kv_1.2:78.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:78.3']	Arahato doso pahīno …pe…	arahataḥ dosaḥ pahīnaḥ pe 	“Is hatred abandoned in an arahant …
+['PA_kv_1.2:78.4']	anottappaṁ pahīnaṁ, na parihāyati arahā arahattāti?	anottappam na parihāyati arahāḥ arahattā ati 	Is lack of conscience abandoned, but does the arahant not decline from arahantship?”
+['PA_kv_1.2:78.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:79.1']	Sotāpannassa vicikicchā pahīnā …pe…	sotāpannassa vicikicchā pahīnā pe 	“Is doubt abandoned in one who is a stream-enterer …
+['PA_kv_1.2:79.2']	apāyagamanīyo moho pahīno, na parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ na parihāyati sotāpannaḥ sotāpatti phalā ati 	Is the delusion that leads to the lower world abandoned, but does the stream-enterer not decline from the fruit of stream-entry?”
+['PA_kv_1.2:79.3']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:79.4']	Arahato rāgo pahīno …pe…	arahataḥ rāgaḥ pahīnaḥ pe 	“Is lust abandoned in an arahant …
+['PA_kv_1.2:79.5']	anottappaṁ pahīnaṁ, na parihāyati arahā arahattāti?	anottappam na parihāyati arahāḥ arahattā ati 	“Is it the case that a perfected one’s lack of conscience is abandoned, but he doesn’t fall away from his state of being a perfected one?”
+['PA_kv_1.2:79.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:80.1']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā, na parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmissa sakkāya diṭṭhi pahīnā na parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Is it the case that a once-returner’s view of individuality is abandoned, but he doesn’t fall away from his state of being a once-returner?”
+['PA_kv_1.2:80.2', 'PA_kv_1.2:80.3']	Āmantā.🔽Arahato rāgo pahīno …pe…	āmantā  arahataḥ rāgaḥ pahīnaḥ pe 	“Yes.”🔽“Is it the case that a perfected one’s sensual desire …
+['PA_kv_1.2:80.4']	anottappaṁ pahīnaṁ, na parihāyati arahā arahattāti?	anottappam na parihāyati arahāḥ arahattā ati 	lack of conscience is abandoned, but he doesn’t fall away from his state of being a perfected one?”
+['PA_kv_1.2:80.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:81.1']	Sakadāgāmissa vicikicchā pahīnā …pe…	sakadāgāmissa vicikicchā pahīnā pe 	“Is it the case that a once-returner’s uncertainty …
+['PA_kv_1.2:81.2']	oḷāriko byāpādo pahīno, na parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ na sakadāgāmī 	gross malevolence is abandoned, but he doesn’t fall away from his state of being a once-returner?”
+['PA_kv_1.2:81.3', 'PA_kv_1.2:81.4']	Āmantā.🔽Arahato rāgo pahīno …pe…	āmantā  arahataḥ rāgaḥ pahīnaḥ pe 	“Yes.”🔽“Is it the case that a perfected one’s sensual desire …
+['PA_kv_1.2:81.5']	anottappaṁ pahīnaṁ, na parihāyati arahā arahattāti?	anottappam na parihāyati arahāḥ arahattā ati 	lack of conscience is abandoned, but he doesn’t fall away from his state of being a perfected one?”
+['PA_kv_1.2:81.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:82.1']	Anāgāmissa sakkāyadiṭṭhi pahīnā, na parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā na parihāyati anāgāmī anāgāmi phalā ati 	“Is it the case that a non-returner’s view of individuality is abandoned, but he doesn’t fall away from his state of being a non-returner?”
+['PA_kv_1.2:82.2', 'PA_kv_1.2:82.3']	Āmantā.🔽Arahato rāgo pahīno …pe…	āmantā  arahataḥ rāgaḥ pahīnaḥ pe 	“Yes.”🔽“Is it the case that a perfected one’s sensual desire …
+['PA_kv_1.2:82.4']	anottappaṁ pahīnaṁ, na parihāyati arahā arahattāti?	anottappam na parihāyati arahāḥ arahattā ati 	lack of conscience is abandoned, but he doesn’t fall away from his state of being a perfected one?”
+['PA_kv_1.2:82.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:83.1']	Anāgāmissa vicikicchā pahīnā …pe…	anāgāmissa vicikicchā pahīnā pe 	“Is it the case that a non-returner’s uncertainty …
+['PA_kv_1.2:83.2']	aṇusahagato byāpādo pahīno, na parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ na anāgāmī 	Is ill will that is in the form of a latent tendency abandoned in a non-returner, and does he not fall away from the fruit of non-return?”
+['PA_kv_1.2:83.3']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:83.4']	Arahato rāgo pahīno …pe…	arahataḥ rāgaḥ pahīnaḥ pe 	“Is lust abandoned in an arahant …
+['PA_kv_1.2:83.5']	anottappaṁ pahīnaṁ, na parihāyati arahā arahattāti?	anottappam na parihāyati arahāḥ arahattā ati 	Is lack of conscience abandoned in an arahant, and does he not fall away from arahantship?”
+['PA_kv_1.2:83.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:84.1']	Sotāpannassa sakkāyadiṭṭhi pahīnā, na parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā na parihāyati sotāpannaḥ sotāpatti phalā ati 	“Is identity view abandoned in a stream-enterer, and does he not fall away from the fruit of stream-entry?”
+['PA_kv_1.2:84.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:84.3']	Anāgāmissa sakkāyadiṭṭhi pahīnā … aṇusahagato byāpādo pahīno, na parihāyati anāgāmī anāgāmiphalāti?	anāgāmissa sakkāya diṭṭhi pahīnā aṇu sahagataḥ byāpādaḥ pahīnaḥ na parihāyati anāgāmī 	“Is ill will that is in the form of a latent tendency abandoned in a non-returner, and does he not fall away from the fruit of non-return?”
+['PA_kv_1.2:84.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:85.1']	Sotāpannassa vicikicchā pahīnā …pe…	sotāpannassa vicikicchā pahīnā pe 	“Is doubt abandoned in a stream-enterer …
+['PA_kv_1.2:85.2']	apāyagamanīyo moho pahīno, na parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ na parihāyati sotāpannaḥ sotāpatti phalā ati 	Is delusion that leads to the lower realms abandoned in a stream-enterer, and does he not fall away from the fruit of stream-entry?”
+['PA_kv_1.2:85.3']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:85.4']	Anāgāmissa sakkāyadiṭṭhi pahīnā …pe…	anāgāmissa sakkāyadiṭṭhi pahīnā pe 	“Is identity view abandoned in a non-returner …
+['PA_kv_1.2:85.5']	aṇusahagato byāpādo pahīno, na parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ na anāgāmī 	Is ill will that is in the form of a latent tendency abandoned in a non-returner, and does he not fall away from the fruit of non-return?”
+['PA_kv_1.2:85.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:86.1']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā, na parihāyati sakadāgāmī sakadāgāmiphalāti?	sakadāgāmissa sakkāya diṭṭhi pahīnā na parihāyati sakadāgāmī sakadāgāmi phalā ati 	“Is identity view abandoned in a once-returner, and does he not fall away from the fruit of once-return?”
+['PA_kv_1.2:86.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:86.3']	Anāgāmissa sakkāyadiṭṭhi pahīnā …pe…	anāgāmissa sakkāyadiṭṭhi pahīnā pe 	“The view of identity is abandoned in a non-returner. …
+['PA_kv_1.2:86.4']	aṇusahagato byāpādo pahīno, na parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ na anāgāmī 	“The sub-class of ill will is abandoned in a non-returner. He doesn’t fall away from his fruit.”
+['PA_kv_1.2:86.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:87.1']	Sakadāgāmissa vicikicchā pahīnā …pe…	sakadāgāmissa vicikicchā pahīnā pe 	“Uncertainty is abandoned in a once-returner. …
+['PA_kv_1.2:87.2']	oḷāriko byāpādo pahīno, na parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ na sakadāgāmī 	“The gross class of ill will is abandoned in a once-returner. He doesn’t fall away from his fruit.”
+['PA_kv_1.2:87.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:87.4']	Anāgāmissa sakkāyadiṭṭhi pahīnā …pe…	anāgāmissa sakkāyadiṭṭhi pahīnā pe 	“The view of identity is abandoned in a non-returner. …
+['PA_kv_1.2:87.5']	aṇusahagato byāpādo pahīno, na parihāyati anāgāmī anāgāmiphalāti?	aṇu sahagataḥ byāpādaḥ pahīnaḥ na anāgāmī 	“The sub-class of ill will is abandoned in a non-returner. He doesn’t fall away from his fruit.”
+['PA_kv_1.2:87.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:88.1']	Sotāpannassa sakkāyadiṭṭhi pahīnā, na parihāyati sotāpanno sotāpattiphalāti?	sotāpannassa sakkāya diṭṭhi pahīnā na parihāyati sotāpannaḥ sotāpatti phalā ati 	“The view of identity is abandoned in a stream-enterer. He doesn’t fall away from his fruit.”
+['PA_kv_1.2:88.2', 'PA_kv_1.2:88.3']	Āmantā.🔽Sakadāgāmissa sakkāyadiṭṭhi pahīnā …pe…	āmantā  sakadāgāmissa sakkāya diṭṭhi pahīnā pe 	“Yes.”
+['PA_kv_1.2:88.4']	oḷāriko byāpādo pahīno, na parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ na sakadāgāmī 	“The gross class of ill will is abandoned in a once-returner. He doesn’t fall away from his fruit.”
+['PA_kv_1.2:88.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:89.1']	Sotāpannassa vicikicchā pahīnā …pe…	sotāpannassa vicikicchā pahīnā pe 	“Uncertainty is abandoned in a stream-enterer. …
+['PA_kv_1.2:89.2']	apāyagamanīyo moho pahīno, na parihāyati sotāpanno sotāpattiphalāti?	apāya gamanīyaḥ mohaḥ pahīnaḥ na parihāyati sotāpannaḥ sotāpatti phalā ati 	“The delusion that leads to the lower realms is abandoned in a stream-enterer. He doesn’t fall away from his fruit.”
+['PA_kv_1.2:89.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:89.4']	Sakadāgāmissa sakkāyadiṭṭhi pahīnā …pe…	sakadāgāmissa sakkāya diṭṭhi pahīnā pe 	“The once-returner’s view of individuality is abandoned …
+['PA_kv_1.2:89.5']	oḷāriko byāpādo pahīno, na parihāyati sakadāgāmī sakadāgāmiphalāti?	oḷārikaḥ byāpādaḥ pahīnaḥ na sakadāgāmī 	“The once-returner’s gross malevolence is abandoned. The once-returner does not fall away from his fruit?”
+['PA_kv_1.2:89.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That can’t be said.”
+['PA_kv_1.2:90.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“The perfected one falls away from his fruit?”
+['PA_kv_1.2:90.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:90.3']	Nanu arahato rāgo pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammoti?	nanu arahataḥ rāgaḥ pahīnaḥ ucchinna mūlo tālā vatthukataḥ anabhāvaṅkataḥ āyatim an uppāda dhammo ti 	“Now, has lust been abandoned in the perfected one, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising?”
+['PA_kv_1.2:90.4', 'PA_kv_1.2:90.5']	Āmantā.🔽Hañci arahato rāgo pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo, no ca vata re vattabbe—	āmantā  hañci arahataḥ rāgaḥ pahīnaḥ ucchinna mūlo tālā vatthukataḥ anabhāvaṅkataḥ āyatim an uppāda dhammo no ca vata re vattabbe 	“Yes.”
+['PA_kv_1.2:90.6']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	“Then it’s not right to say that the perfected one falls away from his fruit.
+['PA_kv_1.2:91.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“The perfected one falls away from his fruit?”
+['PA_kv_1.2:91.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:91.3', 'PA_kv_1.2:91.4']	Nanu arahato doso pahīno …pe…🔽moho pahīno…	nanu arahataḥ dosaḥ pahīnaḥ pe  mohaḥ pahīnaḥ 	“Now, has hatred been abandoned in the perfected one, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising?”🔽“Has delusion been abandoned …
+['PA_kv_1.2:91.5', 'PA_kv_1.2:91.6']	māno pahīno…🔽diṭṭhi pahīnā…	mānaḥ pahīnaḥ  diṭṭhi pahīnā 	“Has conceit been abandoned …🔽“Has wrong view been abandoned …
+['PA_kv_1.2:91.7', 'PA_kv_1.2:91.8', 'PA_kv_1.2:91.9']	vicikicchā pahīnā…🔽thinaṁ pahīnaṁ…🔽uddhaccaṁ pahīnaṁ…	vicikicchā pahīnā  thinam  uddhaccam 	“Has uncertainty been abandoned …🔽“Has agitation been abandoned …
+['PA_kv_1.2:91.10']	ahirikaṁ pahīnaṁ…	ahirikam 	“Has lack of shame been abandoned …
+['PA_kv_1.2:91.11']	anottappaṁ pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammanti?	an uttappam pahīnam ucchinna mūlam tālāvatthukatam anabhāvaṅkatam āyatim an uppāda dhammanti 	“Has lack of fear of wrongdoing been abandoned, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising?”🔽“Yes.”
+['PA_kv_1.2:91.12']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:91.13']	Hañci arahato anottappaṁ pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ, no ca vata re vattabbe—	hañci arahataḥ anottappam pahīnam ucchinna mūlam tālāvatthukatam anabhāvaṅkatam āyatim an uppāda dhamma no ca vata re vattabbe 	Has the uninstructed worldling abandoned his lack of conscience, cut it off at the root … so that it is no longer able to rise again in the future?
+['PA_kv_1.2:91.14']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	“It is not right to say that a perfected one falls away from his state of perfection.”
+['PA_kv_1.2:92.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his state of perfection?”
+['PA_kv_1.2:92.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:92.3']	Nanu arahato rāgappahānāya maggo bhāvitoti?	nanu arahataḥ rāga pahānāya maggaḥ bhāvito ti 	“But hasn’t the path been developed by the perfected one for the abandoning of passion?”
+['PA_kv_1.2:92.4']	Āmantā.	āmantā 	“Yes.”🔽“Has the perfected one abandoned passion? …
+['PA_kv_1.2:92.5', 'PA_kv_1.2:92.6']	Hañci arahato rāgappahānāya maggo bhāvito, no ca vata re vattabbe—🔽“parihāyati arahā arahattā”ti.	hañci arahataḥ rāga pahānāya maggaḥ bhāvitaḥ no ca vata re vattabbe  parihāyati arahāḥ arahattā ati 	“But hasn’t the path been developed by the perfected one for the abandoning of aversion? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of delusion? …
+['PA_kv_1.2:93.1', 'PA_kv_1.2:93.2', 'PA_kv_1.2:93.3']	Parihāyati arahā arahattāti?🔽Āmantā.🔽Nanu arahato rāgappahānāya satipaṭṭhānā bhāvitā …pe…	parihāyati arahāḥ arahattā ati  āmantā  nanu arahataḥ rāga ppahānāya satipaṭṭhānā bhāvitā pe 	“But hasn’t the path been developed by the perfected one for the abandoning of the fetters? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of the underlying tendencies? …
+['PA_kv_1.2:93.4', 'PA_kv_1.2:93.5', 'PA_kv_1.2:93.6', 'PA_kv_1.2:93.7']	sammappadhānā bhāvitā…🔽iddhipādā bhāvitā…🔽indriyā bhāvitā…🔽balā bhāvitā…	sammappadhānā bhāvitā  iddhipādā bhāvitā  indriyā bhāvitā  balā bhāvitā 	“But hasn’t the path been developed by the perfected one for the abandoning of the pollutants? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of the kinds of existence? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of the standpoints? …
+['PA_kv_1.2:93.8', 'PA_kv_1.2:93.9', 'PA_kv_1.2:93.10', 'PA_kv_1.2:93.11']	bojjhaṅgā bhāvitāti?🔽Āmantā.🔽Hañci arahato rāgappahānāya bojjhaṅgā bhāvitā, no ca vata re vattabbe—🔽“parihāyati arahā arahattā”ti.	bojjhaṅgā bhāvitā ati  āmantā  hañci arahataḥ rāga pahānāya bojjhaṅgā bhāvitā no ca vata re vattabbe  parihāyati arahāḥ arahattā ati 	“But hasn’t the path been developed by the perfected one for the abandoning of the underlying tendencies? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of the fetters? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of the pollutants? …🔽“But hasn’t the path been developed by the perfected one for the abandoning of the kinds of existence? …
+['PA_kv_1.2:94.1', 'PA_kv_1.2:94.2']	Parihāyati arahā arahattāti?🔽Āmantā.	parihāyati arahāḥ arahattā ati 🔽āmantā 	“But hasn’t the path been developed by the perfected one for the abandoning of the standpoints? …
+['PA_kv_1.2:94.3', 'PA_kv_1.2:94.4']	Nanu arahato dosappahānāya …pe…🔽anottappapahānāya maggo bhāvito …pe…	nanu arahataḥ dosa pahānāya pe  anottappa pahānāya maggaḥ bhāvito pe 	“Hasn’t the path been developed for the sake of the abandoning of anger,🔽for the sake of the abandoning of lack of conscience,
+['PA_kv_1.2:94.5']	bojjhaṅgā bhāvitāti?	bojjhaṅgā bhāvitā ati 	for the sake of the development of the factors for Awakening in a monk who is an Arahant?”
+['PA_kv_1.2:94.6', 'PA_kv_1.2:94.7']	Āmantā.🔽Hañci arahato anottappapahānāya bojjhaṅgā bhāvitā, no ca vata re vattabbe—	āmantā  hañci arahataḥ anottappa pahānāya bojjhaṅgā bhāvitā no ca vata re vattabbe 	“Yes.”
+['PA_kv_1.2:94.8']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	“Then it is not tenable that a monk who is an Arahant, having developed the factors for Awakening for the sake of the abandoning of lack of conscience, falls away from Arahantship.”
+['PA_kv_1.2:95.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a monk who is an Arahant fall away from Arahantship?”
+['PA_kv_1.2:95.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:95.3_0', 'PA_kv_1.2:95.3_1', 'PA_kv_1.2:95.3_2']	Nanu arahā vītarāgo vītadoso vītamoho katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano🔽sammadaññāvimutto ukkhittapaligho saṅkiṇṇaparikho abbūḷhesiko niraggaḷo ariyo pannaddhajo🔽pannabhāro visaññutto suvijitavijayo;	nanu arahā vīta rāgaḥ vīta dosaḥ vīta mohaḥ kata karaṇīyaḥ ohita bhāraḥ an uppatta sadattho parikkhīṇa bhava sayojano  sammad aññā vimuttaḥ ukkhitta palighaḥ saṅkiṇṇa parikhaḥ abbūḷhesikaḥ niraggaḷaḥ ariyaḥ pannaddha jo  pannabhāraḥ visaññuttaḥ su vijita vijayaḥ 	“Isn’t a monk who is an Arahant one who is free from passion, free from hatred, free from delusion, one who has done his job, laid down the burden, attained the true goal, destroyed the fetters of becoming,
+['PA_kv_1.2:95.4_0']	dukkhaṁ tassa pariññātaṁ, samudayo pahīno, nirodho sacchikato, maggo bhāvito, abhiññeyyaṁ	dukkham tassa pariññāta samudayaḥ pahīnaḥ nirodhaḥ sacchikataḥ maggaḥ bhāvitaḥ abhiññeyya 	one who is released through right gnosis, one who has reached the top, one who has crossed over attachment, one who has no more effluents, one who is foremost, one who has attained the foremost distinction, one who is foremost in the foremost place,
+['PA_kv_1.2:95.4_1', 'PA_kv_1.2:95.5']	abhiññātaṁ, pariññeyyaṁ pariññātaṁ, pahātabbaṁ pahīnaṁ, bhāvetabbaṁ bhāvitaṁ, sacchikātabbaṁ sacchikatanti?🔽Āmantā.	abhiññāta pariññeyyam pariññāta pahātabbam pahīna bhāvetabbam bhāvita sacchikātabbam sacchikatanti 🔽āmantā 	one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained the foremost distinction, one who has attained
+['PA_kv_1.2:95.6']	Hañci arahā vītarāgo vītadoso vītamoho …pe…	hañci arahā vīta rāgaḥ vīta dosaḥ vīta mohaḥ pe 	“Has the perfected one, free from lust, free from hate, free from delusion …
+['PA_kv_1.2:95.7']	sacchikātabbaṁ sacchikataṁ, no ca vata re vattabbe—	sacchikātabbam sacchikata no ca vata re vattabbe 	… what should be realized been realized? But it should not be said:
+['PA_kv_1.2:95.8']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	‘The perfected one falls away from his perfection.’
+['PA_kv_1.2:96.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does the perfected one fall away from his perfection?”
+['PA_kv_1.2:96.2']	(…) Samayavimutto arahā arahattā parihāyati, asamayavimutto arahā arahattā na parihāyatīti.	samaya vimuttaḥ arahā arahattā parihāyati asamaya vimuttaḥ arahā arahattā na parihāyati iti 	“The perfected one liberated according to circumstances falls away from his perfection, but the perfected one liberated regardless of circumstances does not fall away from his perfection.”
+['PA_kv_1.2:96.3']	Samayavimutto arahā arahattā parihāyatīti?	samaya vimuttaḥ arahāḥ arahattā parihāyati iti 	“Does the perfected one liberated according to circumstances fall away from his perfection?”
+['PA_kv_1.2:96.4']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:96.5']	Asamayavimutto arahā arahattā parihāyatīti?	a samaya vimuttaḥ arahāḥ arahattā parihāyati iti 	“Does the perfected one liberated regardless of circumstances fall away from his perfection?”
+['PA_kv_1.2:96.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so.”
+['PA_kv_1.2:97.1']	Asamayavimutto arahā arahattā na parihāyatīti?	a samaya vimuttaḥ arahāḥ arahattā na parihāyati iti 	“Does the perfected one liberated regardless of circumstances not fall away from his perfection?”
+['PA_kv_1.2:97.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:97.3']	Samayavimutto arahā arahattā na parihāyatīti?	samaya vimuttaḥ arahāḥ arahattā na parihāyati iti 	“Does the perfected one liberated according to circumstances not fall away from his perfection?”
+['PA_kv_1.2:97.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so.”
+['PA_kv_1.2:98.1']	Samayavimuttassa arahato rāgo pahīno, parihāyati samayavimutto arahā arahattāti?	samaya vimuttassa arahataḥ rāgaḥ pahīnaḥ parihāyati samaya vimuttaḥ arahā arahattā ati 	“Is it that the lust of the perfected one liberated according to circumstances has been abandoned, and so he falls away from his perfection?”
+['PA_kv_1.2:98.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:98.3']	Asamayavimuttassa arahato rāgo pahīno, parihāyati asamayavimutto arahā arahattāti?	asamaya vimuttassa arahataḥ rāgaḥ pahīnaḥ parihāyati asamaya vimuttaḥ arahā arahattā ati 	“Is it that the lust of the perfected one liberated regardless of circumstances has been abandoned, and so he falls away from his perfection?”
+['PA_kv_1.2:98.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so.”
+['PA_kv_1.2:99.1']	Samayavimuttassa arahato doso pahīno …pe…	samaya vimuttassa arahataḥ doso pahīno pe 	“Is the hatred of a perfected one who is temporarily liberated from defilements abandoned? …
+['PA_kv_1.2:99.2']	anottappaṁ pahīnaṁ, parihāyati samayavimutto arahā arahattāti?	anottappam parihāyati samaya vimuttaḥ arahā arahattā ati 	“Is his lack of conscience abandoned? Does he fall away from his state of temporary liberation?”
+['PA_kv_1.2:99.3']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:99.4']	Asamayavimuttassa arahato anottappaṁ pahīnaṁ, parihāyati asamayavimutto arahā arahattāti?	asamaya vimuttassa arahataḥ anottappam parihāyati asamaya vimuttaḥ arahā arahattā ati 	“Is the lack of conscience of a perfected one who is not temporarily liberated from defilements abandoned? Does he fall away from his state of not being temporarily liberated?”
+['PA_kv_1.2:99.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:100.1']	Samayavimuttassa arahato rāgappahānāya maggo bhāvito, parihāyati samayavimutto arahā arahattāti?	samaya vimuttassa arahataḥ rāga pahānāya maggaḥ bhāvito parihāyati samaya vimuttaḥ arahā arahattā ti 	“Has the path that leads to the abandoning of lust been developed by a perfected one who is temporarily liberated from defilements? Does he fall away from his state of temporary liberation?”
+['PA_kv_1.2:100.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:100.3']	Asamayavimuttassa arahato rāgappahānāya maggo bhāvito, parihāyati asamayavimutto arahā arahattāti?	asamaya vimuttassa arahataḥ rāga pahānāya maggaḥ bhāvitaḥ parihāyati asamaya vimuttaḥ arahā arahattā ati 	“Has the path that leads to the abandoning of lust been developed by a perfected one who is not temporarily liberated from defilements? Does he fall away from his state of not being temporarily liberated?”
+['PA_kv_1.2:100.4', 'PA_kv_1.2:101.1']	Na hevaṁ vattabbe.🔽Samayavimuttassa arahato rāgappahānāya satipaṭṭhānā bhāvitā …pe…	na ha ivam vattabbe  samaya vimuttassa arahataḥ rāga ppahānāya sati paṭṭhānā bhāvitā pe 	“No.”🔽“Have the four establishments of mindfulness been developed by a perfected one who is temporarily liberated from defilements? …
+['PA_kv_1.2:101.2']	sammappadhānā bhāvitā…	sammappadhānā bhāvitā 	“Have the four right kinds of striving …
+['PA_kv_1.2:101.3', 'PA_kv_1.2:101.4']	iddhipādā bhāvitā…🔽indriyā bhāvitā…	iddhipādā bhāvitā  indriyā bhāvitā 	the four bases of spiritual power …🔽the five spiritual faculties …
+['PA_kv_1.2:101.5']	balā bhāvitā…	balā bhāvitā 	the five spiritual powers …
+['PA_kv_1.2:101.6']	bojjhaṅgā bhāvitā, parihāyati samayavimutto arahā arahattāti?	bojjhaṅgā bhāvitā parihāyati samaya vimuttaḥ arahā arahattā ati 	the seven factors of enlightenment been developed by a perfected one who is temporarily liberated from defilements? Does he fall away from his state of temporary liberation?”
+['PA_kv_1.2:101.7']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:101.8']	Asamayavimuttassa arahato rāgappahānāya satipaṭṭhānā bhāvitā …pe…	a samaya vimuttassa arahataḥ rāga ppahānāya sati paṭṭhānā bhāvitā pe 	for the abandoning of the unskillful …🔽for the arousing of the skillful …🔽for the removal of lust …🔽for the removal of hatred …🔽for the removal of delusion …🔽for the removal of anger …🔽for the removal of hostility …🔽for the removal of denigration …
+['PA_kv_1.2:101.9', 'PA_kv_1.2:101.10']	bojjhaṅgā bhāvitā, parihāyati asamayavimutto arahā arahattāti?🔽Na hevaṁ vattabbe.	bojjhaṅgā bhāvitā parihāyati a samaya vimuttaḥ arahā arahattā ati  na ha ivam vattabbe 	for the removal of insolence …🔽for the removal of vanity …🔽for the removal of deceit …🔽for the removal of fraud …🔽for the removal of avarice …🔽for the removal of stinginess …🔽for the removal of deceitfulness …🔽for the removal of obstinacy …🔽for the removal of domineering …
+['PA_kv_1.2:102.1']	Samayavimuttassa arahato dosappahānāya …pe…	samaya vimuttassa arahataḥ dosa pahānāya pe 	for the removal of conceit …🔽for the removal of arrogance …🔽for the removal of vanity …🔽for the removal of heedlessness …🔽for the removal of agitation …🔽for the removal of lack of faith …🔽for the removal of indolence …
+['PA_kv_1.2:102.2']	anottappapahānāya maggo bhāvito …pe…	anottappa pahānāya maggaḥ bhāvito pe 	for the removal of negligence …🔽for the removal of ignorance …🔽for the removal of unawareness …🔽for the removal of lack of clear knowing …🔽for the removal of lack of full insight …🔽for the removal of the unskillful …🔽for the arousing of the skillful …🔽for the removal of lust …🔽for the removal of hatred …🔽for the removal of delusion …🔽for the removal of the fetters …🔽for the removal of the underlying tendencies …🔽for the removal of the hindrances …🔽for the removal of the corruptions …🔽for the removal of the knots …
+['PA_kv_1.2:102.3', 'PA_kv_1.2:102.4']	bojjhaṅgā bhāvitā, parihāyati samayavimutto arahā arahattāti?🔽Āmantā.	bojjhaṅgā bhāvitā parihāyati samaya vimuttaḥ arahā arahattā ati  āmantā 	for the removal of the underlying causes of disputes …🔽for the removal of wrong views …🔽for the removal of the fetters …🔽for the removal of the corruptions …🔽for the removal of the underlying tendencies …
+['PA_kv_1.2:102.5']	Asamayavimuttassa arahato anottappaṁ pahānāya maggo bhāvito …pe…	a samaya vimuttassa arahataḥ anottappam pahānāya maggaḥ bhāvito pe 	for the removal of the hindrances …🔽for the removal of the knots …🔽for the removal of the underlying causes of disputes …
+['PA_kv_1.2:102.6']	bojjhaṅgā bhāvitā, parihāyati asamayavimutto arahā arahattāti?	bojjhaṅgā bhāvitā parihāyati a samaya vimuttaḥ arahā arahattā ati 	for the removal of wrong views …
+['PA_kv_1.2:102.7']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	for the removal of the fetters …🔽for the removal of the corruptions …🔽for the removal of the underlying tendencies …🔽for the removal of the hindrances …🔽for the removal of the knots …
+['PA_kv_1.2:103.1_0', 'PA_kv_1.2:103.1_1']	Samayavimutto arahā vītarāgo vītadoso vītamoho katakaraṇīyo ohitabhāro anuppattasadattho🔽parikkhīṇabhavasaṁyojano sammadaññāvimutto ukkhittapaligho saṅkiṇṇaparikho abbūḷhesiko	samaya vimuttaḥ arahā vīta rāgaḥ vīta dosaḥ vīta moho kata karaṇīyaḥ ohita bhāraḥ an uppatta sadattho 🔽parikkhīṇa bhava sayojanaḥ sammad aññā vimuttaḥ ukkhitta palighaḥ saṅkiṇṇa parikhaḥ abbūḷhesiko 	for the removal of the underlying causes of disputes …🔽for
+['PA_kv_1.2:103.1_2']	niraggaḷo ariyo pannaddhajo pannabhāro visaññutto suvijitavijayo, dukkhaṁ tassa pariññātaṁ,	niraggaḷaḥ ariyaḥ pannaddhajaḥ pannabhāraḥ visaññutto su vijita vijayaḥ dukkham tassa pariññāta 	He is without a door bolt, a noble one, a thoroughbred, a good horse, one who has laid down the burden, attained the true goal, destroyed the fetters of becoming, and is completely liberated through final knowledge.🔽He has fully understood suffering,
+['PA_kv_1.2:103.1_3']	samudayo pahīno, nirodho sacchikato, maggo bhāvito, abhiññeyyaṁ abhiññātaṁ, pariññeyyaṁ	samudayaḥ pahīnaḥ nirodhaḥ sacchikataḥ maggaḥ bhāvitaḥ abhiññeyyam abhiññāta pariññeyya 	The noble one is without a door bolt, with banner lowered, with burden laid down, detached, with the fetter destroyed, the battle won, the evil tendency removed, with craving ended, with passion stilled, with hate stilled, with delusion stilled, with garrulousness stilled, with wandering thoughts stilled, with doubt stilled, with conceit stilled, with greed stilled, with anger stilled, with delusion stilled, with rebirth stilled, with death stilled, with sorrow stilled, with lamentation stilled, with despair stilled, with defilements stilled.🔽The suffering has been fully known by him,🔽the origin has been given up, the cessation has been realized, the path has been developed, what is to be fully known has been fully known,
+['PA_kv_1.2:103.1_4']	pariññātaṁ, pahātabbaṁ pahīnaṁ, bhāvetabbaṁ bhāvitaṁ, sacchikātabbaṁ sacchikataṁ,	pariññāta pahātabbam pahīna bhāvetabbam bhāvita sacchikātabbam sacchikata 	what is to be given up has been given up, what is to be realized has been realized, what is to be developed has been developed,
+['PA_kv_1.2:103.1_5']	parihāyati samayavimutto arahā arahattāti?	parihāyati samaya vimuttaḥ arahāḥ arahattā ati 	does the perfected one, the fully awakened one, fall away from liberation by time?”
+['PA_kv_1.2:103.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:103.3']	Asamayavimutto arahā vītarāgo vītadoso vītamoho …pe…	a samaya vimuttaḥ arahā vīta rāgaḥ vīta dosaḥ vīta mohaḥ pe 	“Does the perfected one, the fully awakened one, who is liberated independent of time, who is free from passion, free from hatred, free from delusion …
+['PA_kv_1.2:103.4']	sacchikātabbaṁ sacchikataṁ, parihāyati asamayavimutto arahā arahattāti?	sacchikātabbam parihāyati a samaya vimuttaḥ arahā arahattā ati 	what is to be developed has been developed, does he fall away from liberation independent of time?”
+['PA_kv_1.2:103.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:104.1']	Asamayavimuttassa arahato rāgo pahīno, na parihāyati asamayavimutto arahā arahattāti?	asamaya vimuttassa arahataḥ rāgaḥ pahīnaḥ na parihāyati asamaya vimuttaḥ arahā arahattā ti 	“Is it the case that the passion of the perfected one, the fully awakened one, who is liberated independent of time, has been given up, and does he not fall away from liberation independent of time?”
+['PA_kv_1.2:104.2']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:104.3']	Samayavimuttassa arahato rāgo pahīno, na parihāyati samayavimutto arahā arahattāti?	samaya vimuttassa arahataḥ rāgaḥ pahīnaḥ na parihāyati samaya vimuttaḥ arahā arahattā ti 	“Is it the case that the passion of the perfected one, the fully awakened one, who is liberated by time, has been given up, and does he not fall away from liberation by time?”
+['PA_kv_1.2:104.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:105.1']	Asamayavimuttassa arahato doso pahīno …pe…	asamaya vimuttassa arahataḥ doso pahīno pe 	“Is it the case that the hatred of the perfected one, the fully awakened one, who is liberated independent of time …
+['PA_kv_1.2:105.2']	anottappaṁ pahīnaṁ, na parihāyati asamayavimutto arahā arahattāti?	anottappam na parihāyati a samaya vimuttaḥ arahā arahattā ati 	When a perfected one, one liberated by non-clinging, has abandoned lack of conscience, does he ever fall away from that?
+['PA_kv_1.2:105.3']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:105.4']	Samayavimuttassa arahato anottappaṁ pahīnaṁ, na parihāyati samayavimutto arahā arahattāti?	samaya vimuttassa arahataḥ anottappam na parihāyati samaya vimuttaḥ arahā arahattā ati 	When a perfected one, one liberated by time, has abandoned lack of conscience, does he ever fall away from that?
+['PA_kv_1.2:105.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:106.1']	Asamayavimuttassa arahato rāgappahānāya maggo bhāvito …pe…	a samaya vimuttassa arahataḥ rāga pahānāya maggaḥ bhāvito pe 	“When a perfected one, one liberated by non-clinging, has developed the path to abandoning sensual desire …
+['PA_kv_1.2:106.2']	bojjhaṅgā bhāvitā, na parihāyati asamayavimutto arahā arahattāti?	bojjhaṅgā bhāvitā na parihāyati a samaya vimuttaḥ arahā arahattā ati 	the factors for Awakening, does he ever fall away from that?
+['PA_kv_1.2:106.3']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:106.4']	Samayavimuttassa arahato rāgappahānāya maggo bhāvito …pe…	samaya vimuttassa arahataḥ rāga pahānāya maggaḥ bhāvito pe 	“When a perfected one, one liberated by time, has developed the path to abandoning sensual desire …
+['PA_kv_1.2:106.5']	bojjhaṅgā bhāvitā, na parihāyati samayavimutto arahā arahattāti?	bojjhaṅgā bhāvitā na parihāyati samaya vimuttaḥ arahā arahattā ati 	the factors for Awakening, does he ever fall away from that?
+['PA_kv_1.2:106.6', 'PA_kv_1.2:107.1']	Na hevaṁ vattabbe.🔽Asamayavimuttassa arahato dosappahānāya …pe…	na ha ivam vattabbe  a samaya vimuttassa arahataḥ dosa pahānāya pe 	“No.”🔽“In the case of a perfected one, free from the taints, who has realized the Dharma, is the relinquishment of hatred …
+['PA_kv_1.2:107.2']	anottappapahānāya maggo bhāvito …pe…	anottappa pahānāya maggaḥ bhāvito pe 	“When a perfected one, one liberated by non-clinging, has developed the path to abandoning aversion …
+['PA_kv_1.2:107.3']	bojjhaṅgā bhāvitā, na parihāyati asamayavimutto arahā arahattāti?	bojjhaṅgā bhāvitā na parihāyati a samaya vimuttaḥ arahā arahattā ati 	lack of conscience, does he ever fall away from that?
+['PA_kv_1.2:107.4']	Āmantā.	āmantā 	The Invitation Ceremony.
+['PA_kv_1.2:107.5']	Samayavimuttassa arahato anottappapahānāya maggo bhāvito …pe…	samaya vimuttassa arahataḥ anottappa pahānāya maggaḥ bhāvito pe 	“When a perfected one, one liberated by time, has developed the path to abandoning lack of conscience, does he ever fall away from that?
+['PA_kv_1.2:107.6']	bojjhaṅgā bhāvitā, na parihāyati samayavimutto arahā arahattāti?	bojjhaṅgā bhāvitā na parihāyati samaya vimuttaḥ arahā arahattā ati 	“Does one who is liberated-on-time, a perfected one, not fall away from his perfection?”
+['PA_kv_1.2:107.7']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That shouldn’t be said.”
+['PA_kv_1.2:108.1']	Asamayavimutto arahā vītarāgo vītadoso vītamoho …pe…	a samaya vimuttaḥ arahā vīta rāgaḥ vīta dosaḥ vīta mohaḥ pe 	“One who is not liberated-on-time, a perfected one, free from lust, free from hate, free from delusion …
+['PA_kv_1.2:108.2']	sacchikātabbaṁ sacchikataṁ, na parihāyati asamayavimutto arahā arahattāti?	sacchikātabbam sacchikata na parihāyati a samaya vimuttaḥ arahā arahattā ati 	does he not fall away from his perfection?”
+['PA_kv_1.2:108.3']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:108.4']	Samayavimutto arahā vītarāgo vītadoso vītamoho …pe…	samaya vimuttaḥ arahā vīta rāgaḥ vīta dosaḥ vīta mohaḥ pe 	“One who is liberated-on-time, a perfected one, free from lust, free from hate, free from delusion …
+['PA_kv_1.2:108.5']	sacchikātabbaṁ sacchikataṁ, na parihāyati samayavimutto arahā arahattāti?	sacchikātabbam sacchikata na parihāyati samaya vimuttaḥ arahā arahattā ati 	does he not fall away from his perfection?”
+['PA_kv_1.2:108.6']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“That shouldn’t be said.”
+['PA_kv_1.2:109.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his perfection?”
+['PA_kv_1.2:109.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:109.3']	Sāriputto thero parihāyittha arahattāti?	sāriputto thero parihāyittha arahattā ati 	“Did the elder Sāriputta fall away from his perfection?”
+['PA_kv_1.2:109.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That shouldn’t be said.”
+['PA_kv_1.2:109.5']	Mahāmoggallāno thero …	mahāmoggallānaḥ theraḥ 	“Did the elder Mahāmoggallāna …
+['PA_kv_1.2:109.6', 'PA_kv_1.2:109.7']	mahākassapo thero …🔽mahākaccāyano thero …	mahākassapaḥ theraḥ  mahākaccāyanaḥ theraḥ 	the elder Mahākassapa …🔽the elder Mahākaccāyana …
+['PA_kv_1.2:109.8']	mahākoṭṭhiko thero …	mahākoṭṭhikaḥ theraḥ 	the elder Mahākoṭṭhita …
+['PA_kv_1.2:109.9']	mahāpanthako thero parihāyittha arahattāti?	mahāpanthako thero arahattā ati 	the elder Mahāpanthaka fall away from his perfection?”
+['PA_kv_1.2:109.10']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That shouldn’t be said.”
+['PA_kv_1.2:110.1']	Sāriputto thero na parihāyittha arahattāti?	sāriputto theraḥ na parihāyittha arahattā ati 	“Did the elder Sāriputta not fall away from his perfection?”
+['PA_kv_1.2:110.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:110.3', 'PA_kv_1.2:110.4']	Hañci sāriputto thero na parihāyittha arahattā, no ca vata re vattabbe—🔽“parihāyati arahā arahattā”ti.	hañci sāriputto thero na arahattā no ca vata re vattabbe  parihāyati arahāḥ arahattā ati 	You shouldn’t say that.
+['PA_kv_1.2:111.1', 'PA_kv_1.2:111.2', 'PA_kv_1.2:111.3']	Mahāmoggallāno thero …🔽mahākassapo thero …🔽mahākaccāyano thero …	mahāmoggallānaḥ theraḥ  mahākassapaḥ theraḥ  mahākaccāyanaḥ theraḥ 	Hasn’t the senior monk Mahāmoggallāna …🔽Mahākassapa …🔽Mahākaccāyana …
+['PA_kv_1.2:111.4']	mahākoṭṭhiko thero …	mahākoṭṭhikaḥ theraḥ 	Mahākoṭṭhita …
+['PA_kv_1.2:111.5']	mahāpanthako thero na parihāyittha arahattāti?	mahā panthakaḥ theraḥ na arahattā ati 	Mahāpanthaka fallen away from being a perfected one?
+['PA_kv_1.2:111.6']	Āmantā.	āmantā 	You shouldn’t say that.🔽Hasn’t the senior monk Mahāpanthaka fallen away from being a perfected one?
+['PA_kv_1.2:111.7', 'PA_kv_1.2:111.8']	Hañci mahāpanthako thero na parihāyittha arahattā, no ca vata re vattabbe—🔽“parihāyati arahā arahattā”ti.	hañci mahāpanthakaḥ theraḥ na arahattā no ca vata re vattabbe  parihāyati arahāḥ arahattā ati 	You shouldn’t say that.
+['PA_kv_1.2:111.9']	Ariyapuggalasaṁsandanaṁ.	ariya puggala sasandana 	The Discussion of the Noble Persons.
+['PA_kv_1.2:112.0']	Suttasādhanaparihāni	sutta sādhana parihāni 	The Discussion of the Suttas
+['PA_kv_1.2:112.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Has a perfected one fallen away from their perfection?
+['PA_kv_1.2:112.2']	Āmantā.	āmantā 	You shouldn’t say that.
+['PA_kv_1.2:112.3', 'PA_kv_1.2:113.1']	Nanu vuttaṁ bhagavatā—🔽“Uccāvacā hi paṭipadā,	nanu vuttam bhagavatā  uccāvacā hi paṭipadā 	Hasn’t it been said by the Buddha:🔽“The spiritual life is taught by the ascetic,
+['PA_kv_1.2:113.2']	Samaṇena pakāsitā;	samaṇena pakāsitā 	With its high and low aspects.
+['PA_kv_1.2:113.3']	Na pāraṁ diguṇaṁ yanti,	na pāram diguṇam yanti 	They don’t go beyond the other shore,
+['PA_kv_1.2:113.4']	Nayidaṁ ekaguṇaṁ mutan”ti.	eka guṇam 	Nor do they reach the other shore.”
+['PA_kv_1.2:114.1', 'PA_kv_1.2:114.2']	Attheva suttantoti?🔽Āmantā.	atthā iva suttanto ti  āmantā 	Is there such a sutta?🔽You shouldn’t say that.
+['PA_kv_1.2:114.3']	Tena hi na vattabbaṁ—	tena hi na vattabba 	Well then, you shouldn’t say that,
+['PA_kv_1.2:114.4']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	“A perfected one has fallen away from their perfection.”
+['PA_kv_1.2:115.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	Has a perfected one fallen away from their perfection?
+['PA_kv_1.2:115.2']	Āmantā.	āmantā 	You shouldn’t say that.
+['PA_kv_1.2:115.3']	Atthi chinnassa chediyanti?	atthi chinnassa chediyanti 	Is there cutting off of what has been cut off?
+['PA_kv_1.2:115.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:116.1']	Atthi chinnassa chediyanti?	atthi chinnassa chediyanti 	“Is there cutting off of what has been cut off?”
+['PA_kv_1.2:116.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:116.3']	Nanu vuttaṁ bhagavatā—	nanu vuttam bhagavatā 	“But has it not been said by the Blessed One:
+['PA_kv_1.2:117.1']	“Vītataṇho anādāno,	vīta taṇhaḥ an ādānaḥ 	‘Free from craving, without grasping,
+['PA_kv_1.2:117.2']	kiccaṁ yassa na vijjati;	kiccam yassa na vijjati 	for whom there is nothing to be done,
+['PA_kv_1.2:117.3']	Chinnassa chediyaṁ natthi,	chinnassa chediyam natthi 	for him there is no cutting off of what has been cut off,
+['PA_kv_1.2:117.4']	oghapāso samūhato”ti.	ogha pāsaḥ samūhata iti 	the flood’s snare has been destroyed’?
+['PA_kv_1.2:118.1']	Attheva suttantoti?	atthā iva suttanto ti 	“Is there such a discourse?”
+['PA_kv_1.2:118.2', 'PA_kv_1.2:118.3']	Āmantā.🔽Tena hi na vattabbaṁ—	āmantā  tena hi na vattabba 	“Yes.”
+['PA_kv_1.2:118.4']	“atthi chinnassa chediyan”ti.	atthi chinnassa chediyanti 	“Then you should not say that there is cutting off of what has been cut off.”
+['PA_kv_1.2:119.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does an arahant fall away from arahantship?”
+['PA_kv_1.2:119.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:119.3']	Atthi katassa paticayoti?	atthi katassa paticayaḥ ti 	“Is there a building up of what has been done?”
+['PA_kv_1.2:119.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“Then is it that the Blessed One has not taught the Dhamma?” “One should not say so.”
+['PA_kv_1.2:120.1']	Atthi katassa paticayoti?	atthi katassa paticayaḥ ti 	“Is there a building up of what has been done?”
+['PA_kv_1.2:120.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:120.3']	Nanu vuttaṁ bhagavatā—	nanu vuttam bhagavatā 	“But has it not been said by the Blessed One:
+['PA_kv_1.2:121.1']	“Tassa sammā vimuttassa,	tassa sammā vimuttassa 	‘For him who is rightly liberated,
+['PA_kv_1.2:121.2']	santacittassa bhikkhuno;	santacittassa bhikkhuno 	for the bhikkhu whose mind is at peace,
+['PA_kv_1.2:121.3']	Katassa paticayo natthi,	katassa paticayaḥ natthi 	there is no building up of what has been done,
+['PA_kv_1.2:121.4']	karaṇīyaṁ na vijjati.	karaṇīyam na vijjati 	nothing more remains to be done.
+['PA_kv_1.2:122.1']	Selo yathā ekagghano,	selaḥ yathā ekagghanaḥ 	Just as a rock, though the rain-clouds pour,
+['PA_kv_1.2:122.2', 'PA_kv_1.2:122.3']	vātena na samīrati;🔽Evaṁ rūpā rasā saddā,	vātena na samīrati  evam rūpā rasā saddā 	is not disturbed by the storm’s force,🔽so neither pleasant nor painful
+['PA_kv_1.2:122.4', 'PA_kv_1.2:123.1', 'PA_kv_1.2:123.2']	gandhā phassā ca kevalā.🔽Iṭṭhā dhammā aniṭṭhā ca,🔽nappavedhenti tādino;	gandhā phassā ca kevalā  iṭṭhāḥ dhammāḥ aniṭṭhā ca  na ppavedhenti tādinaḥ 	sensations affect the one who is content.
+['PA_kv_1.2:123.3']	Ṭhitaṁ cittaṁ vippamuttaṁ,	ṭhitam cittam vippamutta 	The mind of the one who is steady and liberated
+['PA_kv_1.2:123.4']	vayaṁ cassānupassatī”ti.	vayam ca assa anupassati iti 	sees the destruction of birth and death.
+['PA_kv_1.2:124.1']	Attheva suttantoti?	atthā iva suttanto ti 	“Is there such a discourse?”
+['PA_kv_1.2:124.2', 'PA_kv_1.2:124.3']	Āmantā.🔽Tena hi na vattabbaṁ—	āmantā  tena hi na vattabba 	“I deny that.”
+['PA_kv_1.2:124.4', 'PA_kv_1.2:125.1']	“atthi katassa paticayo”ti.🔽Na vattabbaṁ—	atthi katassa paticayaḥ ti  na vattabba 	“Well then, you should not say that there is a result of what has been done.”
+['PA_kv_1.2:125.2']	“parihāyati arahā arahattā”ti?	parihāyati arahāḥ arahattā ati 	“You should not say that a perfected one falls away from his perfectedness.”
+['PA_kv_1.2:125.3']	Āmantā.	āmantā 	“I deny that.”
+['PA_kv_1.2:125.4']	Nanu vuttaṁ bhagavatā—	nanu vuttam bhagavatā 	“But has it not been said by the Blessed One:
+['PA_kv_1.2:125.5']	“pañcime, bhikkhave, dhammā samayavimuttassa bhikkhuno parihānāya saṁvattanti.	pañcime bhikkhave dhammā samaya vimuttassa bhikkhuno parihānāya savattanti 	‘Bhikkhus, these five things lead to the decline of a bhikkhu who is a once-returner or a non-returner or one who is fully quenched.
+['PA_kv_1.2:125.6']	Katame pañca?	katame pañca 	What five?
+['PA_kv_1.2:125.7']	Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, yathāvimuttaṁ cittaṁ na paccavekkhati.	kamma ārāma tā bhassa ārāma tā niddā ārāma tā saṅgaṇikā ārāma tā yathā vimuttam cittam na paccavekkhati 	Delight in work, delight in talk, delight in sleep, delight in company, and he does not review the extent to which his mind is liberated.
+['PA_kv_1.2:125.8']	Ime kho, bhikkhave, pañca dhammā samayavimuttassa bhikkhuno parihānāya saṁvattantī”ti.	ime kho bhikkhave pañca dhammā samaya vimuttassa bhikkhuno parihānāya savattanti iti 	These five things lead to the decline of a bhikkhu who is a once-returner or a non-returner or one who is fully quenched’?
+['PA_kv_1.2:125.9']	Attheva suttantoti?	atthā iva suttanto ti 	“Is there such a sutta?”
+['PA_kv_1.2:125.10']	Āmantā.	āmantā 	“I deny that.”
+['PA_kv_1.2:125.11']	Tena hi parihāyati arahā arahattāti.	tena hi parihāyati arahāḥ arahattā ati 	“Well then, you should not say that a perfected one falls away from his perfectedness.”
+['PA_kv_1.2:126.1']	Atthi arahato kammārāmatāti?	atthi arahato kamma ārāma tā ati 	“Is there delight in work for a perfected one?”
+['PA_kv_1.2:126.2']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“You should not say so.”
+['PA_kv_1.2:127.1']	Atthi arahato kammārāmatāti?	atthi arahato kamma ārāma tā ati 	“Is there delight in work for a perfected one?”
+['PA_kv_1.2:127.2']	Āmantā.	āmantā 	“I deny that.”
+['PA_kv_1.2:127.3']	Atthi arahato rāgo kāmarāgo kāmarāgapariyuṭṭhānaṁ kāmarāgasaṁyojanaṁ kāmogho kāmayogo kāmacchandanīvaraṇanti?	atthi arahataḥ rāgo kāma rāgo kāma rāga pariyuṭṭhānam kāma rāga sayojanam kāmogho kāma yogo kāmacchanda nīvaraṇanti 	“Is there lust, lustful desire, lustfulness, lusting, desire, sensual desire, sensual desire as a mental factor, sensual craving, or sensual attachment for a perfected one?”
+['PA_kv_1.2:127.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“You should not say so.”
+['PA_kv_1.2:128.1']	Atthi arahato bhassārāmatā, atthi arahato niddārāmatā, atthi arahato saṅgaṇikārāmatāti?	atthi arahataḥ bhassa ārāma tā atthi arahataḥ niddā ārāma tā atthi arahataḥ saṅgaṇikā ārāma tā ati 	Is there delight in talk for one who is an Arahant? Is there delight in sleep for one who is an Arahant? Is there delight in society for one who is an Arahant?”
+['PA_kv_1.2:128.2']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so,” he said.
+['PA_kv_1.2:129.1']	Atthi arahato saṅgaṇikārāmatāti?	atthi arahato saṅgaṇikā ārāma tā ati 	“Is there delight in society for one who is an Arahant?”
+['PA_kv_1.2:129.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:129.3']	Atthi arahato rāgo kāmarāgo kāmarāgapariyuṭṭhānaṁ kāmarāgasaṁyojanaṁ kāmogho kāmayogo kāmacchandanīvaraṇanti?	atthi arahataḥ rāgo kāma rāgo kāma rāga pariyuṭṭhānam kāma rāga sayojanam kāmogho kāma yogo kāmacchanda nīvaraṇanti 	“Is there lust, lustful desire, lustful longing, lustful passion, lustful adherence, lustful delight, lustful craving for sensual desires for one who is an Arahant?”
+['PA_kv_1.2:129.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so,” he said.
+['PA_kv_1.2:130.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does one who is an Arahant fall away from Arahantship?”
+['PA_kv_1.2:130.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:130.3']	Arahā arahattā parihāyamāno kiṁ pariyuṭṭhito parihāyatīti?	arahā arahattā parihāyamāno kim pariyuṭṭhitaḥ parihāyati iti 	“When one who is an Arahant falls away from Arahantship, does he fall away from it as one possessed?”
+['PA_kv_1.2:130.4']	Rāgapariyuṭṭhito parihāyatīti.	rāga pariyuṭṭhitaḥ parihāyati iti 	“He falls away as one possessed.”
+['PA_kv_1.2:130.5']	Pariyuṭṭhānaṁ kiṁ paṭicca uppajjatīti?	pariyuṭṭhānam kim paṭicca uppajjati iti 	“Does possession arise in dependence upon underlying tendency?”
+['PA_kv_1.2:130.6']	Anusayaṁ paṭicca uppajjatīti.	anusayam paṭicca uppajjati iti 	“Yes.”
+['PA_kv_1.2:130.7']	Atthi arahato anusayāti?	atthi arahato anusayā 	“Is there an underlying tendency for one who is an Arahant?”
+['PA_kv_1.2:130.8']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so,” he said.
+['PA_kv_1.2:131.1']	Atthi arahato anusayāti?	atthi arahato anusayā 	“Is there an underlying tendency for one who is an Arahant?”
+['PA_kv_1.2:131.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:131.3']	Atthi arahato kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayoti?	atthi arahato kāma rāga anusayo paṭigha anusayo māna anusayo diṭṭha anusayaḥ vicikicchā anusayaḥ bhava rāga anusayaḥ avijjā anusayo ti 	“Is there an underlying tendency to lust for sensual desires, an underlying tendency to aversion, an underlying tendency to conceit, an underlying tendency to wrong views, an underlying tendency to uncertainty, an underlying tendency to lust for existence, an underlying tendency to ignorance for one who is an Arahant?”
+['PA_kv_1.2:131.4']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“That is not so,” he said.
+['PA_kv_1.2:132.1']	Dosapariyuṭṭhito parihāyatīti …pe…	dosa pariyuṭṭhito parihāyati iti pe 	One who is obsessed by hate falls away …
+['PA_kv_1.2:132.2']	mohapariyuṭṭhito parihāyatīti ….	moha pariyuṭṭhito parihāyati iti 	One who is obsessed by delusion falls away …
+['PA_kv_1.2:132.3', 'PA_kv_1.2:132.4']	Pariyuṭṭhānaṁ kiṁ paṭicca uppajjatīti?🔽Anusayaṁ paṭicca uppajjatīti.	pariyuṭṭhānam kim paṭicca uppajjati iti  anusayam paṭicca uppajjati iti 	“Does obsession arise with underlying tendency as condition?”
+['PA_kv_1.2:132.5']	Atthi arahato anusayāti?	atthi arahato anusayā 	“Does underlying tendency exist in a perfected one?”
+['PA_kv_1.2:132.6']	Na hevaṁ vattabbe …pe….	na ha ivam vattabbe pe 	“You should not say that …
+['PA_kv_1.2:133.1']	Atthi arahato anusayāti?	atthi arahato anusayā 	“Does underlying tendency exist in a perfected one?”
+['PA_kv_1.2:133.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:133.3']	Atthi arahato kāmarāgānusayo …pe…	atthi arahato kāma rāga anusayo pe 	“Does the underlying tendency to lust for sensual pleasures …
+['PA_kv_1.2:133.4']	avijjānusayoti?	avijjā anusayā iti 	the underlying tendency to ignorance exist in a perfected one?”
+['PA_kv_1.2:133.5']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“You should not say that.
+['PA_kv_1.2:134.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does a perfected one fall away from his perfection?”
+['PA_kv_1.2:134.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:134.3']	Arahato arahattā parihāyamānassa kiṁ upacayaṁ gacchatīti?	arahataḥ arahattā parihāyamānassa kim upacayam gacchati iti 	“When a perfected one falls away from his perfection, does his lust increase?”
+['PA_kv_1.2:134.4']	Rāgo upacayaṁ gacchatīti.	rāgaḥ upacayam gacchati iti 	“Yes.”
+['PA_kv_1.2:134.5']	Sakkāyadiṭṭhi upacayaṁ gacchatīti, vicikicchā upacayaṁ gacchatīti, sīlabbataparāmāso upacayaṁ gacchatīti?	sakkāya diṭṭhi upacayam gacchati iti vicikicchā upacayam gacchati iti sīlabbata parāmāsaḥ upacayam gacchati iti 	“Does his bodily-form view increase, his doubt increase, his grasping of rules and vows increase?”
+['PA_kv_1.2:134.6']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“You should not say that.
+['PA_kv_1.2:134.7']	Doso upacayaṁ gacchatīti …pe…	dosaḥ upacayam gacchati iti pe 	“Does his hatred increase …
+['PA_kv_1.2:134.8']	moho upacayaṁ gacchatīti, sakkāyadiṭṭhi upacayaṁ gacchatīti, vicikicchā upacayaṁ gacchatīti, sīlabbataparāmāso upacayaṁ gacchatīti?	mohaḥ upacayam gacchati iti sakkāya diṭṭhi upacayam gacchati iti vicikicchā upacayam gacchati iti sīlabbata parāmāsaḥ upacayam gacchati iti 	his delusion increase, his bodily-form view increase, his doubt increase, his grasping of rules and vows increase?”🔽“Yes.”
+['PA_kv_1.2:134.9']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:135.1']	Parihāyati arahā arahattāti?	parihāyati arahāḥ arahattā ati 	“Does one who is an arahant fall away from arahantship?”
+['PA_kv_1.2:135.2']	Āmantā.	āmantā 	“Yes, friend.”
+['PA_kv_1.2:135.3']	Arahā ācinatīti?	arahāḥ ācinati iti 	“Does one who is an arahant accumulate what is wholesome?”
+['PA_kv_1.2:135.4', 'PA_kv_1.2:135.5']	Na hevaṁ vattabbe.🔽Arahā apacinatīti?	na ha ivam vattabbe  ara hā apacinati iti 	“No, friend.”
+['PA_kv_1.2:135.6', 'PA_kv_1.2:135.7']	Na hevaṁ vattabbe.🔽Arahā pajahatīti?	na ha ivam vattabbe  arahā pajahati iti 	“Does one who is an arahant not accumulate what is wholesome?”
+['PA_kv_1.2:135.8']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:135.9']	Arahā upādiyatīti?	arahāḥ upādiyati iti 	“Does one who is an arahant abandon what is wholesome?”
+['PA_kv_1.2:135.10']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:135.11']	Arahā visinetīti?	arahāḥ visineti iti 	“Does one who is an arahant take up what is wholesome?”
+['PA_kv_1.2:135.12']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:135.13']	Arahā ussinetīti?	arahāḥ ussineti iti 	“Does one who is an arahant throw away what is wholesome?”
+['PA_kv_1.2:135.14']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:135.15']	Arahā vidhūpetīti?	ara hā vidhūpeti iti 	“Does one who is an arahant blow what is wholesome about him?”
+['PA_kv_1.2:135.16']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:135.17']	Arahā sandhūpetīti?	arahā sandhūpeti iti 	“Does one who is an arahant stir up what is wholesome about him?”
+['PA_kv_1.2:135.18']	Na hevaṁ vattabbe.	na ha ivam vattabbe 	“No, friend.”
+['PA_kv_1.2:136.1']	Nanu arahā nevācinati na apacinati apacinitvā ṭhitoti?	nanu arahā na iva ācinati na apacinati apacinitvā 	“But, friend, doesn’t one who is an arahant neither accumulate nor not accumulate what is wholesome, but stands having accumulated what is wholesome?”
+['PA_kv_1.2:136.2']	Āmantā.	āmantā 	“Yes, friend.”
+['PA_kv_1.2:136.3', 'PA_kv_1.2:136.4']	Hañci arahā nevācinati na apacinati apacinitvā ṭhito, no ca vata re vattabbe—🔽“parihāyati arahā arahattā”ti.	hañci arahā na iva ācinati na apacinati apacinitvā ṭhitaḥ no ca vata re vattabbe  parihāyati arahāḥ arahattā ati 	“Then it is not right to say that ‘one who is an arahant falls away from arahantship.’
+['PA_kv_1.2:137.1']	Nanu arahā neva pajahati na upādiyati pajahitvā ṭhitoti?	nanu arahā na iva pajahati na upādiyati pajahitvā ṭhitā uti 	“But, friend, doesn’t one who is an arahant neither abandon nor take up what is wholesome, but stands having abandoned what is wholesome?”
+['PA_kv_1.2:137.2']	Āmantā.	āmantā 	“Yes, friend.”
+['PA_kv_1.2:137.3']	Hañci arahā neva pajahati na upādiyati pajahitvā ṭhito, no ca vata re vattabbe—	hañci arahā na iva pajahati na upādiyati pajahitvā ṭhitaḥ no ca vata re vattabbe 	“Then it is not right to say that ‘one who is an arahant falls away from arahantship.’
+['PA_kv_1.2:137.4']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	“A perfected one falls away from their perfection.”
+['PA_kv_1.2:138.1']	Nanu arahā neva visineti na ussineti visinitvā ṭhitoti?	nanu arahā na iva visineti na ussineti visinitvā ṭhitaḥ uti 	“But doesn’t a perfected one neither cast out nor hold back, but stay having cast out?”
+['PA_kv_1.2:138.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:138.3']	Hañci arahā neva visineti na ussineti visinitvā ṭhito, no ca vata re vattabbe—	hañci arahā na iva visineti na ussineti visinitvā ṭhitaḥ no ca vata re vattabbe 	“Well then, you shouldn’t say that
+['PA_kv_1.2:138.4']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	‘A perfected one falls away from their perfection.’”
+['PA_kv_1.2:139.1']	Nanu arahā neva vidhūpeti na sandhūpeti vidhūpetvā ṭhitoti?	nanu arahā na iva vidhūpeti na sandhūpeti vidhūpetvā ṭhitā uti 	“But doesn’t a perfected one neither blow out nor fan a flame, but stay having blown it out?”
+['PA_kv_1.2:139.2']	Āmantā.	āmantā 	“Yes.”
+['PA_kv_1.2:139.3']	Hañci arahā neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito, no ca vata re vattabbe—	hañci arahā na iva vidhūpeti na sandhūpeti vidhūpetvā ṭhitaḥ no ca vata re vattabbe 	“Well then, you shouldn’t say that
+['PA_kv_1.2:139.4']	“parihāyati arahā arahattā”ti.	parihāyati arahāḥ arahattā ati 	‘A perfected one falls away from their perfection.’”
+['PA_kv_1.2:139.5']	Parihānikathā niṭṭhitā.	parihāni kathā niṭṭhitā 	The discussion of falling away is finished.

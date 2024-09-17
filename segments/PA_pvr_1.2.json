@@ -1,0 +1,4004 @@
+[
+    {
+        "segmentnr": "PA_pvr_1.2:0.1",
+        "original": "Parivāra",
+        "analyzed": "parivāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:0.2",
+        "original": "Bhikkhuvibhaṅga",
+        "analyzed": "bhikkhu vibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:0.3",
+        "original": "Paṭhamabhāga",
+        "analyzed": "paṭhama bhāga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:0.4",
+        "original": "1.2 Katāpattivāra",
+        "analyzed": "    ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:0.5",
+        "original": "1. Pārājikakaṇḍa",
+        "analyzed": "pārājika kaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:1.1",
+        "original": "Methunaṁ dhammaṁ paṭisevanto kati āpattiyo āpajjati?",
+        "analyzed": "methunam dhammam paṭisevantaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:1.2",
+        "original": "Methunaṁ dhammaṁ paṭisevanto tisso āpattiyo āpajjati.",
+        "analyzed": "methunam dhammam paṭisevantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:1.3",
+        "original": "Akkhāyite sarīre methunaṁ dhammaṁ paṭisevati, āpatti pārājikassa;",
+        "analyzed": "akkhāyite sarīre methunam dhammam paṭisevati āpatti pārājikassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:1.4",
+        "original": "yebhuyyena khāyite sarīre methunaṁ dhammaṁ paṭisevati, āpatti thullaccayassa;",
+        "analyzed": "yebhuyyena khāyite sarīre methunam dhammam paṭisevati āpatti thullaccayassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:1.5",
+        "original": "vaṭṭakate mukhe acchupantaṁ aṅgajātaṁ paveseti, āpatti dukkaṭassa—",
+        "analyzed": "mukhe acchupantam aṅga jātam paveseti āpatti dukkaṭassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:1.6",
+        "original": "methunaṁ dhammaṁ paṭisevanto imā tisso āpattiyo āpajjati.",
+        "analyzed": "methunam dhammam paṭisevantaḥ imāḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:2.1",
+        "original": "Adinnaṁ ādiyanto kati āpattiyo āpajjati?",
+        "analyzed": "adinnam ādiyantaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:2.2",
+        "original": "Adinnaṁ ādiyanto tisso āpattiyo āpajjati.",
+        "analyzed": "adinnam ādiyantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:2.3",
+        "original": "Pañcamāsakaṁ vā atirekapañcamāsakaṁ vā agghanakaṁ adinnaṁ theyyasaṅkhātaṁ ādiyati, āpatti pārājikassa;",
+        "analyzed": "pañca māsakam vā atireka pañca māsakam vā agghanakam adinnam theyya saṅkhātam ādiyati āpatti pārājikassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:2.4",
+        "original": "atirekamāsakaṁ vā ūnapañcamāsakaṁ vā agghanakaṁ adinnaṁ theyyasaṅkhātaṁ ādiyati, āpatti thullaccayassa;",
+        "analyzed": "atireka māsakam vā ūna pañca māsakam vā agghanakam adinnam theyya saṅkhātam ādiyati āpatti thullaccayassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:2.5",
+        "original": "māsakaṁ vā ūnamāsakaṁ vā agghanakaṁ adinnaṁ theyyasaṅkhātaṁ ādiyati, āpatti dukkaṭassa—",
+        "analyzed": "māsakam vā ūna māsakam vā agghanakam adinnam theyya saṅkhātam ādiyati āpatti dukkaṭassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:2.6",
+        "original": "adinnaṁ ādiyanto imā tisso āpattiyo āpajjati.",
+        "analyzed": "adinnam ādiyantaḥ imāḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:3.1",
+        "original": "Sañcicca manussaviggahaṁ jīvitā voropento kati āpattiyo āpajjati?",
+        "analyzed": "sañcicca manussa viggaham jīvitā voropento kati āpattiyaḥ āpajjati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:3.2",
+        "original": "Sañcicca manussaviggahaṁ jīvitā voropento tisso āpattiyo āpajjati.",
+        "analyzed": "sañcicca manussa viggaham jīvitā voropento tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:3.3",
+        "original": "Manussaṁ odissa opātaṁ khaṇati “papatitvā marissatī”ti, āpatti dukkaṭassa;",
+        "analyzed": "manussam odissa opātam khaṇati papatitvā marissati iti āpatti dukkaṭassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:3.4",
+        "original": "papatite dukkhā vedanā uppajjati, āpatti thullaccayassa;",
+        "analyzed": "papatite dukkhā vedanā uppajjati āpatti thullaccayassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:3.5",
+        "original": "marati, āpatti pārājikassa—",
+        "analyzed": "marati āpatti pārājikassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:3.6",
+        "original": "sañcicca manussaviggahaṁ jīvitā voropento imā tisso āpattiyo āpajjati.",
+        "analyzed": "sañcicca manussa viggaham jīvitā voropentaḥ imāḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:4.1",
+        "original": "Asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapanto kati āpattiyo āpajjati?",
+        "analyzed": "asantam abhūtam uttari manussa dhammam ullapantaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:4.2",
+        "original": "Asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapanto tisso āpattiyo āpajjati.",
+        "analyzed": "asantam abhūtam uttari manussa dhammam ullapantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:4.3",
+        "original": "Pāpiccho icchāpakato asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapati, āpatti pārājikassa;",
+        "analyzed": "pāpicchaḥ icchā apakataḥ asantam abhūtam uttari manussa dhammam ullapati āpatti pārājikassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:4.4",
+        "original": "“yo te vihāre vasati, so bhikkhu arahā”ti bhaṇati, paṭivijānantassa āpatti thullaccayassa;",
+        "analyzed": "yaḥ te vihāre vasati saḥ bhikkhu arahāti bhaṇati paṭivijānantassa āpatti thullaccayassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:4.5",
+        "original": "na paṭivijānantassa āpatti dukkaṭassa—",
+        "analyzed": "na paṭivijānantassa āpatti dukkaṭassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:4.6",
+        "original": "asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapanto imā tisso āpattiyo āpajjati.",
+        "analyzed": "asantam abhūtam uttari manussa dhammam ullapantaḥ imāḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:5.1",
+        "original": "Cattāro pārājikā niṭṭhitā.",
+        "analyzed": "cattāro pārājikā niṭṭhitā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:6.0",
+        "original": "2. Saṅghādisesakaṇḍa",
+        "analyzed": "saṅgha ādi sesa kaṇḍa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:6.1",
+        "original": "(…) Upakkamitvā asuciṁ mocento tisso āpattiyo āpajjati.",
+        "analyzed": "upakkamitvā asucim mocentaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:6.2",
+        "original": "Ceteti upakkamati muccati, āpatti saṅghādisesassa;",
+        "analyzed": "ceteti upakkamati muccati āpatti saṅgha ādisesassa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:6.3",
+        "original": "ceteti upakkamati na muccati, āpatti thullaccayassa;",
+        "analyzed": "ceteti upakkamati na muccati āpatti thullaccayassa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:6.4",
+        "original": "payoge dukkaṭaṁ.",
+        "analyzed": "payoge dukkaṭa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:7.1",
+        "original": "Mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjanto tisso āpattiyo āpajjati.",
+        "analyzed": "mātugāmena saddhim kāyasasaggam samāpajjantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:7.2",
+        "original": "Kāyena kāyaṁ āmasati, āpatti saṅghādisesassa;",
+        "analyzed": "kāyena kāyam āmasati āpatti saṅgha ādisesassa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:7.3",
+        "original": "kāyena kāyapaṭibaddhaṁ āmasati, āpatti thullaccayassa;",
+        "analyzed": "kāyena kāya paṭibaddham āmasati āpatti thullaccayassa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:7.4",
+        "original": "kāyapaṭibaddhena kāyapaṭibaddhaṁ āmasati, āpatti dukkaṭassa.",
+        "analyzed": "kāya paṭibaddhena kāya paṭibaddham āmasati āpatti dukkaṭassa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:8.1",
+        "original": "Mātugāmaṁ duṭṭhullāhi vācāhi obhāsento tisso āpattiyo āpajjati.",
+        "analyzed": "mātugāmam duṭṭhullāhi vācāhi obhāsento tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:8.2",
+        "original": "Vaccamaggaṁ passāvamaggaṁ ādissa vaṇṇampi bhaṇati, avaṇṇampi bhaṇati, āpatti saṅghādisesassa;",
+        "analyzed": "vaccamaggam passa avamaggam ādissa vaṇṇam pi bhaṇati avaṇṇam pi bhaṇati āpatti saṅgha ādisesassa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:8.3",
+        "original": "vaccamaggaṁ passāvamaggaṁ ṭhapetvā adhakkhakaṁ ubbhajāṇumaṇḍalaṁ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati, āpatti thullaccayassa;",
+        "analyzed": "vacca maggam passāva maggam ṭhapetvā adhakkhakam ubbhaja aṇu maṇḍalam ādissa vaṇṇam pi bhaṇati avaṇṇam pi bhaṇati āpatti thullaccayassa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:8.4",
+        "original": "kāyapaṭibaddhaṁ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati, āpatti dukkaṭassa.",
+        "analyzed": "kāya paṭibaddham ādissa vaṇṇam pi bhaṇati avaṇṇam pi bhaṇati āpatti dukkaṭassa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:9.1",
+        "original": "Attakāmapāricariyāya vaṇṇaṁ bhāsanto tisso āpattiyo āpajjati.",
+        "analyzed": "atta kāma pāricariyāya vaṇṇam bhāsantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:9.2",
+        "original": "Mātugāmassa santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti saṅghādisesassa;",
+        "analyzed": "mātu gāmassa santike atta kāma pāricariyāya vaṇṇam bhāsati āpatti saṅgha ādisesassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:9.3",
+        "original": "paṇḍakassa santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti thullaccayassa;",
+        "analyzed": "paṇḍakassa santike atta kāma pāricariyāya vaṇṇam bhāsati āpatti thullaccayassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:9.4",
+        "original": "tiracchānagatassa santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti dukkaṭassa.",
+        "analyzed": "tiracchāna gatassa santike atta kāma pāricariyāya vaṇṇam bhāsati āpatti dukkaṭassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:10.1",
+        "original": "Sañcarittaṁ samāpajjanto tisso āpattiyo āpajjati.",
+        "analyzed": "sañcarittam samāpajjantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:10.2",
+        "original": "Paṭiggaṇhāti vīmaṁsati paccāharati, āpatti saṅghādisesassa;",
+        "analyzed": "paṭiggaṇhāti vīmasati paccāharati āpatti saṅgha ādisesassa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:10.3",
+        "original": "paṭiggaṇhāti vīmaṁsati na paccāharati, āpatti thullaccayassa;",
+        "analyzed": "paṭiggaṇhāti vīmasati na paccāharati āpatti thullaccayassa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:10.4",
+        "original": "paṭiggaṇhāti na vīmaṁsati na paccāharati, āpatti dukkaṭassa.",
+        "analyzed": "paṭiggaṇhāti na vīmasati na paccāharati āpatti dukkaṭassa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:11.1",
+        "original": "Saññācikāya kuṭiṁ kārāpento tisso āpattiyo āpajjati.",
+        "analyzed": "saññācikāya kuṭim kārāpento tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:11.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:11.3",
+        "original": "ekaṁ piṇḍaṁ anāgate, āpatti thullaccayassa;",
+        "analyzed": "ekam piṇḍam anāgate āpatti thullaccayassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:11.4",
+        "original": "tasmiṁ piṇḍe āgate, āpatti saṅghādisesassa.",
+        "analyzed": "tasmin piṇḍe āgate āpatti saṅgha ādisesassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:12.1",
+        "original": "Mahallakaṁ vihāraṁ kārāpento tisso āpattiyo āpajjati.",
+        "analyzed": "mahallakam vihāram kārāpentaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:12.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:12.3",
+        "original": "ekaṁ piṇḍaṁ anāgate, āpatti thullaccayassa;",
+        "analyzed": "ekam piṇḍam anāgate āpatti thullaccayassa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:12.4",
+        "original": "tasmiṁ piṇḍe āgate, āpatti saṅghādisesassa.",
+        "analyzed": "tasmin piṇḍe āgate āpatti saṅgha ādisesassa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:13.1",
+        "original": "Bhikkhuṁ amūlakena pārājikena dhammena anuddhaṁsento tisso āpattiyo āpajjati.",
+        "analyzed": "bhikkhum amūlakena pārājikena dhammena an uddhasentaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:13.2",
+        "original": "Anokāsaṁ kārāpetvā cāvanādhippāyo vadeti, āpatti saṅghādisesena dukkaṭassa;",
+        "analyzed": "anokāsam kārāpetvā cāvana adhippāyaḥ vadeti āpatti saṅgha ādisesena dukkaṭassa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:13.3",
+        "original": "okāsaṁ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādassa.",
+        "analyzed": "okāsam kārāpetvā akkosa adhippāyaḥ vadeti āpatti omasavādassa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:14.1",
+        "original": "Bhikkhuṁ aññabhāgiyassa adhikaraṇassa kiñci desaṁ lesamattaṁ upādāya pārājikena dhammena anuddhaṁsento tisso āpattiyo āpajjati.",
+        "analyzed": "bhikkhum aññabhāgiyassa adhikaraṇassa kiñci desam lesa mattam upādāya pārājikena dhammena an uddhasentaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:14.2",
+        "original": "Anokāsaṁ kārāpetvā cāvanādhippāyo vadeti, āpatti saṅghādisesena dukkaṭassa;",
+        "analyzed": "anokāsam kārāpetvā cāvana adhippāyaḥ vadeti āpatti saṅgha ādisesena dukkaṭassa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:14.3",
+        "original": "okāsaṁ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādassa.",
+        "analyzed": "okāsam kārāpetvā akkosa adhippāyaḥ vadeti āpatti omasavādassa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:15.1",
+        "original": "Saṅghabhedako bhikkhu yāvatatiyaṁ samanubhāsanāya na paṭinissajjanto tisso āpattiyo āpajjati.",
+        "analyzed": "saṅgha bhedakaḥ bhikkhu yāvatatiyam samanubhāsanāya na paṭinissajjantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:15.2",
+        "original": "Ñattiyā dukkaṭaṁ;",
+        "analyzed": "ñattiyā dukkaṭa ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:15.3",
+        "original": "dvīhi kammavācāhi thullaccayā;",
+        "analyzed": "dvīhi kamma vācāhi thullaccayā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:15.4",
+        "original": "kammavācāpariyosāne āpatti saṅghādisesassa.",
+        "analyzed": "kamma vācā pariyosāne āpatti saṅgha ādisesassa ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:16.1",
+        "original": "Bhedakānuvattakā bhikkhū yāvatatiyaṁ samanubhāsanāya na paṭinissajjantā tisso āpattiyo āpajjanti.",
+        "analyzed": "bhedaka anuvattakāḥ bhikkhū yāvatatiyam samanubhāsanāya na paṭinissajjantā tissaḥ āpattiyaḥ āpajjanti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:16.2",
+        "original": "Ñattiyā dukkaṭaṁ;",
+        "analyzed": "ñattiyā dukkaṭa ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:16.3",
+        "original": "dvīhi kammavācāhi thullaccayā;",
+        "analyzed": "dvīhi kamma vācāhi thullaccayā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:16.4",
+        "original": "kammavācāpariyosāne āpatti saṅghādisesassa.",
+        "analyzed": "kamma vācā pariyosāne āpatti saṅgha ādisesassa ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:17.1",
+        "original": "Dubbaco bhikkhu yāvatatiyaṁ samanubhāsanāya na paṭinissajjanto tisso āpattiyo āpajjati.",
+        "analyzed": "dubbacaḥ bhikkhu yāvatatiyam samanubhāsanāya na paṭinissajjantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:17.2",
+        "original": "Ñattiyā dukkaṭaṁ;",
+        "analyzed": "ñattiyā dukkaṭa ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:17.3",
+        "original": "dvīhi kammavācāhi thullaccayā;",
+        "analyzed": "dvīhi kamma vācāhi thullaccayā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:17.4",
+        "original": "kammavācāpariyosāne āpatti saṅghādisesassa.",
+        "analyzed": "kamma vācā pariyosāne āpatti saṅgha ādisesassa ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:18.1",
+        "original": "Kuladūsako bhikkhu yāvatatiyaṁ samanubhāsanāya na paṭinissajjanto tisso āpattiyo āpajjati.",
+        "analyzed": "kula dūsakaḥ bhikkhu yāvatatiyam samanubhāsanāya na paṭinissajjantaḥ tissaḥ āpattiyaḥ āpajjati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:18.2",
+        "original": "Ñattiyā dukkaṭaṁ;",
+        "analyzed": "ñattiyā dukkaṭa ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:18.3",
+        "original": "dvīhi kammavācāhi thullaccayā;",
+        "analyzed": "dvīhi kamma vācāhi thullaccayā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:18.4",
+        "original": "kammavācāpariyosāne āpatti saṅghādisesassa.",
+        "analyzed": "kamma vācā pariyosāne āpatti saṅgha ādisesassa ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:19.1",
+        "original": "Terasa saṅghādisesā niṭṭhitā.",
+        "analyzed": "terasa saṅgha ādisesā niṭṭhitā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:20.0.1",
+        "original": "4. Nissaggiyakaṇḍa",
+        "analyzed": "nissaggiya kaṇḍa ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:20.0.2",
+        "original": "4.1. Kathinavagga",
+        "analyzed": "kathina vagga ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:20.1",
+        "original": "Atirekacīvaraṁ dasāhaṁ atikkāmento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "atireka cīvaram dasa aham atikkāmentaḥ ekam āpattim āpajjati ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:20.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:21.1",
+        "original": "Ekarattaṁ ticīvarena vippavasanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "eka rattam ti cīvarena vippavasantaḥ ekam āpattim āpajjati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:21.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:22.1",
+        "original": "Akālacīvaraṁ paṭiggahetvā māsaṁ atikkāmento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "akāla cīvaram paṭiggahetvā māsam atikkāmentaḥ ekam āpattim āpajjati ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:22.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:23.1",
+        "original": "Aññātikāya bhikkhuniyā purāṇacīvaraṁ dhovāpento dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyā purāṇa cīvaram dhovāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:23.2",
+        "original": "Dhovāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "dhovāpa iti payoge dukkaṭa ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:23.3",
+        "original": "dhovāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "dhovāpite nissaggiyam pācittiya ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:24.1",
+        "original": "Aññātikāya bhikkhuniyā hatthato cīvaraṁ paṭiggaṇhanto dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyāḥ hatthataḥ cīvaram paṭiggaṇhantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:24.2",
+        "original": "Gaṇhāti, payoge dukkaṭaṁ;",
+        "analyzed": "gaṇhāti payoge dukkaṭa ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:24.3",
+        "original": "gahite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "gahite nissaggiyam pācittiya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:25.1",
+        "original": "Aññātakaṁ gahapatiṁ vā gahapatāniṁ vā cīvaraṁ viññāpento dve āpattiyo āpajjati.",
+        "analyzed": "aññātakam gahapatim vā gahapatānim vā cīvaram viññāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:25.2",
+        "original": "Viññāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "viññāpeti payoge dukkaṭa ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:25.3",
+        "original": "viññāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "viññāpite nissaggiyam pācittiya ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:26.1",
+        "original": "Aññātakaṁ gahapatiṁ vā gahapatāniṁ vā tatuttari cīvaraṁ viññāpento dve āpattiyo āpajjati.",
+        "analyzed": "aññātakam gahapatim vā gahapatānim vā tatuttari cīvaram viññāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:26.2",
+        "original": "Viññāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "viññāpeti payoge dukkaṭa ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:26.3",
+        "original": "viññāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "viññāpite nissaggiyam pācittiya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:27.1",
+        "original": "Pubbe appavārito aññātakaṁ gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "pubbe a pavāritaḥ aññātakam gahapatikam upasaṅkamitvā cīvare vikappam āpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:27.2",
+        "original": "Vikappaṁ āpajjati, payoge dukkaṭaṁ;",
+        "analyzed": "vikappam āpajjati payoge dukkaṭa ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:27.3",
+        "original": "vikappaṁ āpanne nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "vikappam āpanne nissaggiyam pācittiya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:28.1",
+        "original": "Pubbe appavārito aññātake gahapatike upasaṅkamitvā cīvare vikappaṁ āpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "pubbe a pavāritaḥ aññātake gahapatike upasaṅkamitvā cīvare vikappam āpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:28.2",
+        "original": "Vikappaṁ āpajjati, payoge dukkaṭaṁ;",
+        "analyzed": "vikappam āpajjati payoge dukkaṭa ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:28.3",
+        "original": "vikappaṁ āpanne nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "vikappam āpanne nissaggiyam pācittiya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:29.1",
+        "original": "Atirekatikkhattuṁ codanāya atirekachakkhattuṁ ṭhānena cīvaraṁ abhinipphādento dve āpattiyo āpajjati.",
+        "analyzed": "atireka tikkhattum codanāya atireka cha khattum ṭhānena cīvaram abhinipphādentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:29.2",
+        "original": "Abhinipphādeti, payoge dukkaṭaṁ;",
+        "analyzed": "abhinipphādeti payoge dukkaṭa ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:29.3",
+        "original": "abhinipphādite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "abhinipphādite nissaggiyam pācittiya ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:30.1",
+        "original": "Kathinavaggo paṭhamo.",
+        "analyzed": "kathina vaggo paṭhamaḥ ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:31.0",
+        "original": "4.2. Kosiyavagga",
+        "analyzed": "kosiya vagga ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:31.1",
+        "original": "Kosiyamissakaṁ santhataṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "kosiya missakam santhatam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:31.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:31.3",
+        "original": "kārāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "kārāpite nissaggiyam pācittiya ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:32.1",
+        "original": "Suddhakāḷakānaṁ eḷakalomānaṁ santhataṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "suddha kāḷakānam eḷaka lomānam santhatam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:32.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:32.3",
+        "original": "kārāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "kārāpite nissaggiyam pācittiya ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:33.1",
+        "original": "Anādiyitvā tulaṁ odātānaṁ tulaṁ gocariyānaṁ navaṁ santhataṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "an ādiyitvā tulam odātānam tulam gocariyānam navam santhatam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:33.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:33.3",
+        "original": "kārāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "kārāpite nissaggiyam pācittiya ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:34.1",
+        "original": "Anuvassaṁ santhataṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "anuvassam santhatam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:34.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:34.3",
+        "original": "kārāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "kārāpite nissaggiyam pācittiya ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:35.1",
+        "original": "Anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṁ navaṁ nisīdanasanthataṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "an ādiyitvā purāṇa santhatassa sāmantā sugatavidatthim navam nisīdana santhatam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:35.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:35.3",
+        "original": "kārāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "kārāpite nissaggiyam pācittiya ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:36.1",
+        "original": "Eḷakalomāni paṭiggahetvā tiyojanaṁ atikkāmento dve āpattiyo āpajjati.",
+        "analyzed": "eḷaka lomāni paṭiggahetvā ti yojanam atikkāmentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:36.2",
+        "original": "Paṭhamaṁ pādaṁ tiyojanaṁ atikkāmeti, āpatti dukkaṭassa;",
+        "analyzed": "paṭhamam pādam ti yojanam atikkāmeti āpatti dukkaṭassa ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:36.3",
+        "original": "dutiyaṁ pādaṁ atikkāmeti, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "dutiyam pādam atikkāmeti nissaggiyam pācittiya ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:37.1",
+        "original": "Aññātikāya bhikkhuniyā eḷakalomāni dhovāpento dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyāḥ eḷaka lomāni dhovāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:37.2",
+        "original": "Dhovāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "dhovāpa iti payoge dukkaṭa ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:37.3",
+        "original": "dhovāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "dhovāpite nissaggiyam pācittiya ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:38.1",
+        "original": "Rūpiyaṁ paṭiggaṇhanto dve āpattiyo āpajjati.",
+        "analyzed": "rūpiyam paṭiggaṇhantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:38.2",
+        "original": "Gaṇhāti, payoge dukkaṭaṁ;",
+        "analyzed": "gaṇhāti payoge dukkaṭa ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:38.3",
+        "original": "gahite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "gahite nissaggiyam pācittiya ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:39.1",
+        "original": "Nānappakārakaṁ rūpiyasaṁvohāraṁ samāpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "nānā pakārakam rūpiya savohāram samāpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:39.2",
+        "original": "Samāpajjati, payoge dukkaṭaṁ;",
+        "analyzed": "samāpajjati payoge dukkaṭa ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:39.3",
+        "original": "samāpanne nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "samāpanne nissaggiyam pācittiya ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:40.1",
+        "original": "Nānappakārakaṁ kayavikkayaṁ samāpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "nānappakārakam kaya vikkayam samāpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:40.2",
+        "original": "Samāpajjati, payoge dukkaṭaṁ;",
+        "analyzed": "samāpajjati payoge dukkaṭa ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:40.3",
+        "original": "samāpanne nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "samāpanne nissaggiyam pācittiya ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:41.1",
+        "original": "Kosiyavaggo dutiyo.",
+        "analyzed": "kosiya vaggo dutiyaḥ ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:42.0",
+        "original": "4.3. Pattavagga",
+        "analyzed": "patta vagga ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:42.1",
+        "original": "Atirekapattaṁ dasāhaṁ atikkāmento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "atireka pattam dasa aham atikkāmentaḥ ekam āpattim āpajjati ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:42.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:43.1",
+        "original": "Ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpento dve āpattiyo āpajjati.",
+        "analyzed": "ūna pañca bandhanena pattena aññam navam pattam cetāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:43.2",
+        "original": "Cetāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "payoge dukkaṭa ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:43.3",
+        "original": "cetāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "cetāpite nissaggiyam pācittiya ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:44.1",
+        "original": "Bhesajjāni paṭiggahetvā sattāhaṁ atikkāmento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "bhesajjāni paṭiggahetvā sattāham atikkāmentaḥ ekam āpattim āpajjati ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:44.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:45.1",
+        "original": "Atirekamāse sese gimhāne vassikasāṭikacīvaraṁ pariyesanto dve āpattiyo āpajjati.",
+        "analyzed": "atireka māse sese gimhāne vassika sāṭika cīvaram pariyesantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:45.2",
+        "original": "Pariyesati, payoge dukkaṭaṁ;",
+        "analyzed": "pariyesati payoge dukkaṭa ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:45.3",
+        "original": "pariyiṭṭhe nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "pariyiṭṭhe nissaggiyam pācittiya ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:46.1",
+        "original": "Bhikkhussa sāmaṁ cīvaraṁ datvā kupito anattamano acchindanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa sāmam cīvaram da tvā kupitaḥ anattamanaḥ a chindantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:46.2",
+        "original": "Acchindati, payoge dukkaṭaṁ;",
+        "analyzed": "a chindati payoge dukkaṭa ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:46.3",
+        "original": "acchinne nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "a chinne nissaggiyam pācittiya ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:47.1",
+        "original": "Sāmaṁ suttaṁ viññāpetvā tantavāyehi cīvaraṁ vāyāpento dve āpattiyo āpajjati.",
+        "analyzed": "sāmam suttam viññāpetvā tantavāyehi cīvaram vāyāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:47.2",
+        "original": "Vāyāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "payoge dukkaṭa ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:47.3",
+        "original": "vāyāpite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "vā āyāpite nissaggiyam pācittiya ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:48.1",
+        "original": "Pubbe appavārito aññātakassa gahapatikassa tantavāye upasaṅkamitvā cīvare vikappaṁ āpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "pubbe a pavāritaḥ aññātakassa gahapatikassa tantavāye upasaṅkamitvā cīvare vikappam āpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:48.2",
+        "original": "Vikappaṁ āpajjati, payoge dukkaṭaṁ;",
+        "analyzed": "vikappam āpajjati payoge dukkaṭa ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:48.3",
+        "original": "vikappaṁ āpanne nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "vikappam āpanne nissaggiyam pācittiya ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:49.1",
+        "original": "Accekacīvaraṁ paṭiggahetvā cīvarakālasamayaṁ atikkāmento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "acceka cīvaram paṭiggahetvā cīvara kāla samayam atikkāmentaḥ ekam āpattim āpajjati ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:49.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:50.1",
+        "original": "Tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antaraghare nikkhipitvā atirekachārattaṁ vippavasanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "tiṇṇam cīvarānam aññataram cīvaram antaraghare nikkhipitvā atireka chārattam vippavasantaḥ ekam āpattim āpajjati ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:50.2",
+        "original": "Nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "nissaggiyam pācittiya ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:51.1",
+        "original": "Jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmento dve āpattiyo āpajjati.",
+        "analyzed": "jānam saṅghikam lābham pariṇatam attanaḥ pariṇāmentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:51.2",
+        "original": "Pariṇāmeti, payoge dukkaṭaṁ;",
+        "analyzed": "pariṇāma iti payoge dukkaṭa ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:51.3",
+        "original": "pariṇāmite nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "pariṇāmite nissaggiyam pācittiya ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:52.1",
+        "original": "Pattavaggo tatiyo.",
+        "analyzed": "patta vaggaḥ tatiyaḥ ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:52.2",
+        "original": "Tiṁsa nissaggiyā pācittiyā niṭṭhitā.",
+        "analyzed": "tisa nissaggiyā pācittiyā niṭṭhitā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.0.1",
+        "original": "5. Pācittiyakaṇḍa",
+        "analyzed": "pācittiyakaṇḍa ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.0.2",
+        "original": "5.1. Musāvādavagga",
+        "analyzed": "musā vāda vagga ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.1",
+        "original": "Sampajānamusāvādaṁ bhāsanto kati āpattiyo āpajjati?",
+        "analyzed": "sampajāna musāvādam bhāsantaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.2",
+        "original": "Sampajānamusāvādaṁ bhāsanto pañca āpattiyo āpajjati.",
+        "analyzed": "sampajāna musāvādam bhāsantaḥ pañca āpattiyaḥ āpajjati ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.3",
+        "original": "Pāpiccho icchāpakato asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapati, āpatti pārājikassa;",
+        "analyzed": "pāpicchaḥ icchā apakataḥ asantam abhūtam uttari manussa dhammam ullapati āpatti pārājikassa ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.4",
+        "original": "bhikkhuṁ amūlakena pārājikena dhammena anuddhaṁseti, āpatti saṅghādisesassa;",
+        "analyzed": "bhikkhum amūlakena pārājikena dhammena anuddhaseti āpatti saṅgha ādisesassa ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.5",
+        "original": "“yo te vihāre vasati, so bhikkhu arahā”ti bhaṇati, paṭivijānantassa āpatti thullaccayassa;",
+        "analyzed": "yaḥ te vihāre vasati saḥ bhikkhu arahāti bhaṇati paṭivijānantassa āpatti thullaccayassa ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.6",
+        "original": "na paṭivijānantassa āpatti dukkaṭassa;",
+        "analyzed": "na paṭivijānantassa āpatti dukkaṭassa ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.7",
+        "original": "sampajānamusāvāde pācittiyaṁ—",
+        "analyzed": "sampajāna musāvāde pācittiya ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:53.8",
+        "original": "sampajānamusāvādaṁ bhāsanto imā pañca āpattiyo āpajjati.",
+        "analyzed": "sampajāna musāvādam bhāsantaḥ imāḥ pañca āpattiyaḥ āpajjati ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:54.1",
+        "original": "Omasanto dve āpattiyo āpajjati.",
+        "analyzed": "omasantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:54.2",
+        "original": "Upasampannaṁ omasati, āpatti pācittiyassa;",
+        "analyzed": "upasampannam āpatti pācittiyassa ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:54.3",
+        "original": "anupasampannaṁ omasati, āpatti dukkaṭassa.",
+        "analyzed": "an upasampannam omasati āpatti dukkaṭassa ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:55.1",
+        "original": "Pesuññaṁ upasaṁharanto dve āpattiyo āpajjati.",
+        "analyzed": "pesuññam upasaharantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:55.2",
+        "original": "Upasampannassa pesuññaṁ upasaṁharati, āpatti pācittiyassa;",
+        "analyzed": "upasampannassa pesuññam upasaharati āpatti pācittiyassa ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:55.3",
+        "original": "anupasampannassa pesuññaṁ upasaṁharati, āpatti dukkaṭassa.",
+        "analyzed": "an upasampannassa pesuññam upasaharati āpatti dukkaṭassa ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:56.1",
+        "original": "Anupasampannaṁ padaso dhammaṁ vācento dve āpattiyo āpajjati.",
+        "analyzed": "an upasampannam padasaḥ dhammam vācentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:56.2",
+        "original": "Vāceti, payoge dukkaṭaṁ;",
+        "analyzed": "vācā iti payoge dukkaṭa ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:56.3",
+        "original": "pade pade āpatti pācittiyassa.",
+        "analyzed": "pade pade āpatti pācittiyassa ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:57.1",
+        "original": "Anupasampannena uttaridirattatirattaṁ sahaseyyaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "an upasampannena uttari diratta tirattam sahaseyyam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:57.2",
+        "original": "Nipajjati, payoge dukkaṭaṁ;",
+        "analyzed": "nipajjati payoge dukkaṭa ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:57.3",
+        "original": "nipanne āpatti pācittiyassa.",
+        "analyzed": "nipanne āpatti pācittiyassa ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:58.1",
+        "original": "Mātugāmena sahaseyyaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "mātugāmena sahaseyyam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:58.2",
+        "original": "Nipajjati, payoge dukkaṭaṁ;",
+        "analyzed": "nipajjati payoge dukkaṭa ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:58.3",
+        "original": "nipanne āpatti pācittiyassa.",
+        "analyzed": "nipanne āpatti pācittiyassa ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:59.1",
+        "original": "Mātugāmassa uttarichappañcavācāhi dhammaṁ desento dve āpattiyo āpajjati.",
+        "analyzed": "mātugāmassa dhammaṃ desentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:59.2",
+        "original": "Deseti, payoge dukkaṭaṁ;",
+        "analyzed": "dese ti payoge dukkaṭa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:59.3",
+        "original": "pade pade āpatti pācittiyassa.",
+        "analyzed": "pade pade āpatti pācittiyassa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:60.1",
+        "original": "Anupasampannassa uttarimanussadhammaṁ bhūtaṁ ārocento dve āpattiyo āpajjati.",
+        "analyzed": "an upasampannassa uttari manussa dhammam bhūtam ārocentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:60.2",
+        "original": "Āroceti, payoge dukkaṭaṁ;",
+        "analyzed": "āroca iti payoge dukkaṭa ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:60.3",
+        "original": "ārocite āpatti pācittiyassa.",
+        "analyzed": "ārocite āpatti pācittiyassa ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:61.1",
+        "original": "Bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa duṭṭhullam āpattim anupasampannassa ārocentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:61.2",
+        "original": "Āroceti, payoge dukkaṭaṁ;",
+        "analyzed": "āroca iti payoge dukkaṭa ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:61.3",
+        "original": "ārocite āpatti pācittiyassa.",
+        "analyzed": "ārocite āpatti pācittiyassa ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:62.1",
+        "original": "Pathaviṁ khaṇanto dve āpattiyo āpajjati.",
+        "analyzed": "pathavim khaṇantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:62.2",
+        "original": "Khaṇati, payoge dukkaṭaṁ;",
+        "analyzed": "khaṇati payoge dukkaṭa ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:62.3",
+        "original": "pahāre pahāre āpatti pācittiyassa.",
+        "analyzed": "pahāre pahāre āpatti pācittiyassa ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:63.1",
+        "original": "Musāvādavaggo paṭhamo.",
+        "analyzed": "musāvāda vaggaḥ paṭhamaḥ ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:64.0",
+        "original": "5.2. Bhūtagāmavagga",
+        "analyzed": "bhūta gāma vagga ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:64.1",
+        "original": "Bhūtagāmaṁ pātento dve āpattiyo āpajjati.",
+        "analyzed": "bhūtagāmam pātentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:64.2",
+        "original": "Pāteti, payoge dukkaṭaṁ;",
+        "analyzed": "pāta iti payoge dukkaṭa ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:64.3",
+        "original": "pahāre pahāre āpatti pācittiyassa.",
+        "analyzed": "pahāre pahāre āpatti pācittiyassa ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:65.1",
+        "original": "Aññenaññaṁ paṭicaranto dve āpattiyo āpajjati.",
+        "analyzed": "aññena aññam paṭicarantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:65.2",
+        "original": "Anāropite aññavādake aññenaññaṁ paṭicarati, āpatti dukkaṭassa;",
+        "analyzed": "an āropite añña vādake aññena aññam paṭicarati āpatti dukkaṭassa ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:65.3",
+        "original": "āropite aññavādake aññenaññaṁ paṭicarati, āpatti pācittiyassa.",
+        "analyzed": "āropite añña vādake aññena aññam paṭicarati āpatti pācittiyassa ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:66.1",
+        "original": "Bhikkhuṁ ujjhāpento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhum ujjhāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:66.2",
+        "original": "Ujjhāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "payoge dukkaṭa ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:66.3",
+        "original": "ujjhāpite āpatti pācittiyassa.",
+        "analyzed": "ujjhāpite āpatti pācittiyassa ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:67.1",
+        "original": "Saṅghikaṁ mañcaṁ vā pīṭhaṁ vā bhisiṁ vā kocchaṁ vā ajjhokāse santharitvā anuddharitvā anāpucchā pakkamanto dve āpattiyo āpajjati.",
+        "analyzed": "saṅghikam mañcam vā pīṭham vā bhisim vā koccham vā ajjhokāse santharitvā an uddharitvā an āpucchā pakkamantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:67.2",
+        "original": "Paṭhamaṁ pādaṁ leḍḍupātaṁ atikkāmeti, āpatti dukkaṭassa;",
+        "analyzed": "paṭhamam pādam leḍḍupātam atikkāmeti āpatti dukkaṭassa ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:67.3",
+        "original": "dutiyaṁ pādaṁ atikkāmeti, āpatti pācittiyassa.",
+        "analyzed": "dutiyam pādam atikkāmeti āpatti pācittiyassa ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:68.1",
+        "original": "Saṅghike vihāre seyyaṁ santharitvā anuddharitvā anāpucchā pakkamanto dve āpattiyo āpajjati.",
+        "analyzed": "saṅghike vihāre seyyam santharitvā an uddharitvā an āpucchā pakkamantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:68.2",
+        "original": "Paṭhamaṁ pādaṁ parikkhepaṁ atikkāmeti, āpatti dukkaṭassa;",
+        "analyzed": "paṭhamam pādam parikkhepam atikkāmeti āpatti dukkaṭassa ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:68.3",
+        "original": "dutiyaṁ pādaṁ atikkāmeti, āpatti pācittiyassa.",
+        "analyzed": "dutiyam pādam atikkāmeti āpatti pācittiyassa ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:69.1",
+        "original": "Saṅghike vihāre jānaṁ pubbupagataṁ bhikkhuṁ anupakhajja seyyaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "saṅghike vihāre jānam pubbupagatam bhikkhum an upakhajja seyyam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:69.2",
+        "original": "Nipajjati, payoge dukkaṭaṁ;",
+        "analyzed": "nipajjati payoge dukkaṭa ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:69.3",
+        "original": "nipanne āpatti pācittiyassa.",
+        "analyzed": "nipanne āpatti pācittiyassa ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:70.1",
+        "original": "Bhikkhuṁ kupito anattamano saṅghikā vihārā nikkaḍḍhento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhum kupitaḥ anatta manaḥ saṅghikāḥ vihārāḥ nikkaḍḍhentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:70.2",
+        "original": "Nikkaḍḍhati, payoge dukkaṭaṁ;",
+        "analyzed": "nikkaḍḍhati payoge dukkaṭa ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:70.3",
+        "original": "nikkaḍḍhite āpatti pācittiyassa.",
+        "analyzed": "nikkaḍḍhite āpatti pācittiyassa ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:71.1",
+        "original": "Saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdanto dve āpattiyo āpajjati.",
+        "analyzed": "saṅghike vihāre upari vehāsa kuṭiyā āhacca pādakam mañcam vā pīṭham vā abhinisīdantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:71.2",
+        "original": "Abhinisīdati, payoge dukkaṭaṁ;",
+        "analyzed": "abhinisīdati payoge dukkaṭa ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:71.3",
+        "original": "abhinisinne āpatti pācittiyassa.",
+        "analyzed": "abhinisinne āpatti pācittiyassa ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:72.1",
+        "original": "Dvattipariyāye adhiṭṭhahitvā tatuttari adhiṭṭhahanto dve āpattiyo āpajjati.",
+        "analyzed": "adhiṭṭhahitvā tat uttari adhiṭṭhahantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:72.2",
+        "original": "Adhiṭṭheti, payoge dukkaṭaṁ;",
+        "analyzed": "adhiṭṭheti payoge dukkaṭa ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:72.3",
+        "original": "adhiṭṭhite āpatti pācittiyassa.",
+        "analyzed": "adhiṭṭhite āpatti pācittiyassa ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:73.1",
+        "original": "Jānaṁ sappāṇakaṁ udakaṁ tiṇaṁ vā mattikaṁ vā siñcanto dve āpattiyo āpajjati.",
+        "analyzed": "jānam sappāṇakam udakam tiṇam vā mattikam vā siñcantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:73.2",
+        "original": "Siñcati, payoge dukkaṭaṁ;",
+        "analyzed": "siñcati payoge dukkaṭa ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:73.3",
+        "original": "siñcite āpatti pācittiyassa.",
+        "analyzed": "siñcite āpatti pācittiyassa ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:74.1",
+        "original": "Bhūtagāmavaggo dutiyo.",
+        "analyzed": "bhūtagāma vaggaḥ dutiyaḥ ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:75.0",
+        "original": "5.3. Ovādavagga",
+        "analyzed": "o vāda vagga ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:75.1",
+        "original": "Asammato bhikkhuniyo ovadanto dve āpattiyo āpajjati.",
+        "analyzed": "asammataḥ bhikkhuniyo ovadantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:75.2",
+        "original": "Ovadati, payoge dukkaṭaṁ;",
+        "analyzed": "ovadati payoge dukkaṭa ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:75.3",
+        "original": "ovadite āpatti pācittiyassa.",
+        "analyzed": "ovadite āpatti pācittiyassa ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:76.1",
+        "original": "Atthaṅgate sūriye bhikkhuniyo ovadanto dve āpattiyo āpajjati.",
+        "analyzed": "atthaṅgate sūriye bhikkhuniyaḥ ovadantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:76.2",
+        "original": "Ovadati, payoge dukkaṭaṁ;",
+        "analyzed": "ovadati payoge dukkaṭa ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:76.3",
+        "original": "ovadite āpatti pācittiyassa.",
+        "analyzed": "ovadite āpatti pācittiyassa ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:77.1",
+        "original": "Bhikkhunupassayaṁ upasaṅkamitvā bhikkhuniyo ovadanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhun upassayam upasaṅkamitvā bhikkhuniyaḥ ovadantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:77.2",
+        "original": "Ovadati, payoge dukkaṭaṁ;",
+        "analyzed": "ovadati payoge dukkaṭa ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:77.3",
+        "original": "ovadite āpatti pācittiyassa.",
+        "analyzed": "ovadite āpatti pācittiyassa ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:78.1",
+        "original": "“Āmisahetu bhikkhū bhikkhuniyo ovadantī”ti bhaṇanto dve āpattiyo āpajjati.",
+        "analyzed": "āmisa hetu bhikkhū bhikkhuniyaḥ ovadanti iti bhaṇantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:78.2",
+        "original": "Bhaṇati, payoge dukkaṭaṁ;",
+        "analyzed": "bhaṇati payoge dukkaṭa ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:78.3",
+        "original": "bhaṇite āpatti pācittiyassa.",
+        "analyzed": "bhaṇite āpatti pācittiyassa ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:79.1",
+        "original": "Aññātikāya bhikkhuniyā cīvaraṁ dento dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyā cīvaram dentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:79.2",
+        "original": "Deti, payoge dukkaṭaṁ;",
+        "analyzed": "deti payoge dukkaṭa ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:79.3",
+        "original": "dinne āpatti pācittiyassa.",
+        "analyzed": "dinne āpatti pācittiyassa ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:80.1",
+        "original": "Aññātikāya bhikkhuniyā cīvaraṁ sibbento dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyā cīvaram sibbentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:80.2",
+        "original": "Sibbeti, payoge dukkaṭaṁ;",
+        "analyzed": "sibba iti payoge dukkaṭa ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:80.3",
+        "original": "ārāpathe ārāpathe āpatti pācittiyassa.",
+        "analyzed": "ārāpathe ārāpathe āpatti pācittiyassa ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:81.1",
+        "original": "Bhikkhuniyā saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhuniyā saddhim savidhāya ekaddhāna maggam paṭipajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:81.2",
+        "original": "Paṭipajjati, payoge dukkaṭaṁ;",
+        "analyzed": "paṭipajjati payoge dukkaṭa ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:81.3",
+        "original": "paṭipanne āpatti pācittiyassa.",
+        "analyzed": "paṭipanne āpatti pācittiyassa ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:82.1",
+        "original": "Bhikkhuniyā saddhiṁ saṁvidhāya ekaṁ nāvaṁ abhiruhanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhuniyā saddhim savidhāya ekam nāvam abhiruhantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:82.2",
+        "original": "Abhiruhati, payoge dukkaṭaṁ;",
+        "analyzed": "abhiruhati payoge dukkaṭa ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:82.3",
+        "original": "abhiruḷhe āpatti pācittiyassa.",
+        "analyzed": "abhiruḷhe āpatti pācittiyassa ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:83.1",
+        "original": "Jānaṁ bhikkhuniparipācitaṁ piṇḍapātaṁ bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "jānam bhikkhuni paripācitam piṇḍapātam bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:83.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:83.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:84.1",
+        "original": "Bhikkhuniyā saddhiṁ eko ekāya raho nisajjaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhuniyā saddhim ekaḥ ekāya rahaḥ nisajjam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:84.2",
+        "original": "Nisīdati, payoge dukkaṭaṁ;",
+        "analyzed": "nisīdati payoge dukkaṭa ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:84.3",
+        "original": "nisinne āpatti pācittiyassa.",
+        "analyzed": "nisinne āpatti pācittiyassa ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:85.1",
+        "original": "Ovādavaggo tatiyo.",
+        "analyzed": "ovāda vaggo tatiyo ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:86.0",
+        "original": "5.4. Bhojanavagga",
+        "analyzed": "bhojana vagga ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:86.1",
+        "original": "Tatuttari āvasathapiṇḍaṁ bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "tat uttari āvasatha piṇḍam bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:86.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:86.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:87.1",
+        "original": "Gaṇabhojanaṁ bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "gaṇa bhojanam bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:87.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:87.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:88.1",
+        "original": "Paramparabhojanaṁ bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "parampara bhojanam bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:88.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:88.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:89.1",
+        "original": "Dvattipattapūre pūve paṭiggahetvā tatuttari paṭiggaṇhanto dve āpattiyo āpajjati.",
+        "analyzed": "dvatti patta pūre pūve paṭiggahetvā tat uttari paṭiggaṇhantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:89.2",
+        "original": "Gaṇhāti, payoge dukkaṭaṁ;",
+        "analyzed": "gaṇhāti payoge dukkaṭa ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:89.3",
+        "original": "gahite āpatti pācittiyassa.",
+        "analyzed": "gahite āpatti pācittiyassa ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:90.1",
+        "original": "Bhuttāvī pavārito anatirittaṁ khādanīyaṁ vā bhojanīyaṁ vā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "bhuttāvī pavāritaḥ anatirittam khādanīyam vā bhojanīyam vā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:90.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:90.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:91.1",
+        "original": "Bhikkhuṁ bhuttāviṁ pavāritaṁ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṁ pavārento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhum bhuttāvim pavāritam an atirittena khādanīyena vā bhojanīyena vā abhihaṭṭhum pavārentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:91.2",
+        "original": "Tassa vacanena “khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "tassa vacanena khādissāmi bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:91.3",
+        "original": "bhojanapariyosāne āpatti pācittiyassa.",
+        "analyzed": "bhojana pariyosāne āpatti pācittiyassa ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:92.1",
+        "original": "Vikāle khādanīyaṁ vā bhojanīyaṁ vā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "vikāle khādanīyam vā bhojanīyam vā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:92.2",
+        "original": "“Khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "khādissāmi bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:92.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:93.1",
+        "original": "Sannidhikārakaṁ khādanīyaṁ vā bhojanīyaṁ vā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "sannidhi kārakam khādanīyam vā bhojanīyam vā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:93.2",
+        "original": "“Khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "khādissāmi bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:93.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:94.1",
+        "original": "Paṇītabhojanāni attano atthāya viññāpetvā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "paṇīta bhojanāni attanaḥ atthāya viññāpetvā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:94.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:94.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:95.1",
+        "original": "Adinnaṁ mukhadvāraṁ āhāraṁ āharanto dve āpattiyo āpajjati.",
+        "analyzed": "adinnam mukha dvāram āhāram āharantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:95.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:95.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:96.1",
+        "original": "Bhojanavaggo catuttho.",
+        "analyzed": "bhojana vaggo catutthaḥ ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:97.0",
+        "original": "5.5. Acelakavagga",
+        "analyzed": "a celaka vagga ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:97.1",
+        "original": "Acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dento dve āpattiyo āpajjati.",
+        "analyzed": "acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyam vā bhojanīyam vā dentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:97.2",
+        "original": "Deti, payoge dukkaṭaṁ;",
+        "analyzed": "deti payoge dukkaṭa ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:97.3",
+        "original": "dinne āpatti pācittiyassa.",
+        "analyzed": "dinne āpatti pācittiyassa ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:98.1",
+        "original": "Bhikkhuṁ—“ehāvuso, gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā”ti tassa dāpetvā vā adāpetvā vā uyyojento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhuehi āvuso gāmam vā nigamam vā piṇḍāya pavisissāma ati tassa dāpetvā vā a dāpetvā vā uyyojentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:98.2",
+        "original": "Uyyojeti, payoge dukkaṭaṁ;",
+        "analyzed": "uyyoja iti payoge dukkaṭa ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:98.3",
+        "original": "uyyojite āpatti pācittiyassa.",
+        "analyzed": "uyyojite āpatti pācittiyassa ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:99.1",
+        "original": "Sabhojane kule anupakhajja nisajjaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "sa bhojane kule an upakhajja nisajjam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:99.2",
+        "original": "Nisīdati, payoge dukkaṭaṁ;",
+        "analyzed": "nisīdati payoge dukkaṭa ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:99.3",
+        "original": "nisinne āpatti pācittiyassa.",
+        "analyzed": "nisinne āpatti pācittiyassa ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:100.1",
+        "original": "Mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "mātugāmena saddhim raho paṭicchanne āsane nisajjam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:100.2",
+        "original": "Nisīdati, payoge dukkaṭaṁ;",
+        "analyzed": "nisīdati payoge dukkaṭa ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:100.3",
+        "original": "nisinne āpatti pācittiyassa.",
+        "analyzed": "nisinne āpatti pācittiyassa ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:101.1",
+        "original": "Mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappento dve āpattiyo āpajjati.",
+        "analyzed": "mātugāmena saddhim ekaḥ ekāya rahaḥ nisajjam kappentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:101.2",
+        "original": "Nisīdati, payoge dukkaṭaṁ;",
+        "analyzed": "nisīdati payoge dukkaṭa ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:101.3",
+        "original": "nisinne āpatti pācittiyassa.",
+        "analyzed": "nisinne āpatti pācittiyassa ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:102.1",
+        "original": "Nimantito sabhatto samāno purebhattaṁ pacchābhattaṁ kulesu cārittaṁ āpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "nimantito sabhattaḥ samāno purebhattam pacchābhattam kulesu cārittam āpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:102.2",
+        "original": "Paṭhamaṁ pādaṁ ummāraṁ atikkāmeti, āpatti dukkaṭassa;",
+        "analyzed": "paṭhamam pādam ummāram atikkāmeti āpatti dukkaṭassa ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:102.3",
+        "original": "dutiyaṁ pādaṁ atikkāmeti, āpatti pācittiyassa.",
+        "analyzed": "dutiyam pādam atikkāmeti āpatti pācittiyassa ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:103.1",
+        "original": "Tatuttari bhesajjaṁ viññāpento dve āpattiyo āpajjati.",
+        "analyzed": "tat uttari bhesajjam viññāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:103.2",
+        "original": "Viññāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "viññāpeti payoge dukkaṭa ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:103.3",
+        "original": "viññāpite āpatti pācittiyassa.",
+        "analyzed": "viññāpite āpatti pācittiyassa ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:104.1",
+        "original": "Uyyuttaṁ senaṁ dassanāya gacchanto dve āpattiyo āpajjati.",
+        "analyzed": "uyyuttam senam dassanāya gacchantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:104.2",
+        "original": "Gacchati, āpatti dukkaṭassa;",
+        "analyzed": "gacchati āpatti dukkaṭassa ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:104.3",
+        "original": "yattha ṭhito passati, āpatti pācittiyassa.",
+        "analyzed": "yattha ṭhito passati āpatti pācittiyassa ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:105.1",
+        "original": "Atirekatirattaṁ senāya vasanto dve āpattiyo āpajjati.",
+        "analyzed": "atireka tirattam senāya vasantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:105.2",
+        "original": "Vasati, payoge dukkaṭaṁ;",
+        "analyzed": "vasati payoge dukkaṭa ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:105.3",
+        "original": "vasite āpatti pācittiyassa.",
+        "analyzed": "vasite āpatti pācittiyassa ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:106.1",
+        "original": "Uyyodhikaṁ gacchanto dve āpattiyo āpajjati.",
+        "analyzed": "uyyodhikam gacchantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:106.2",
+        "original": "Gacchati, āpatti dukkaṭassa;",
+        "analyzed": "gacchati āpatti dukkaṭassa ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:106.3",
+        "original": "yattha ṭhito passati, āpatti pācittiyassa.",
+        "analyzed": "yattha ṭhito passati āpatti pācittiyassa ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:107.1",
+        "original": "Acelakavaggo pañcamo.",
+        "analyzed": "acelaka vaggaḥ pañcamaḥ ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:108.0",
+        "original": "5.6. Surāmerayavagga",
+        "analyzed": "surā meraya vagga ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:108.1",
+        "original": "Majjaṁ pivanto dve āpattiyo āpajjati.",
+        "analyzed": "majjam pivantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:108.2",
+        "original": "“Pivissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "pivissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:108.3",
+        "original": "ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:109.1",
+        "original": "Bhikkhuṁ aṅgulipatodakena hāsento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhum aṅguli patodakena hāsentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:109.2",
+        "original": "Hāseti, payoge dukkaṭaṁ;",
+        "analyzed": "hāsa iti payoge dukkaṭa ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:109.3",
+        "original": "hasite āpatti pācittiyassa.",
+        "analyzed": "hasite āpatti pācittiyassa ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:110.1",
+        "original": "Udake kīḷanto dve āpattiyo āpajjati.",
+        "analyzed": "udake kīḍantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:110.2",
+        "original": "Heṭṭhāgopphake udake kīḷati, āpatti dukkaṭassa;",
+        "analyzed": "heṭṭhā gopphake udake kīḷati āpatti dukkaṭassa ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:110.3",
+        "original": "uparigopphake kīḷati, āpatti pācittiyassa.",
+        "analyzed": "uparigopphake kīḷati āpatti pācittiyassa ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:111.1",
+        "original": "Anādariyaṁ karonto dve āpattiyo āpajjati.",
+        "analyzed": "anādariyam karontaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:111.2",
+        "original": "Karoti, payoge dukkaṭaṁ;",
+        "analyzed": "karoti payoge dukkaṭa ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:111.3",
+        "original": "kate āpatti pācittiyassa.",
+        "analyzed": "kate āpatti pācittiyassa ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:112.1",
+        "original": "Bhikkhuṁ bhiṁsāpento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhum bhisāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:112.2",
+        "original": "Bhiṁsāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "payoge dukkaṭa ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:112.3",
+        "original": "bhiṁsāpite āpatti pācittiyassa.",
+        "analyzed": "bhisāpite āpatti pācittiyassa ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:113.1",
+        "original": "Jotiṁ samādahitvā visibbento dve āpattiyo āpajjati.",
+        "analyzed": "jotim samādahitvā visibbentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:113.2",
+        "original": "Samādahati, payoge dukkaṭaṁ;",
+        "analyzed": "samādahati payoge dukkaṭa ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:113.3",
+        "original": "samādahite āpatti pācittiyassa.",
+        "analyzed": "samādahite āpatti pācittiyassa ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:114.1",
+        "original": "Orenaddhamāsaṁ nahāyanto dve āpattiyo āpajjati.",
+        "analyzed": "orenaddha māsam nahāyantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:114.2",
+        "original": "Nahāyati, payoge dukkaṭaṁ;",
+        "analyzed": "nahāyati payoge dukkaṭa ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:114.3",
+        "original": "nahānapariyosāne āpatti pācittiyassa.",
+        "analyzed": "nahāna pariyosāne āpatti pācittiyassa ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:115.1",
+        "original": "Anādiyitvā tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "an ādiyitvā tiṇṇam dubbaṇṇa karaṇānam aññataram dubbaṇṇa karaṇam navam cīvaram paribhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:115.2",
+        "original": "Paribhuñjati, payoge dukkaṭaṁ;",
+        "analyzed": "paribhuñjati payoge dukkaṭa ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:115.3",
+        "original": "paribhutte āpatti pācittiyassa.",
+        "analyzed": "paribhutte āpatti pācittiyassa ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:116.1",
+        "original": "Bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmam cīvaram vikappetvā appaccuddhāraṇam paribhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "116"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:116.2",
+        "original": "Paribhuñjati, payoge dukkaṭaṁ;",
+        "analyzed": "paribhuñjati payoge dukkaṭa ",
+        "folio": "116"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:116.3",
+        "original": "paribhutte āpatti pācittiyassa.",
+        "analyzed": "paribhutte āpatti pācittiyassa ",
+        "folio": "116"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:117.1",
+        "original": "Bhikkhussa pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidhento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa pattam vā cīvaram vā nisīdanam vā sūci gharam vā kāya bandhanam vā apanidhentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "117"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:117.2",
+        "original": "Apanidheti, payoge dukkaṭaṁ;",
+        "analyzed": "apanidheti payoge dukkaṭa ",
+        "folio": "117"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:117.3",
+        "original": "apanidhite āpatti pācittiyassa.",
+        "analyzed": "apanidhite āpatti pācittiyassa ",
+        "folio": "117"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:118.1",
+        "original": "Surāmerayavaggo chaṭṭho.",
+        "analyzed": "surā meraya vaggaḥ chaṭṭhaḥ ",
+        "folio": "118"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.0",
+        "original": "5.7. Sappāṇakavagga",
+        "analyzed": "sappāṇaka vagga ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.1",
+        "original": "Sañcicca pāṇaṁ jīvitā voropento kati āpattiyo āpajjati?",
+        "analyzed": "sañcit ca pāṇam jīvitā voropentaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.2",
+        "original": "Sañcicca pāṇaṁ jīvitā voropento catasso āpattiyo āpajjati.",
+        "analyzed": "sañcit ca pāṇam jīvitā voropento catassaḥ āpattiyaḥ āpajjati ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.3",
+        "original": "Anodissa opātaṁ khaṇati—“yo koci papatitvā marissatī”ti, āpatti dukkaṭassa;",
+        "analyzed": "an udissa opātam khaṇatiyaḥ koci papatitvā marissati iti āpatti dukkaṭassa ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.4",
+        "original": "manusso tasmiṁ papatitvā marati, āpatti pārājikassa;",
+        "analyzed": "manussaḥ tasmin papatitvā marati āpatti pārājikassa ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.5",
+        "original": "yakkho vā peto vā tiracchānagatamanussaviggaho vā tasmiṁ papatitvā marati, āpatti thullaccayassa;",
+        "analyzed": "yakkhaḥ vā petaḥ vā tiracchāna gata manussa viggahaḥ vā tasmin papatitvā marati āpatti thullaccayassa ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.6",
+        "original": "tiracchānagato tasmiṁ papatitvā marati, āpatti pācittiyassa—",
+        "analyzed": "tiracchāna gataḥ tasmin papatitvā marati āpatti pācittiyassa ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:119.7",
+        "original": "sañcicca pāṇaṁ jīvitā voropento imā catasso āpattiyo āpajjati.",
+        "analyzed": "sañcit ca pāṇam jīvitā voropentaḥ imāḥ catassaḥ āpattiyaḥ āpajjati ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:120.1",
+        "original": "Jānaṁ sappāṇakaṁ udakaṁ paribhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "jānam sappāṇakam udakam paribhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:120.2",
+        "original": "Paribhuñjati, payoge dukkaṭaṁ;",
+        "analyzed": "paribhuñjati payoge dukkaṭa ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:120.3",
+        "original": "paribhutte āpatti pācittiyassa.",
+        "analyzed": "paribhutte āpatti pācittiyassa ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:121.1",
+        "original": "Jānaṁ yathādhammaṁ nihatādhikaraṇaṁ punakammāya ukkoṭento dve āpattiyo āpajjati.",
+        "analyzed": "jānam yathādhammam nihata adhikaraṇam punakammāya ukkoṭentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "121"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:121.2",
+        "original": "Ukkoṭeti, payoge dukkaṭaṁ;",
+        "analyzed": "ukkoṭa iti payoge dukkaṭa ",
+        "folio": "121"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:121.3",
+        "original": "ukkoṭite āpatti pācittiyassa.",
+        "analyzed": "ukkoṭite āpatti pācittiyassa ",
+        "folio": "121"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:122.1",
+        "original": "Bhikkhussa jānaṁ duṭṭhullaṁ āpattiṁ paṭicchādento ekaṁ āpattiṁ āpajjati, pācittiyaṁ.",
+        "analyzed": "bhikkhussa jānam duṭṭhullam āpattim paṭicchādento ekam āpattim āpajjati pācittiya ",
+        "folio": "122"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:123.1",
+        "original": "Jānaṁ ūnavīsativassaṁ puggalaṁ upasampādento dve āpattiyo āpajjati.",
+        "analyzed": "jānam ūnavīsati vassam puggalam upasampādentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "123"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:123.2",
+        "original": "Upasampādeti, payoge dukkaṭaṁ;",
+        "analyzed": "upasampāda iti payoge dukkaṭa ",
+        "folio": "123"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:123.3",
+        "original": "upasampādite āpatti pācittiyassa.",
+        "analyzed": "upasampādite āpatti pācittiyassa ",
+        "folio": "123"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:124.1",
+        "original": "Jānaṁ theyyasatthena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjanto dve āpattiyo āpajjati.",
+        "analyzed": "jānam theyyasatthena saddhim savidhāya ekaddhāna maggam paṭipajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "124"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:124.2",
+        "original": "Paṭipajjati, payoge dukkaṭaṁ;",
+        "analyzed": "paṭipajjati payoge dukkaṭa ",
+        "folio": "124"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:124.3",
+        "original": "paṭipanne āpatti pācittiyassa.",
+        "analyzed": "paṭipanne āpatti pācittiyassa ",
+        "folio": "124"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:125.1",
+        "original": "Mātugāmena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjanto dve āpattiyo āpajjati.",
+        "analyzed": "mātugāmena saddhim savidhāya ekaddhāna maggam paṭipajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:125.2",
+        "original": "Paṭipajjati, payoge dukkaṭaṁ;",
+        "analyzed": "paṭipajjati payoge dukkaṭa ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:125.3",
+        "original": "paṭipanne āpatti pācittiyassa.",
+        "analyzed": "paṭipanne āpatti pācittiyassa ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:126.1",
+        "original": "Pāpikāya diṭṭhiyā yāvatatiyaṁ samanubhāsanāya na paṭinissajjanto dve āpattiyo āpajjati.",
+        "analyzed": "pāpikāya diṭṭhiyāḥ yāvatatiyam samanubhāsanāya na paṭinissajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "126"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:126.2",
+        "original": "Ñattiyā dukkaṭaṁ;",
+        "analyzed": "ñattiyā dukkaṭa ",
+        "folio": "126"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:126.3",
+        "original": "kammavācāpariyosāne āpatti pācittiyassa.",
+        "analyzed": "kamma vācā pariyosāne āpatti pācittiyassa ",
+        "folio": "126"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:127.1",
+        "original": "Jānaṁ tathāvādinā bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "jānam tathāvādinā bhikkhunā a kaṭa anudhammena tam diṭṭhim appaṭinissaṭṭhena saddhim sambhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "127"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:127.2",
+        "original": "Sambhuñjati, payoge dukkaṭaṁ;",
+        "analyzed": "sambhuñjati payoge dukkaṭa ",
+        "folio": "127"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:127.3",
+        "original": "sambhutte āpatti pācittiyassa.",
+        "analyzed": "sambhutte āpatti pācittiyassa ",
+        "folio": "127"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:128.1",
+        "original": "Jānaṁ tathānāsitaṁ samaṇuddesaṁ upalāpento dve āpattiyo āpajjati.",
+        "analyzed": "jānam tathā anāsitam samaṇuddesam upalāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "128"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:128.2",
+        "original": "Upalāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "upalāpa iti payoge dukkaṭa ",
+        "folio": "128"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:128.3",
+        "original": "upalāpite āpatti pācittiyassa.",
+        "analyzed": "upalāpite āpatti pācittiyassa ",
+        "folio": "128"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:129.1",
+        "original": "Sappāṇakavaggo sattamo.",
+        "analyzed": "sappāṇaka vaggaḥ sattamaḥ ",
+        "folio": "129"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:130.0",
+        "original": "5.8. Sahadhammikavagga",
+        "analyzed": "sahadhammika vagga ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:130.1",
+        "original": "Bhikkhūhi sahadhammikaṁ vuccamāno—“na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchissāmī”ti bhaṇanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhūhi sahadhammikam vuccamāno na tau āha āvuso etasmim sikkhāpade sikkhissāmi yāva na aññam bhikkhum byattam vinaya dharam paripucchissāmi iti bhaṇantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:130.2",
+        "original": "Bhaṇati, payoge dukkaṭaṁ;",
+        "analyzed": "bhaṇati payoge dukkaṭa ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:130.3",
+        "original": "bhaṇite āpatti pācittiyassa.",
+        "analyzed": "bhaṇite āpatti pācittiyassa ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:131.1",
+        "original": "Vinayaṁ vivaṇṇento dve āpattiyo āpajjati.",
+        "analyzed": "vinayam vivaṇṇentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "131"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:131.2",
+        "original": "Vivaṇṇeti, payoge dukkaṭaṁ;",
+        "analyzed": "vivaṇṇā iti payoge dukkaṭa ",
+        "folio": "131"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:131.3",
+        "original": "vivaṇṇite āpatti pācittiyassa.",
+        "analyzed": "vivaṇṇite āpatti pācittiyassa ",
+        "folio": "131"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:132.1",
+        "original": "Mohento dve āpattiyo āpajjati.",
+        "analyzed": "mohentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "132"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:132.2",
+        "original": "Anāropite mohe moheti, āpatti dukkaṭassa;",
+        "analyzed": "an āropite mohe moheti āpatti dukkaṭassa ",
+        "folio": "132"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:132.3",
+        "original": "āropite mohe moheti, āpatti pācittiyassa.",
+        "analyzed": "āropite mohe moheti āpatti pācittiyassa ",
+        "folio": "132"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:133.1",
+        "original": "Bhikkhussa kupito anattamano pahāraṁ dento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa kupitaḥ anatta manaḥ pahāram dentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "133"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:133.2",
+        "original": "Paharati, payoge dukkaṭaṁ;",
+        "analyzed": "paharati payoge dukkaṭa ",
+        "folio": "133"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:133.3",
+        "original": "pahate āpatti pācittiyassa.",
+        "analyzed": "pahate āpatti pācittiyassa ",
+        "folio": "133"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:134.1",
+        "original": "Bhikkhussa kupito anattamano talasattikaṁ uggiranto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa kupitaḥ anattamanaḥ talasattikam uggirantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:134.2",
+        "original": "Uggirati, payoge dukkaṭaṁ;",
+        "analyzed": "uggirati payoge dukkaṭa ",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:134.3",
+        "original": "uggirite āpatti pācittiyassa.",
+        "analyzed": "uggirite āpatti pācittiyassa ",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:135.1",
+        "original": "Bhikkhuṁ amūlakena saṅghādisesena anuddhaṁsento dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhum a mūlakena saṅgha ādisesena an uddhasentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "135"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:135.2",
+        "original": "Anuddhaṁseti, payoge dukkaṭaṁ;",
+        "analyzed": "anuddhasā iti payoge dukkaṭa ",
+        "folio": "135"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:135.3",
+        "original": "anuddhaṁsite āpatti pācittiyassa.",
+        "analyzed": "an uddhasite āpatti pācittiyassa ",
+        "folio": "135"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:136.1",
+        "original": "Bhikkhussa sañcicca kukkuccaṁ upadahanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhussa sañcicca kukkuccam upadahantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "136"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:136.2",
+        "original": "Upadahati, payoge dukkaṭaṁ;",
+        "analyzed": "upadahati payoge dukkaṭa ",
+        "folio": "136"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:136.3",
+        "original": "upadahite āpatti pācittiyassa.",
+        "analyzed": "upadahite āpatti pācittiyassa ",
+        "folio": "136"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:137.1",
+        "original": "Bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ upassutiṁ tiṭṭhanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhūnam bhaṇḍana jātānam kalaha jātānam vivāda āpannānam upassutim tiṭṭhantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:137.2",
+        "original": "“Sossāmī”ti gacchati, āpatti dukkaṭassa;",
+        "analyzed": "sossāmi iti gacchati āpatti dukkaṭassa ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:137.3",
+        "original": "yattha ṭhito suṇāti, āpatti pācittiyassa.",
+        "analyzed": "yattha ṭhitaḥ suṇāti āpatti pācittiyassa ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:138.1",
+        "original": "Dhammikānaṁ kammānaṁ chandaṁ datvā pacchā khīyanadhammaṁ āpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "dhammikānam kammānam chandam datvā pacchā khīyana dhammam āpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "138"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:138.2",
+        "original": "Khiyyati, payoge dukkaṭaṁ;",
+        "analyzed": "khiyyati payoge dukkaṭa ",
+        "folio": "138"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:138.3",
+        "original": "khiyyite āpatti pācittiyassa.",
+        "analyzed": "khiyyite āpatti pācittiyassa ",
+        "folio": "138"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:139.1",
+        "original": "Saṅghe vinicchayakathāya vattamānāya chandaṁ adatvā uṭṭhāyāsanā pakkamanto dve āpattiyo āpajjati.",
+        "analyzed": "saṅghe vinicchaya kathāya vattamānāya chandam a datvā uṭṭhāya āsanā pakkamantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "139"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:139.2",
+        "original": "Parisāya hatthapāsaṁ vijahantassa āpatti dukkaṭassa;",
+        "analyzed": "parisāya hattha pāsam vijahantassa āpatti dukkaṭassa ",
+        "folio": "139"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:139.3",
+        "original": "vijahite āpatti pācittiyassa.",
+        "analyzed": "vijahite āpatti pācittiyassa ",
+        "folio": "139"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:140.1",
+        "original": "Samaggena saṅghena cīvaraṁ datvā pacchā khīyanadhammaṁ āpajjanto dve āpattiyo āpajjati.",
+        "analyzed": "samaggena saṅghena cīvaram da tvā pacchā khīyana dhammam āpajjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:140.2",
+        "original": "Khiyyati, payoge dukkaṭaṁ;",
+        "analyzed": "khiyyati payoge dukkaṭa ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:140.3",
+        "original": "khiyyite āpatti pācittiyassa.",
+        "analyzed": "khiyyite āpatti pācittiyassa ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:141.1",
+        "original": "Jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ puggalassa pariṇāmento dve āpattiyo āpajjati.",
+        "analyzed": "jānam saṅghikam lābham pariṇatam puggalassa pariṇāmentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "141"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:141.2",
+        "original": "Pariṇāmeti, payoge dukkaṭaṁ;",
+        "analyzed": "pariṇāma iti payoge dukkaṭa ",
+        "folio": "141"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:141.3",
+        "original": "pariṇāmite āpatti pācittiyassa.",
+        "analyzed": "pariṇāmite āpatti pācittiyassa ",
+        "folio": "141"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:142.1",
+        "original": "Sahadhammikavaggo aṭṭhamo.",
+        "analyzed": "sahadhammika vaggaḥ aṭṭhamaḥ ",
+        "folio": "142"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:143.0",
+        "original": "5.9. Rājavagga",
+        "analyzed": "rāja vagga ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:143.1",
+        "original": "Pubbe appaṭisaṁvidito rañño antepuraṁ pavisanto dve āpattiyo āpajjati.",
+        "analyzed": "pubbe appaṭisaviditaḥ raññaḥ antepuram pavisantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:143.2",
+        "original": "Paṭhamaṁ pādaṁ ummāraṁ atikkāmeti, āpatti dukkaṭassa;",
+        "analyzed": "paṭhamam pādam ummāram atikkāmeti āpatti dukkaṭassa ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:143.3",
+        "original": "dutiyaṁ pādaṁ atikkāmeti, āpatti pācittiyassa.",
+        "analyzed": "dutiyam pādam atikkāmeti āpatti pācittiyassa ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:144.1",
+        "original": "Ratanaṁ uggaṇhanto dve āpattiyo āpajjati.",
+        "analyzed": "ratanam uggaṇhantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "144"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:144.2",
+        "original": "Gaṇhāti, payoge dukkaṭaṁ;",
+        "analyzed": "gaṇhāti payoge dukkaṭa ",
+        "folio": "144"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:144.3",
+        "original": "gahite āpatti pācittiyassa.",
+        "analyzed": "gahite āpatti pācittiyassa ",
+        "folio": "144"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:145.1",
+        "original": "Santaṁ bhikkhuṁ anāpucchā vikāle gāmaṁ pavisanto dve āpattiyo āpajjati.",
+        "analyzed": "santam bhikkhum anāpucchā vikāle gāmam pavisantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:145.2",
+        "original": "Paṭhamaṁ pādaṁ parikkhepaṁ atikkāmeti, āpatti dukkaṭassa;",
+        "analyzed": "paṭhamam pādam parikkhepam atikkāmeti āpatti dukkaṭassa ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:145.3",
+        "original": "dutiyaṁ pādaṁ atikkāmeti, āpatti pācittiyassa.",
+        "analyzed": "dutiyam pādam atikkāmeti āpatti pācittiyassa ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:146.1",
+        "original": "Aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "aṭṭhi mayam vā danta mayam vā visāṇa mayam vā sūci gharam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "146"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:146.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "146"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:146.3",
+        "original": "kārāpite āpatti pācittiyassa.",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "146"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:147.1",
+        "original": "Pamāṇātikkantaṁ mañcaṁ vā pīṭhaṁ vā kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "pamāṇa atikkantam mañcam vā pīṭham vā kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:147.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:147.3",
+        "original": "kārāpite āpatti pācittiyassa.",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:148.1",
+        "original": "Mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "mañcam vā pīṭham vā tūla ūnaddham kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "148"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:148.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "148"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:148.3",
+        "original": "kārāpite āpatti pācittiyassa.",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "148"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:149.1",
+        "original": "Pamāṇātikkantaṁ nisīdanaṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "pamāṇa atikkantam nisīdanam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "149"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:149.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "149"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:149.3",
+        "original": "kārāpite āpatti pācittiyassa.",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "149"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:150.1",
+        "original": "Pamāṇātikkantaṁ kaṇḍuppaṭicchādiṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "pamāṇa atikkantam kaṇḍu paṭicchādim kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "150"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:150.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "150"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:150.3",
+        "original": "kārāpite āpatti pācittiyassa.",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "150"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:151.1",
+        "original": "Pamāṇātikkantaṁ vassikasāṭikaṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "pamāṇa atikkantam vassika sāṭikam kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "151"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:151.2",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "151"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:151.3",
+        "original": "kārāpite āpatti pācittiyassa.",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "151"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:152.1",
+        "original": "Sugatacīvarappamāṇaṁ cīvaraṁ kārāpento kati āpattiyo āpajjati?",
+        "analyzed": "sugata cīvara ppamāṇam cīvaram kārāpento kati āpattiyaḥ āpajjati ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:152.2",
+        "original": "Sugatacīvarappamāṇaṁ cīvaraṁ kārāpento dve āpattiyo āpajjati.",
+        "analyzed": "sugata cīvara ppamāṇam cīvaram kārāpentaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:152.3",
+        "original": "Kārāpeti, payoge dukkaṭaṁ;",
+        "analyzed": "kārāpa iti payoge dukkaṭa ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:152.4",
+        "original": "kārāpite āpatti pācittiyassa—",
+        "analyzed": "kārāpite āpatti pācittiyassa ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:152.5",
+        "original": "sugatacīvarappamāṇaṁ cīvaraṁ kārāpento imā dve āpattiyo āpajjati.",
+        "analyzed": "sugata cīvara ppamāṇam cīvaram kārāpentaḥ imāḥ dve āpattiyaḥ āpajjati ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:153.1",
+        "original": "Rājavaggo navamo.",
+        "analyzed": "rāja vaggaḥ navamaḥ ",
+        "folio": "153"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:153.2",
+        "original": "Khuddakā niṭṭhitā.",
+        "analyzed": "khuddakā niṭṭhitā ",
+        "folio": "153"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:154.0",
+        "original": "6. Pāṭidesanīyakaṇḍa",
+        "analyzed": "  ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:154.1",
+        "original": "Aññātikāya bhikkhuniyā antaragharaṁ paviṭṭhāya hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā bhuñjanto kati āpattiyo āpajjati?",
+        "analyzed": "aññātikāya bhikkhuniyāḥ antara gharam paviṭṭhāya hatthataḥ khādanīyam vā bhojanīyam vā sahatthā paṭiggahetvā bhuñjantaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:154.2",
+        "original": "Aññātikāya bhikkhuniyā antaragharaṁ paviṭṭhāya hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyāḥ antara gharam paviṭṭhāya hatthataḥ khādanīyam vā bhojanīyam vā sahatthā paṭiggahetvā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:154.3",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:154.4",
+        "original": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa—",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:154.5",
+        "original": "aññātikāya bhikkhuniyā antaragharaṁ paviṭṭhāya hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā bhuñjanto imā dve āpattiyo āpajjati.",
+        "analyzed": "aññātikāya bhikkhuniyāḥ antara gharam paviṭṭhāya hatthataḥ khādanīyam vā bhojanīyam vā sahatthā paṭiggahetvā bhuñjantaḥ imā dve āpattiyaḥ āpajjati ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:155.1",
+        "original": "Bhikkhuniyā vosāsantiyā na nivāretvā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "bhikkhuniyā vosāsantiyā na nivāretvā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "155"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:155.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "155"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:155.3",
+        "original": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa ",
+        "folio": "155"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:156.1",
+        "original": "Sekkhasammatesu kulesu khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "sekkha sammatesu kulesu khādanīyam vā bhojanīyam vā sahatthā paṭiggahetvā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "156"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:156.2",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "156"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:156.3",
+        "original": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa ",
+        "folio": "156"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:157.1",
+        "original": "Āraññakesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā bhuñjanto kati āpattiyo āpajjati?",
+        "analyzed": "āraññakesu senāsanesu pubbe appaṭisaviditam khādanīyam vā bhojanīyam vā ajjhārāme sahatthā paṭiggahetvā bhuñjantaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:157.2",
+        "original": "Āraññakesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā bhuñjanto dve āpattiyo āpajjati.",
+        "analyzed": "āraññakesu senāsanesu pubbe appaṭisaviditam khādanīyam vā bhojanīyam vā ajjhārāme sahatthā paṭiggahetvā bhuñjantaḥ dve āpattiyaḥ āpajjati ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:157.3",
+        "original": "“Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa;",
+        "analyzed": "bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:157.4",
+        "original": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa—",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pāṭidesanīyassa ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:157.5",
+        "original": "āraññakesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā bhuñjanto imā dve āpattiyo āpajjati.",
+        "analyzed": "āraññakesu senāsanesu pubbe appaṭisaviditam khādanīyam vā bhojanīyam vā ajjhārāme sahatthā paṭiggahetvā bhuñjantaḥ imā dve āpattiyaḥ āpajjati ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:158.1",
+        "original": "Cattāro pāṭidesanīyā niṭṭhitā.",
+        "analyzed": "cattāro pāṭidesanīyāḥ niṭṭhitā ",
+        "folio": "158"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:159.0.1",
+        "original": "7. Sekhiyakaṇḍa",
+        "analyzed": "sekhiya kaṇḍa ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:159.0.2",
+        "original": "7.1. Parimaṇḍalavagga",
+        "analyzed": "parimaṇḍala vagga ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:159.1",
+        "original": "Anādariyaṁ paṭicca purato vā pacchato vā olambento nivāsento kati āpattiyo āpajjati?",
+        "analyzed": "anādariyam paṭicca puratas vā pacchatas vā olambentaḥ nivāsentaḥ kati āpattiyaḥ āpajjati ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:159.2",
+        "original": "Anādariyaṁ paṭicca purato vā pacchato vā olambento nivāsento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca puratas vā pacchatas vā olambentaḥ nivāsentaḥ ekam āpattim āpajjati ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:159.3",
+        "original": "Dukkaṭaṁ—",
+        "analyzed": "dukkaṭa ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:159.4",
+        "original": "anādariyaṁ paṭicca purato vā pacchato vā olambento nivāsento imaṁ ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca puratas vā pacchatas vā olambentaḥ nivāsentaḥ imam ekam āpattim āpajjati ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:160.1",
+        "original": "Anādariyaṁ paṭicca purato vā pacchato vā olambento pārupanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca puratas vā pacchatas vā olambentaḥ pārupantaḥ ekam āpattim āpajjati ",
+        "folio": "160"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:160.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "160"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:161.1",
+        "original": "Anādariyaṁ paṭicca kāyaṁ vivaritvā antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca kāyam vivaritvā antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "161"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:161.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "161"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:162.1",
+        "original": "Anādariyaṁ paṭicca kāyaṁ vivaritvā antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca kāyam vivaritvā antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "162"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:162.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "162"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:163.1",
+        "original": "Anādariyaṁ paṭicca hatthaṁ vā pādaṁ vā kīḷāpento antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca hattham vā pādam vā kīḷāpentaḥ antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "163"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:163.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "163"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:164.1",
+        "original": "Anādariyaṁ paṭicca hatthaṁ vā pādaṁ vā kīḷāpento antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca hattham vā pādam vā kīḷāpentaḥ antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "164"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:164.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "164"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:165.1",
+        "original": "Anādariyaṁ paṭicca tahaṁ tahaṁ olokento antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca tahaṃ tahaṃ olokentaḥ antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "165"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:165.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "165"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:166.1",
+        "original": "Anādariyaṁ paṭicca tahaṁ tahaṁ olokento antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca tahaṃ tahaṃ olokentaḥ antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "166"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:166.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "166"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:167.1",
+        "original": "Anādariyaṁ paṭicca ukkhittakāya antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ukkhittakāya antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "167"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:167.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "167"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:168.1",
+        "original": "Anādariyaṁ paṭicca ukkhittakāya antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ukkhittakāya antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "168"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:168.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "168"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:169.1",
+        "original": "Parimaṇḍalavaggo paṭhamo.",
+        "analyzed": "parimaṇḍala vaggo paṭhamaḥ ",
+        "folio": "169"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:170.0",
+        "original": "7.2. Ujjagghikavagga",
+        "analyzed": "ujjagghika vagga ",
+        "folio": "170"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:170.1",
+        "original": "Anādariyaṁ paṭicca ujjagghikāya antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ujjagghikāya antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "170"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:170.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "170"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:171.1",
+        "original": "Anādariyaṁ paṭicca ujjagghikāya antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ujjagghikāya antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "171"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:171.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "171"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:172.1",
+        "original": "Anādariyaṁ paṭicca uccāsaddaṁ mahāsaddaṁ karonto antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca uccāsaddam mahā saddam karontaḥ antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "172"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:172.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "172"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:173.1",
+        "original": "Anādariyaṁ paṭicca uccāsaddaṁ mahāsaddaṁ karonto antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca uccāsaddam mahā saddam karontaḥ antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "173"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:173.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "173"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:174.1",
+        "original": "Anādariyaṁ paṭicca kāyappacālakaṁ antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca kāyappacālakam antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "174"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:174.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "174"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:175.1",
+        "original": "Anādariyaṁ paṭicca kāyappacālakaṁ antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca kāyappacālakam antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "175"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:175.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "175"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:176.1",
+        "original": "Anādariyaṁ paṭicca bāhuppacālakaṁ antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca bāhuppacālakam antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "176"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:176.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "176"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:177.1",
+        "original": "Anādariyaṁ paṭicca bāhuppacālakaṁ antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca bāhuppacālakam antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "177"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:177.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "177"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:178.1",
+        "original": "Anādariyaṁ paṭicca sīsappacālakaṁ antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sīsappacālakam antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "178"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:178.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "178"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:179.1",
+        "original": "Anādariyaṁ paṭicca sīsappacālakaṁ antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sīsappacālakam antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "179"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:179.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "179"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:180.1",
+        "original": "Ujjagghikavaggo dutiyo.",
+        "analyzed": "ujjagghika vaggaḥ dutiyaḥ ",
+        "folio": "180"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:181.0",
+        "original": "7.3. Khambhakatavagga",
+        "analyzed": "khambha kata vagga ",
+        "folio": "181"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:181.1",
+        "original": "Anādariyaṁ paṭicca khambhakato antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca khambhakataḥ antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "181"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:181.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "181"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:182.1",
+        "original": "Anādariyaṁ paṭicca khambhakato antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca khambhakataḥ antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "182"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:182.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "182"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:183.1",
+        "original": "Anādariyaṁ paṭicca oguṇṭhito antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca oguṇṭhitaḥ antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:183.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:184.1",
+        "original": "Anādariyaṁ paṭicca oguṇṭhito antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca oguṇṭhitaḥ antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "184"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:184.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "184"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:185.1",
+        "original": "Anādariyaṁ paṭicca ukkuṭikāya antaraghare gacchanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ukkuṭikāya antaraghare gacchantaḥ ekam āpattim āpajjati ",
+        "folio": "185"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:185.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "185"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:186.1",
+        "original": "Anādariyaṁ paṭicca pallatthikāya antaraghare nisīdanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca pallatthikāya antaraghare nisīdantaḥ ekam āpattim āpajjati ",
+        "folio": "186"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:186.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "186"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:187.1",
+        "original": "Anādariyaṁ paṭicca asakkaccaṁ piṇḍapātaṁ paṭiggaṇhanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca asakkaccam piṇḍapātam paṭiggaṇhantaḥ ekam āpattim āpajjati ",
+        "folio": "187"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:187.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "187"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:188.1",
+        "original": "Anādariyaṁ paṭicca tahaṁ tahaṁ olokento piṇḍapātaṁ paṭiggaṇhanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca tahaṃ tahaṃ olokentaḥ piṇḍapātam paṭiggaṇhantaḥ ekam āpattim āpajjati ",
+        "folio": "188"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:188.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "188"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:189.1",
+        "original": "Anādariyaṁ paṭicca sūpaññeva bahuṁ paṭiggaṇhanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sūpaññā iva bahum paṭiggaṇhantaḥ ekam āpattim āpajjati ",
+        "folio": "189"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:189.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "189"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:190.1",
+        "original": "Anādariyaṁ paṭicca thūpīkataṁ piṇḍapātaṁ paṭiggaṇhanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca thūpīkatam piṇḍapātam paṭiggaṇhantaḥ ekam āpattim āpajjati ",
+        "folio": "190"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:190.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "190"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:191.1",
+        "original": "Khambhakatavaggo tatiyo.",
+        "analyzed": "khambhakata vaggo tatiyaḥ ",
+        "folio": "191"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:192.0",
+        "original": "7.4. Piṇḍapātavagga",
+        "analyzed": "piṇḍapāta vagga ",
+        "folio": "192"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:192.1",
+        "original": "Anādariyaṁ paṭicca asakkaccaṁ piṇḍapātaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca asakkaccam piṇḍapātam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "192"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:192.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "192"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:193.1",
+        "original": "Anādariyaṁ paṭicca tahaṁ tahaṁ olokento piṇḍapātaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca tahaṃ tahaṃ olokento piṇḍapātam bhuñjanto ekam āpattim āpajjati ",
+        "folio": "193"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:193.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "193"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:194.1",
+        "original": "Anādariyaṁ paṭicca tahaṁ tahaṁ omasitvā piṇḍapātaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca tahaṃ tahaṃ omasitvā piṇḍapātam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "194"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:194.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "194"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:195.1",
+        "original": "Anādariyaṁ paṭicca sūpaññeva bahuṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sūpaññā iva bahum bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "195"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:195.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "195"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:196.1",
+        "original": "Anādariyaṁ paṭicca thūpakato omadditvā piṇḍapātaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca thūpakataḥ omadditvā piṇḍapātam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "196"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:196.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "196"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:197.1",
+        "original": "Anādariyaṁ paṭicca sūpaṁ vā byañjanaṁ vā odanena paṭicchādento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sūpam vā byañjanam vā odanena paṭicchādentaḥ ekam āpattim āpajjati ",
+        "folio": "197"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:197.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "197"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:198.1",
+        "original": "Anādariyaṁ paṭicca sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sūpam vā odanam vā a gilānaḥ attanaḥ atthāya viññāpetvā bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "198"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:198.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "198"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:199.1",
+        "original": "Anādariyaṁ paṭicca ujjhānasaññī paresaṁ pattaṁ olokento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ujjhāna saññī paresam pattam olokento ekam āpattim āpajjati ",
+        "folio": "199"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:199.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "199"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:200.1",
+        "original": "Anādariyaṁ paṭicca mahantaṁ kabaḷaṁ karonto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca mahantam kabaḷam karontaḥ ekam āpattim āpajjati ",
+        "folio": "200"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:200.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "200"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:201.1",
+        "original": "Anādariyaṁ paṭicca dīghaṁ ālopaṁ karonto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca dīgham ālopam karontaḥ ekam āpattim āpajjati ",
+        "folio": "201"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:201.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "201"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:202.1",
+        "original": "Piṇḍapātavaggo catuttho.",
+        "analyzed": "piṇḍapāta vaggo catutthaḥ ",
+        "folio": "202"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:203.0",
+        "original": "7.5. Kabaḷavagga",
+        "analyzed": "kabaḷa vagga ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:203.1",
+        "original": "Anādariyaṁ paṭicca anāhaṭe kabaḷe mukhadvāraṁ vivaranto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca an āhaṭe kabaḷe mukha dvāram vivarantaḥ ekam āpattim āpajjati ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:203.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:204.1",
+        "original": "Anādariyaṁ paṭicca bhuñjamāno sabbaṁ hatthaṁ mukhe pakkhipanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca bhuñjamānaḥ sabbam hattham mukhe pakkhipanto ekam āpattim āpajjati ",
+        "folio": "204"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:204.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "204"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:205.1",
+        "original": "Anādariyaṁ paṭicca sakabaḷena mukhena byāharanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sa kabaḷena mukhena byāharantaḥ ekam āpattim āpajjati ",
+        "folio": "205"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:205.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "205"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:206.1",
+        "original": "Anādariyaṁ paṭicca piṇḍukkhepakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca piṇḍukkhepakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "206"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:206.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "206"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:207.1",
+        "original": "Anādariyaṁ paṭicca kabaḷāvacchedakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca kabaḷāvacchedakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "207"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:207.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "207"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:208.1",
+        "original": "Anādariyaṁ paṭicca avagaṇḍakārakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca avagaṇḍa kārakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "208"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:208.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "208"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:209.1",
+        "original": "Anādariyaṁ paṭicca hatthaniddhunakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca hattha niddhunakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "209"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:209.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "209"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:210.1",
+        "original": "Anādariyaṁ paṭicca sitthāvakārakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sitthāvakārakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "210"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:210.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "210"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:211.1",
+        "original": "Anādariyaṁ paṭicca jivhānicchārakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca jivhā nicchārakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "211"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:211.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "211"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:212.1",
+        "original": "Anādariyaṁ paṭicca capucapukārakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca capu capu kārakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "212"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:212.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "212"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:213.1",
+        "original": "Kabaḷavaggo pañcamo.",
+        "analyzed": "kabaḷa vaggo pañcamaḥ ",
+        "folio": "213"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:214.0",
+        "original": "7.6. Surusuruvagga",
+        "analyzed": "suru suru vagga ",
+        "folio": "214"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:214.1",
+        "original": "Anādariyaṁ paṭicca surusurukārakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca surusurukārakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "214"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:214.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "214"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:215.1",
+        "original": "Anādariyaṁ paṭicca hatthanillehakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca hattha nillehakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "215"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:215.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "215"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:216.1",
+        "original": "Anādariyaṁ paṭicca pattanillehakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca patta nillehakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "216"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:216.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "216"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:217.1",
+        "original": "Anādariyaṁ paṭicca oṭṭhanillehakaṁ bhuñjanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca oṭṭha nillehakam bhuñjantaḥ ekam āpattim āpajjati ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:217.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:218.1",
+        "original": "Anādariyaṁ paṭicca sāmisena hatthena pānīyathālakaṁ paṭiggaṇhanto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sa āmisena hatthena pānīya thālakam paṭiggaṇhantaḥ ekam āpattim āpajjati ",
+        "folio": "218"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:218.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "218"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:219.1",
+        "original": "Anādariyaṁ paṭicca sasitthakaṁ pattadhovanaṁ antaraghare chaḍḍento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sa sitthakam patta dhovanam antaraghare chaḍḍentaḥ ekam āpattim āpajjati ",
+        "folio": "219"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:219.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "219"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:220.1",
+        "original": "Anādariyaṁ paṭicca chattapāṇissa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca chatta pāṇissa dhammaṃ desento ekam āpattim āpajjati ",
+        "folio": "220"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:220.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "220"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:221.1",
+        "original": "Anādariyaṁ paṭicca daṇḍapāṇissa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca daṇḍa pāṇissa dhammam desento ekam āpattim āpajjati ",
+        "folio": "221"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:221.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "221"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:222.1",
+        "original": "Anādariyaṁ paṭicca satthapāṇissa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sattha pāṇissa dhammaṃ desento ekam āpattim āpajjati ",
+        "folio": "222"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:222.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "222"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:223.1",
+        "original": "Anādariyaṁ paṭicca āvudhapāṇissa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca āvudha pāṇissa dhammam desento ekam āpattim āpajjati ",
+        "folio": "223"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:223.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "223"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:224.1",
+        "original": "Surusuruvaggo chaṭṭho.",
+        "analyzed": "suru suru vaggaḥ chaṭṭhaḥ ",
+        "folio": "224"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:225.0",
+        "original": "7.7. Pādukavagga",
+        "analyzed": "pāduka vagga ",
+        "folio": "225"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:225.1",
+        "original": "Anādariyaṁ paṭicca pādukāruḷhassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca pādukā āruḷhassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "225"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:225.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "225"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:226.1",
+        "original": "Anādariyaṁ paṭicca upāhanāruḷhassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca upāhana āruḷhassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "226"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:226.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "226"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:227.1",
+        "original": "Anādariyaṁ paṭicca yānagatassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca yāna gatassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "227"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:227.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "227"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:228.1",
+        "original": "Anādariyaṁ paṭicca sayanagatassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca sayana gatassa dhammaṃ desento ekam āpattim āpajjati ",
+        "folio": "228"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:228.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "228"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:229.1",
+        "original": "Anādariyaṁ paṭicca pallatthikāya nisinnassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca pallatthikāya nisinnassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "229"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:229.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "229"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:230.1",
+        "original": "Anādariyaṁ paṭicca veṭhitasīsassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca veṭhita sīsassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "230"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:230.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "230"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:231.1",
+        "original": "Anādariyaṁ paṭicca oguṇṭhitasīsassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca oguṇṭhita sīsassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "231"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:231.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "231"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:232.1",
+        "original": "Anādariyaṁ paṭicca chamāyaṁ nisīditvā āsane nisinnassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca chamāyam nisīditvā āsane nisinnassa dhammaṃ desento ekam āpattim āpajjati ",
+        "folio": "232"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:232.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "232"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:233.1",
+        "original": "Anādariyaṁ paṭicca nīce āsane nisīditvā ucce āsane nisinnassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca nīce āsane nisīditvā ucce āsane nisinnassa dhammam desento ekam āpattim āpajjati ",
+        "folio": "233"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:233.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "233"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:234.1",
+        "original": "Anādariyaṁ paṭicca ṭhito nisinnassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ṭhitaḥ nisinnassa dhammaṃ desento ekam āpattim āpajjati ",
+        "folio": "234"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:234.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "234"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:235.1",
+        "original": "Anādariyaṁ paṭicca pacchato gacchanto purato gacchantassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca pacchatas gacchantaḥ puratas gacchantassa dhammam desentaḥ ekam āpattim āpajjati ",
+        "folio": "235"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:235.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "235"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:236.1",
+        "original": "Anādariyaṁ paṭicca uppathena gacchanto pathena gacchantassa dhammaṁ desento ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca uppathena gacchantaḥ pathena gacchantassa dhammam desentaḥ ekam āpattim āpajjati ",
+        "folio": "236"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:236.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "236"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:237.1",
+        "original": "Anādariyaṁ paṭicca ṭhito uccāraṁ vā passāvaṁ vā karonto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca ṭhitaḥ uccāram vā passāvam vā karontaḥ ekam āpattim āpajjati ",
+        "folio": "237"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:237.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "237"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:238.1",
+        "original": "Anādariyaṁ paṭicca harite uccāraṁ vā passāvaṁ vā kheḷaṁ vā karonto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca harite uccāram vā passāvam vā kheḷam vā karontaḥ ekam āpattim āpajjati ",
+        "folio": "238"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:238.2",
+        "original": "Dukkaṭaṁ.",
+        "analyzed": "dukkaṭa ",
+        "folio": "238"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:239.1",
+        "original": "Anādariyaṁ paṭicca udake uccāraṁ vā passāvaṁ vā kheḷaṁ vā karonto kati āpattiyo āpajjati?",
+        "analyzed": "anādariyam paṭicca udake uccāram vā passāvam vā kheḷam vā karonto kati āpattiyaḥ āpajjati ",
+        "folio": "239"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:239.2",
+        "original": "Anādariyaṁ paṭicca udake uccāraṁ vā passāvaṁ vā kheḷaṁ vā karonto ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca udake uccāram vā passāvam vā kheḷam vā karontaḥ ekam āpattim āpajjati ",
+        "folio": "239"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:239.3",
+        "original": "Dukkaṭaṁ—",
+        "analyzed": "dukkaṭa ",
+        "folio": "239"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:239.4",
+        "original": "anādariyaṁ paṭicca udake uccāraṁ vā passāvaṁ vā kheḷaṁ vā karonto imaṁ ekaṁ āpattiṁ āpajjati.",
+        "analyzed": "anādariyam paṭicca udake uccāram vā passāvam vā kheḷam vā karontaḥ imam ekam āpattim āpajjati ",
+        "folio": "239"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:240.1",
+        "original": "Pādukavaggo sattamo.",
+        "analyzed": "pāduka vaggaḥ sattamaḥ ",
+        "folio": "240"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:240.2",
+        "original": "Sekhiyā niṭṭhitā.",
+        "analyzed": "sekhiyā niṭṭhitā ",
+        "folio": "240"
+    },
+    {
+        "segmentnr": "PA_pvr_1.2:240.3",
+        "original": "Katāpattivāro niṭṭhito dutiyo.",
+        "analyzed": "kata āpatti vāraḥ niṭṭhitaḥ dutiyaḥ ",
+        "folio": "240"
+    }
+]

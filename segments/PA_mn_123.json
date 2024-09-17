@@ -1,0 +1,830 @@
+[
+    {
+        "segmentnr": "PA_mn_123:0.1",
+        "original": "Majjhima Nikāya 123",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_123:0.2",
+        "original": "Acchariyaabbhutasutta",
+        "analyzed": "acchariya abbhuta sutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_123:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_123:1.2",
+        "original": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "ekam samayam bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.1",
+        "original": "Atha kho sambahulānaṁ bhikkhūnaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ upaṭṭhānasālāyaṁ sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi:",
+        "analyzed": "atha kho sambahulānam bhikkhūnam pacchābhattam piṇḍapāta paṭikkantānam upaṭṭhāna sālāyam sannisinnānam sannipatitānam ayam antarākathā udapādi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.2",
+        "original": "“acchariyaṁ, āvuso, abbhutaṁ, āvuso. Tathāgatassa mahiddhikatā mahānubhāvatā,",
+        "analyzed": "acchariyaḥ āvuso abbhutaḥ āvuso tathāgatassa mahiddhika tā mahā anubhāva tā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.3",
+        "original": "yatra hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jānissati:",
+        "analyzed": "yatra hi nāma tathāgataḥ atīte buddhe parinibbute chinna papañce chinna vaṭume pariyādinna vaṭṭe sabba dukkha vītivatte jānissati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.4_0",
+        "original": "‘evaṁjaccā te bhagavanto ahesuṁ’ itipi, ‘evaṁnāmā te bhagavanto ahesuṁ’ itipi, ‘evaṅgottā",
+        "analyzed": "te bhagavantaḥ ahesu iti pi eva nāmā te bhagavantaḥ ahesu iti pi evaṅgottā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.4_1",
+        "original": "te bhagavanto ahesuṁ’ itipi, ‘evaṁsīlā te bhagavanto ahesuṁ’ itipi, ‘evaṁdhammā te",
+        "analyzed": "te bhagavantaḥ ahesu iti pi eva sīlā te bhagavantaḥ ahesu iti pi eva dhammā te ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.4_2",
+        "original": "bhagavanto ahesuṁ’ itipi, ‘evaṁpaññā te bhagavanto ahesuṁ’ itipi, ‘evaṁvihārī te",
+        "analyzed": "bhagavantaḥ ahesu itipi eva paññā te bhagavantaḥ ahesu itipi eva vihārī te ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.4_3",
+        "original": "bhagavanto ahesuṁ’ itipi, ‘evaṁvimuttā te bhagavanto ahesuṁ’ itipī”ti.",
+        "analyzed": "bhagavantaḥ ahesu iti pi eva vimuttā te bhagavantaḥ ahesu iti pi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.5",
+        "original": "Evaṁ vutte, āyasmā ānando te bhikkhū etadavoca:",
+        "analyzed": "evam vutte āyasmā ānandaḥ te bhikkhū etat avoca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.6",
+        "original": "“acchariyā ceva, āvuso, tathāgatā acchariyadhammasamannāgatā ca;",
+        "analyzed": "acchariyā ca iva āvuso tathāgatāḥ acchariya dhamma samannāgatā ca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.7",
+        "original": "abbhutā ceva, āvuso, tathāgatā abbhutadhammasamannāgatā cā”ti.",
+        "analyzed": "abbhutā ca iva āvuso tathāgatāḥ abbhuta dhamma samannāgatā ca ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.8",
+        "original": "Ayañca hidaṁ tesaṁ bhikkhūnaṁ antarākathā vippakatā hoti.",
+        "analyzed": "ayam ca hidam tesam bhikkhūnam antarākathā vippakatā hoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.9",
+        "original": "Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yenupaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
+        "analyzed": "atha kho bhagavā sāyanha samayam paṭisallānā vuṭṭhitaḥ yena upaṭṭhāna sālā tena upasaṅkami upasaṅkamitvā paññatte āsane nisīdi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.10",
+        "original": "Nisajja kho bhagavā bhikkhū āmantesi:",
+        "analyzed": "nisajja kho bhagavā bhikkhū āmantesi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.11",
+        "original": "“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti?",
+        "analyzed": "kāya nuttha bhikkhave etarahi kathāya sannisinnā kā ca pana vaḥ antarākathā vippakatā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.12",
+        "original": "“Idha, bhante, amhākaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ upaṭṭhānasālāyaṁ sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi:",
+        "analyzed": "idha bhante amhākam pacchābhattam piṇḍapāta paṭikkantānam upaṭṭhāna sālāyam sannisinnānam sannipatitānam ayam antarākathā udapādi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.13_0",
+        "original": "‘acchariyaṁ, āvuso, abbhutaṁ, āvuso, tathāgatassa mahiddhikatā mahānubhāvatā, yatra",
+        "analyzed": "acchariyaḥ āvuso abbhutaḥ āvuso tathāgatassa mahiddhika tā mahā anubhāva tā yatra ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.13_1",
+        "original": "hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe",
+        "analyzed": "hi nāma tathāgataḥ atīte buddhe parinibbute chinna papañce chinna vaṭume pariyādinna vaṭṭe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.13_2",
+        "original": "sabbadukkhavītivatte jānissati—",
+        "analyzed": "sabba dukkha vītivatte jānissati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.14_0",
+        "original": "evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā … evaṅgottā … evaṁsīlā … evaṁdhammā",
+        "analyzed": "te bhagavantaḥ ahesuṃ iti pi eva nāmā evaṃgottāḥ eva sīlāḥ eva dhammā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.14_1",
+        "original": "… evaṁpaññā … evaṁvihārī … evaṁvimuttā te bhagavanto ahesuṁ itipī’ti. Evaṁ vutte,",
+        "analyzed": "eva paññāḥ eva vihārī eva vimuttā te bhagavantaḥ ahesuṃ iti pi iti evam vutte ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.14_2",
+        "original": "bhante, āyasmā ānando amhe etadavoca:",
+        "analyzed": "bhante āyasmai ānandaḥ amhe etat avoca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.15",
+        "original": "‘acchariyā ceva, āvuso, tathāgatā acchariyadhammasamannāgatā ca;",
+        "analyzed": "acchariyā ca iva āvuso tathāgatāḥ acchariya dhamma samannāgatā ca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.16",
+        "original": "abbhutā ceva, āvuso, tathāgatā abbhutadhammasamannāgatā cā’ti.",
+        "analyzed": "abbhutā ca iva āvuso tathāgatāḥ abbhuta dhamma samannāgatā ca ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.17",
+        "original": "Ayaṁ kho no, bhante, antarākathā vippakatā; atha bhagavā anuppatto”ti.",
+        "analyzed": "ayam kho naḥ bhante antarākathā vippakatā atha bhagavā anuppatto ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.18",
+        "original": "Atha kho bhagavā āyasmantaṁ ānandaṁ āmantesi:",
+        "analyzed": "atha khalu bhagavān āyasmantam ānandam āmantesi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:2.19",
+        "original": "“tasmātiha taṁ, ānanda, bhiyyoso mattāya paṭibhantu tathāgatassa acchariyā abbhutadhammā”ti.",
+        "analyzed": "tasmā ati ha te ānanda bhiyyosaḥ mattāya paṭibhantu tathāgatassa acchariyāḥ abbhuta dhammā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_123:3.1",
+        "original": "“Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_123:3.2",
+        "original": "‘sato sampajāno, ānanda, bodhisatto tusitaṁ kāyaṁ upapajjī’ti.",
+        "analyzed": "sataḥ sampajānaḥ ānanda bodhisatto tusitam kāyam upapajji iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_123:3.3",
+        "original": "Yampi, bhante, sato sampajāno bodhisatto tusitaṁ kāyaṁ upapajji idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante sataḥ sampajānaḥ bodhisatto tusitam kāyam upapajji idam pa aha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_123:4.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_123:4.2",
+        "original": "‘sato sampajāno, ānanda, bodhisatto tusite kāye aṭṭhāsī’ti.",
+        "analyzed": "sataḥ sampajānaḥ ānanda bodhisatto tusite kāye aṭṭhāsi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_123:4.3",
+        "original": "Yampi, bhante, sato sampajāno bodhisatto tusite kāye aṭṭhāsi idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante sataḥ sampajānaḥ bodhisatto tusite kāye aṭṭhāsi idam pa aha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_123:5.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_123:5.2",
+        "original": "‘yāvatāyukaṁ, ānanda, bodhisatto tusite kāye aṭṭhāsī’ti.",
+        "analyzed": "yāvatā āyukaḥ ānanda bodhisatto tusite kāye aṭṭhāsi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_123:5.3",
+        "original": "Yampi, bhante, yāvatāyukaṁ bodhisatto tusite kāye aṭṭhāsi idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante yāvatāyukam bodhisatto tusite kāye aṭṭhāsi idam pa aha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_123:6.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_123:6.2",
+        "original": "‘sato sampajāno, ānanda, bodhisatto tusitā, kāyā cavitvā mātukucchiṁ okkamī’ti.",
+        "analyzed": "sataḥ sampajānaḥ ānanda bodhisatto tusitā kāyā cavitvā mātukucchim okkamīti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_123:6.3",
+        "original": "Yampi, bhante, sato sampajāno bodhisatto tusitā kāyā cavitvā mātukucchiṁ okkami idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante sataḥ sampajānaḥ bodhisatto tusitā kāyā cavitvā mātukucchim okkami idam pa aha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.2",
+        "original": "‘yadā, ānanda, bodhisatto tusitā kāyā cavitvā mātukucchiṁ okkamati,",
+        "analyzed": "yadā ānanda bodhisatto tusitā kāyā cavitvā mātukucchim okkamati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.3",
+        "original": "atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso loke pātubhavati atikkammeva devānaṁ devānubhāvaṁ.",
+        "analyzed": "atha sa devake loke sa mārake sa brahmake sa ssamaṇa brāhmaṇiyā pajāya sa deva manussāya appamāṇaḥ uḷāraḥ obhāsaḥ loke pātubhavati atikkamma iva devānam deva anubhāva ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.4_0",
+        "original": "Yāpi tā lokantarikā aghā asaṁvutā andhakārā andhakāratimisā, yatthapime candimasūriyā",
+        "analyzed": "yā api tā lokantarikāḥ aghāḥ a savutāḥ andhakārāḥ andhakāra timisāḥ candima sūriyā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.4_1",
+        "original": "evaṁmahiddhikā evaṁmahānubhāvā ābhāya nānubhonti tatthapi appamāṇo uḷāro obhāso loke",
+        "analyzed": "evam ahiddhikāḥ evam ahā anubhāvāḥ ābhāya na anubhonti tattha api appamāṇaḥ uḷāraḥ obhāsaḥ loke ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.4_2",
+        "original": "pātubhavati atikkammeva devānaṁ devānubhāvaṁ.",
+        "analyzed": "pātubhavati atikkamma iva devānam deva anubhāva ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.5",
+        "original": "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṁ sañjānanti—aññepi kira, bho, santi sattā idhūpapannāti.",
+        "analyzed": "ye pi tattha sattā upapannā te pi tena ubhāsena aññam aññam sañjānanti aññe pi kira bho santi sattāḥ idha upapannā ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.6",
+        "original": "Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṁ devānubhāvan’ti.",
+        "analyzed": "ayam ca dasa sahassī lokadhātu saṅkampati sampakampati sampavedhati appamāṇaḥ ca uḷāraḥ obhāsaḥ loke pātubhavati atikkamma iva devānam deva anubhāvanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:7.7",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_123:8.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_123:8.2_0",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchiṁ okkanto hoti, cattāro devaputtā catuddisaṁ",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchim okkantaḥ hoti cattāraḥ deva puttā catuddisa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_123:8.2_1",
+        "original": "ārakkhāya upagacchanti—mā naṁ bodhisattaṁ vā bodhisattamātaraṁ vā manusso vā amanusso",
+        "analyzed": "ārakkhāyaḥ upagacchanti imāḥ nam bodhisattam vā bodhisatta mātaram vā manussaḥ vā amanussaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_123:8.2_2",
+        "original": "vā koci vā viheṭhesī’ti.",
+        "analyzed": "vā koci vā viheṭhesi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_123:8.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_123:9.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_123:9.2_0",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchiṁ okkanto hoti, pakatiyā sīlavatī bodhisattamātā",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchim okkantaḥ hoti pakatiyā sīlavatī bodhisatta mātā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_123:9.2_1",
+        "original": "hoti viratā pāṇātipātā viratā adinnādānā viratā kāmesumicchācārā viratā musāvādā",
+        "analyzed": "viratā pāṇa atipātā viratā adinna ādānā viratā kāmesumicchā ācārā viratā musāvādā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_123:9.2_2",
+        "original": "viratā surāmerayamajjapamādaṭṭhānā’ti.",
+        "analyzed": "viratā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_123:9.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_123:10.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_123:10.2_0",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchiṁ okkanto hoti, na bodhisattamātu purisesu mānasaṁ",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchim okkantaḥ hoti na bodhisatta mātu purisesu ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_123:10.2_1",
+        "original": "uppajjati kāmaguṇūpasaṁhitaṁ, anatikkamanīyā ca bodhisattamātā hoti kenaci purisena rattacittenā’ti.",
+        "analyzed": "uppajjati an atikkamanīyā ca bodhisatta mātā hoti kenaci purisena ratta cittena ati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_123:10.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_123:11.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_123:11.2",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchiṁ okkanto hoti, lābhinī bodhisattamātā hoti pañcannaṁ kāmaguṇānaṁ. Sā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāretī’ti.",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchim okkantaḥ hoti lābhinī bodhisatta mātā hoti pañcannam kāmaguṇāna sā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāreti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_123:11.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.2_0",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchiṁ okkanto hoti, na bodhisattamātu kocideva ābādho",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchim okkantaḥ hoti na kaścid eva ābādhaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.2_1",
+        "original": "uppajjati; sukhinī bodhisattamātā hoti akilantakāyā; bodhisattañca bodhisattamātā",
+        "analyzed": "uppajjati sukhinī bodhisatta mātā hoti a kilanta kāyā bodhisattañca bodhisatta mātā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.2_2",
+        "original": "tirokucchigataṁ passati sabbaṅgapaccaṅgaṁ ahīnindriyaṁ.",
+        "analyzed": "tiro kucchi gatam passati sabbaṅga paccaṅgam ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.3",
+        "original": "Seyyathāpi, ānanda, maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato. Tatrāssa suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā.",
+        "analyzed": "seyyathā api ānanda maṇi veḷuriyaḥ subhaḥ jātimā aṭṭhasas su parikamma kato tatra assa suttam āvutam nīlam vā pītam vā lohitam vā odātam vā paṇḍusuttam vā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.4_0",
+        "original": "Tamenaṁ cakkhumā puriso hatthe karitvā paccavekkheyya—ayaṁ kho maṇi veḷuriyo subho",
+        "analyzed": "tam enam cakkhumā purisaḥ hatthe karitvā paccavekkheyya ayam kho maṇi veḷuriyaḥ subho ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.4_1",
+        "original": "jātimā aṭṭhaṁso suparikammakato, tatridaṁ suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ",
+        "analyzed": "jātimā aṭṭhasas su parikamma kato tatra idam suttam āvutam nīlam vā pītam vā lohita ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.4_2",
+        "original": "vā odātaṁ vā paṇḍusuttaṁ vāti.",
+        "analyzed": "vā odātam vā paṇḍusuttam vā ati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.5_0",
+        "original": "Evameva kho, ānanda, yadā bodhisatto mātukucchiṁ okkanto hoti, na bodhisattamātu",
+        "analyzed": "evam eva khalu ānanda yadā bodhisattaḥ mātukucchim okkantaḥ hoti na bodhisatta mātu ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.5_1",
+        "original": "kocideva ābādho uppajjati; sukhinī bodhisattamātā hoti akilantakāyā; bodhisattañca",
+        "analyzed": "kocid eva ābādhaḥ uppajjati sukhinī bodhisatta mātā hoti a kilanta kāyā bodhisattam ca ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.5_2",
+        "original": "bodhisattamātā tirokucchigataṁ passati sabbaṅgapaccaṅgaṁ ahīnindriyan’ti.",
+        "analyzed": "bodhisatta mātā tiro kucchi gatam passati sabbaṅga paccaṅgam ahīn indriyanti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:12.6",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_123:13.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_123:13.2",
+        "original": "‘sattāhajāte, ānanda, bodhisatte bodhisattamātā kālaṁ karoti, tusitaṁ kāyaṁ upapajjatī’ti.",
+        "analyzed": "satta aha jāte ānanda bodhisatte bodhisatta mātā kālam karoti tusitam kāyam upapajjati iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_123:13.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_123:14.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_123:14.2_0",
+        "original": "‘yathā kho panānanda, aññā itthikā nava vā dasa vā māse gabbhaṁ kucchinā pariharitvā",
+        "analyzed": "yathā kho pana ānanda aññā itthikā nava vā dasa vā māse gabbham kucchinā pariharitvā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_123:14.2_1",
+        "original": "vijāyanti, na hevaṁ bodhisattaṁ bodhisattamātā vijāyati. Daseva māsāni bodhisattaṁ",
+        "analyzed": "vijāyanti na ha ivam bodhisattam bodhisatta mātā vijāyati dasa iva māsāni bodhisatta ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_123:14.2_2",
+        "original": "bodhisattamātā kucchinā pariharitvā vijāyatī’ti.",
+        "analyzed": "bodhisatta mātā kucchinā pariharitvā vijāyati iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_123:14.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_123:15.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_123:15.2",
+        "original": "‘yathā kho panānanda, aññā itthikā nisinnā vā nipannā vā vijāyanti, na hevaṁ bodhisattaṁ bodhisattamātā vijāyati. Ṭhitāva bodhisattaṁ bodhisattamātā vijāyatī’ti.",
+        "analyzed": "yathā kho pana ānanda aññāḥ itthikāḥ nisinnāḥ vā nipannāḥ vā vijāyanti na ha evam bodhisattam bodhisatta mātā vijāyati ṭhitā ava bodhisattam bodhisatta mātā vijāyati iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_123:15.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_123:16.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_123:16.2",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, devā naṁ paṭhamaṁ paṭiggaṇhanti pacchā manussā’ti.",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchimhā nikkhamati devāḥ nam paṭhamam paṭiggaṇhanti pacchā manussā ati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_123:16.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_123:17.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_123:17.2_0",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, appattova bodhisatto pathaviṁ",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchimhā nikkhamati appattaḥ uva bodhisatto pathavi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_123:17.2_1",
+        "original": "hoti, cattāro naṁ devaputtā paṭiggahetvā mātu purato ṭhapenti—attamanā, devi, hohi;",
+        "analyzed": "hoti cattāraḥ nam deva puttā paṭiggahetvā mātu puratas ṭhapenti atta manāḥ devi hohi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_123:17.2_2",
+        "original": "mahesakkho te putto uppanno’ti.",
+        "analyzed": "mahesakkhaḥ te putto uppanno ti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_123:17.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.2",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, visadova nikkhamati amakkhito udena amakkhito semhena amakkhito ruhirena amakkhito kenaci asucinā suddho visado.",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchimhā nikkhamati visadā uva nikkhamati a makkhitaḥ udena a makkhitaḥ semhena a makkhitaḥ ruhirena a makkhitaḥ kenacid asucinā suddhaḥ visadaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.3",
+        "original": "Seyyathāpi, ānanda, maṇiratanaṁ kāsike vatthe nikkhittaṁ neva maṇiratanaṁ kāsikaṁ vatthaṁ makkheti nāpi kāsikaṁ vatthaṁ maṇiratanaṁ makkheti.",
+        "analyzed": "seyyathā api ānanda maṇi ratanam kāsike vatthe nikkhittam na iva maṇi ratanam kāsikam vattham makkheti na api kāsikam vattham maṇi ratanam makkheti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.4",
+        "original": "Taṁ kissa hetu?",
+        "analyzed": "tam kim sa hetu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.5",
+        "original": "Ubhinnaṁ suddhattā.",
+        "analyzed": "ubhinnam su dhattā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.6",
+        "original": "Evameva kho, ānanda, yadā bodhisatto mātukucchimhā nikkhamati, visadova nikkhamati amakkhito udena amakkhito semhena amakkhito ruhirena amakkhito kenaci asucinā suddho visado’ti.",
+        "analyzed": "evam eva kho ānanda yadā bodhisattaḥ mātukucchimhā nikkhamati visadā uva nikkhamati a makkhitaḥ udena a makkhitaḥ semhena a makkhitaḥ ruhirena a makkhitaḥ kenacid asucinā suddhaḥ visadā ti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:18.7",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_123:19.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_123:19.2",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, dve udakassa dhārā antalikkhā pātubhavanti—ekā sītassa, ekā uṇhassa; yena bodhisattassa udakakiccaṁ karonti mātu cā’ti.",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchimhā nikkhamati dve udakassa dhārāḥ antalikkhā pātubhavanti ekā sītassa ekā uṇhassa yena bodhisattassa udaka kiccam karonti mātu ca ati ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_123:19.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_123:20.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_123:20.2_0",
+        "original": "‘sampatijāto, ānanda, bodhisatto samehi pādehi pathaviyaṁ patiṭṭhahitvā uttarābhimukho",
+        "analyzed": "sampatijātaḥ ānanda bodhisatto samehi pādehi pathaviyam patiṭṭhahitvā uttara abhimukhaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_123:20.2_1",
+        "original": "sattapadavītihārena gacchati, setamhi chatte anudhāriyamāne, sabbā ca disā viloketi,",
+        "analyzed": "gacchati setamhi chatte anudhāriyamāne sabbā ca disā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_123:20.2_2",
+        "original": "āsabhiñca vācaṁ bhāsati—aggohamasmi lokassa, jeṭṭhohamasmi lokassa, seṭṭhohamasmi",
+        "analyzed": "āsabhiḥ ca vācam bhāsati aggaḥ uham asmi lokassa jeṭṭhaḥ uham asmi lokassa seṭṭhaḥ uham asmi ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_123:20.2_3",
+        "original": "lokassa. Ayamantimā jāti, natthi dāni punabbhavo’ti.",
+        "analyzed": "lokassa ayam antimā jāti natthi dāni punabbhavoti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_123:20.3",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremi.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.1",
+        "original": "Sammukhā metaṁ, bhante, bhagavato sutaṁ, sammukhā paṭiggahitaṁ:",
+        "analyzed": "sammukhā mā ita bhante bhagavato suta sammukhā paṭiggahita ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.2_0",
+        "original": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, atha sadevake loke samārake sabrahmake",
+        "analyzed": "yadā ānanda bodhisattaḥ mātukucchimhā nikkhamati atha sa devake loke sa mārake sa brahmake ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.2_1",
+        "original": "sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso loke pātubhavati",
+        "analyzed": "sa samaṇa brāhmaṇiyā pajāya sa deva manussāya appamāṇaḥ uḷāraḥ obhāsaḥ loke pātubhavati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.2_2",
+        "original": "atikkammeva devānaṁ devānubhāvaṁ.",
+        "analyzed": "atikkamma iva devānam deva anubhāva ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.3_0",
+        "original": "Yāpi tā lokantarikā aghā asaṁvutā andhakārā andhakāratimisā yatthapime candimasūriyā",
+        "analyzed": "yā api tā lokantarikāḥ aghāḥ a savutāḥ andhakārāḥ andhakāra timisāḥ candima sūriyā ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.3_1",
+        "original": "evaṁmahiddhikā evaṁmahānubhāvā ābhāya nānubhonti tatthapi appamāṇo uḷāro obhāso loke",
+        "analyzed": "evam ahiddhikāḥ evam ahā anubhāvāḥ ābhāya na anubhonti tattha api appamāṇaḥ uḷāraḥ obhāsaḥ loke ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.3_2",
+        "original": "pātubhavati atikkammeva devānaṁ devānubhāvaṁ.",
+        "analyzed": "pātubhavati atikkamma iva devānam deva anubhāva ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.4",
+        "original": "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṁ sañjānanti—aññepi kira, bho, santi sattā idhūpapannāti.",
+        "analyzed": "ye pi tattha sattā upapannā te pi tena ubhāsena aññam aññam sañjānanti aññe pi kira bho santi sattāḥ idha upapannā ti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.5",
+        "original": "Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati, appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṁ devānubhāvan’ti.",
+        "analyzed": "ayam ca dasa sahassī lokadhātu saṅkampati sampakampati sampavedhati appamāṇaḥ ca uḷāraḥ obhāsaḥ loke pātubhavati atikkamma iva devānam deva anubhāvanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:21.6",
+        "original": "Yampi, bhante …pe… idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremī”ti.",
+        "analyzed": "yam pi bhante pe idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi iti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_123:22.1",
+        "original": "“Tasmātiha tvaṁ, ānanda, idampi tathāgatassa acchariyaṁ abbhutadhammaṁ dhārehi.",
+        "analyzed": "tasmā ati ha tvaḥ ānanda idam pi tathāgatassa acchariyam abbhuta dhammam dhārehi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_123:22.2",
+        "original": "Idhānanda, tathāgatassa viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti;",
+        "analyzed": "idha ānanda tathāgatassa viditāḥ vedanāḥ uppajjanti viditāḥ upaṭṭhahanti viditāḥ abbhattham gacchanti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_123:22.3",
+        "original": "viditā saññā uppajjanti …pe…",
+        "analyzed": "viditā saññā uppajjanti pe ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_123:22.4",
+        "original": "viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti.",
+        "analyzed": "viditāḥ vitakkāḥ uppajjanti viditāḥ upaṭṭhahanti viditāḥ abbhattham gacchanti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_123:22.5",
+        "original": "Idampi kho tvaṁ, ānanda, tathāgatassa acchariyaṁ abbhutadhammaṁ dhārehī”ti.",
+        "analyzed": "idam api kho tvam ānanda tathāgatassa acchariyam abbhuta dhammam dhārehi iti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.1",
+        "original": "“Yampi, bhante, bhagavato viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti;",
+        "analyzed": "yam pi bhante bhagavataḥ viditāḥ vedanāḥ uppajjanti viditāḥ upaṭṭhahanti viditāḥ abbhattham gacchanti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.2",
+        "original": "viditā saññā …",
+        "analyzed": "viditā saññā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.3",
+        "original": "viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti.",
+        "analyzed": "viditāḥ vitakkāḥ uppajjanti viditāḥ upaṭṭhahanti viditāḥ abbhattham gacchanti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.4",
+        "original": "Idampāhaṁ, bhante, bhagavato acchariyaṁ abbhutadhammaṁ dhāremī”ti.",
+        "analyzed": "idam pāha bhante bhagavataḥ acchariyam abbhuta dhammam dhāremi iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.5",
+        "original": "Idamavoca āyasmā ānando.",
+        "analyzed": "idam avocaḥ āyasmai ānandaḥ ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.6",
+        "original": "Samanuñño satthā ahosi;",
+        "analyzed": "samanuññaḥ satthā ahosi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.7",
+        "original": "attamanā ca te bhikkhū āyasmato ānandassa bhāsitaṁ abhinandunti.",
+        "analyzed": "attamanāḥ ca te bhikkhū āyasmataḥ ānandassa bhāsitam abhinandunti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_123:23.8",
+        "original": "Acchariyaabbhutasuttaṁ niṭṭhitaṁ tatiyaṁ.",
+        "analyzed": "acchariya abbhuta suttam niṭṭhitam tatiya ",
+        "folio": "23"
+    }
+]

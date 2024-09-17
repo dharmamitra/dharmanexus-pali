@@ -1,0 +1,626 @@
+[
+    {
+        "segmentnr": "PA_dt_2.3:0.1",
+        "original": "Dhātukathā",
+        "analyzed": "dhātu kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:0.2",
+        "original": "2 Niddesa",
+        "analyzed": "niddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:0.3",
+        "original": "2.3. Tatiyanaya Asaṅgahitenasaṅgahitapadaniddesa",
+        "analyzed": "tatiya naya asaṅgahitena saṅgahita pada niddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:1.1",
+        "original": "Vedanākkhandhena ye dhammā …",
+        "analyzed": "vedanā khandhena ye dhammā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:1.2",
+        "original": "saññākkhandhena ye dhammā …",
+        "analyzed": "saññā khandhena ye dhammā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:1.3",
+        "original": "saṅkhārakkhandhena ye dhammā …",
+        "analyzed": "saṅkhāra kkhandhena ye dhammāḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:1.4",
+        "original": "samudayasaccena ye dhammā …",
+        "analyzed": "samudaya saccena ye dhammā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:1.5",
+        "original": "maggasaccena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā?",
+        "analyzed": "magga saccena ye dhammā khandha saṅgahena asaṅgahitāḥ āyatana saṅgahena saṅgahitā dhātu saṅgahena saṅgahitā te dhammāḥ katihi khandhehi kati ha āyatanehi katihi dhātūhi saṅgahitā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:1.6",
+        "original": "Te dhammā asaṅkhataṁ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā tīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:2.1",
+        "original": "Nirodhasaccena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "nirodha saccena ye dhammā khandha saṅgahena a saṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:2.2",
+        "original": "te dhammā catūhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammā catūhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:3.1",
+        "original": "Jīvitindriyena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "jīvita indriyena ye dhammā khandha saṅgahena a saṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:3.2",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā dvīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.1",
+        "original": "Itthindriyena ye dhammā …",
+        "analyzed": "itthi indriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.2",
+        "original": "purisindriyena ye dhammā …",
+        "analyzed": "purisa indriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.3",
+        "original": "sukhindriyena ye dhammā …",
+        "analyzed": "sukha indriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.4",
+        "original": "dukkhindriyena ye dhammā …",
+        "analyzed": "dukkha indriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.5",
+        "original": "somanassindriyena ye dhammā …",
+        "analyzed": "somanassindriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.6",
+        "original": "domanassindriyena ye dhammā …",
+        "analyzed": "domanassindriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.7",
+        "original": "upekkhindriyena ye dhammā …",
+        "analyzed": "upekkhindriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.8",
+        "original": "saddhindriyena ye dhammā …",
+        "analyzed": "saddhindriyena ye dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.9",
+        "original": "vīriyindriyena ye dhammā …",
+        "analyzed": "vīriya indriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.10",
+        "original": "satindriyena ye dhammā …",
+        "analyzed": "ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.11",
+        "original": "samādhindriyena ye dhammā …",
+        "analyzed": "samādhi indriyena ye dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.12",
+        "original": "paññindriyena ye dhammā …",
+        "analyzed": "paññindriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.13",
+        "original": "anaññātaññassāmītindriyena ye dhammā …",
+        "analyzed": "anañña ataññassāmi iti indriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.14",
+        "original": "aññindriyena ye dhammā …",
+        "analyzed": "aññindriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.15",
+        "original": "aññātāvindriyena ye dhammā …",
+        "analyzed": "aññātāvindriyena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.16",
+        "original": "avijjāya ye dhammā …",
+        "analyzed": "avijjāya ye dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.17",
+        "original": "avijjāpaccayā saṅkhārena ye dhammā …",
+        "analyzed": "avijjā paccayā saṅkhārena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.18",
+        "original": "saḷāyatanapaccayā phassena ye dhammā …",
+        "analyzed": "saḷāyatana paccayā phassena ye dhammā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.19",
+        "original": "phassapaccayā vedanāya ye dhammā …",
+        "analyzed": "phassa paccayāḥ vedanāya ye dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.20",
+        "original": "vedanāpaccayā taṇhāya ye dhammā …",
+        "analyzed": "vedanā paccayāḥ taṇhāya ye dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.21",
+        "original": "taṇhāpaccayā upādānena ye dhammā … (…)",
+        "analyzed": "taṇhā paccayāḥ upādānena ye dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.22",
+        "original": "kammabhavena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "kamma bhavena ye dhammā khandha saṅgahena a saṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:4.23",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā tīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:5.1",
+        "original": "Jātiyā ye dhammā …",
+        "analyzed": "jātiyā ye dhammā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:5.2",
+        "original": "jarāya ye dhammā …",
+        "analyzed": "jarāya ye dhammā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:5.3",
+        "original": "maraṇena ye dhammā …",
+        "analyzed": "maraṇena ye dhammā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:5.4",
+        "original": "jhānena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "jhānena ye dhammā khandha saṅgahena a saṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:5.5",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā dvīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.1",
+        "original": "Sokena ye dhammā …",
+        "analyzed": "sokena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.2",
+        "original": "dukkhena ye dhammā …",
+        "analyzed": "dukkhena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.3",
+        "original": "domanassena ye dhammā …",
+        "analyzed": "domanassena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.4",
+        "original": "upāyāsena ye dhammā …",
+        "analyzed": "upāyāsena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.5",
+        "original": "satipaṭṭhānena ye dhammā …",
+        "analyzed": "sati paṭṭhānena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.6",
+        "original": "sammappadhānena ye dhammā …",
+        "analyzed": "sammappadhānena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.7",
+        "original": "appamaññāya ye dhammā …",
+        "analyzed": "appamaññāya ye dhammāḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.8",
+        "original": "pañcahi indriyehi ye dhammā …",
+        "analyzed": "pañcahi indriyehi ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.9",
+        "original": "pañcahi balehi ye dhammā …",
+        "analyzed": "pañcahi balehi ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.10",
+        "original": "sattahi bojjhaṅgehi ye dhammā …",
+        "analyzed": "sattahi bojjhaṅgehi ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.11",
+        "original": "ariyena aṭṭhaṅgikena maggena ye dhammā …",
+        "analyzed": "ariyena aṭṭhaṅgikena maggena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.12",
+        "original": "phassena ye dhammā …",
+        "analyzed": "phassena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.13",
+        "original": "vedanāya ye dhammā …",
+        "analyzed": "vedanāya ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.14",
+        "original": "saññāya ye dhammā …",
+        "analyzed": "saññāya ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.15",
+        "original": "cetanāya ye dhammā …",
+        "analyzed": "cetanāya ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.16",
+        "original": "adhimokkhena ye dhammā …",
+        "analyzed": "adhimokkhena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.17",
+        "original": "manasikārena ye dhammā …",
+        "analyzed": "manasikārena ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.18",
+        "original": "hetūhi dhammehi ye dhammā …",
+        "analyzed": "hetūhi dhammehi ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.19",
+        "original": "hetūhi ceva sahetukehi ca dhammehi ye dhammā …",
+        "analyzed": "hetūhi ca iva sa hetukehi ca dhammehi ye dhammā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.20",
+        "original": "hetūhi ceva hetusampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "hetūhi ca iva hetu sampayuttehi ca dhammehi ye dhammā khandha saṅgahena asaṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:6.21",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā tīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:7.1",
+        "original": "Appaccayehi dhammehi ye dhammā …",
+        "analyzed": "appaccayehi dhammehi ye dhammā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:7.2",
+        "original": "asaṅkhatehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "asaṅkhatehi dhammehi ye dhammā khandha saṅgahena asaṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:7.3",
+        "original": "te dhammā catūhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammā catūhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:8.1",
+        "original": "Āsavehi dhammehi ye dhammā …",
+        "analyzed": "āsavehi dhammehi ye dhammā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:8.2",
+        "original": "āsavehi ceva sāsavehi ca dhammehi ye dhammā …",
+        "analyzed": "āsavehi ca iva sa āsavehi ca dhammehi ye dhammā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:8.3",
+        "original": "āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …",
+        "analyzed": "āsavehi ca iva āsava sampayuttehi ca dhammehi ye dhammā khandha saṅgahena asaṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:8.4",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā tīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.1",
+        "original": "Saṁyojanehi …",
+        "analyzed": "sayojanehi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.2",
+        "original": "ganthehi …",
+        "analyzed": "ganthehi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.3",
+        "original": "oghehi …",
+        "analyzed": "oghehi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.4",
+        "original": "yogehi …",
+        "analyzed": "yogehi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.5",
+        "original": "nīvaraṇehi …",
+        "analyzed": "nīvaraṇehi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.6",
+        "original": "parāmāsehi dhammehi ye dhammā …",
+        "analyzed": "parāmāsehi dhammehi ye dhammā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.7",
+        "original": "parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …",
+        "analyzed": "parāmāsehi ca iva parāmaṭṭhehi ca dhammehi ye dhammā khandha saṅgahena asaṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:9.8",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā tīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.1",
+        "original": "Cetasikehi dhammehi ye dhammā …",
+        "analyzed": "cetasikehi dhammehi ye dhammā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.2",
+        "original": "cittasampayuttehi dhammehi ye dhammā …",
+        "analyzed": "citta sampayuttehi dhammehi ye dhammā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.3",
+        "original": "cittasaṁsaṭṭhehi dhammehi ye dhammā …",
+        "analyzed": "citta sasaṭṭhehi dhammehi ye dhammā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.4",
+        "original": "cittasaṁsaṭṭhasamuṭṭhānehi dhammehi ye dhammā …",
+        "analyzed": "citta sasaṭṭha samuṭṭhānehi dhammehi ye dhammāḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.5",
+        "original": "cittasaṁsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā …",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna sahabhūhi dhammehi ye dhammāḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.6",
+        "original": "cittasaṁsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna anuparivattīhi dhammehi ye dhammā khandha saṅgahena a saṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:10.7",
+        "original": "te dhammā asaṅkhataṁ khandhato ṭhapetvā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā ekena khandhena ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:11.1",
+        "original": "Cittasahabhūhi dhammehi ye dhammā …",
+        "analyzed": "citta sahabhūhi dhammehi ye dhammā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:11.2",
+        "original": "cittānuparivattīhi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā …pe…",
+        "analyzed": "citta anuparivattīhi dhammehi ye dhammā khandha saṅgahena a saṅgahitāḥ āyatana saṅgahena saṅgahitāḥ dhātu saṅgahena saṅgahitā pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:11.3",
+        "original": "te dhammā na kehici khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammā na kehici khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.1",
+        "original": "Upādānehi dhammehi ye dhammā …",
+        "analyzed": "upādānehi dhammehi ye dhammā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.2",
+        "original": "kilesehi dhammehi ye dhammā …",
+        "analyzed": "kilesehi dhammehi ye dhammā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.3",
+        "original": "kilesehi ceva saṅkilesikehi ca dhammehi ye dhammā …",
+        "analyzed": "kilesehi ca iva saṅkilesikehi ca dhammehi ye dhammā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.4",
+        "original": "kilesehi ceva saṅkiliṭṭhehi ca dhammehi ye dhammā …",
+        "analyzed": "kilesehi ca iva saṅkiliṭṭhehi ca dhammehi ye dhammā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.5_0",
+        "original": "kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā",
+        "analyzed": "kilesehi ca iva kilesa sampayuttehi ca dhammehi ye dhammā khandha saṅgahena asaṅgahitā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.5_1",
+        "original": "āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi",
+        "analyzed": "āyatana saṅgahena saṅgahitā dhātu saṅgahena saṅgahitā te dhammā katihi khandhehi kati hāyatanehi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.5_2",
+        "original": "katihi dhātūhi saṅgahitā?",
+        "analyzed": "katihi dhātūhi saṅgahitā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:12.6",
+        "original": "Te dhammā asaṅkhataṁ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.",
+        "analyzed": "te dhammāḥ asaṅkhatam khandhataḥ ṭhapetvā tīhi khandhehi ekena āyatanena ekāya dhātuyā saṅgahitā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:13.1",
+        "original": "Tayo khandhā tathā saccā,",
+        "analyzed": "tayo khandhā tathā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:13.2",
+        "original": "indriyāni ca soḷasa;",
+        "analyzed": "indriyāni ca soḷasa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:13.3",
+        "original": "Padāni paccayākāre,",
+        "analyzed": "padāni paccaya ākāre ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:13.4",
+        "original": "cuddasūpari cuddasa.",
+        "analyzed": "cuddasu upari cuddasa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:14.1",
+        "original": "Samatiṁsa padā honti,",
+        "analyzed": "samati sa padāḥ honti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:14.2",
+        "original": "gocchakesu dasasvatha;",
+        "analyzed": "gocchakesu dasasu atha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:14.3",
+        "original": "Duve cūḷantaradukā,",
+        "analyzed": "duve cūḍantaradukā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:14.4",
+        "original": "aṭṭha honti mahantarāti. [90]",
+        "analyzed": "aṭṭha honti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_dt_2.3:15.1",
+        "original": "Asaṅgahitena saṅgahitapadaniddeso tatiyo.",
+        "analyzed": "asaṅgahitena saṅgahita pada niddeso tatiyo ",
+        "folio": "15"
+    }
+]

@@ -1,0 +1,782 @@
+[
+    {
+        "segmentnr": "PA_ds_1.3:0.1",
+        "original": "Dhammasaṅgaṇī",
+        "analyzed": "dhammasaṅgaṇī ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:0.2",
+        "original": "Suttantikadukamātikā",
+        "analyzed": "      ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:1.0",
+        "original": "1. Vijjābhāgīduka",
+        "analyzed": "vijjābhāgīduka ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:1.1",
+        "original": "Vijjābhāgino dhammā. (1303)",
+        "analyzed": "vijjā bhāginaḥ dhammā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:2.1",
+        "original": "Avijjābhāgino dhammā. (1304)",
+        "analyzed": "avijjā bhāginaḥ dhammā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:3.0",
+        "original": "2. Vijjūpamaduka",
+        "analyzed": "vijjūpamaduka ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:3.1",
+        "original": "Vijjūpamā dhammā. (1305)",
+        "analyzed": "vijju upamāḥ dhammāḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:4.1",
+        "original": "Vajirūpamā dhammā. (1306)",
+        "analyzed": "vaji rūpamāḥ dhammāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:5.0",
+        "original": "3. Bāladuka",
+        "analyzed": "bāladuka ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:5.1",
+        "original": "Bālā dhammā. (1307)",
+        "analyzed": "bālāḥ dhammāḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:6.1",
+        "original": "Paṇḍitā dhammā. (1308)",
+        "analyzed": "paṇḍitāḥ dhammāḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:7.0",
+        "original": "4. Kaṇhaduka",
+        "analyzed": "kaṇhaduka ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:7.1",
+        "original": "Kaṇhā dhammā. (1309)",
+        "analyzed": "kaṇhāḥ dhammāḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:8.1",
+        "original": "Sukkā dhammā. (1310)",
+        "analyzed": "sukkāḥ dhammāḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:9.0",
+        "original": "5. Tapanīyaduka",
+        "analyzed": "tapanīya duka ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:9.1",
+        "original": "Tapanīyā dhammā. (1311)",
+        "analyzed": "tapanīyāḥ dhammāḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:10.1",
+        "original": "Atapanīyā dhammā. (1312)",
+        "analyzed": "a tapanīyāḥ dhammāḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:11.0",
+        "original": "6. Adhivacanaduka",
+        "analyzed": "adhivacana duka ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:11.1",
+        "original": "Adhivacanā dhammā. (1313)",
+        "analyzed": "adhivacanā dhammā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:12.1",
+        "original": "Adhivacanapathā dhammā. (1313)",
+        "analyzed": "adhivacana pathāḥ dhammāḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:13.0",
+        "original": "7. Niruttiduka",
+        "analyzed": "nirutti duka ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:13.1",
+        "original": "Nirutti dhammā. (1314)",
+        "analyzed": "nirutti dhammā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:14.1",
+        "original": "Niruttipathā dhammā. (1314)",
+        "analyzed": "nirutti pathāḥ dhammāḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:15.0",
+        "original": "8. Paññattiduka",
+        "analyzed": "paññatti duka ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:15.1",
+        "original": "Paññatti dhammā. (1315)",
+        "analyzed": "paññatti dhammā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:16.1",
+        "original": "Paññattipathā dhammā. (1315)",
+        "analyzed": "paññatti pathāḥ dhammāḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:17.0",
+        "original": "9. Nāmaduka",
+        "analyzed": "nāmaduka ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:17.1",
+        "original": "Nāmañca. (1316)",
+        "analyzed": "nāman ca ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:18.1",
+        "original": "Rūpañca. (1317)",
+        "analyzed": "rūpam ca ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:19.0",
+        "original": "10. Avijjāduka",
+        "analyzed": "avijjāduka ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:19.1",
+        "original": "Avijjā ca. (1318)",
+        "analyzed": "avijjā ca ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:20.1",
+        "original": "Bhavataṇhā ca. (1319)",
+        "analyzed": "bhavataṇhā ca ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:21.0",
+        "original": "11. Bhavadiṭṭhiduka",
+        "analyzed": "bhavat iṭṭhi duka ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:21.1",
+        "original": "Bhavadiṭṭhi ca. (1320)",
+        "analyzed": "bhava diṭṭhi ca ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:22.1",
+        "original": "Vibhavadiṭṭhi ca. (1321)",
+        "analyzed": "vibhava diṭṭhi ca ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:23.0",
+        "original": "12. Sassatadiṭṭhiduka",
+        "analyzed": "sa ssa ta diṭṭhi duka ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:23.1",
+        "original": "Sassatadiṭṭhi ca. (1322)",
+        "analyzed": "sassata diṭṭhi ca ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:24.1",
+        "original": "Ucchedadiṭṭhi ca. (1323)",
+        "analyzed": "uccheda diṭṭhi ca ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:25.0",
+        "original": "13. Antavādiṭṭhiduka",
+        "analyzed": "anta vā diṭṭhi duka ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:25.1",
+        "original": "Antavā diṭṭhi ca. (1324)",
+        "analyzed": "antavā diṭṭhi ca ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:26.1",
+        "original": "Anantavā diṭṭhi ca. (1325)",
+        "analyzed": "anantavā diṭṭhi ca ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:27.0",
+        "original": "14. Pubbantānudiṭṭhiduka",
+        "analyzed": "pubba anta anudiṭṭhi duka ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:27.1",
+        "original": "Pubbantānudiṭṭhi ca. (1326)",
+        "analyzed": "pubbanta anudiṭṭhi ca ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:28.1",
+        "original": "Aparantānudiṭṭhi ca. (1327)",
+        "analyzed": "aparanta anudiṭṭhi ca ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:29.0",
+        "original": "15. Ahirikaduka",
+        "analyzed": "ahirikaduka ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:29.1",
+        "original": "Ahirikañca. (1328)",
+        "analyzed": "ahirikam ca ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:30.1",
+        "original": "Anottappañca. (1329)",
+        "analyzed": "an uttappan ca ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:31.0",
+        "original": "16. Hiriduka",
+        "analyzed": "hiriduka ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:31.1",
+        "original": "Hirī ca. (1330)",
+        "analyzed": "hi rī ca ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:32.1",
+        "original": "Ottappañca. (1331)",
+        "analyzed": "ottappañca ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:33.0",
+        "original": "17. Dovacassatāduka",
+        "analyzed": "do vacaḥ sata āduka ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:33.1",
+        "original": "Dovacassatā ca. (1332)",
+        "analyzed": "dovacassatā ca ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:34.1",
+        "original": "Pāpamittatā ca. (1333)",
+        "analyzed": "pāpa mitta tā ca ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:35.0",
+        "original": "18. Sovacassatāduka",
+        "analyzed": "so vacaḥ sa ta āduka ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:35.1",
+        "original": "Sovacassatā ca. (1334)",
+        "analyzed": "sovacassatā ca ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:36.1",
+        "original": "Kalyāṇamittatā ca. (1335)",
+        "analyzed": "kalyāṇa mitta tā ca ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:37.0",
+        "original": "19. Āpattikusalatāduka",
+        "analyzed": "āpatti kusala tā duka ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:37.1",
+        "original": "Āpattikusalatā ca. (1336)",
+        "analyzed": "āpatti kusala tā ca ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:38.1",
+        "original": "Āpattivuṭṭhānakusalatā ca. (1337)",
+        "analyzed": "āpatti vuṭṭhāna kusala tā ca ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:39.0",
+        "original": "20. Samāpattikusalatāduka",
+        "analyzed": "      ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:39.1",
+        "original": "Samāpattikusalatā ca. (1338)",
+        "analyzed": "samāpatti kusala tā ca ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:40.1",
+        "original": "Samāpattivuṭṭhānakusalatā ca. (1339)",
+        "analyzed": "samāpatti vuṭṭhāna kusala tā ca ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:41.0",
+        "original": "21. Dhātukusalatāduka",
+        "analyzed": "dhātu kusala tāduka ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:41.1",
+        "original": "Dhātukusalatā ca. (1340)",
+        "analyzed": "dhātu kusala tā ca ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:42.1",
+        "original": "Manasikārakusalatā ca. (1341)",
+        "analyzed": "manasikāra kusala tā ca ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:43.0",
+        "original": "22. Āyatanakusalatāduka",
+        "analyzed": "āyatana kusala tāduka ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:43.1",
+        "original": "Āyatanakusalatā ca. (1342)",
+        "analyzed": "āyatana kusala tā ca ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:44.1",
+        "original": "Paṭiccasamuppādakusalatā ca. (1343)",
+        "analyzed": "paṭiccasamuppāda kusala tā ca ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:45.0",
+        "original": "23. Ṭhānakusalatāduka",
+        "analyzed": "ṭhāna kusala tāduka ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:45.1",
+        "original": "Ṭhānakusalatā ca. (1344)",
+        "analyzed": "ṭhāna kusala tā ca ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:46.1",
+        "original": "Aṭṭhānakusalatā ca. (1345)",
+        "analyzed": "aṭṭhāna kusala tā ca ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:47.0",
+        "original": "24. Ajjavaduka",
+        "analyzed": "ajjavaduka ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:47.1",
+        "original": "Ajjavo ca. (1346)",
+        "analyzed": "ajjavaḥ ca ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:48.1",
+        "original": "Maddavo ca. (1347)",
+        "analyzed": "maddavaḥ ca ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:49.0",
+        "original": "25. Khantiduka",
+        "analyzed": "khantiduka ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:49.1",
+        "original": "Khanti ca. (1348)",
+        "analyzed": "khanti ca ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:50.1",
+        "original": "Soraccañca. (1349)",
+        "analyzed": "soḥ raccan ca ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:51.0",
+        "original": "26. Sākhalyaduka",
+        "analyzed": "sākhalyaduka ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:51.1",
+        "original": "Sākhalyañca. (1350)",
+        "analyzed": "sākhalyam ca ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:52.1",
+        "original": "Paṭisanthāro ca. (1351)",
+        "analyzed": "paṭisanthāro ca ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:53.0",
+        "original": "27. Indriyesuaguttadvāratāduka",
+        "analyzed": "      ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:53.1",
+        "original": "Indriyesuaguttadvāratā ca. (1352)",
+        "analyzed": "ca ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:54.1",
+        "original": "Bhojane amattaññutā ca. (1353)",
+        "analyzed": "bhojane amattaññu tā ca ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:55.0",
+        "original": "28. Indriyesuguttadvāratāduka",
+        "analyzed": "indriya ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:55.1",
+        "original": "Indriyesu guttadvāratā ca. (1354)",
+        "analyzed": "indriyesu gutta dvāra tā ca ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:56.1",
+        "original": "Bhojane mattaññutā ca. (1355)",
+        "analyzed": "bhojane mattaññu tā ca ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:57.0",
+        "original": "29. Muṭṭhasaccaduka",
+        "analyzed": "muṭṭha sacca duka ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:57.1",
+        "original": "Muṭṭhasaccañca. (1356)",
+        "analyzed": "muṭṭha saccam ca ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:58.1",
+        "original": "Asampajaññañca. (1357)",
+        "analyzed": "a sampajaññam ca ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:59.0",
+        "original": "30. Satisampajaññaduka",
+        "analyzed": "sati sampa jañña duka ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:59.1",
+        "original": "Sati ca. (1358)",
+        "analyzed": "sati ca ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:60.1",
+        "original": "Sampajaññañca. (1359)",
+        "analyzed": "sampajaññam ca ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:61.0",
+        "original": "31. Paṭisaṅkhānabaladuka",
+        "analyzed": "paṭisaṅkhāna baladuka ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:61.1",
+        "original": "Paṭisaṅkhānabalañca. (1360)",
+        "analyzed": "paṭisaṅkhāna balam ca ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:62.1",
+        "original": "Bhāvanābalañca. (1361)",
+        "analyzed": "bhāvanā balañca ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:63.0",
+        "original": "32. Samathavipassanāduka",
+        "analyzed": "samatha vipassana āduka ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:63.1",
+        "original": "Samatho ca. (1362)",
+        "analyzed": "sam atha u ca ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:64.1",
+        "original": "Vipassanā ca. (1363)",
+        "analyzed": "vipassanā ca ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:65.0",
+        "original": "33. Samathanimittaduka",
+        "analyzed": "samatha nimitta duka ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:65.1",
+        "original": "Samathanimittañca. (1364)",
+        "analyzed": "samatha nimittam ca ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:66.1",
+        "original": "Paggāhanimittañca. (1365)",
+        "analyzed": "paggāha nimittam ca ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:67.0",
+        "original": "34. Paggāhaduka",
+        "analyzed": "paggāha duka ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:67.1",
+        "original": "Paggāho ca. (1366)",
+        "analyzed": "paggāhaḥ ca ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:68.1",
+        "original": "Avikkhepo ca. (1367)",
+        "analyzed": "avikkhepaḥ ca ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:69.0",
+        "original": "35. Sīlavipattiduka",
+        "analyzed": "  ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:69.1",
+        "original": "Sīlavipatti ca. (1368)",
+        "analyzed": "sīla vipatti ca ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:70.1",
+        "original": "Diṭṭhivipatti ca. (1369)",
+        "analyzed": "diṭṭhi vipatti ca ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:71.0",
+        "original": "36. Sīlasampadāduka",
+        "analyzed": "sīla sampad āduka ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:71.1",
+        "original": "Sīlasampadā ca. (1370)",
+        "analyzed": "sīla sampadā ca ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:72.1",
+        "original": "Diṭṭhisampadā ca. (1371)",
+        "analyzed": "diṭṭhi sampadā ca ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:73.0",
+        "original": "37. Sīlavisuddhiduka",
+        "analyzed": "  ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:73.1",
+        "original": "Sīlavisuddhi ca. (1372)",
+        "analyzed": "ca ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:74.1",
+        "original": "Diṭṭhivisuddhi ca. (1373)",
+        "analyzed": "ca ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:75.0",
+        "original": "38. Diṭṭhivisuddhikhopanaduka",
+        "analyzed": "diṭṭhi visuddhi khopana duka ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:75.1",
+        "original": "Diṭṭhivisuddhikhopana. (1374)",
+        "analyzed": "diṭṭhi visuddhi khopana ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:76.1",
+        "original": "Yathādiṭṭhissa ca padhānaṁ. (1375)",
+        "analyzed": "yathā ādiṭṭhissa ca padhāna ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:77.0",
+        "original": "39. Saṁvegasaṁvejananiyaṭṭhānaduka",
+        "analyzed": "sa vega sa vejana niyaṭṭhāna duka ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:77.1",
+        "original": "Saṁvego ca saṁvejaniyesu ṭhānesu. (1376)",
+        "analyzed": "ca sa vejaniyesu ṭhānesu ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:78.1",
+        "original": "Saṁviggassa ca yoniso padhānaṁ. (1377)",
+        "analyzed": "saviggassa ca yonisaḥ ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:79.0",
+        "original": "40. Asantuṭṭhitākusaladhammaduka",
+        "analyzed": "a santuṭṭhita akusala dhamma duka ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:79.1",
+        "original": "Asantuṭṭhitā ca kusalesu dhammesu. (1378)",
+        "analyzed": "a santuṭṭhi tā ca kusalesu dhammesu ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:80.1",
+        "original": "Appaṭivānitā ca padhānasmiṁ. (1379)",
+        "analyzed": "appaṭivānitā ca ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:81.0",
+        "original": "41. Vijjāduka",
+        "analyzed": "vijjāduka ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:81.1",
+        "original": "Vijjā ca. (1380)",
+        "analyzed": "vijjā ca ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:82.1",
+        "original": "Vimutti ca. (1381)",
+        "analyzed": "vimutti ca ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:83.0",
+        "original": "42. Khayeñāṇaduka",
+        "analyzed": "kha ya iñ āṇa duka ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:83.1",
+        "original": "Khayeñāṇaṁ. (1382)",
+        "analyzed": "khayeñāṇa ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:84.1",
+        "original": "Anuppāde ñāṇanti. (1383)",
+        "analyzed": "anuppāde ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:84.2",
+        "original": "Suttantikadukamātikā.",
+        "analyzed": "      ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ds_1.3:84.3",
+        "original": "Mātikā niṭṭhitā.",
+        "analyzed": "mātikā niṭṭhitā ",
+        "folio": "84"
+    }
+]

@@ -1,0 +1,980 @@
+[
+    {
+        "segmentnr": "PA_patthana_1.18:0.1",
+        "original": "Paṭṭhānapakaraṇa",
+        "analyzed": "paṭṭhāna pakaraṇa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:0.2",
+        "original": "Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)",
+        "analyzed": "dhamma anuloma tika paṭṭhāna pāḷi ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:0.3",
+        "original": "1.18. Uppannattika",
+        "analyzed": "uppanna ttika ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:1.0.1",
+        "original": "Vibhaṅgavāra",
+        "analyzed": "vibhaṅgavāra ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:1.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:1.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa hetupaccayena paccayo—uppannā hetū sampayuttakānaṁ",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa hetu paccayena paccayo uppannāḥ hetū sampayuttakāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:1.1_1",
+        "original": "khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. Paṭisandhikkhaṇe uppannā",
+        "analyzed": "khandhānam citta samuṭṭhānānañca rūpānam hetu paccayena paccayaḥ paṭisandhi kkhaṇe uppannā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:1.1_2",
+        "original": "hetū sampayuttakānaṁ khandhānaṁ kaṭattā ca rūpānaṁ hetupaccayena paccayo.",
+        "analyzed": "hetū sampayuttakānam khandhānam kaṭattā ca rūpānam hetu paccayena paccayaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.0",
+        "original": "Ārammaṇa",
+        "analyzed": "ārammaṇa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—uppannaṁ cakkhuṁ aniccato",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa ārammaṇa paccayena paccayo uppannam cakkhum aniccato ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_1",
+        "original": "dukkhato anattato vipassati, assādeti abhinandati, taṁ ārabbha rāgo uppajjati, diṭṭhi",
+        "analyzed": "dukkhataḥ anattataḥ vipassati assādeti abhinandati tam ārabbha rāgaḥ uppajjati diṭṭhi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_2",
+        "original": "uppajjati, vicikicchā …pe… uddhaccaṁ …pe… domanassaṁ uppajjati. Uppannaṁ sotaṁ …",
+        "analyzed": "uppajjati vicikicchā pe uddhaccam pe domanassam uppajjati uppannam sotam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_3",
+        "original": "ghānaṁ … jivhaṁ … kāyaṁ … rūpe … sadde … gandhe … rase … phoṭṭhabbe … vatthuṁ … uppanne",
+        "analyzed": "ghānam jivham kāyam rūpe sadde gandhe rase phoṭṭhabbe vatthum uppanne ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_4",
+        "original": "khandhe aniccato dukkhato anattato vipassati …pe… domanassaṁ uppajjati. Dibbena cakkhunā",
+        "analyzed": "khandhe aniccataḥ dukkhataḥ anattataḥ vipassati pe domanassam uppajjati dibbena cakkhunā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_5",
+        "original": "rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa …pe…",
+        "analyzed": "rūpam passati dibbāya sotadhātuyā saddam suṇāti rūpa āyatanam cakkhu viññāṇassa pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_6",
+        "original": "phoṭṭhabbāyatanaṁ kāyaviññāṇassa …pe… uppannā khandhā iddhividhañāṇassa, āvajjanāya",
+        "analyzed": "phoṭṭhabba āyatanam kāya viññāṇassa pe uppannā khandhāḥ iddhividha ñāṇassa āvajjanāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:2.1_7",
+        "original": "ārammaṇapaccayena paccayo.",
+        "analyzed": "ārammaṇa paccayena paccayaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:3.1_0",
+        "original": "Anuppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—anuppanne rūpe …",
+        "analyzed": "anuppannaḥ dhammaḥ uppannassa dhammassa ārammaṇa paccayena paccayaḥ anuppanne rūpe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:3.1_1",
+        "original": "sadde … gandhe … rase … phoṭṭhabbe … anuppanne khandhe aniccato dukkhato anattato",
+        "analyzed": "sadde gandhe rase phoṭṭhabbe anuppanne khandhe aniccataḥ dukkhataḥ anattataḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:3.1_2",
+        "original": "vipassati …pe… domanassaṁ uppajjati. Anuppannā khandhā iddhividhañāṇassa, cetopariyañāṇassa,",
+        "analyzed": "vipassati pe domanassam uppajjati anuppannā khandhāḥ iddhividha ñāṇassa cetas pariya ñāṇassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:3.1_3",
+        "original": "anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo.",
+        "analyzed": "anāgata sañāṇassa āvajjanāya ārammaṇa paccayena paccayo ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:4.1_0",
+        "original": "Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—uppādiṁ cakkhuṁ …pe…",
+        "analyzed": "uppādī dhammaḥ uppannassa dhammassa ārammaṇa paccayena paccayouppādim cakkhum pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:4.1_1",
+        "original": "kāyaṁ … rūpe … gandhe … rase … phoṭṭhabbe … vatthuṁ … uppādī khandhe aniccato dukkhato",
+        "analyzed": "kāyam rūpe gandhe rase phoṭṭhabbe vatthum uppādī khandhe aniccataḥ dukkhataḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:4.1_2",
+        "original": "anattato …pe… domanassaṁ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa,",
+        "analyzed": "anattataḥ pe domanassam uppajjati uppādī khandhāḥ iddhividha ñāṇassa cetopariya ñāṇassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:4.1_3",
+        "original": "anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo.",
+        "analyzed": "anāgata sañāṇassa āvajjanāya ārammaṇa paccayena paccayo ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.0",
+        "original": "Adhipati",
+        "analyzed": "adhipati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati.",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa adhipati paccayena paccayaḥ ārammaṇa adhipati sahajāta adhipati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.1_1",
+        "original": "Ārammaṇādhipati—uppannaṁ cakkhuṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā",
+        "analyzed": "ārammaṇa adhipati uppannam cakkhum garum katvā assādeti abhinandati tam garum katvā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.1_2",
+        "original": "rāgo uppajjati, diṭṭhi uppajjati. Uppannaṁ sotaṁ … ghānaṁ … jivhaṁ … kāyaṁ … rūpe",
+        "analyzed": "rāgaḥ uppajjati diṭṭhi uppajjati uppannam sotam ghānam jivham kāyam rūpe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.1_3",
+        "original": "… sadde … gandhe … rase … phoṭṭhabbe … vatthuṁ … uppanne khandhe garuṁ katvā assādeti",
+        "analyzed": "sadde gandhe rase phoṭṭhabbe vatthum uppanne khandhe garum katvā assādeti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.1_4",
+        "original": "abhinandati, taṁ garuṁ katvā rāgo uppajjati …pe…. Sahajātādhipati—uppannā adhipati",
+        "analyzed": "abhinandati tam garum katvā rāgaḥ uppajjati pe sahajāta adhipati uppannāḥ adhipati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:5.1_5",
+        "original": "sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo.",
+        "analyzed": "sampayuttakānam khandhānam citta samuṭṭhānānañca rūpānam adhipati paccayena paccayaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:6.1_0",
+        "original": "Anuppanno dhammo uppannassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati—anuppanne",
+        "analyzed": "anuppannaḥ dhammaḥ uppannassa dhammassa adhipati paccayena paccayaḥ ārammaṇa adhipati anuppanne ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:6.1_1",
+        "original": "rūpe … sadde … gandhe … rase … phoṭṭhabbe … anuppanne khandhe garuṁ katvā assādeti",
+        "analyzed": "rūpe sadde gandhe rase phoṭṭhabbe anuppanne khandhe garum katvā assādeti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:6.1_2",
+        "original": "abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati.",
+        "analyzed": "abhinandati tam garum katvā rāgaḥ uppajjati diṭṭhi uppajjati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:7.1_0",
+        "original": "Uppādī dhammo uppannassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati—uppādiṁ",
+        "analyzed": "uppādī dhammaḥ uppannassa dhammassa adhipati paccayena paccayaḥ ārammaṇa adhipati uppādi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:7.1_1",
+        "original": "cakkhuṁ …pe… kāyaṁ … rūpe …pe… phoṭṭhabbe … vatthuṁ … uppādī khandhe garuṁ katvā",
+        "analyzed": "cakkhum pe kāyam rūpe pe phoṭṭhabbe vatthum uppādī khandhe garum katvā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:7.1_2",
+        "original": "assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati.",
+        "analyzed": "assādeti abhinandati tam garum katvā rāgaḥ uppajjati diṭṭhi uppajjati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.0",
+        "original": "Sahajāta",
+        "analyzed": "sahajāta ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa sahajātapaccayena paccayo—uppanno eko khandho",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa sahajāta paccayena paccayo uppannaḥ ekaḥ khandho ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_1",
+        "original": "tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ sahajātapaccayena paccayo …pe…",
+        "analyzed": "tiṇṇannam khandhānam citta samuṭṭhānānaṃ ca rūpānam sahajāta paccayena paccayaḥ pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_2",
+        "original": "dve khandhā dvinnaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ sahajātapaccayena paccayo.",
+        "analyzed": "dve khandhāḥ dvinnam khandhānam citta samuṭṭhānānam ca rūpānam sahajāta paccayena paccayaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_3",
+        "original": "Paṭisandhikkhaṇe uppanno eko khandho tiṇṇannaṁ khandhānaṁ kaṭattā ca rūpānaṁ sahajātapaccayena",
+        "analyzed": "paṭisandhi khaṇe uppannaḥ ekaḥ khandhaḥ tiṇṇannam khandhānam kaṭattā ca rūpānam sahajāta paccayena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_4",
+        "original": "paccayo …pe… dve khandhā dvinnaṁ khandhānaṁ kaṭattā ca rūpānaṁ sahajātapaccayena",
+        "analyzed": "paccayaḥ pe dve khandhāḥ dvinnam khandhānam kaṭattā ca rūpānam sahajāta paccayena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_5",
+        "original": "paccayo. Khandhā vatthussa sahajātapaccayena paccayo. Vatthu khandhānaṁ sahajātapaccayena",
+        "analyzed": "paccayaḥ khandhāḥ vatthussa sahajāta paccayena paccayaḥ vatthu khandhānam sahajāta paccayena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_6",
+        "original": "paccayo. Ekaṁ mahābhūtaṁ tiṇṇannaṁ mahābhūtānaṁ sahajātapaccayena paccayo …pe… dve",
+        "analyzed": "paccayaḥ ekam mahābhūtam tiṇṇannam mahābhūtānam sahajāta paccayena paccayaḥ pe dve ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_7",
+        "original": "mahābhūtā …pe… mahābhūtā cittasamuṭṭhānānaṁ rūpānaṁ kaṭattārūpānaṁ upādārūpānaṁ sahajātapaccayena",
+        "analyzed": "mahābhūtā pe mahābhūtā citta samuṭṭhānānam rūpānam kaṭattā rūpānam upādā rūpānam sahajāta paccayena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_8",
+        "original": "paccayo. bāhiraṁ … āhārasamuṭṭhānaṁ … utusamuṭṭhānaṁ … asaññasattānaṁ ekaṁ mahābhūtaṁ",
+        "analyzed": "paccayaḥ bāhiram āhāra samuṭṭhānam utu samuṭṭhānam asaññasattānam ekam mahābhūta ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:8.1_9",
+        "original": "…pe… dve mahābhūtā …pe… mahābhūtā kaṭattārūpānaṁ upādārūpānaṁ sahajātapaccayena paccayo.",
+        "analyzed": "pe dve mahābhūtā pe mahābhūtā kaṭattā rūpānaṃ upādā rūpānaṃ sahajāta paccayena paccayo ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.0",
+        "original": "Aññamañña",
+        "analyzed": "aññamañña ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa aññamaññapaccayena paccayo—uppanno eko khandho",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa aññamañña paccayena paccayaḥ uppannaḥ ekaḥ khandho ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_1",
+        "original": "tiṇṇannaṁ khandhānaṁ aññamaññapaccayena paccayo …pe… dve khandhā …pe… paṭisandhikkhaṇe",
+        "analyzed": "tiṇṇannam khandhānam aññamañña paccayena paccayaḥ pe dve khandhā pe paṭisandhi kkhaṇe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_2",
+        "original": "uppanno eko khandho tiṇṇannaṁ khandhānaṁ vatthussa ca aññamaññapaccayena paccayo.",
+        "analyzed": "uppannaḥ ekaḥ khandho tiṇṇannam khandhānam vatthussa ca aññamañña paccayena paccayaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_3",
+        "original": "Dve khandhā …pe… khandhā vatthussa aññamaññapaccayena paccayo. Vatthu khandhānaṁ",
+        "analyzed": "dve khandhā pe khandhā vatthussa aññamañña paccayena paccayaḥ vatthu khandhāna ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_4",
+        "original": "aññamaññapaccayena paccayo. Ekaṁ mahābhūtaṁ …pe… bāhiraṁ … āhārasamuṭṭhānaṁ … utusamuṭṭhānaṁ",
+        "analyzed": "aññamañña paccayena paccayaḥ ekam mahābhūtam pe bāhiram āhāra samuṭṭhānam utu samuṭṭhāna ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_5",
+        "original": "… asaññasattānaṁ ekaṁ mahābhūtaṁ tiṇṇannaṁ mahābhūtānaṁ aññamaññapaccayena paccayo",
+        "analyzed": "asaññasattānam ekam mahābhūtam tiṇṇannam mahābhūtānam aññamañña paccayena paccayaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:9.1_6",
+        "original": "…pe… dve mahābhūtā …pe….",
+        "analyzed": "pe dve mahābhūtā pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.0",
+        "original": "Nissaya",
+        "analyzed": "nissaya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa nissayapaccayena paccayo—uppanno eko khandho",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa nissaya paccayena paccayo uppannaḥ ekaḥ khandho ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_1",
+        "original": "tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ nissayapaccayena paccayo …pe… dve",
+        "analyzed": "tiṇṇannam khandhānam citta samuṭṭhānānaṃ ca rūpānaṃ nissaya paccayena paccayaḥ pe dve ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_2",
+        "original": "khandhā …pe… paṭisandhikkhaṇe …pe… khandhā vatthussa …pe… vatthu khandhānaṁ …pe…",
+        "analyzed": "khandhā pe paṭisandhikkhaṇe pe khandhā vatthussa pe vatthu khandhānam pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_3",
+        "original": "ekaṁ mahābhūtaṁ …pe… bāhiraṁ … āhārasamuṭṭhānaṁ … utusamuṭṭhānaṁ … asaññasattānaṁ",
+        "analyzed": "ekam mahābhūtam pe bāhiram āhāra samuṭṭhānam utu samuṭṭhānam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_4",
+        "original": "ekaṁ mahābhūtaṁ …pe… mahābhūtā cittasamuṭṭhānānaṁ rūpānaṁ kaṭattārūpānaṁ upādārūpānaṁ",
+        "analyzed": "ekam mahābhūtam pe mahābhūtā citta samuṭṭhānānam rūpānam kaṭattā rūpānam upādā rūpānam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_5",
+        "original": "cakkhāyatanaṁ cakkhuviññāṇassa …pe… kāyāyatanaṁ kāyaviññāṇassa …pe… vatthu uppannānaṁ",
+        "analyzed": "cakkhu āyatanam cakkhu viññāṇassa pe kāya āyatanam kāya viññāṇassa pe vatthu uppannāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:10.1_6",
+        "original": "khandhānaṁ nissayapaccayena paccayo.",
+        "analyzed": "khandhānam nissaya paccayena paccayaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.0",
+        "original": "Upanissaya",
+        "analyzed": "upanissaya ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo,",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa upanissaya paccayena paccayaḥ ārammaṇa upanissayaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_1",
+        "original": "pakatūpanissayo …pe…. Pakatūpanissayo—uppannaṁ utuṁ upanissāya jhānaṁ uppādeti, vipassanaṁ",
+        "analyzed": "pakatu upanissayaḥ pe pakatu upanissayaḥ uppannam utum upanissāya jhānam uppādeti vipassana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_2",
+        "original": "…pe… maggaṁ …pe… abhiññaṁ …pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti.",
+        "analyzed": "pe maggam pe abhiññam pe samāpattim uppādeti mānam jappeti diṭṭhim gaṇhāti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_3",
+        "original": "Uppannaṁ bhojanaṁ …pe… senāsanaṁ upanissāya jhānaṁ uppādeti vipassanaṁ …pe… maggaṁ",
+        "analyzed": "uppannam bhojanam pe senāsanam upanissāya jhānam uppādeti vipassanam pe magga ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_4",
+        "original": "…pe… abhiññaṁ …pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti. Uppannaṁ",
+        "analyzed": "pe abhiññam pe samāpattim uppādeti mānam jappeti diṭṭhim gaṇhāti uppanna ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_5",
+        "original": "utu … bhojanaṁ … senāsanaṁ uppannāya saddhāya …pe… paññāya, kāyikassa sukhassa, kāyikassa",
+        "analyzed": "utu bhojanam senāsanam uppannāya saddhāya pe paññāya kāyikassa sukhassa kāyikassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:11.1_6",
+        "original": "dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo.",
+        "analyzed": "dukkhassa maggassa phala samāpattiyāḥ upanissaya paccayena paccayaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_0",
+        "original": "Anuppanno dhammo uppannassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo,",
+        "analyzed": "anuppannaḥ dhammaḥ uppannassa dhammassa upanissaya paccayena paccayaḥ ārammaṇa upanissayaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_1",
+        "original": "pakatūpanissayo …pe…. Pakatūpanissayo—anuppannaṁ vaṇṇasampadaṁ patthayamāno dānaṁ",
+        "analyzed": "pakata upanissayaḥ pe pakata upanissayaḥ anuppannam vaṇṇa sampadam patthayamānaḥ dāna ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_2",
+        "original": "deti, sīlaṁ samādiyati, uposathakammaṁ karoti. Anuppannaṁ saddasampadaṁ … gandhasampadaṁ",
+        "analyzed": "deti sīlam samādiyati uposatha kammam karoti anuppannam sadda sampadam gandha sampada ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_3",
+        "original": "… rasasampadaṁ … phoṭṭhabbasampadaṁ … anuppanne khandhe patthayamāno dānaṁ deti,",
+        "analyzed": "rasa sampadam phoṭṭhabba sampadam anuppanne khandhe patthayamānaḥ dānam deti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_4",
+        "original": "sīlaṁ samādiyati, uposathakammaṁ karoti. Anuppannā vaṇṇasampadā …pe… anuppannā khandhā",
+        "analyzed": "sīlam samādiyati uposatha kammam karoti anuppannā vaṇṇa sampadā pe anuppannā khandhā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_5",
+        "original": "uppannāya saddhāya …pe… paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa,",
+        "analyzed": "uppannāya saddhāya pe paññāya kāyikassa sukhassa kāyikassa dukkhassa maggassa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:12.1_6",
+        "original": "phalasamāpattiyā upanissayapaccayena paccayo.",
+        "analyzed": "phala samāpattiyāḥ upanissaya paccayena paccayaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_0",
+        "original": "Uppādī dhammo uppannassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo,",
+        "analyzed": "uppādī dhammaḥ uppannassa dhammassa upanissaya paccayena paccayaḥ ārammaṇa upanissayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_1",
+        "original": "pakatūpanissayo …pe…. Pakatūpanissayo—uppādiṁ cakkhusampadaṁ patthayamāno dānaṁ deti,",
+        "analyzed": "pakatu upanissayaḥ pe pakatu upanissaya uppādim cakkhu sampadam patthayamānaḥ dānam deti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_2",
+        "original": "sīlaṁ samādiyati, uposathakammaṁ karoti. Uppādiṁ sotasampadaṁ …pe… kāyasampadaṁ …pe…",
+        "analyzed": "sīlam samādiyati uposatha kammam karoti uppādim sota sampadam pe kāya sampadam pe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_3",
+        "original": "vaṇṇasampadaṁ … gandhasampadaṁ … rasasampadaṁ … phoṭṭhabbasampadaṁ … uppādī khandhe",
+        "analyzed": "vaṇṇa sampadam gandha sampadam rasa sampadam phoṭṭhabba sampadam uppādī khandhe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_4",
+        "original": "patthayamāno dānaṁ deti, sīlaṁ samādiyati, uposathakammaṁ karoti. Uppādī cakkhusampadā",
+        "analyzed": "patthayamānaḥ dānam deti sīlam samādiyati uposatha kammam karoti uppādī cakkhu sampadā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_5",
+        "original": "…pe… kāyasampadā … vaṇṇasampadā …pe… phoṭṭhabbasampadā … uppādī khandhā uppannāya",
+        "analyzed": "pe kāya sampadā vaṇṇa sampadā pe phoṭṭhabba sampadā uppādī khandhāḥ uppannāya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_6",
+        "original": "saddhāya …pe… paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā",
+        "analyzed": "saddhāya pe paññāya kāyikassa sukhassa kāyikassa dukkhassa maggassa phala samāpattiyā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:13.1_7",
+        "original": "upanissayapaccayena paccayo.",
+        "analyzed": "upanissaya paccayena paccayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.0",
+        "original": "Purejāta",
+        "analyzed": "purā jāta ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ,",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa purejāta paccayena paccayaḥ ārammaṇa purejāta ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.1_1",
+        "original": "vatthupurejātaṁ. Ārammaṇapurejātaṁ—cakkhuṁ …pe… vatthuṁ aniccato dukkhato anattato",
+        "analyzed": "vatthu purejātaḥ ārammaṇa purejāta cakkhum pe vatthum aniccataḥ dukkhataḥ anattataḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.1_2",
+        "original": "vipassati, assādeti abhinandati, taṁ ārabbha rāgo uppajjati …pe… domanassaṁ uppajjati",
+        "analyzed": "vipassati assādeti abhinandati tam ārabbha rāgaḥ uppajjati pe domanassam uppajjati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.1_3",
+        "original": "dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa",
+        "analyzed": "dibbena cakkhunā rūpam passati dibbāya sotadhātuyā saddam suṇāti rūpa āyatanam cakkhu viññāṇassa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.1_4",
+        "original": "…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṁ—cakkhāyatanaṁ",
+        "analyzed": "pe phoṭṭhabba āyatanam kāya viññāṇassa purejāta paccayena paccayaḥ vatthu purejāta cakkhu āyatana ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:14.1_5",
+        "original": "cakkhuviññāṇassa …pe… vatthu uppannānaṁ khandhānaṁ purejātapaccayena paccayo.",
+        "analyzed": "cakkhu viññāṇassa pe vatthu uppannānam khandhānam purejāta paccayena paccayaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:15.0",
+        "original": "Pacchājāta",
+        "analyzed": "pacchājāta ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:15.1",
+        "original": "Uppanno dhammo uppannassa dhammassa pacchājātapaccayena paccayo—pacchājātā uppannā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo.",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa pacchājāta paccayena paccaya upacchājātāḥ uppannāḥ khandhāḥ purejātassa imassa kāyassa pacchājāta paccayena paccayaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:16.0",
+        "original": "Kamma",
+        "analyzed": "kamma ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:16.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa kammapaccayena paccayo—uppannā cetanā sampayuttakānaṁ",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa kamma paccayena paccayaḥ uppannā cetanā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:16.1_1",
+        "original": "khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. Paṭisandhikkhaṇe",
+        "analyzed": "khandhānam citta samuṭṭhānānaṃ ca rūpānam kamma paccayena paccayaḥ paṭisandhi kkhaṇe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:16.1_2",
+        "original": "uppannā cetanā sampayuttakānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo.",
+        "analyzed": "uppannā cetanā sampayuttakānam khandhānam kaṭattā ca rūpānam kamma paccayena paccayaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:17.0",
+        "original": "Vipāka",
+        "analyzed": "vipāka ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:17.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa vipākapaccayena paccayo—vipāko uppanno eko khandho",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa vipāka paccayena paccayaḥ vipākaḥ uppannaḥ ekaḥ khandho ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:17.1_1",
+        "original": "tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo …pe… dve",
+        "analyzed": "tiṇṇannam khandhānam citta samuṭṭhānānañca rūpānam vipāka paccayena paccayaḥ pe dve ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:17.1_2",
+        "original": "khandhā …pe… paṭisandhikkhaṇe uppanno eko khandho tiṇṇannaṁ khandhānaṁ kaṭattā ca",
+        "analyzed": "khandhāḥ pe paṭisandhi kkhaṇe uppannaḥ ekaḥ khandho tiṇṇannam khandhānam kaṭattā ca ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:17.1_3",
+        "original": "rūpānaṁ …pe… dve khandhā …pe… khandhā vatthussa vipākapaccayena paccayo.",
+        "analyzed": "rūpānam pe dve khandhāḥ pe khandhāḥ vatthussa vipāka paccayena paccayaḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:18.0",
+        "original": "Āhāra",
+        "analyzed": "āhāra ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:18.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa āhārapaccayena paccayo—uppannā āhārā sampayuttakānaṁ",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa āhāra paccayena paccayo uppannāḥ āhārāḥ sampayuttakāna ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:18.1_1",
+        "original": "khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ āhārapaccayena paccayo. Paṭisandhikkhaṇe",
+        "analyzed": "khandhānam citta samuṭṭhānānaṃ ca rūpānaṃ āhāra paccayena paccayaḥ paṭisandhi kkhaṇe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:18.1_2",
+        "original": "…pe…. Kabaḷīkāro āhāro—imassa kāyassa āhārapaccayena paccayo.",
+        "analyzed": "pe kabaḷīkāro āhāro imassa kāyassa āhāra paccayena paccayo ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:19.0",
+        "original": "Indriya",
+        "analyzed": "indriya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:19.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa indriyapaccayena paccayo—uppannā indriyā sampayuttakānaṁ",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa indriya paccayena paccayo uppannāḥ indriyāḥ sampayuttakāna ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:19.1_1",
+        "original": "khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo. Paṭisandhikkhaṇe",
+        "analyzed": "khandhānam citta samuṭṭhānānaṃ ca rūpānaṃ indriya paccayena paccayaḥ paṭisandhi kkhaṇe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:19.1_2",
+        "original": "…pe… cakkhundriyaṁ cakkhuviññāṇassa …pe… kāyindriyaṁ kāyaviññāṇassa …pe… rūpajīvitindriyaṁ",
+        "analyzed": "pe cakkhu indriyam cakkhu viññāṇassa pe kāyindriyam kāya viññāṇassa pe rūpa jīvitindriya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:19.1_3",
+        "original": "kaṭattārūpānaṁ indriyapaccayena paccayo.",
+        "analyzed": "indriya paccayena paccayaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.0",
+        "original": "Jhānādi",
+        "analyzed": "jhāna ādi ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa jhānapaccayena paccayo … maggapaccayena paccayo",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa jhāna paccayena paccayaḥ magga paccayena paccayaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_1",
+        "original": "… sampayuttapaccayena paccayo … vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ,",
+        "analyzed": "sampayutta paccayena paccayaḥ vippayutta paccayena paccayaḥ sahajāta purejāta ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_2",
+        "original": "pacchājātaṁ. Sahajātā—uppannā khandhā cittasamuṭṭhānānaṁ rūpānaṁ vippayuttapaccayena",
+        "analyzed": "pacchājāta sahajāta auppannā khandhā citta samuṭṭhānānam rūpānam vippayutta paccayena ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_3",
+        "original": "paccayo. Paṭisandhikkhaṇe uppannā khandhā kaṭattārūpānaṁ vippayuttapaccayena paccayo.",
+        "analyzed": "paccayaḥ paṭisandhi kkhaṇe uppannā khandhā kaṭattā rūpānam vippayutta paccayena paccayaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_4",
+        "original": "Khandhā vatthussa, vatthu khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ—cakkhāyatanaṁ",
+        "analyzed": "khandhāḥ vatthussa vatthu khandhānam vippayutta paccayena paccayaḥ purejāta cakkhāyatana ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_5",
+        "original": "cakkhuviññāṇassa …pe… kāyāyatanaṁ kāyaviññāṇassa … vatthu uppannānaṁ khandhānaṁ vippayuttapaccayena",
+        "analyzed": "cakkhu viññāṇassa pe kāya āyatanam kāya viññāṇassa vatthu uppannānam khandhānam vippayutta paccayena ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:20.1_6",
+        "original": "paccayo. Pacchājātā—uppannā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo.",
+        "analyzed": "paccayaḥ pacchājāta auppannā khandhā purejātassa imassa kāyassa vippayutta paccayena paccayaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.0",
+        "original": "Atthi",
+        "analyzed": "atthi ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa atthipaccayena paccayo—sahajātaṁ, purejātaṁ,",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa atthi paccayena paccayo sahajāta purejāta ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_1",
+        "original": "pacchājātaṁ, āhāraṁ, indriyaṁ. Sahajāto—uppanno eko khandho tiṇṇannaṁ khandhānaṁ",
+        "analyzed": "pacchājātaḥ āhāraḥ indriya sahajāta uppannaḥ ekaḥ khandho tiṇṇannam khandhānam ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_2",
+        "original": "cittasamuṭṭhānānañca rūpānaṁ atthipaccayena paccayo …pe… dve khandhā …pe… paṭisandhikkhaṇe",
+        "analyzed": "citta samuṭṭhānānaṃ ca rūpānaṃ atthi paccayena paccayaḥ pe dve khandhā pe paṭisandhi kkhaṇe ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_3",
+        "original": "…pe… ekaṁ mahābhūtaṁ …pe… bāhiraṁ … āhārasamuṭṭhānaṁ … utusamuṭṭhānaṁ … asaññasattānaṁ",
+        "analyzed": "pe ekam mahābhūtam pe bāhiram āhāra samuṭṭhānam utu samuṭṭhānam ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_4",
+        "original": "…pe…. Purejātaṁ—cakkhuṁ aniccato …pe… vatthuṁ aniccato …pe… domanassaṁ uppajjati,",
+        "analyzed": "pe purejāta cakkhum aniccatas pe vatthum aniccatas pe domanassam uppajjati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_5",
+        "original": "dibbena cakkhunā rūpaṁ passati, dibbāya sotudhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa",
+        "analyzed": "dibbena cakkhunā rūpam passati dibbāya sotu dhātuyā saddam suṇāti rūpa āyatanam cakkhu viññāṇassa ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_6",
+        "original": "…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa atthipaccayena paccayo. Cakkhāyatanaṁ cakkhuviññāṇassa",
+        "analyzed": "pe phoṭṭhabba āyatanam kāya viññāṇassa atthi paccayena paccayaḥ cakkhu āyatanam cakkhu viññāṇassa ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_7",
+        "original": "…pe… kāyāyatanaṁ kāyaviññāṇassa …pe… vatthu uppannānaṁ khandhānaṁ atthipaccayena",
+        "analyzed": "pe kāya āyatanam kāya viññāṇassa pe vatthu uppannānam khandhānam atthi paccayena ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_8",
+        "original": "paccayo. Pacchājātā—uppannā khandhā purejātassa imassa kāyassa atthipaccayena paccayo.",
+        "analyzed": "paccayaḥ pacchājāta auppannā khandhā purejātassa imassa kāyassa atthi paccayena paccayaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_9",
+        "original": "Kabaḷīkāro āhāro—imassa kāyassa atthipaccayena paccayo. Rūpajīvitindriyaṁ—kaṭattārūpānaṁ",
+        "analyzed": "kabaḷīkāraḥ āhāraḥ imassa kāyassa atthi paccayena paccayo ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:21.1_10",
+        "original": "atthipaccayena paccayo.",
+        "analyzed": "atthi paccayena paccayaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:22.0",
+        "original": "Avigata",
+        "analyzed": "avigata ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:22.1",
+        "original": "Uppanno dhammo uppannassa dhammassa avigatapaccayena paccayo …pe….",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa avigata paccayena paccayaḥ pe ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:23.0.1",
+        "original": "Saṅkhyāvāra",
+        "analyzed": "saṅkhyāvāra ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:23.0.2",
+        "original": "Suddha",
+        "analyzed": "suddha ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:23.1_0",
+        "original": "Hetuyā ekaṁ, ārammaṇe tīṇi, adhipatiyā tīṇi, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye",
+        "analyzed": "hetuyā eka ārammaṇe tīṇi adhipatiyā tīṇi sahajāte eka aññamaññe eka nissaye ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:23.1_1",
+        "original": "ekaṁ, upanissaye tīṇi, purejāte ekaṁ, pacchājāte kamme vipāke āhāre indriye jhāne",
+        "analyzed": "eka upanissaye tīṇi purejāte eka pacchājāte kamme vipāke āhāre indriye jhāne ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:23.1_2",
+        "original": "magge sampayutte vippayutte atthiyā avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)",
+        "analyzed": "magge sampayutte vippayutte atthiyāḥ avigate ekaḥ evam gaṇetabba ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:24.1",
+        "original": "Anulomaṁ.",
+        "analyzed": "anuloma ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:25.0",
+        "original": "Paccanīyuddhāra",
+        "analyzed": "paccanīya uddhāra ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:25.1_0",
+        "original": "Uppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo … sahajātapaccayena",
+        "analyzed": "uppannaḥ dhammaḥ uppannassa dhammassa ārammaṇa paccayena paccayaḥ sahajāta paccayena ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:25.1_1",
+        "original": "paccayo … upanissayapaccayena paccayo … purejātapaccayena paccayo … pacchājātapaccayena",
+        "analyzed": "paccayo upanissaya paccayena paccayo purejāta paccayena paccayo pacchājāta paccayena ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:25.1_2",
+        "original": "paccayo … āhārapaccayena paccayo … indriyapaccayena paccayo.",
+        "analyzed": "paccayaḥ āhāra paccayena paccayaḥ indriya paccayena paccayaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:26.1",
+        "original": "Anuppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo, upanissayapaccayena paccayo.",
+        "analyzed": "anuppannaḥ dhammaḥ uppannassa dhammassa ārammaṇa paccayena paccayaḥ upanissaya paccayena paccayaḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:27.1",
+        "original": "Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo … upanissayapaccayena paccayo.",
+        "analyzed": "uppādī dhammaḥ uppannassa dhammassa ārammaṇa paccayena paccayaḥ upanissaya paccayena paccayaḥ ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:28.0.1",
+        "original": "1.18.7.2. Paccayapaccanīya",
+        "analyzed": "paccaya paccanīya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:28.0.2",
+        "original": "Saṅkhyāvāra",
+        "analyzed": "saṅkhyāvāra ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:28.0.3",
+        "original": "Suddha",
+        "analyzed": "suddha ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:28.1",
+        "original": "Nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi …pe… navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve. (Evaṁ gaṇetabbaṁ.)",
+        "analyzed": "na hetuyā tīṇi na ārammaṇe tīṇi na adhipatiyā tīṇi pe na vippayutte tīṇi no atthiyā dve no natthiyā tīṇi no vigate tīṇi no avigate dve evam gaṇetabba ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:29.1",
+        "original": "Paccanīyaṁ.",
+        "analyzed": "paccanīya ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:30.0",
+        "original": "1.18.7.3. Paccayānulomapaccanīya",
+        "analyzed": "paccaya anuloma paccanīya ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:30.1",
+        "original": "Hetupaccayā naārammaṇe ekaṁ …pe… nonatthiyā novigate ekaṁ.",
+        "analyzed": "hetu paccayā na ārammaṇe ekam pe no natthiyāḥ no vigate eka ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:31.1",
+        "original": "Anulomapaccanīyaṁ.",
+        "analyzed": "anuloma paccanīya ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:32.0",
+        "original": "1.18.7.4. Paccanīyānuloma",
+        "analyzed": "paccanīya anuloma ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:32.1_0",
+        "original": "Nahetupaccayā ārammaṇe tīṇi, adhipatiyā tīṇi, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye",
+        "analyzed": "na hetu paccayā ārammaṇe tīṇi adhipatiyā tīṇi sahajāte eka aññamaññe eka nissaye ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:32.1_1",
+        "original": "ekaṁ, upanissaye tīṇi, purejāte ekaṁ, pacchājāte ekaṁ, kamme vipāke āhāre indriye",
+        "analyzed": "eka upanissaye tīṇi purejāte eka pacchājāte eka kamme vipāke āhāre indriye ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:32.1_2",
+        "original": "jhāne magge sampayutte vippayutte atthiyā avigate ekaṁ.",
+        "analyzed": "jhāne magge sampayutte vippayutte atthiyā avigate eka ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:33.1",
+        "original": "Paccanīyānulomaṁ.",
+        "analyzed": "paccanīya anuloma ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_patthana_1.18:34.1",
+        "original": "Uppannattikaṁ niṭṭhitaṁ.",
+        "analyzed": "uppanna ttikam niṭṭhita ",
+        "folio": "34"
+    }
+]

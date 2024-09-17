@@ -1,0 +1,626 @@
+[
+    {
+        "segmentnr": "PA_sn_30:1.0.1",
+        "original": "Saṁyutta Nikāya 30.1",
+        "analyzed": "sayutta nikāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.0.2",
+        "original": "1. Supaṇṇavagga",
+        "analyzed": "supaṇṇa vagga ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.0.3",
+        "original": "Suddhikasutta",
+        "analyzed": "suddhika sutta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.1.2",
+        "original": "“Catasso imā, bhikkhave, supaṇṇayoniyo.",
+        "analyzed": "catasso imāḥ bhikkhave supaṇṇa yoniyaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.1.3",
+        "original": "Katamā catasso?",
+        "analyzed": "katamā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.1.4",
+        "original": "Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṁsedajā supaṇṇā, opapātikā supaṇṇā—",
+        "analyzed": "aṇḍa jā su paṇṇā jalābu jā su paṇṇā sa seda jā su paṇṇā opapātikā su paṇṇā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.1.5",
+        "original": "imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.",
+        "analyzed": "imāḥ kho bhikkhave catasso supaṇṇa yoniyaḥ ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:1.1.6",
+        "original": "Paṭhamaṁ.",
+        "analyzed": "paṭhama ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.0.1",
+        "original": "Saṁyutta Nikāya 30.2",
+        "analyzed": "sayutta nikāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.0.2",
+        "original": "1. Supaṇṇavagga",
+        "analyzed": "supaṇṇa vagga ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.0.3",
+        "original": "Harantisutta",
+        "analyzed": "harantisutta ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.2",
+        "original": "“Catasso imā, bhikkhave, supaṇṇayoniyo.",
+        "analyzed": "catasso imāḥ bhikkhave supaṇṇa yoniyaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.3",
+        "original": "Katamā catasso?",
+        "analyzed": "katamā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.4",
+        "original": "Aṇḍajā …pe…",
+        "analyzed": "aṇḍa jā pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.5",
+        "original": "imā kho, bhikkhave, catasso supaṇṇayoniyo.",
+        "analyzed": "imāḥ kho bhikkhave catasso supaṇṇa yoniyaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.6",
+        "original": "Tatra, bhikkhave, aṇḍajā supaṇṇā aṇḍajeva nāge haranti, na jalābuje, na saṁsedaje, na opapātike.",
+        "analyzed": "tatra bhikkhave aṇḍa jā su paṇṇā aṇḍa ja iva nāge haranti na jalābu je na sa seda je na opapātike ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.7",
+        "original": "Tatra, bhikkhave, jalābujā supaṇṇā aṇḍaje ca jalābuje ca nāge haranti, na saṁsedaje, na opapātike.",
+        "analyzed": "tatra bhikkhave jalābu jā supaṇṇāḥ aṇḍa je ca jalābu je ca nāge haranti na saseda je na opapātike ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.8",
+        "original": "Tatra, bhikkhave, saṁsedajā supaṇṇā aṇḍaje ca jalābuje ca saṁsedaje ca nāge haranti, na opapātike.",
+        "analyzed": "tatra bhikkhave sa seda jā supaṇṇā aṇḍa je ca jalābu je ca sa seda je ca nāge haranti na opapātike ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.9",
+        "original": "Tatra, bhikkhave, opapātikā supaṇṇā aṇḍaje ca jalābuje ca saṁsedaje ca opapātike ca nāge haranti.",
+        "analyzed": "tatra bhikkhave opapātikā supaṇṇā aṇḍa je ca jalābu je ca saseda je ca opapātike ca nāge haranti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.10",
+        "original": "Imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.",
+        "analyzed": "imāḥ kho bhikkhave catasso supaṇṇa yoniyaḥ ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:2.1.11",
+        "original": "Dutiyaṁ.",
+        "analyzed": "dutiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.0.1",
+        "original": "Saṁyutta Nikāya 30.3",
+        "analyzed": "sayutta nikāya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.0.2",
+        "original": "1. Supaṇṇavagga",
+        "analyzed": "supaṇṇa vagga ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.0.3",
+        "original": "Dvayakārīsutta",
+        "analyzed": "dvayakārīsutta ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.2",
+        "original": "Aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:",
+        "analyzed": "aññataraḥ bhikkhu yena bhagavā tena upasaṅkami upasaṅkamitvā bhagavantam abhivādetvā ekamantam nisīdi ekamantam nisinnaḥ kho saḥ bhikkhu bhagavantam etat avoca ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.3",
+        "original": "“ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti?",
+        "analyzed": "kaḥ nu kho bhante hetu kaḥ paccayaḥ yena midhekaccaḥ kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.4",
+        "original": "“Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī.",
+        "analyzed": "idha bhikkhu ekaccaḥ kāyena dvaya kārī hoti vācāya dvaya kārī manasā dvaya kārī ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.5",
+        "original": "Tassa sutaṁ hoti:",
+        "analyzed": "tassa sutam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.6",
+        "original": "‘aṇḍajā supaṇṇā dīghāyukā vaṇṇavanto sukhabahulā’ti.",
+        "analyzed": "aṇḍa jā su paṇṇāḥ dīgha āyukāḥ vaṇṇavantaḥ sukha bahulāḥ ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.7",
+        "original": "Tassa evaṁ hoti:",
+        "analyzed": "tassa evam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.8",
+        "original": "‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti.",
+        "analyzed": "aho vata aham kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjeyyanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.9",
+        "original": "So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjati.",
+        "analyzed": "saḥ kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.10",
+        "original": "Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.",
+        "analyzed": "ayam kho bhikkhu hetu ayam paccayaḥ yena midhā ekaccaḥ kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:3.1.11",
+        "original": "Tatiyaṁ.",
+        "analyzed": "tatiya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.0.1",
+        "original": "Saṁyutta Nikāya 30.4–6",
+        "analyzed": "sayutta nikāya ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.0.2",
+        "original": "1. Supaṇṇavagga",
+        "analyzed": "supaṇṇa vagga ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.0.3",
+        "original": "Dutiyādidvayakārīsuttattika",
+        "analyzed": "        ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.2",
+        "original": "Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:",
+        "analyzed": "ekamantam nisinnaḥ kho saḥ bhikkhu bhagavantam etat avoca ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.3",
+        "original": "“ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā jalābujānaṁ supaṇṇānaṁ …pe…",
+        "analyzed": "kaḥ nu kho bhante hetu kaḥ paccayaḥ yena midhekaccaḥ kāyassa bhedā param maraṇā jalābu jānam su paṇṇānam pe",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.4",
+        "original": "saṁsedajānaṁ supaṇṇānaṁ …pe…",
+        "analyzed": "sasedajānam su paṇṇānam pe ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.5",
+        "original": "opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti?",
+        "analyzed": "opapātikānam supaṇṇānam sahabyatam upapajjati iti ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.6",
+        "original": "“Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī.",
+        "analyzed": "idha bhikkhu ekaccaḥ kāyena dvaya kārī hoti vācāya dvaya kārī manasā dvaya kārī ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.7",
+        "original": "Tassa sutaṁ hoti:",
+        "analyzed": "tassa sutam hoti ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.8",
+        "original": "‘opapātikā supaṇṇā dīghāyukā vaṇṇavanto sukhabahulā’ti.",
+        "analyzed": "opapātikā su paṇṇāḥ dīgha āyukāḥ vaṇṇavantaḥ sukha bahulāḥ ati ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.9",
+        "original": "Tassa evaṁ hoti:",
+        "analyzed": "tassa evam hoti ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.10",
+        "original": "‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti.",
+        "analyzed": "aho vata aham kāyassa bhedā param maraṇā opapātikānam supaṇṇānam sahabyatam upapajjeyyanti ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.11",
+        "original": "So kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjati.",
+        "analyzed": "saḥ kāyassa bhedā param maraṇā opapātikānam supaṇṇānam sahabyatam upapajjati ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.12",
+        "original": "Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.",
+        "analyzed": "ayam kho bhikkhu hetu ayam paccayaḥ yena midhā ekaccaḥ kāyassa bhedā param maraṇā opapātikānam supaṇṇānam sahabyatam upapajjati iti ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:4-6.1.13",
+        "original": "Chaṭṭhaṁ.",
+        "analyzed": "chaṭṭha ",
+        "folio": "4-6"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.0.1",
+        "original": "Saṁyutta Nikāya 30.7–16",
+        "analyzed": "sayutta nikāya ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.0.2",
+        "original": "1. Supaṇṇavagga",
+        "analyzed": "supaṇṇa vagga ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.0.3",
+        "original": "Aṇḍajadānūpakārasuttadasaka",
+        "analyzed": "aṇḍa ja da anūpa kāra sutta dasaka ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.2",
+        "original": "Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:",
+        "analyzed": "ekamantam nisinnaḥ kho saḥ bhikkhu bhagavantam etat avoca ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.3",
+        "original": "“ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti?",
+        "analyzed": "kaḥ nu kho bhante hetu kaḥ paccayaḥ yena midhekaccaḥ kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjati iti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.4",
+        "original": "“Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī.",
+        "analyzed": "idha bhikkhu ekaccaḥ kāyena dvaya kārī hoti vācāya dvaya kārī manasā dvaya kārī ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.5",
+        "original": "Tassa sutaṁ hoti:",
+        "analyzed": "tassa sutam hoti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.6",
+        "original": "‘aṇḍajā supaṇṇā dīghāyukā vaṇṇavanto sukhabahulā’ti.",
+        "analyzed": "aṇḍa jā su paṇṇāḥ dīgha āyukāḥ vaṇṇavantaḥ sukha bahulāḥ ati ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.7",
+        "original": "Tassa evaṁ hoti:",
+        "analyzed": "tassa evam hoti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.8",
+        "original": "‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti.",
+        "analyzed": "aho vata aham kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjeyyanti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.9",
+        "original": "So annaṁ deti …pe…",
+        "analyzed": "saḥ annam deti pe ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.10",
+        "original": "pānaṁ deti …",
+        "analyzed": "pānam deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.11",
+        "original": "vatthaṁ deti …",
+        "analyzed": "vattham deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.12",
+        "original": "yānaṁ deti …",
+        "analyzed": "yānam deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.13",
+        "original": "mālaṁ deti …",
+        "analyzed": "mālam deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.14",
+        "original": "gandhaṁ deti …",
+        "analyzed": "gandham deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.15",
+        "original": "vilepanaṁ deti …",
+        "analyzed": "vilepanam deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.16",
+        "original": "seyyaṁ deti …",
+        "analyzed": "seyyam deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.17",
+        "original": "āvasathaṁ deti …",
+        "analyzed": "āvasatham deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.18",
+        "original": "padīpeyyaṁ deti.",
+        "analyzed": "padīpeyyam deti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.19",
+        "original": "So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjati.",
+        "analyzed": "saḥ kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjati ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.20",
+        "original": "Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.",
+        "analyzed": "ayam kho bhikkhu hetu ayam paccayaḥ yena midhā ekaccaḥ kāyassa bhedā param maraṇā aṇḍa jānam su paṇṇānam sahabyatam upapajjati iti ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:7-16.1.21",
+        "original": "Soḷasamaṁ.",
+        "analyzed": "soḍasama ",
+        "folio": "7-16"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.0.1",
+        "original": "Saṁyutta Nikāya 30.17–46",
+        "analyzed": "sayutta nikāya ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.0.2",
+        "original": "1. Supaṇṇavagga",
+        "analyzed": "supaṇṇa vagga ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.0.3",
+        "original": "Jalābujadānūpakārasutta",
+        "analyzed": "jalābu jada anūpa kāra sutta ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.2",
+        "original": "Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:",
+        "analyzed": "ekamantam nisinnaḥ kho saḥ bhikkhu bhagavantam etat avoca ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.3",
+        "original": "“ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā jalābujānaṁ supaṇṇānaṁ …pe…",
+        "analyzed": "kaḥ nu kho bhante hetu kaḥ paccayaḥ yena midhekaccaḥ kāyassa bhedā param maraṇā jalābu jānam su paṇṇānam pe",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.4",
+        "original": "saṁsedajānaṁ supaṇṇānaṁ …pe…",
+        "analyzed": "sasedajānam su paṇṇānam pe ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.5",
+        "original": "opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti?",
+        "analyzed": "opapātikānam supaṇṇānam sahabyatam upapajjati iti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.6",
+        "original": "“Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī.",
+        "analyzed": "idha bhikkhu ekaccaḥ kāyena dvaya kārī hoti vācāya dvaya kārī manasā dvaya kārī ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.7",
+        "original": "Tassa sutaṁ hoti:",
+        "analyzed": "tassa sutam hoti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.8",
+        "original": "‘opapātikā supaṇṇā dīghāyukā vaṇṇavanto sukhabahulā’ti.",
+        "analyzed": "opapātikā su paṇṇāḥ dīgha āyukāḥ vaṇṇavantaḥ sukha bahulāḥ ati ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.9",
+        "original": "Tassa evaṁ hoti:",
+        "analyzed": "tassa evam hoti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.10",
+        "original": "‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti.",
+        "analyzed": "aho vata aham kāyassa bhedā param maraṇā opapātikānam supaṇṇānam sahabyatam upapajjeyyanti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.11",
+        "original": "So annaṁ deti …pe…",
+        "analyzed": "saḥ annam deti pe ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.12",
+        "original": "pānaṁ deti …pe…",
+        "analyzed": "pānam deti pe ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.13",
+        "original": "padīpeyyaṁ deti.",
+        "analyzed": "padīpeyyam deti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.14",
+        "original": "So kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjati.",
+        "analyzed": "saḥ kāyassa bhedā param maraṇā opapātikānam supaṇṇānam sahabyatam upapajjati ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.15",
+        "original": "Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.",
+        "analyzed": "ayam kho bhikkhu hetu ayam paccayaḥ yena midhā ekaccaḥ kāyassa bhedā param maraṇā opapātikānam supaṇṇānam sahabyatam upapajjati iti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.16",
+        "original": "Chacattālīsamaṁ.",
+        "analyzed": "cha cat tālīsama ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.17",
+        "original": "(Evaṁ piṇḍakena chacattālīsaṁ suttantā honti.)",
+        "analyzed": "evam piṇḍakena chacattālīsam suttantāḥ honti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.1.18",
+        "original": "Supaṇṇavaggo paṭhamo.",
+        "analyzed": "supaṇṇa vaggaḥ paṭhamaḥ ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.2.0",
+        "original": "Tassuddānaṁ",
+        "analyzed": "tassa uddāna ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.2.1",
+        "original": "Suddhikaṁ haranti ceva,",
+        "analyzed": "suddhikam haranti ca iva ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.2.2",
+        "original": "dvayakārī ca caturo;",
+        "analyzed": "dvaya kārī ca caturaḥ ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.2.3",
+        "original": "Dānūpakārā tālīsaṁ,",
+        "analyzed": "dānūpakārā tālīsa ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.2.4",
+        "original": "supaṇṇe suppakāsitāti.",
+        "analyzed": "supaṇṇe suppakāsitā iti ",
+        "folio": "17-46"
+    },
+    {
+        "segmentnr": "PA_sn_30:17-46.2.5",
+        "original": "Supaṇṇasaṁyuttaṁ samattaṁ.",
+        "analyzed": "su paṇṇa sayuttam samatta ",
+        "folio": "17-46"
+    }
+]

@@ -1,0 +1,980 @@
+[
+    {
+        "segmentnr": "PA_ps_3.8:0.1",
+        "original": "Paṭisambhidāmagga",
+        "analyzed": "paṭisambhidā magga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:0.2",
+        "original": "3 Paññāvagga",
+        "analyzed": "paññāvagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:0.3",
+        "original": "3.8. Satipaṭṭhānakathā",
+        "analyzed": "sati paṭṭhāna kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.2",
+        "original": "“Cattārome, bhikkhave, satipaṭṭhānā.",
+        "analyzed": "cattāro me bhikkhave sati paṭṭhānā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.3",
+        "original": "Katame cattāro?",
+        "analyzed": "katame cattāro ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.4",
+        "original": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.",
+        "analyzed": "idha bhikkhave bhikkhu kāye kāya anupassī viharati ātāpī sampajānaḥ satimā vineyya loke abhijjhā domanassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.5",
+        "original": "Vedanāsu …",
+        "analyzed": "vedanāsu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.6",
+        "original": "citte …",
+        "analyzed": "citte ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.7",
+        "original": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.",
+        "analyzed": "dhammesu dhamma anupassī viharati ātāpī sampajānaḥ satimā vineyya loke abhijjhā domanassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:1.8",
+        "original": "Ime kho, bhikkhave, cattāro satipaṭṭhānā”ti.",
+        "analyzed": "ime kho bhikkhave cattāro sati paṭṭhānā ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.1",
+        "original": "Kathaṁ kāye kāyānupassī viharati?",
+        "analyzed": "katham kāye kāya anupassī viharati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.2",
+        "original": "Idhekacco pathavīkāyaṁ aniccato anupassati, no niccato;",
+        "analyzed": "idha ekaccaḥ pathavīkāyam aniccataḥ anupassati no niccataḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.3",
+        "original": "dukkhato anupassati, no sukhato;",
+        "analyzed": "dukkhataḥ anupassati no sukhataḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.4",
+        "original": "anattato anupassati, no attato;",
+        "analyzed": "an attataḥ anupassati no attataḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.5",
+        "original": "nibbindati, no nandati;",
+        "analyzed": "nibbindati no nandati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.6",
+        "original": "virajjati, no rajjati;",
+        "analyzed": "virajjati na u rajjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.7",
+        "original": "nirodheti, no samudeti, paṭinissajjati, no ādiyati.",
+        "analyzed": "nirodheti no samudeti paṭinissajjati no ādiyati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.8_0",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati, dukkhato anupassanto sukhasaññaṁ pajahati,",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati dukkhataḥ anupassantaḥ sukha saññam pajahati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.8_1",
+        "original": "anattato anupassanto attasaññaṁ pajahati, nibbindanto nandiṁ pajahati, virajjanto",
+        "analyzed": "anattataḥ anupassantaḥ atta saññam pajahati nibbindantaḥ nandim pajahati virajjantaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.8_2",
+        "original": "rāgaṁ pajahati, nirodhento samudayaṁ pajahati, paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "rāgam pajahati nirodhentaḥ samudayam pajahati paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.9",
+        "original": "Imehi sattahi ākārehi kāyaṁ anupassati.",
+        "analyzed": "imehi sattahi ākārehi kāyam anupassati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.10",
+        "original": "Kāyo upaṭṭhānaṁ, no sati.",
+        "analyzed": "kāyaḥ upaṭṭhāna no sati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.11",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.12",
+        "original": "Tāya satiyā tena ñāṇena taṁ kāyaṁ anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena tam kāyam anupassati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.13",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:2.14",
+        "original": "“kāye kāyānupassanāsatipaṭṭhānā”.",
+        "analyzed": "kāye kāya anupassanā sati paṭṭhānā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:3.1",
+        "original": "Bhāvanāti catasso bhāvanā—",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:3.2",
+        "original": "tattha jātānaṁ dhammānaṁ anativattanaṭṭhena bhāvanā, indriyānaṁ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā.",
+        "analyzed": "tattha jātānam dhammānam anativattana ṭhena bhāvanā indriyānaṃ ekarasa ṭṭhena bhāvanā tad upaga vīriya vāhana ṭṭhena bhāvanā āsevana ṭṭhena bhāvanā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.1",
+        "original": "Idhekacco āpokāyaṁ …pe…",
+        "analyzed": "idha ekaccaḥ āpokāyam pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.2",
+        "original": "tejokāyaṁ …",
+        "analyzed": "tejaḥ kāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.3",
+        "original": "vāyokāyaṁ …",
+        "analyzed": "vāyokāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.4",
+        "original": "kesakāyaṁ …",
+        "analyzed": "kesa kāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.5",
+        "original": "lomakāyaṁ …",
+        "analyzed": "loma kāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.6",
+        "original": "chavikāyaṁ …",
+        "analyzed": "chavikāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.7",
+        "original": "cammakāyaṁ …",
+        "analyzed": "camma kāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.8",
+        "original": "maṁsakāyaṁ …",
+        "analyzed": "masa kāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.9",
+        "original": "rudhirakāyaṁ …",
+        "analyzed": "rudhira kāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.10",
+        "original": "nhārukāyaṁ …",
+        "analyzed": "nhārukāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.11",
+        "original": "aṭṭhikāyaṁ …",
+        "analyzed": "aṭṭhikāyam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.12",
+        "original": "aṭṭhimiñjakāyaṁ aniccato anupassati, no niccato;",
+        "analyzed": "aṭṭhimiñja kāyam aniccataḥ anupassati no niccataḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.13",
+        "original": "dukkhato anupassati, no sukhato;",
+        "analyzed": "dukkhataḥ anupassati no sukhataḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.14",
+        "original": "anattato anupassati, no attato;",
+        "analyzed": "an attataḥ anupassati no attataḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.15",
+        "original": "nibbindati, no nandati;",
+        "analyzed": "nibbindati no nandati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.16",
+        "original": "virajjati, no rajjati, nirodheti, no samudeti;",
+        "analyzed": "virajjati no rajjati nirodheti no samudeti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.17",
+        "original": "paṭinissajjati, no ādiyati.",
+        "analyzed": "paṭinissajjati no ādiyati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.18_0",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati, dukkhato anupassanto sukhasaññaṁ pajahati,",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati dukkhataḥ anupassantaḥ sukha saññam pajahati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.18_1",
+        "original": "anattato anupassanto attasaññaṁ pajahati, nibbindanto nandiṁ pajahati, virajjanto",
+        "analyzed": "anattataḥ anupassantaḥ atta saññam pajahati nibbindantaḥ nandim pajahati virajjantaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.18_2",
+        "original": "rāgaṁ pajahati, nirodhento samudayaṁ pajahati, paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "rāgam pajahati nirodhentaḥ samudayam pajahati paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.19",
+        "original": "Imehi sattahi ākārehi kāyaṁ anupassati.",
+        "analyzed": "imehi sattahi ākārehi kāyam anupassati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.20",
+        "original": "Kāyo upaṭṭhānaṁ, no sati.",
+        "analyzed": "kāyaḥ upaṭṭhāna no sati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.21",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.22",
+        "original": "Tāya satiyā tena ñāṇena taṁ kāyaṁ anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena tam kāyam anupassati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.23",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:4.24",
+        "original": "“kāye kāyānupassanāsatipaṭṭhānā”.",
+        "analyzed": "kāye kāya anupassanā sati paṭṭhānā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:5.1",
+        "original": "Bhāvanāti catasso bhāvanā—",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:5.2",
+        "original": "tattha jātānaṁ dhammānaṁ anativattanaṭṭhena bhāvanā, indriyānaṁ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā.",
+        "analyzed": "tattha jātānam dhammānam anativattana ṭhena bhāvanā indriyānaṃ ekarasa ṭṭhena bhāvanā tad upaga vīriya vāhana ṭṭhena bhāvanā āsevana ṭṭhena bhāvanā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:5.3",
+        "original": "Evaṁ kāye kāyānupassī viharati.",
+        "analyzed": "evam kāye kāya anupassī viharati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.1",
+        "original": "Kathaṁ vedanāsu vedanānupassī viharati?",
+        "analyzed": "katham vedanāsu vedanā anupassī viharati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.2",
+        "original": "Idhekacco sukhaṁ vedanaṁ aniccato anupassati, no niccato …pe…",
+        "analyzed": "idha ekaccaḥ sukham vedanam aniccataḥ anupassati no niccataḥ pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.3",
+        "original": "paṭinissajjati, no ādiyati.",
+        "analyzed": "paṭinissajjati no ādiyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.4",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati …pe…",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.5",
+        "original": "paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.6",
+        "original": "Imehi sattahi ākārehi vedanaṁ anupassati.",
+        "analyzed": "imehi sattahi ākārehi vedanam anupassati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.7",
+        "original": "Vedanā upaṭṭhānaṁ, no sati.",
+        "analyzed": "vedanā upaṭṭhāna no sati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.8",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.9",
+        "original": "Tāya satiyā tena ñāṇena taṁ vedanaṁ anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena tam vedanam anupassati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.10",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:6.11",
+        "original": "“vedanāsu vedanānupassanāsatipaṭṭhānā”.",
+        "analyzed": "vedanāsu vedanā anupassanā sati paṭṭhānā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.1",
+        "original": "Bhāvanāti catasso bhāvanā …pe…",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.2",
+        "original": "āsevanaṭṭhena bhāvanā …pe…",
+        "analyzed": "āsevana ṭṭhena bhāvanā pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.3",
+        "original": "idhekacco dukkhaṁ vedanaṁ …pe…",
+        "analyzed": "idha ekaccaḥ dukkham vedanam pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.4",
+        "original": "adukkhamasukhaṁ vedanaṁ …",
+        "analyzed": "adukkham asukham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.5",
+        "original": "sāmisaṁ sukhaṁ vedanaṁ …",
+        "analyzed": "sa āmisam sukham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.6",
+        "original": "nirāmisaṁ sukhaṁ vedanaṁ …",
+        "analyzed": "nirāmisam sukham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.7",
+        "original": "sāmisaṁ dukkhaṁ vedanaṁ …",
+        "analyzed": "sa āmisam dukkham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.8",
+        "original": "nirāmisaṁ dukkhaṁ vedanaṁ …",
+        "analyzed": "nirāmisam dukkham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.9",
+        "original": "sāmisaṁ adukkhamasukhaṁ vedanaṁ …",
+        "analyzed": "sa āmisam adukkham asukham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.10",
+        "original": "nirāmisaṁ adukkhamasukhaṁ vedanaṁ …",
+        "analyzed": "nirāmisam adukkham asukham vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.11",
+        "original": "cakkhusamphassajaṁ vedanaṁ …",
+        "analyzed": "cakkhu samphassa jam vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.12",
+        "original": "sotasamphassajaṁ vedanaṁ …",
+        "analyzed": "sota samphassa jam vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.13",
+        "original": "ghānasamphassajaṁ vedanaṁ …",
+        "analyzed": "ghāna samphassa jam vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.14",
+        "original": "jivhāsamphassajaṁ vedanaṁ …",
+        "analyzed": "jivhā samphassa jam vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.15",
+        "original": "kāyasamphassajaṁ vedanaṁ …",
+        "analyzed": "kāya samphassa jam vedanam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.16",
+        "original": "manosamphassajaṁ vedanaṁ aniccato anupassati, no niccato …pe…",
+        "analyzed": "manaḥ samphassa jam vedanam aniccataḥ anupassati no niccataḥ pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.17",
+        "original": "paṭinissajjati, no ādiyati.",
+        "analyzed": "paṭinissajjati no ādiyati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.18",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati …pe…",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.19",
+        "original": "paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.20",
+        "original": "Imehi sattahi ākārehi vedanaṁ anupassati.",
+        "analyzed": "imehi sattahi ākārehi vedanam anupassati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.21",
+        "original": "Vedanā upaṭṭhānaṁ, no sati.",
+        "analyzed": "vedanā upaṭṭhāna no sati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.22",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.23",
+        "original": "Tāya satiyā tena ñāṇena taṁ vedanaṁ anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena tam vedanam anupassati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.24",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:7.25",
+        "original": "“vedanāsu vedanānupassanāsatipaṭṭhānā”.",
+        "analyzed": "vedanāsu vedanā anupassanā sati paṭṭhānā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:8.1",
+        "original": "Bhāvanāti catasso bhāvanā …pe…",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:8.2",
+        "original": "evaṁ vedanāsu vedanānupassī viharati.",
+        "analyzed": "evam vedanāsu vedanā anupassī viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.1",
+        "original": "Kathaṁ citte cittānupassī viharati?",
+        "analyzed": "katham citte citta anupassī viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.2",
+        "original": "Idhekacco sarāgaṁ cittaṁ aniccato anupassati, no niccato …pe…",
+        "analyzed": "idha ekaccaḥ sa rāgam cittam aniccataḥ anupassati no niccataḥ pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.3",
+        "original": "paṭinissajjati, no ādiyati.",
+        "analyzed": "paṭinissajjati no ādiyati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.4",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati …pe…",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.5",
+        "original": "paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.6",
+        "original": "Imehi sattahi ākārehi cittaṁ anupassati.",
+        "analyzed": "imehi sattahi ākārehi cittam anupassati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.7",
+        "original": "Cittaṁ upaṭṭhānaṁ, no sati.",
+        "analyzed": "cittam upaṭṭhāna no sati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.8",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.9",
+        "original": "Tāya satiyā tena ñāṇena taṁ cittaṁ anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena tam cittam anupassati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.10",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:9.11",
+        "original": "“citte cittānupassanāsatipaṭṭhānā”.",
+        "analyzed": "citte citta anupassanā sati paṭṭhānā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:10.1",
+        "original": "Bhāvanāti catasso bhāvanā …pe…",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:10.2",
+        "original": "āsevanaṭṭhena bhāvanā.",
+        "analyzed": "āsevana ṭṭhena bhāvanā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.1",
+        "original": "Idhekacco vītarāgaṁ cittaṁ …pe…",
+        "analyzed": "idha ekaccaḥ vīta rāgam cittam pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.2",
+        "original": "sadosaṁ cittaṁ …",
+        "analyzed": "sa dosam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.3",
+        "original": "vītadosaṁ cittaṁ …",
+        "analyzed": "vīta dosam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.4",
+        "original": "samohaṁ cittaṁ …",
+        "analyzed": "sa moham cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.5",
+        "original": "vītamohaṁ cittaṁ …",
+        "analyzed": "vīta moham cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.6",
+        "original": "saṅkhittaṁ cittaṁ …",
+        "analyzed": "saṅkhittam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.7",
+        "original": "vikkhittaṁ cittaṁ …",
+        "analyzed": "vikkhittam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.8",
+        "original": "mahaggataṁ cittaṁ …",
+        "analyzed": "mahaggatam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.9",
+        "original": "amahaggataṁ cittaṁ …",
+        "analyzed": "amahaggatam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.10",
+        "original": "sauttaraṁ cittaṁ …",
+        "analyzed": "sauttaram cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.11",
+        "original": "anuttaraṁ cittaṁ …",
+        "analyzed": "anuttaram cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.12",
+        "original": "samāhitaṁ cittaṁ …",
+        "analyzed": "samāhitam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.13",
+        "original": "asamāhitaṁ cittaṁ …",
+        "analyzed": "asamāhitam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.14",
+        "original": "vimuttaṁ cittaṁ …",
+        "analyzed": "vimuttam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.15",
+        "original": "avimuttaṁ cittaṁ …",
+        "analyzed": "a vimuttam cittam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.16",
+        "original": "cakkhuviññāṇaṁ …",
+        "analyzed": "cakkhu viññāṇam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.17",
+        "original": "sotaviññāṇaṁ …",
+        "analyzed": "sota viññāṇam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.18",
+        "original": "ghānaviññāṇaṁ …",
+        "analyzed": "ghāna viññāṇam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.19",
+        "original": "jivhāviññāṇaṁ …",
+        "analyzed": "jivhā viññāṇam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.20",
+        "original": "kāyaviññāṇaṁ …",
+        "analyzed": "kāya viññāṇam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.21",
+        "original": "manoviññāṇaṁ aniccato anupassati, no niccato …pe…",
+        "analyzed": "manaḥ viññāṇam aniccataḥ anupassati no niccataḥ pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.22",
+        "original": "paṭinissajjati, no ādiyati.",
+        "analyzed": "paṭinissajjati no ādiyati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.23",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati …pe…",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.24",
+        "original": "paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.25",
+        "original": "Imehi sattahi ākārehi cittaṁ anupassati.",
+        "analyzed": "imehi sattahi ākārehi cittam anupassati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.26",
+        "original": "Cittaṁ upaṭṭhānaṁ, no sati.",
+        "analyzed": "cittam upaṭṭhāna no sati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.27",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.28",
+        "original": "Tāya satiyā tena ñāṇena taṁ cittaṁ anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena tam cittam anupassati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.29",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:11.30",
+        "original": "“citte cittānupassanāsatipaṭṭhānā”.",
+        "analyzed": "citte citta anupassanā sati paṭṭhānā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:12.1",
+        "original": "Bhāvanāti catasso bhāvanā …pe…",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:12.2",
+        "original": "āsevanaṭṭhena bhāvanā.",
+        "analyzed": "āsevana ṭṭhena bhāvanā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:12.3",
+        "original": "Evaṁ citte cittānupassī viharati.",
+        "analyzed": "evam citte citta anupassī viharati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.1",
+        "original": "Kathaṁ dhammesu dhammānupassī viharati?",
+        "analyzed": "katham dhammesu dhamma anupassī viharati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.2",
+        "original": "Idhekacco ṭhapetvā kāyaṁ ṭhapetvā vedanaṁ ṭhapetvā cittaṁ tadavasese dhamme aniccato anupassati, no niccato;",
+        "analyzed": "idha ekaccaḥ ṭhapetvā kāyam ṭhapetvā vedanam ṭhapetvā cittam tad avasese dhamme aniccataḥ anupassati no niccataḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.3",
+        "original": "dukkhato anupassati, no sukhato;",
+        "analyzed": "dukkhataḥ anupassati no sukhataḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.4",
+        "original": "anattato anupassati, no attato;",
+        "analyzed": "an attataḥ anupassati no attataḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.5",
+        "original": "nibbindati, no nandati;",
+        "analyzed": "nibbindati no nandati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.6",
+        "original": "virajjati, no rajjati;",
+        "analyzed": "virajjati na u rajjati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.7",
+        "original": "nirodheti, no samudeti;",
+        "analyzed": "nirodha iti na u samudeti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.8",
+        "original": "paṭinissajjati, no ādiyati.",
+        "analyzed": "paṭinissajjati no ādiyati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.9_0",
+        "original": "Aniccato anupassanto niccasaññaṁ pajahati, dukkhato anupassanto sukhasaññaṁ pajahati,",
+        "analyzed": "aniccataḥ anupassantaḥ nicca saññam pajahati dukkhataḥ anupassantaḥ sukha saññam pajahati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.9_1",
+        "original": "anattato anupassanto attasaññaṁ pajahati, nibbindanto nandiṁ pajahati, virajjanto",
+        "analyzed": "anattataḥ anupassantaḥ atta saññam pajahati nibbindantaḥ nandim pajahati virajjantaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.9_2",
+        "original": "rāgaṁ pajahati, nirodhento samudayaṁ pajahati, paṭinissajjanto ādānaṁ pajahati.",
+        "analyzed": "rāgam pajahati nirodhentaḥ samudayam pajahati paṭinissajjantaḥ ādānam pajahati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.10",
+        "original": "Imehi sattahi ākārehi te dhamme anupassati.",
+        "analyzed": "imehi sattahi ākārehi te dhamme anupassati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.11",
+        "original": "Dhammā upaṭṭhānaṁ, no sati.",
+        "analyzed": "dhammā upaṭṭhāna no sati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.12",
+        "original": "Sati upaṭṭhānañceva sati ca.",
+        "analyzed": "sati upaṭṭhānañca iva sati ca ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.13",
+        "original": "Tāya satiyā tena ñāṇena te dhamme anupassati.",
+        "analyzed": "tāya satiyā tena ñāṇena te dhamme anupassati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.14",
+        "original": "Tena vuccati—",
+        "analyzed": "tena vuccati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:13.15",
+        "original": "“dhammesu dhammānupassanāsatipaṭṭhānā”.",
+        "analyzed": "dhammesu dhamma anupassanā sati paṭṭhānā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:14.1",
+        "original": "Bhāvanāti catasso bhāvanā—",
+        "analyzed": "bhāvanā ati catassaḥ bhāvanā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:14.2",
+        "original": "tattha jātānaṁ dhammānaṁ anativattanaṭṭhena bhāvanā, indriyānaṁ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā.",
+        "analyzed": "tattha jātānam dhammānam anativattana ṭhena bhāvanā indriyānaṃ ekarasa ṭṭhena bhāvanā tad upaga vīriya vāhana ṭṭhena bhāvanā āsevana ṭṭhena bhāvanā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:14.3",
+        "original": "Evaṁ dhammesu dhammānupassī viharatīti.",
+        "analyzed": "evam dhammesu dhamma anupassī viharati iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.8:14.4",
+        "original": "Satipaṭṭhānakathā niṭṭhitā.",
+        "analyzed": "sati paṭṭhāna kathā niṭṭhitā ",
+        "folio": "14"
+    }
+]

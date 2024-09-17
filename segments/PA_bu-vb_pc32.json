@@ -1,0 +1,836 @@
+[
+    {
+        "segmentnr": "PA_bu-vb_pc32:0.1",
+        "original": "Theravāda Vinaya",
+        "analyzed": "thera vāda vinaya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:0.2",
+        "original": "Mahāvibhaṅga",
+        "analyzed": "mahāvibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:0.3",
+        "original": "Pācittiyakaṇḍa",
+        "analyzed": "pācittiyakaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:0.4",
+        "original": "Bhojanavagga",
+        "analyzed": "bhojana vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:0.5",
+        "original": "32. Gaṇabhojanasikkhāpada",
+        "analyzed": "gaṇa bhojana sikkhāpada ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.1",
+        "original": "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+        "analyzed": "tena samayena buddhaḥ bhagavā rājagahe viharati veḷuvane kalandakanivāpe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.2",
+        "original": "Tena kho pana samayena devadatto parihīnalābhasakkāro sapariso kulesu viññāpetvā viññāpetvā bhuñjati.",
+        "analyzed": "tena kho pana samayena devadattaḥ parihīna lābha sakkāro sa pariso kulesu viññāpetvā viññāpetvā bhuñjati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.3",
+        "original": "Manussā ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "manussāḥ ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.4",
+        "original": "“kathañhi nāma samaṇā sakyaputtiyā kulesu viññāpetvā viññāpetvā bhuñjissanti.",
+        "analyzed": "kathañhi nāma samaṇā sakyaputtiyā kulesu viññāpetvā viññāpetvā bhuñjissanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.5",
+        "original": "Kassa sampannaṁ na manāpaṁ, kassa sāduṁ na ruccatī”ti.",
+        "analyzed": "kassa sampannam na manāpa kassa sādum na ruccati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.6",
+        "original": "Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ.",
+        "analyzed": "assosum kho bhikkhū tesam manussānam ujjhāyantānam khiyyantānam vipācentāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.7",
+        "original": "Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "ye te bhikkhū appicchā pe te ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.8",
+        "original": "“kathañhi nāma devadatto sapariso kulesu viññāpetvā viññāpetvā bhuñjissatī”ti …pe…",
+        "analyzed": "kathan hi nāma devadatto sa parisaḥ kulesu viññāpetvā viññāpetvā bhuñjissati iti pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.9",
+        "original": "“saccaṁ kira tvaṁ, devadatta, sapariso kulesu viññāpetvā viññāpetvā bhuñjasī”ti?",
+        "analyzed": "saccam kira tva devadatta sa pariso kulesu viññāpetvā viññāpetvā bhuñjasi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.10",
+        "original": "“Saccaṁ, bhagavā”ti.",
+        "analyzed": "sat ca bhagavān ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.11",
+        "original": "Vigarahi buddho bhagavā …pe…",
+        "analyzed": "vigarahi buddhaḥ bhagavān pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.12",
+        "original": "kathañhi nāma tvaṁ, moghapurisa, sapariso kulesu viññāpetvā viññāpetvā bhuñjissasi.",
+        "analyzed": "kathañhi nāma tva mogha purisa sa parisaḥ kulesu viññāpetvā viññāpetvā bhuñjissasi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.13",
+        "original": "Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe…",
+        "analyzed": "neta moghapurisa appasannānam vā pasādāya pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.14",
+        "original": "evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.15.1",
+        "original": "“Gaṇabhojane pācittiyan”ti.",
+        "analyzed": "gaṇa bhojane pācittiyanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:1.16",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.1",
+        "original": "Tena kho pana samayena manussā gilāne bhikkhū bhattena nimantenti.",
+        "analyzed": "tena kho pana samayena manussāḥ gilāne bhikkhū bhattena nimantenti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.2",
+        "original": "Bhikkhū kukkuccāyantā nādhivāsenti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na adhivāsenti paṭikkhittam bhagavatā gaṇa bhojanan ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.3",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ.",
+        "analyzed": "bhagavato etam attham ārocesu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.4",
+        "original": "Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—",
+        "analyzed": "atha kho bhagavā etasmim nidāne etasmim pakaraṇe dhammim katham katvā bhikkhū āmantesi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.5",
+        "original": "“anujānāmi, bhikkhave, gilānena bhikkhunā gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave gilānena bhikkhunā gaṇa bhojanam bhuñjitu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.6",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.7.1",
+        "original": "“Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.8",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:2.9",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.1",
+        "original": "Tena kho pana samayena manussā cīvaradānasamaye sacīvarabhattaṁ paṭiyādetvā bhikkhū nimantenti—",
+        "analyzed": "tena kho pana samayena manussā cīvara dāna samaye sa cīvara bhattam paṭiyādetvā bhikkhū nimantenti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.2",
+        "original": "“bhojetvā cīvarena acchādessāmā”ti.",
+        "analyzed": "bhojetvā cīvarena acchādessāma ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.3",
+        "original": "Bhikkhū kukkuccāyantā nādhivāsenti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na adhivāsenti paṭikkhittam bhagavatā gaṇa bhojanan ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.4",
+        "original": "Cīvaraṁ parittaṁ uppajjati.",
+        "analyzed": "cīvaram parittam uppajjati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.5",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "bhagavato etam attham ārocesuṃ pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.6",
+        "original": "anujānāmi, bhikkhave, cīvaradānasamaye gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave cīvara dāna samaye gaṇa bhojanam bhuñjitu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.7",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.8.1",
+        "original": "“Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.9",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo, cīvaradānasamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ cīvara dāna samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:3.10",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.1",
+        "original": "Tena kho pana samayena manussā cīvarakārake bhikkhū bhattena nimantenti.",
+        "analyzed": "tena kho pana samayena manussāḥ cīvarakārake bhikkhū bhattena nimantenti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.2",
+        "original": "Bhikkhū kukkuccāyantā nādhivāsenti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na adhivāsenti paṭikkhittam bhagavatā gaṇa bhojanan ti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.3",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "bhagavato etam attham ārocesuṃ pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.4",
+        "original": "anujānāmi, bhikkhave, cīvarakārasamaye gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave cīvarakāra samaye gaṇa bhojanam bhuñjitu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.5",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.6.1",
+        "original": "“Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.7",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ cīvara dāna samayaḥ cīvarakāra samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:4.8",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.1",
+        "original": "Tena kho pana samayena bhikkhū manussehi saddhiṁ addhānaṁ gacchanti.",
+        "analyzed": "tena kho pana samayena bhikkhū manussehi saddhim addhānam gacchanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.2",
+        "original": "Atha kho te bhikkhū te manusse etadavocuṁ—",
+        "analyzed": "atha kho te bhikkhū te manusse etat avocu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.3",
+        "original": "“muhuttaṁ, āvuso, āgametha; piṇḍāya carissāmā”ti.",
+        "analyzed": "muhutte āvuso āgametha piṇḍāya carissāma ati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.4",
+        "original": "Te evamāhaṁsu—",
+        "analyzed": "te ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.5",
+        "original": "“idheva, bhante, bhuñjathā”ti.",
+        "analyzed": "idhā iva bhante bhuñjatha ati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.6",
+        "original": "Bhikkhū kukkuccāyantā na paṭiggaṇhanti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na paṭiggaṇhanti paṭikkhittam bhagavatā gaṇa bhojananti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.7",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "bhagavato etam attham ārocesuṃ pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.8",
+        "original": "anujānāmi, bhikkhave, addhānagamanasamaye gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave addhāna gamana samaye gaṇa bhojanam bhuñjitu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.9",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.10.1",
+        "original": "“Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.11",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ cīvara dāna samayaḥ cīvara kāra samayaḥ addhāna gamana samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:5.12",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.1",
+        "original": "Tena kho pana samayena bhikkhū manussehi saddhiṁ nāvāya gacchanti.",
+        "analyzed": "tena kho pana samayena bhikkhū manussehi saddhim nāvāya gacchanti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.2",
+        "original": "Atha kho te bhikkhū te manusse etadavocuṁ—“muhuttaṁ, āvuso, tīraṁ upanetha; piṇḍāya carissāmā”ti.",
+        "analyzed": "atha kho te bhikkhū te manusse etat avocuḥ muhutte āvuso tīram upanetha piṇḍāya carissāma ati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.3",
+        "original": "Te evamāhaṁsu—“idheva, bhante, bhuñjathā”ti.",
+        "analyzed": "te evam āha suidhā iva bhante bhuñjatha ati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.4",
+        "original": "Bhikkhū kukkuccāyantā na paṭiggaṇhanti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na paṭiggaṇhanti paṭikkhittam bhagavatā gaṇa bhojananti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.5",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "bhagavato etam attham ārocesuṃ pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.6",
+        "original": "anujānāmi, bhikkhave, nāvābhiruhanasamaye gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave nāvā abhiruhana samaye gaṇa bhojanam bhuñjitu ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.7",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.8.1",
+        "original": "“Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.9",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ cīvara dāna samayaḥ cīvara kāra samayaḥ addhāna gamana samayaḥ nāvā abhiruhana samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:6.10",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.1",
+        "original": "Tena kho pana samayena disāsu vassaṁvuṭṭhā bhikkhū rājagahaṁ āgacchanti bhagavantaṁ dassanāya.",
+        "analyzed": "tena kho pana samayena disāsu vassa vuṭṭhāḥ bhikkhū rājagaham āgacchanti bhagavantam dassanāya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.2",
+        "original": "Manussā nānāverajjake bhikkhū passitvā bhattena nimantenti.",
+        "analyzed": "manussāḥ nānā verajjake bhikkhū passitvā bhattena nimantenti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.3",
+        "original": "Bhikkhū kukkuccāyantā nādhivāsenti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na adhivāsenti paṭikkhittam bhagavatā gaṇa bhojanan ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.4",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "bhagavato etam attham ārocesuṃ pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.5",
+        "original": "anujānāmi, bhikkhave, mahāsamaye gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave mahā samaye gaṇa bhojanam bhuñjitu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.6",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.7.1",
+        "original": "“Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.8",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ cīvara dāna samayaḥ cīvara kāra samayaḥ addhāna gamana samayaḥ nāvā abhiruhana samayaḥ mahā samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:7.9",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.1_0",
+        "original": "Tena kho pana samayena rañño māgadhassa seniyassa bimbisārassa ñātisālohito ājīvakesu",
+        "analyzed": "tena kho pana samayena raññaḥ māgadhassa seniyassa bimbisārassa ñāti sālohitaḥ ājīvakesu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.1_1",
+        "original": "pabbajito hoti. Atha kho so ājīvako yena rājā māgadho seniyo bimbisāro tenupasaṅkami;",
+        "analyzed": "pabbajitaḥ hoti atha kho saḥ ājīvakaḥ yena rājā māgadhaḥ seniyaḥ bimbisāraḥ tena upasaṅkami ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.1_2",
+        "original": "upasaṅkamitvā rājānaṁ māgadhaṁ seniyaṁ bimbisāraṁ etadavoca—“icchāmahaṁ, mahārāja,",
+        "analyzed": "upasaṅkamitvā rājānam māgadham seniyam bimbisāram etat avoca ecchāmaha mahā rāja ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.1_3",
+        "original": "sabbapāsaṇḍikabhattaṁ kātun”ti.",
+        "analyzed": "sabba pāsaṇḍika bhattam kātunti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.2",
+        "original": "“Sace tvaṁ, bhante, buddhappamukhaṁ bhikkhusaṅghaṁ paṭhamaṁ bhojeyyāsi”.",
+        "analyzed": "sace tva bhante buddha ppamukham bhikkhu saṅgham paṭhamam bhojeyyāsi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.3",
+        "original": "“Evaṁ kareyyāmī”ti.",
+        "analyzed": "evam kareyyāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.4",
+        "original": "Atha kho so ājīvako bhikkhūnaṁ santike dūtaṁ pāhesi—“adhivāsentu me bhikkhū svātanāya bhattan”ti.",
+        "analyzed": "atha kho saḥ ājīvakaḥ bhikkhūnam santike dūtam pāhesi adhivāsentu me bhikkhū svātanāya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.5",
+        "original": "Bhikkhū kukkuccāyantā nādhivāsenti—“paṭikkhittaṁ bhagavatā gaṇabhojanan”ti.",
+        "analyzed": "bhikkhū kukkuccāyantā na adhivāsenti paṭikkhittam bhagavatā gaṇa bhojanan ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.6_0",
+        "original": "Atha kho so ājīvako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi,",
+        "analyzed": "atha kho saḥ ājīvakaḥ yena bhagavā tena upasaṅkami upasaṅkamitvā bhagavatā saddhim sammodi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.6_1",
+        "original": "sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho",
+        "analyzed": "sammodanīyam katham sāraṇīyam vītisāretvā ekamantam aṭṭhāsi ekamantam ṭhitaḥ kho ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.6_2",
+        "original": "so ājīvako bhagavantaṁ etadavoca—",
+        "analyzed": "saḥ ājīvakaḥ bhagavantam etat avoca ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.7",
+        "original": "“bhavampi gotamo pabbajito, ahampi pabbajito;",
+        "analyzed": "bhavam pi gotamaḥ pabbajitaḥ aham pi pabbajitaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.8",
+        "original": "arahati pabbajito pabbajitassa piṇḍaṁ paṭiggahetuṁ.",
+        "analyzed": "arahati pabbajitaḥ pabbajitassa piṇḍam paṭiggahetu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.9",
+        "original": "Adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti.",
+        "analyzed": "adhivāsetu me bhavam gotamaḥ svātanāya bhattam saddhim bhikkhu saṅghena ati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.10",
+        "original": "Adhivāsesi bhagavā tuṇhībhāvena.",
+        "analyzed": "adhivāsesi bhagavā tuṇhībhāvena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.11",
+        "original": "Atha kho so ājīvako bhagavato adhivāsanaṁ viditvā pakkāmi.",
+        "analyzed": "atha kho saḥ ājīvakaḥ bhagavataḥ adhivāsanam viditvā pakkāmi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.12",
+        "original": "Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—",
+        "analyzed": "atha kho bhagavā etasmim nidāne etasmim pakaraṇe dhammim katham katvā bhikkhū āmantesi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.13",
+        "original": "“anujānāmi, bhikkhave, samaṇabhattasamaye gaṇabhojanaṁ bhuñjituṁ.",
+        "analyzed": "anujānāmi bhikkhave samaṇa bhatta samaye gaṇa bhojanam bhuñjitu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.14",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.15.1",
+        "original": "Gaṇabhojane, aññatra samayā, pācittiyaṁ.",
+        "analyzed": "gaṇa bhojane aññatra samayā pācittiya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:8.16",
+        "original": "Tatthāyaṁ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo—ayaṁ tattha samayo”ti.",
+        "analyzed": "tattha ayam samayaḥ gilāna samayaḥ cīvara dāna samayaḥ cīvara kāra samayaḥ addhāna gamana samayaḥ nāvā abhiruhana samayaḥ mahā samayaḥ samaṇa bhatta samayaḥ ayam tattha samayaḥ ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.1",
+        "original": "Gaṇabhojanaṁ nāma",
+        "analyzed": "gaṇa bhojanam nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.2",
+        "original": "yattha cattāro bhikkhū pañcannaṁ bhojanānaṁ aññatarena bhojanena nimantitā bhuñjanti. Etaṁ gaṇabhojanaṁ nāma.",
+        "analyzed": "yattha cattāraḥ bhikkhū pañcannam bhojanānam aññatarena bhojanena nimantitāḥ bhuñjanti etam gaṇabhojanam nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.3",
+        "original": "Aññatra samayāti",
+        "analyzed": "aññatra samayā ati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.4",
+        "original": "ṭhapetvā samayaṁ.",
+        "analyzed": "samaya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.5",
+        "original": "Gilānasamayo nāma",
+        "analyzed": "gilānasamayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.6",
+        "original": "antamaso pādāpi phalitā honti. “Gilānasamayo”ti bhuñjitabbaṁ.",
+        "analyzed": "antamasaḥ pādāḥ api phalitāḥ honti gilāna samayaḥ ti bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.7",
+        "original": "Cīvaradānasamayo nāma",
+        "analyzed": "cīvara dāna samayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.8",
+        "original": "anatthate kathine vassānassa pacchimo māso, atthate kathine pañcamāsā. “Cīvaradānasamayo”ti bhuñjitabbaṁ.",
+        "analyzed": "an atthate kathine vassānassa pacchimaḥ māso atthate kathine pañca māsā cīvara dāna samayaḥ ti bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.9",
+        "original": "Cīvarakārasamayo nāma",
+        "analyzed": "cīvarakāra samayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.10",
+        "original": "cīvare kayiramāne. “Cīvarakārasamayo”ti bhuñjitabbaṁ.",
+        "analyzed": "cīvare bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.11",
+        "original": "Addhānagamanasamayo nāma",
+        "analyzed": "addhāna gamana samayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.12",
+        "original": "“addhayojanaṁ gacchissāmī”ti bhuñjitabbaṁ, gacchantena bhuñjitabbaṁ, gatena bhuñjitabbaṁ.",
+        "analyzed": "addha yojanam gacchissāmi iti bhuñjitabba gacchantena bhuñjitabba gatena bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.13",
+        "original": "Nāvābhiruhanasamayo nāma",
+        "analyzed": "nāvā abhiruhana samayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.14",
+        "original": "“nāvaṁ abhiruhissāmī”ti bhuñjitabbaṁ, āruḷhena bhuñjitabbaṁ, oruḷhena bhuñjitabbaṁ.",
+        "analyzed": "nāvam abhiruhissāmi iti bhuñjitabbaḥ āruḷhena bhuñjitabbaḥ oruḷhena bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.15",
+        "original": "Mahāsamayo nāma",
+        "analyzed": "mahāsamayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.16",
+        "original": "yattha dve tayo bhikkhū piṇḍāya caritvā yāpenti, catutthe āgate na yāpenti. “Mahāsamayo”ti bhuñjitabbaṁ.",
+        "analyzed": "yattha dve tayaḥ bhikkhū piṇḍāya caritvā yāpenti catutthe āgate na yāpenti mahāsamayaḥ ti bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.17",
+        "original": "Samaṇabhattasamayo nāma",
+        "analyzed": "samaṇabhattasamayaḥ nāma ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.18",
+        "original": "yo koci paribbājakasamāpanno bhattaṁ karoti. “Samaṇabhattasamayo”ti bhuñjitabbaṁ.",
+        "analyzed": "yaḥ koci paribbājaka samāpannaḥ bhattam karoti samaṇa bhatta samayaḥ ti bhuñjitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.19",
+        "original": "“Aññatra samayā bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa.",
+        "analyzed": "aññatra samayā bhuñjissāmi iti paṭiggaṇhāti āpatti dukkaṭassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.1.20",
+        "original": "Ajjhohāre ajjhohāre āpatti pācittiyassa.",
+        "analyzed": "ajjhohāre ajjhohāre āpatti pācittiyassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.2.1",
+        "original": "Gaṇabhojane gaṇabhojanasaññī, aññatra samayā, bhuñjati, āpatti pācittiyassa.",
+        "analyzed": "gaṇa bhojane gaṇa bhojana saññī aññatra samayā bhuñjati āpatti pācittiyassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.2.2",
+        "original": "Gaṇabhojane vematiko, aññatra samayā, bhuñjati, āpatti pācittiyassa.",
+        "analyzed": "gaṇa bhojane vematikaḥ aññatra samayā bhuñjati āpatti pācittiyassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.2.3",
+        "original": "Gaṇabhojane nagaṇabhojanasaññī, aññatra samayā, bhuñjati, āpatti pācittiyassa.",
+        "analyzed": "gaṇa bhojane na gaṇa bhojana saññī aññatra samayā bhuñjati āpatti pācittiyassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.2.4",
+        "original": "Nagaṇabhojane gaṇabhojanasaññī, āpatti dukkaṭassa.",
+        "analyzed": "na gaṇa bhojane gaṇa bhojana saññī āpatti dukkaṭassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.2.5",
+        "original": "Nagaṇabhojane vematiko, āpatti dukkaṭassa.",
+        "analyzed": "nagaṇa bhojane vematikaḥ āpatti dukkaṭassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.2.6",
+        "original": "Nagaṇabhojane nagaṇabhojanasaññī, anāpatti.",
+        "analyzed": "na gaṇa bhojane na gaṇa bhojana saññī anāpatti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.1",
+        "original": "Anāpatti—",
+        "analyzed": "anāpatti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.2",
+        "original": "samaye,",
+        "analyzed": "samaye ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.3",
+        "original": "dve tayo ekato bhuñjanti,",
+        "analyzed": "dve tayaḥ ekatas bhuñjanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.4",
+        "original": "piṇḍāya caritvā ekato sannipatitvā bhuñjanti,",
+        "analyzed": "piṇḍāya caritvā ekatas sannipatitvā bhuñjanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.5",
+        "original": "niccabhattaṁ,",
+        "analyzed": "niccabhatta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.6",
+        "original": "salākabhattaṁ,",
+        "analyzed": "salākabhatta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.7",
+        "original": "pakkhikaṁ,",
+        "analyzed": "pakkhika ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.8",
+        "original": "uposathikaṁ,",
+        "analyzed": "uposathika ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.9",
+        "original": "pāṭipadikaṁ,",
+        "analyzed": "pāṭipadika ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.10",
+        "original": "pañca bhojanāni ṭhapetvā sabbattha anāpatti,",
+        "analyzed": "pañca bhojanāni ṭhapetvā sabbattha anāpatti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.11",
+        "original": "ummattakassa,",
+        "analyzed": "ummattakassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.12",
+        "original": "ādikammikassāti.",
+        "analyzed": "ādikammikassa ati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_bu-vb_pc32:9.3.13",
+        "original": "Gaṇabhojanasikkhāpadaṁ niṭṭhitaṁ dutiyaṁ.",
+        "analyzed": "gaṇa bhojana sikkhāpadam niṭṭhitam dutiya ",
+        "folio": "9"
+    }
+]

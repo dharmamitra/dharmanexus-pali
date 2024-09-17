@@ -1,0 +1,3452 @@
+[
+    {
+        "segmentnr": "PA_ya_10.1.1:0.1",
+        "original": "10 Indriyayamaka",
+        "analyzed": "indriya yamaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:0.2",
+        "original": "10.1 Paṇṇattivāra",
+        "analyzed": "paṇṇattivāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:0.3",
+        "original": "10.1.1. Paṇṇattivārauddesa",
+        "analyzed": "paṇṇatti vāra uddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:1.1",
+        "original": "Namo tassa Bhagavato Arahato Sammāsambuddhassa.",
+        "analyzed": "namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:2.1_0",
+        "original": "Bāvīsatindriyāni—cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ,",
+        "analyzed": "sota indriya ghāna indriya jivhā indriya kāya indriya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:2.1_1",
+        "original": "manindriyaṁ, itthindriyaṁ, purisindriyaṁ, jīvitindriyaṁ, sukhindriyaṁ, dukkhindriyaṁ,",
+        "analyzed": "man indriya itthi indriya purisa indriya jīvitindriya sukha indriya dukkha indriya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:2.1_2",
+        "original": "somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ, saddhindriyaṁ, vīriyindriyaṁ,",
+        "analyzed": "somanassa indriya domanassa indriya upekkhindriya saddhindriya vīriyindriya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:2.1_3",
+        "original": "satindriyaṁ, samādhindriyaṁ, paññindriyaṁ, anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ.",
+        "analyzed": "satindriya samādhindriya paññindriya anaññātaññassāmi itindriya aññindriya aññātāvindriya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:3.0.1",
+        "original": "10.1.1.1. Padasodhanavāra",
+        "analyzed": "    ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:3.0.2",
+        "original": "10.1.1.1.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:3.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:4.1",
+        "original": "Cakkhundriyaṁ cakkhu?",
+        "analyzed": "cakkhu indriyam cakkhu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:5.1",
+        "original": "Sotaṁ sotindriyaṁ?",
+        "analyzed": "sotam sotindriya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:6.1",
+        "original": "Sotindriyaṁ sotaṁ?",
+        "analyzed": "sotindriyam sota ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:7.1",
+        "original": "Ghānaṁ ghānindriyaṁ?",
+        "analyzed": "ghānam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:8.1",
+        "original": "Ghānindriyaṁ ghānaṁ?",
+        "analyzed": "ghānindriyam ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:9.1",
+        "original": "Jivhā jivhindriyaṁ?",
+        "analyzed": "jivhā jivhindriya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:10.1",
+        "original": "Jivhindriyaṁ jivhā?",
+        "analyzed": "jivhā indriyam jivhā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:11.1",
+        "original": "Kāyo kāyindriyaṁ?",
+        "analyzed": "kāya ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:12.1",
+        "original": "Kāyindriyaṁ kāyo?",
+        "analyzed": "kāyindriyam ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:13.1",
+        "original": "Mano manindriyaṁ?",
+        "analyzed": "mano manindriya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:14.1",
+        "original": "Manindriyaṁ mano?",
+        "analyzed": "man indriyam manaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:15.1",
+        "original": "Itthī itthindriyaṁ?",
+        "analyzed": "itthī ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:16.1",
+        "original": "Itthindriyaṁ itthī?",
+        "analyzed": "itthī indriyam itthī ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:17.1",
+        "original": "Puriso purisindriyaṁ?",
+        "analyzed": "purisaḥ purisa indriya ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:18.1",
+        "original": "Purisindriyaṁ puriso?",
+        "analyzed": "purisa indriyam purisaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:19.1",
+        "original": "Jīvitaṁ jīvitindriyaṁ?",
+        "analyzed": "jīvitam jīvitindriya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:20.1",
+        "original": "Jīvitindriyaṁ jīvitaṁ?",
+        "analyzed": "jīvitindriyam ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:21.1",
+        "original": "Sukhaṁ sukhindriyaṁ?",
+        "analyzed": "sukham sukhindriya ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:22.1",
+        "original": "Sukhindriyaṁ sukhaṁ?",
+        "analyzed": "sukha indriyam ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:23.1",
+        "original": "Dukkhaṁ dukkhindriyaṁ?",
+        "analyzed": "dukkham dukkhindriya ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:24.1",
+        "original": "Dukkhindriyaṁ dukkhaṁ?",
+        "analyzed": "dukkha indriyam ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:25.1",
+        "original": "Somanassaṁ somanassindriyaṁ?",
+        "analyzed": "somanassam somanassindriya ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:26.1",
+        "original": "Somanassindriyaṁ somanassaṁ?",
+        "analyzed": "somanaḥ indriyam ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:27.1",
+        "original": "Domanassaṁ domanassindriyaṁ?",
+        "analyzed": "domanassam domanassindriya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:28.1",
+        "original": "Domanassindriyaṁ domanassaṁ?",
+        "analyzed": "domanassa indriyam ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:29.1",
+        "original": "Upekkhā upekkhindriyaṁ?",
+        "analyzed": "upekkhā upekkhindriya ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:30.1",
+        "original": "Upekkhindriyaṁ upekkhā?",
+        "analyzed": "upekkhā indriyam upekkhā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:31.1",
+        "original": "Saddhā saddhindriyaṁ?",
+        "analyzed": "saddhā ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:32.1",
+        "original": "Saddhindriyaṁ saddhā?",
+        "analyzed": "sat hi indriyam sat ha ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:33.1",
+        "original": "Vīriyaṁ vīriyindriyaṁ?",
+        "analyzed": "vīriyam vīriyindriya ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:34.1",
+        "original": "Vīriyindriyaṁ vīriyaṁ?",
+        "analyzed": "vīriyindriyam ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:35.1",
+        "original": "Sati satindriyaṁ?",
+        "analyzed": "sati sati indriya ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:36.1",
+        "original": "Satindriyaṁ sati?",
+        "analyzed": "sati indriyam sati ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:37.1",
+        "original": "Samādhi samādhindriyaṁ?",
+        "analyzed": "samādhi ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:38.1",
+        "original": "Samādhindriyaṁ samādhi?",
+        "analyzed": "samādhi indriyam samādhi ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:39.1",
+        "original": "Paññā paññindriyaṁ?",
+        "analyzed": "paññā paññindriya ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:40.1",
+        "original": "Paññindriyaṁ paññā?",
+        "analyzed": "paññindriyam paññā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:41.1",
+        "original": "Anaññātaññassāmīti anaññātaññassāmītindriyaṁ?",
+        "analyzed": "anaññātaññassāmi iti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:42.1",
+        "original": "Anaññātaññassāmītindriyaṁ anaññātaññassāmīti?",
+        "analyzed": "an aññā taññassāmi iti indriyam an aññā taññassāmi iti ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:43.1",
+        "original": "Aññaṁ aññindriyaṁ?",
+        "analyzed": "aññam aññindriya ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:44.1",
+        "original": "Aññindriyaṁ aññaṁ?",
+        "analyzed": "aññ indriyam ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:45.1",
+        "original": "Aññātāvī aññātāvindriyaṁ?",
+        "analyzed": "aññātāvī aññātāvindriya ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:46.1",
+        "original": "Aññātāvindriyaṁ aññātāvī?",
+        "analyzed": "aññātāvindriyam aññātāvī ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:47.0",
+        "original": "10.1.1.1.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:47.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:48.1",
+        "original": "Na cakkhundriyaṁ na cakkhu?",
+        "analyzed": "na cakkhu indriyam na cakkhu ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:49.1",
+        "original": "Na sotaṁ na sotindriyaṁ?",
+        "analyzed": "na sotam na sotindriya ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:50.1",
+        "original": "Na sotindriyaṁ na sotaṁ?",
+        "analyzed": "na soti indriyam na sota ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:51.1",
+        "original": "Na ghānaṁ na ghānindriyaṁ?",
+        "analyzed": "na ghānam na ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:52.1",
+        "original": "Na ghānindriyaṁ na ghānaṁ?",
+        "analyzed": "na gha an indriyam na ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:53.1",
+        "original": "Na jivhā na jivhindriyaṁ?",
+        "analyzed": "na jivhā na ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:54.1",
+        "original": "Na jivhindriyaṁ na jivhā?",
+        "analyzed": "na jivhindriyam na jivhā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:55.1",
+        "original": "Na kāyo na kāyindriyaṁ?",
+        "analyzed": "na kāyaḥ na kāyindriya ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:56.1",
+        "original": "Na kāyindriyaṁ na kāyo?",
+        "analyzed": "na kāyindriyam na kāyaḥ ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:57.1",
+        "original": "Na mano na manindriyaṁ?",
+        "analyzed": "na manaḥ na manindriya ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:58.1",
+        "original": "Na manindriyaṁ na mano?",
+        "analyzed": "na man indriyam na manaḥ ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:59.1",
+        "original": "Na itthī na itthindriyaṁ?",
+        "analyzed": "na itthī na itthindriya ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:60.1",
+        "original": "Na itthindriyaṁ na itthī?",
+        "analyzed": "na itthī indriyam na itthī ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:61.1",
+        "original": "Na puriso na purisindriyaṁ?",
+        "analyzed": "na purisaḥ na purisa indriya ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:62.1",
+        "original": "Na purisindriyaṁ na puriso?",
+        "analyzed": "na purisa indriyam na purisaḥ ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:63.1",
+        "original": "Na jīvitaṁ na jīvitindriyaṁ?",
+        "analyzed": "na jīvitam na jīvitindriya ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:64.1",
+        "original": "Na jīvitindriyaṁ na jīvitaṁ?",
+        "analyzed": "na jīvitindriyam na ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:65.1",
+        "original": "Na sukhaṁ na sukhindriyaṁ?",
+        "analyzed": "na sukham na sukhindriya ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:66.1",
+        "original": "Na sukhindriyaṁ na sukhaṁ?",
+        "analyzed": "na sukha indriyam na ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:67.1",
+        "original": "Na dukkhaṁ na dukkhindriyaṁ?",
+        "analyzed": "na dukkham na dukkhindriya ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:68.1",
+        "original": "Na dukkhindriyaṁ na dukkhaṁ?",
+        "analyzed": "na dukkha indriyam na ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:69.1",
+        "original": "Na somanassaṁ na somanassindriyaṁ?",
+        "analyzed": "na somanassam na somanassindriya ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:70.1",
+        "original": "Na somanassindriyaṁ na somanassaṁ?",
+        "analyzed": "na somanassa indriyam na ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:71.1",
+        "original": "Na domanassaṁ na domanassindriyaṁ?",
+        "analyzed": "na domanassam na domanassindriya ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:72.1",
+        "original": "Na domanassindriyaṁ na domanassaṁ?",
+        "analyzed": "na domanassa indriyam na ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:73.1",
+        "original": "Na upekkhā na upekkhindriyaṁ?",
+        "analyzed": "na upekkhā na upekkhindriya ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:74.1",
+        "original": "Na upekkhindriyaṁ na upekkhā?",
+        "analyzed": "na upekkhindriyam na upekkhā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:75.1",
+        "original": "Na saddhā na saddhindriyaṁ?",
+        "analyzed": "na ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:76.1",
+        "original": "Na saddhindriyaṁ na saddhā?",
+        "analyzed": "na sat hi indriyam na sat ha ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:77.1",
+        "original": "Na vīriyaṁ na vīriyindriyaṁ?",
+        "analyzed": "na vīriyam na ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:78.1",
+        "original": "Na vīriyindriyaṁ na vīriyaṁ?",
+        "analyzed": "na vīriyindriyam na ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:79.1",
+        "original": "Na sati na satindriyaṁ?",
+        "analyzed": "na sati na sati indriya ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:80.1",
+        "original": "Na satindriyaṁ na sati?",
+        "analyzed": "na sati indriyam na sati ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:81.1",
+        "original": "Na samādhi na samādhindriyaṁ?",
+        "analyzed": "na ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:82.1",
+        "original": "Na samādhindriyaṁ na samādhi?",
+        "analyzed": "na samādhi indriyam na samādhi ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:83.1",
+        "original": "Na paññā na paññindriyaṁ?",
+        "analyzed": "na paññā na paññindriya ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:84.1",
+        "original": "Na paññindriyaṁ na paññā?",
+        "analyzed": "na paññindriyam na paññā ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:85.1",
+        "original": "Na anaññātaññassāmīti na anaññātaññassāmītindriyaṁ?",
+        "analyzed": "na anaññātaññassāmi iti na anaññātaññassāmi iti indriya ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:86.1",
+        "original": "Na anaññātaññassāmītindriyaṁ na anaññātaññassāmīti?",
+        "analyzed": "na an aññā taññaḥ sāmi iti indriyam na an aññā taññaḥ sāmi iti ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:87.1",
+        "original": "Na aññaṁ na aññindriyaṁ?",
+        "analyzed": "na aññam na aññindriya ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:88.1",
+        "original": "Na aññindriyaṁ na aññaṁ?",
+        "analyzed": "na aññ indriyam na ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:89.1",
+        "original": "Na aññātāvī na aññātāvindriyaṁ?",
+        "analyzed": "na aññātāvī na aññātāvindriya ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:90.1",
+        "original": "Na aññātāvindriyaṁ na aññātāvī?",
+        "analyzed": "na aññātāvindriyam na aññātāvī ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:91.0.1",
+        "original": "10.1.1.2. Padasodhanamūlacakkavāra",
+        "analyzed": "      ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:91.0.2",
+        "original": "10.1.1.2.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:91.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:92.1",
+        "original": "Indriyā sotindriyaṁ?",
+        "analyzed": "indriyāḥ saḥ utindriya ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:93.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:94.1",
+        "original": "Indriyā ghānindriyaṁ?",
+        "analyzed": "indriyāḥ gha an indriya ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:95.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:96.1",
+        "original": "Indriyā jivhindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:97.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:98.1",
+        "original": "Indriyā kāyindriyaṁ?",
+        "analyzed": "indriyā kāyindriya ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:99.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:100.1",
+        "original": "Indriyā manindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:101.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:102.1",
+        "original": "Indriyā itthindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:103.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:104.1",
+        "original": "Indriyā purisindriyaṁ?",
+        "analyzed": "indriyā purisindriya ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:105.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:106.1",
+        "original": "Indriyā jīvitindriyaṁ?",
+        "analyzed": "indriyāḥ jīvitindriya ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:107.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:108.1",
+        "original": "Indriyā sukhindriyaṁ?",
+        "analyzed": "indriyā sukha indriya ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:109.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:110.1",
+        "original": "Indriyā dukkhindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:111.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:112.1",
+        "original": "Indriyā somanassindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:113.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:114.1",
+        "original": "Indriyā domanassindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:115.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:116.1",
+        "original": "Indriyā upekkhindriyaṁ?",
+        "analyzed": "indriyāḥ upekkhindriya ",
+        "folio": "116"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:117.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "117"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:118.1",
+        "original": "Indriyā saddhindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "118"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:119.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:120.1",
+        "original": "Indriyā vīriyindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:121.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "121"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:122.1",
+        "original": "Indriyā satindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "122"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:123.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "123"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:124.1",
+        "original": "Indriyā samādhindriyaṁ?",
+        "analyzed": "indriyā samādhindriya ",
+        "folio": "124"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:125.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:126.1",
+        "original": "Indriyā paññindriyaṁ?",
+        "analyzed": "indriyāḥ paññindriya ",
+        "folio": "126"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:127.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "127"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:128.1",
+        "original": "Indriyā anaññātaññassāmītindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "128"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:129.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "129"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:130.1",
+        "original": "Indriyā aññindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:131.1",
+        "original": "Cakkhu cakkhundriyaṁ?",
+        "analyzed": "cakkhu cakkhundriya ",
+        "folio": "131"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:132.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "132"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:133.1",
+        "original": "Sotaṁ sotindriyaṁ?",
+        "analyzed": "sotam sotindriya ",
+        "folio": "133"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:134.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:135.1",
+        "original": "Sotaṁ sotindriyaṁ?",
+        "analyzed": "sotam sotindriya ",
+        "folio": "135"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:136.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "136"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:137.1",
+        "original": "Ghānaṁ ghānindriyaṁ?",
+        "analyzed": "ghānam ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:138.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "138"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:139.1",
+        "original": "Ghānaṁ ghānindriyaṁ?",
+        "analyzed": "ghānam ",
+        "folio": "139"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:140.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:141.1",
+        "original": "Jivhā jivhindriyaṁ?",
+        "analyzed": "jivhā jivhindriya ",
+        "folio": "141"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:142.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "142"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:143.1",
+        "original": "Jivhā jivhindriyaṁ?",
+        "analyzed": "jivhā jivhindriya ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:144.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "144"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:145.1",
+        "original": "Kāyo kāyindriyaṁ?",
+        "analyzed": "kāya ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:146.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "146"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:147.1",
+        "original": "Kāyo kāyindriyaṁ?",
+        "analyzed": "kāya ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:148.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "148"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:149.1",
+        "original": "Mano manindriyaṁ?",
+        "analyzed": "mano manindriya ",
+        "folio": "149"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:150.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "150"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:151.1",
+        "original": "Mano manindriyaṁ?",
+        "analyzed": "mano manindriya ",
+        "folio": "151"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:152.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:153.1",
+        "original": "Itthī itthindriyaṁ?",
+        "analyzed": "itthī ",
+        "folio": "153"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:154.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:155.1",
+        "original": "Itthī itthindriyaṁ?",
+        "analyzed": "itthī ",
+        "folio": "155"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:156.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "156"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:157.1",
+        "original": "Puriso purisindriyaṁ?",
+        "analyzed": "purisaḥ purisa indriya ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:158.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "158"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:159.1",
+        "original": "Puriso purisindriyaṁ?",
+        "analyzed": "purisaḥ purisa indriya ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:160.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "160"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:161.1",
+        "original": "Jīvitaṁ jīvitindriyaṁ?",
+        "analyzed": "jīvitam jīvitindriya ",
+        "folio": "161"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:162.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "162"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:163.1",
+        "original": "Jīvitaṁ jīvitindriyaṁ?",
+        "analyzed": "jīvitam jīvitindriya ",
+        "folio": "163"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:164.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "164"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:165.1",
+        "original": "Sukhaṁ sukhindriyaṁ?",
+        "analyzed": "sukham sukhindriya ",
+        "folio": "165"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:166.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "166"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:167.1",
+        "original": "Sukhaṁ sukhindriyaṁ?",
+        "analyzed": "sukham sukhindriya ",
+        "folio": "167"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:168.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "168"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:169.1",
+        "original": "Dukkhaṁ dukkhindriyaṁ?",
+        "analyzed": "dukkham dukkhindriya ",
+        "folio": "169"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:170.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "170"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:171.1",
+        "original": "Dukkhaṁ dukkhindriyaṁ?",
+        "analyzed": "dukkham dukkhindriya ",
+        "folio": "171"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:172.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "172"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:173.1",
+        "original": "Somanassaṁ somanassindriyaṁ?",
+        "analyzed": "somanassam somanassindriya ",
+        "folio": "173"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:174.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "174"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:175.1",
+        "original": "Somanassaṁ somanassindriyaṁ?",
+        "analyzed": "somanassam somanassindriya ",
+        "folio": "175"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:176.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "176"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:177.1",
+        "original": "Domanassaṁ domanassindriyaṁ?",
+        "analyzed": "domanassam domanassindriya ",
+        "folio": "177"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:178.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "178"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:179.1",
+        "original": "Domanassaṁ domanassindriyaṁ?",
+        "analyzed": "domanassam domanassindriya ",
+        "folio": "179"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:180.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "180"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:181.1",
+        "original": "Upekkhā upekkhindriyaṁ?",
+        "analyzed": "upekkhā upekkhindriya ",
+        "folio": "181"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:182.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "182"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:183.1",
+        "original": "Upekkhā upekkhindriyaṁ?",
+        "analyzed": "upekkhā upekkhindriya ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:184.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "184"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:185.1",
+        "original": "Saddhā saddhindriyaṁ?",
+        "analyzed": "saddhā ",
+        "folio": "185"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:186.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "186"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:187.1",
+        "original": "Saddhā saddhindriyaṁ?",
+        "analyzed": "saddhā ",
+        "folio": "187"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:188.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "188"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:189.1",
+        "original": "Vīriyaṁ vīriyindriyaṁ?",
+        "analyzed": "vīriyam vīriyindriya ",
+        "folio": "189"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:190.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "190"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:191.1",
+        "original": "Vīriyaṁ vīriyindriyaṁ?",
+        "analyzed": "vīriyam vīriyindriya ",
+        "folio": "191"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:192.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "192"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:193.1",
+        "original": "Sati satindriyaṁ?",
+        "analyzed": "sati sati indriya ",
+        "folio": "193"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:194.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "194"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:195.1",
+        "original": "Sati satindriyaṁ?",
+        "analyzed": "sati sati indriya ",
+        "folio": "195"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:196.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "196"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:197.1",
+        "original": "Samādhi samādhindriyaṁ?",
+        "analyzed": "samādhi ",
+        "folio": "197"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:198.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "198"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:199.1",
+        "original": "Samādhi samādhindriyaṁ?",
+        "analyzed": "samādhi ",
+        "folio": "199"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:200.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "200"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:201.1",
+        "original": "Paññā paññindriyaṁ?",
+        "analyzed": "paññā paññindriya ",
+        "folio": "201"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:202.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "202"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:203.1",
+        "original": "Paññā paññindriyaṁ?",
+        "analyzed": "paññā paññindriya ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:204.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "204"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:205.1",
+        "original": "Anaññātaññassāmīti anaññātaññassāmītindriyaṁ?",
+        "analyzed": "anaññātaññassāmi iti ",
+        "folio": "205"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:206.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "206"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:207.1",
+        "original": "Anaññātaññassāmīti anaññātaññassāmītindriyaṁ?",
+        "analyzed": "anaññātaññassāmi iti ",
+        "folio": "207"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:208.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "208"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:209.1",
+        "original": "Aññaṁ aññindriyaṁ?",
+        "analyzed": "aññam aññindriya ",
+        "folio": "209"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:210.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "210"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:211.1",
+        "original": "Aññaṁ aññindriyaṁ?",
+        "analyzed": "aññam aññindriya ",
+        "folio": "211"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:212.1",
+        "original": "Indriyā aññātāvindriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "212"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:213.1",
+        "original": "Aññātāvī aññātāvindriyaṁ?",
+        "analyzed": "aññātāvī aññātāvindriya ",
+        "folio": "213"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:214.1",
+        "original": "Indriyā cakkhundriyaṁ? …pe….",
+        "analyzed": "indriyā cakkhundriya pe",
+        "folio": "214"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:215.1",
+        "original": "Aññātāvī aññātāvindriyaṁ?",
+        "analyzed": "aññātāvī aññātāvindriya ",
+        "folio": "215"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:216.1",
+        "original": "Indriyā aññindriyaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "216"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:217.0",
+        "original": "10.1.1.2.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:217.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:218.1",
+        "original": "Na indriyā na sotindriyaṁ?",
+        "analyzed": "na indriyāḥ na saḥ utindriya ",
+        "folio": "218"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:219.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "219"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:220.1",
+        "original": "Na indriyā na ghānindriyaṁ?",
+        "analyzed": "na indriyāḥ na gha an indriya ",
+        "folio": "220"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:221.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "221"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:222.1",
+        "original": "Na indriyā na jivhindriyaṁ?",
+        "analyzed": "na indriyāḥ na ",
+        "folio": "222"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:223.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "223"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:224.1",
+        "original": "Na indriyā na kāyindriyaṁ?",
+        "analyzed": "na indriyāḥ na kāyindriya ",
+        "folio": "224"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:225.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "225"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:226.1",
+        "original": "Na indriyā na manindriyaṁ?",
+        "analyzed": "na indriyāḥ na manindriya ",
+        "folio": "226"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:227.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "227"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:228.1",
+        "original": "Na indriyā na itthindriyaṁ?",
+        "analyzed": "na indriyā na itthindriya ",
+        "folio": "228"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:229.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "229"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:230.1",
+        "original": "Na indriyā na purisindriyaṁ?",
+        "analyzed": "na indriyā na purisindriya ",
+        "folio": "230"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:231.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "231"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:232.1",
+        "original": "Na indriyā na jīvitindriyaṁ?",
+        "analyzed": "na indriyāḥ na jīvitindriya ",
+        "folio": "232"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:233.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "233"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:234.1",
+        "original": "Na indriyā na sukhindriyaṁ?",
+        "analyzed": "na indriyāḥ na sukhindriya ",
+        "folio": "234"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:235.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "235"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:236.1",
+        "original": "Na indriyā na dukkhindriyaṁ?",
+        "analyzed": "indriyā na dukkhindriya ",
+        "folio": "236"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:237.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "237"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:238.1",
+        "original": "Na indriyā na somanassindriyaṁ?",
+        "analyzed": "na indriyā na ",
+        "folio": "238"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:239.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "239"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:240.1",
+        "original": "Na indriyā na domanassindriyaṁ?",
+        "analyzed": "na indriyā na ",
+        "folio": "240"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:241.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "241"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:242.1",
+        "original": "Na indriyā na upekkhindriyaṁ?",
+        "analyzed": "indriyā na upekkhindriya ",
+        "folio": "242"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:243.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "243"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:244.1",
+        "original": "Na indriyā na saddhindriyaṁ?",
+        "analyzed": "na indriyāḥ na ",
+        "folio": "244"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:245.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "245"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:246.1",
+        "original": "Na indriyā na vīriyindriyaṁ?",
+        "analyzed": "na indriyā na ",
+        "folio": "246"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:247.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "247"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:248.1",
+        "original": "Na indriyā na satindriyaṁ?",
+        "analyzed": "na indriyāḥ na ",
+        "folio": "248"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:249.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "249"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:250.1",
+        "original": "Na indriyā na samādhindriyaṁ?",
+        "analyzed": "na indriyāḥ na samādhindriya ",
+        "folio": "250"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:251.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "251"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:252.1",
+        "original": "Na indriyā na paññindriyaṁ?",
+        "analyzed": "na indriyā na paññindriya ",
+        "folio": "252"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:253.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "253"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:254.1",
+        "original": "Na indriyā na anaññātaññassāmītindriyaṁ?",
+        "analyzed": "na indriyā na ",
+        "folio": "254"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:255.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "255"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:256.1",
+        "original": "Na indriyā na aññindriyaṁ?",
+        "analyzed": "na indriyā na aññindriya ",
+        "folio": "256"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:257.1",
+        "original": "Na cakkhu na cakkhundriyaṁ?",
+        "analyzed": "na cakkhu na cakkhundriya ",
+        "folio": "257"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:258.1",
+        "original": "Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na aññātāvindriya ",
+        "folio": "258"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:259.1",
+        "original": "Na sotaṁ na sotindriyaṁ?",
+        "analyzed": "na sotam na sotindriya ",
+        "folio": "259"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:260.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "260"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:261.1",
+        "original": "Na ghānaṁ na ghānindriyaṁ?",
+        "analyzed": "na ghānam na ",
+        "folio": "261"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:262.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "262"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:263.1",
+        "original": "Na jivhā na jivhindriyaṁ?",
+        "analyzed": "na jivhā na ",
+        "folio": "263"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:264.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "264"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:265.1",
+        "original": "Na kāyo na kāyindriyaṁ?",
+        "analyzed": "na kāyaḥ na kāyindriya ",
+        "folio": "265"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:266.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "266"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:267.1",
+        "original": "Na mano na manindriyaṁ?",
+        "analyzed": "na manaḥ na manindriya ",
+        "folio": "267"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:268.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "268"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:269.1",
+        "original": "Na itthī na itthindriyaṁ?",
+        "analyzed": "na itthī na itthindriya ",
+        "folio": "269"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:270.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "270"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:271.1",
+        "original": "Na puriso na purisindriyaṁ?",
+        "analyzed": "na purisaḥ na purisa indriya ",
+        "folio": "271"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:272.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "272"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:273.1",
+        "original": "Na jīvitaṁ na jīvitindriyaṁ?",
+        "analyzed": "na jīvitam na jīvitindriya ",
+        "folio": "273"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:274.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "274"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:275.1",
+        "original": "Na sukhaṁ na sukhindriyaṁ?",
+        "analyzed": "na sukham na sukhindriya ",
+        "folio": "275"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:276.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "276"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:277.1",
+        "original": "Na dukkhaṁ na dukkhindriyaṁ?",
+        "analyzed": "na dukkham na dukkhindriya ",
+        "folio": "277"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:278.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "278"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:279.1",
+        "original": "Na somanassaṁ na somanassindriyaṁ?",
+        "analyzed": "na somanassam na somanassindriya ",
+        "folio": "279"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:280.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "280"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:281.1",
+        "original": "Na domanassaṁ na domanassindriyaṁ?",
+        "analyzed": "na domanassam na domanassindriya ",
+        "folio": "281"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:282.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "282"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:283.1",
+        "original": "Na upekkhā na upekkhindriyaṁ?",
+        "analyzed": "na upekkhā na upekkhindriya ",
+        "folio": "283"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:284.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "284"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:285.1",
+        "original": "Na saddhā na saddhindriyaṁ?",
+        "analyzed": "na ",
+        "folio": "285"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:286.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "286"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:287.1",
+        "original": "Na vīriyaṁ na vīriyindriyaṁ?",
+        "analyzed": "na vīriyam na ",
+        "folio": "287"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:288.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "288"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:289.1",
+        "original": "Na sati na satindriyaṁ?",
+        "analyzed": "na sati na sati indriya ",
+        "folio": "289"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:290.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "290"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:291.1",
+        "original": "Na samādhi na samādhindriyaṁ?",
+        "analyzed": "na ",
+        "folio": "291"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:292.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "292"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:293.1",
+        "original": "Na paññā na paññindriyaṁ?",
+        "analyzed": "na paññā na paññindriya ",
+        "folio": "293"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:294.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "294"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:295.1",
+        "original": "Na anaññātaññassāmīti na anaññātaññassāmītindriyaṁ?",
+        "analyzed": "na anaññātaññassāmi iti na anaññātaññassāmi iti indriya ",
+        "folio": "295"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:296.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "296"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:297.1",
+        "original": "Na aññaṁ na aññindriyaṁ?",
+        "analyzed": "na aññam na aññindriya ",
+        "folio": "297"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:298.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññātāvindriyaṁ?",
+        "analyzed": "na indriyā na cakkhu indriya pe na indriyā na aññātāvindriya ",
+        "folio": "298"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:299.1",
+        "original": "Na aññātāvī na aññātāvindriyaṁ?",
+        "analyzed": "na aññātāvī na aññātāvindriya ",
+        "folio": "299"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:300.1",
+        "original": "Na indriyā na cakkhundriyaṁ? …pe… Na indriyā na aññindriyaṁ?",
+        "analyzed": "na indriyā na cakkhundriya pe na indriyā na aññindriya ",
+        "folio": "300"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:301.0.1",
+        "original": "10.1.1.3. Suddhindriyavāra",
+        "analyzed": "    ",
+        "folio": "301"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:301.0.2",
+        "original": "10.1.1.3.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "301"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:301.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "301"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:302.1",
+        "original": "Indriyā cakkhu?",
+        "analyzed": "indriyā cakkhu ",
+        "folio": "302"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:303.1",
+        "original": "Sotaṁ indriyaṁ?",
+        "analyzed": "sotam indriya ",
+        "folio": "303"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:304.1",
+        "original": "Indriyā sotaṁ?",
+        "analyzed": "indriyā sota ",
+        "folio": "304"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:305.1",
+        "original": "Ghānaṁ indriyaṁ?",
+        "analyzed": "ghānaṃ indriya ",
+        "folio": "305"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:306.1",
+        "original": "Indriyā ghānaṁ?",
+        "analyzed": "indriyā ghāna ",
+        "folio": "306"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:307.1",
+        "original": "Jivhā indriyaṁ?",
+        "analyzed": "jivhā indriya ",
+        "folio": "307"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:308.1",
+        "original": "Indriyā jivhā?",
+        "analyzed": "indriyā jivhā ",
+        "folio": "308"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:309.1",
+        "original": "Kāyo indriyaṁ?",
+        "analyzed": "kāyaḥ indriya ",
+        "folio": "309"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:310.1",
+        "original": "Indriyā kāyo?",
+        "analyzed": "indriyā kāyo ",
+        "folio": "310"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:311.1",
+        "original": "Mano indriyaṁ?",
+        "analyzed": "mano indriya ",
+        "folio": "311"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:312.1",
+        "original": "Indriyā mano?",
+        "analyzed": "indriyā mano ",
+        "folio": "312"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:313.1",
+        "original": "Itthī indriyaṁ?",
+        "analyzed": "itthī indriya ",
+        "folio": "313"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:314.1",
+        "original": "Indriyā itthī?",
+        "analyzed": "indriyā itthī ",
+        "folio": "314"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:315.1",
+        "original": "Puriso indriyaṁ?",
+        "analyzed": "purisaḥ indriya ",
+        "folio": "315"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:316.1",
+        "original": "Indriyā puriso?",
+        "analyzed": "indriyā purisaḥ ",
+        "folio": "316"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:317.1",
+        "original": "Jīvitaṁ indriyaṁ?",
+        "analyzed": "jīvitaṃ indriya ",
+        "folio": "317"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:318.1",
+        "original": "Indriyā jīvitaṁ?",
+        "analyzed": "indriyā jīvita ",
+        "folio": "318"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:319.1",
+        "original": "Sukhaṁ indriyaṁ?",
+        "analyzed": "sukhaṃ indriya ",
+        "folio": "319"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:320.1",
+        "original": "Indriyā sukhaṁ?",
+        "analyzed": "indriyā sukha ",
+        "folio": "320"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:321.1",
+        "original": "Dukkhaṁ indriyaṁ?",
+        "analyzed": "dukkhaṃ ",
+        "folio": "321"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:322.1",
+        "original": "Indriyā dukkhaṁ?",
+        "analyzed": "indriyā ",
+        "folio": "322"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:323.1",
+        "original": "Somanassaṁ indriyaṁ?",
+        "analyzed": "somanassam indriya ",
+        "folio": "323"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:324.1",
+        "original": "Indriyā somanassaṁ?",
+        "analyzed": "indriyā somanassa ",
+        "folio": "324"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:325.1",
+        "original": "Domanassaṁ indriyaṁ?",
+        "analyzed": "domanassam indriya ",
+        "folio": "325"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:326.1",
+        "original": "Indriyā domanassaṁ?",
+        "analyzed": "indriyā ",
+        "folio": "326"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:327.1",
+        "original": "Upekkhā indriyaṁ?",
+        "analyzed": "upekkhā indriya ",
+        "folio": "327"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:328.1",
+        "original": "Indriyā upekkhā?",
+        "analyzed": "indriyāḥ upekkhā ",
+        "folio": "328"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:329.1",
+        "original": "Saddhā indriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "329"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:330.1",
+        "original": "Indriyā saddhā?",
+        "analyzed": "indriyā saddhā ",
+        "folio": "330"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:331.1",
+        "original": "Vīriyaṁ indriyaṁ?",
+        "analyzed": "vīriyam indriya ",
+        "folio": "331"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:332.1",
+        "original": "Indriyā vīriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "332"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:333.1",
+        "original": "Sati indriyaṁ?",
+        "analyzed": "sati indriya ",
+        "folio": "333"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:334.1",
+        "original": "Indriyā sati?",
+        "analyzed": "indriyā sati ",
+        "folio": "334"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:335.1",
+        "original": "Samādhi indriyaṁ?",
+        "analyzed": "samādhi indriya ",
+        "folio": "335"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:336.1",
+        "original": "Indriyā samādhi?",
+        "analyzed": "indriyā samādhi ",
+        "folio": "336"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:337.1",
+        "original": "Paññā indriyaṁ?",
+        "analyzed": "paññā indriya ",
+        "folio": "337"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:338.1",
+        "original": "Indriyā paññā?",
+        "analyzed": "indriyā paññā ",
+        "folio": "338"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:339.1",
+        "original": "Anaññātaññassāmīti indriyaṁ?",
+        "analyzed": "anañña ataññassāmi iti ",
+        "folio": "339"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:340.1",
+        "original": "Indriyā anaññātaññassāmīti?",
+        "analyzed": "indriyāḥ an añña a taññassa āmi iti ",
+        "folio": "340"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:341.1",
+        "original": "Aññaṁ indriyaṁ?",
+        "analyzed": "aññam indriya ",
+        "folio": "341"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:342.1",
+        "original": "Indriyā aññaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "342"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:343.1",
+        "original": "Aññātāvī indriyaṁ?",
+        "analyzed": "aññātāvī indriya ",
+        "folio": "343"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:344.1",
+        "original": "Indriyā aññātāvī?",
+        "analyzed": "indriyā aññātāvī ",
+        "folio": "344"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:345.0",
+        "original": "10.1.1.3.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "345"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:345.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "345"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:346.1",
+        "original": "Na indriyā na cakkhu?",
+        "analyzed": "na indriyā na cakkhu ",
+        "folio": "346"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:347.1",
+        "original": "Na sotaṁ na indriyaṁ?",
+        "analyzed": "na sotam naḥ indriya ",
+        "folio": "347"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:348.1",
+        "original": "Na indriyā na sotaṁ?",
+        "analyzed": "na indriyā na sota ",
+        "folio": "348"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:349.1",
+        "original": "Na ghānaṁ na indriyaṁ?",
+        "analyzed": "na ghānam naḥ indriya ",
+        "folio": "349"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:350.1",
+        "original": "Na indriyā na ghānaṁ?",
+        "analyzed": "na indriyā na ghāna ",
+        "folio": "350"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:351.1",
+        "original": "Na jivhā na indriyaṁ?",
+        "analyzed": "na jivhā naḥ indriya ",
+        "folio": "351"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:352.1",
+        "original": "Na indriyā na jivhā?",
+        "analyzed": "na indriyā na jivhā ",
+        "folio": "352"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:353.1",
+        "original": "Na kāyo na indriyaṁ?",
+        "analyzed": "na kāyaḥ naḥ indriya ",
+        "folio": "353"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:354.1",
+        "original": "Na indriyā na kāyo?",
+        "analyzed": "na indriyā na kāyo ",
+        "folio": "354"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:355.1",
+        "original": "Na mano na indriyaṁ?",
+        "analyzed": "na manaḥ naḥ indriya ",
+        "folio": "355"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:356.1",
+        "original": "Na indriyā na mano?",
+        "analyzed": "na indriyā na mano ",
+        "folio": "356"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:357.1",
+        "original": "Na itthī na indriyaṁ?",
+        "analyzed": "na itthī na indriya ",
+        "folio": "357"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:358.1",
+        "original": "Na indriyā na itthī?",
+        "analyzed": "na indriyā na itthī ",
+        "folio": "358"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:359.1",
+        "original": "Na puriso na indriyaṁ?",
+        "analyzed": "na purisaḥ naḥ indriya ",
+        "folio": "359"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:360.1",
+        "original": "Na indriyā na puriso?",
+        "analyzed": "na indriyā na purisaḥ ",
+        "folio": "360"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:361.1",
+        "original": "Na jīvitaṁ na indriyaṁ?",
+        "analyzed": "na jīvitam naḥ indriya ",
+        "folio": "361"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:362.1",
+        "original": "Na indriyā na jīvitaṁ?",
+        "analyzed": "na indriyā na jīvita ",
+        "folio": "362"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:363.1",
+        "original": "Na sukhaṁ na indriyaṁ?",
+        "analyzed": "na sukham naḥ indriya ",
+        "folio": "363"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:364.1",
+        "original": "Na indriyā na sukhaṁ?",
+        "analyzed": "na indriyā na sukha ",
+        "folio": "364"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:365.1",
+        "original": "Na dukkhaṁ na indriyaṁ?",
+        "analyzed": "na dukkham naḥ indriya ",
+        "folio": "365"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:366.1",
+        "original": "Na indriyā na dukkhaṁ?",
+        "analyzed": "na indriyā na dukkha ",
+        "folio": "366"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:367.1",
+        "original": "Na somanassaṁ na indriyaṁ?",
+        "analyzed": "na somanassam naḥ indriya ",
+        "folio": "367"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:368.1",
+        "original": "Na indriyā na somanassaṁ?",
+        "analyzed": "na indriyā na somanassa ",
+        "folio": "368"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:369.1",
+        "original": "Na domanassaṁ na indriyaṁ?",
+        "analyzed": "na domanassam naḥ indriya ",
+        "folio": "369"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:370.1",
+        "original": "Na indriyā na domanassaṁ?",
+        "analyzed": "na indriyā na domanassa ",
+        "folio": "370"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:371.1",
+        "original": "Na upekkhā na indriyaṁ?",
+        "analyzed": "na upekkhā na indriya ",
+        "folio": "371"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:372.1",
+        "original": "Na indriyā na upekkhā?",
+        "analyzed": "na indriyā na upekkhā ",
+        "folio": "372"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:373.1",
+        "original": "Na saddhā na indriyaṁ?",
+        "analyzed": "na saddhā naḥ indriya ",
+        "folio": "373"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:374.1",
+        "original": "Na indriyā na saddhā?",
+        "analyzed": "na indriyā na saddhā ",
+        "folio": "374"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:375.1",
+        "original": "Na vīriyaṁ na indriyaṁ?",
+        "analyzed": "na vīriyam naḥ indriya ",
+        "folio": "375"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:376.1",
+        "original": "Na indriyā na vīriyaṁ?",
+        "analyzed": "na indriyā na vīriya ",
+        "folio": "376"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:377.1",
+        "original": "Na sati na indriyaṁ?",
+        "analyzed": "na sati na indriya ",
+        "folio": "377"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:378.1",
+        "original": "Na indriyā na sati?",
+        "analyzed": "na indriyā na sati ",
+        "folio": "378"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:379.1",
+        "original": "Na samādhi na indriyaṁ?",
+        "analyzed": "na samādhi na indriya ",
+        "folio": "379"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:380.1",
+        "original": "Na indriyā na samādhi?",
+        "analyzed": "na indriyā na samādhi ",
+        "folio": "380"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:381.1",
+        "original": "Na paññā na indriyaṁ?",
+        "analyzed": "na paññā na indriya ",
+        "folio": "381"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:382.1",
+        "original": "Na indriyā na paññā?",
+        "analyzed": "na indriyā na paññā ",
+        "folio": "382"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:383.1",
+        "original": "Na anaññātaññassāmīti na indriyaṁ?",
+        "analyzed": "na anaññātaññassāmi iti na indriya ",
+        "folio": "383"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:384.1",
+        "original": "Na indriyā na anaññātaññassāmīti?",
+        "analyzed": "na indriyāḥ na anaññātaññassāmi iti ",
+        "folio": "384"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:385.1",
+        "original": "Na aññaṁ na indriyaṁ?",
+        "analyzed": "na aññam na indriya ",
+        "folio": "385"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:386.1",
+        "original": "Na indriyā na aññaṁ?",
+        "analyzed": "na indriyā na añña ",
+        "folio": "386"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:387.1",
+        "original": "Na aññātāvī na indriyaṁ?",
+        "analyzed": "na aññātāvī na indriya ",
+        "folio": "387"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:388.1",
+        "original": "Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na aññātāvī ",
+        "folio": "388"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:389.0.1",
+        "original": "10.1.1.4. Suddhindriyamūlacakkavāra",
+        "analyzed": "       ",
+        "folio": "389"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:389.0.2",
+        "original": "10.1.1.4.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "389"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:389.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "389"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:390.1",
+        "original": "Indriyā sotaṁ?",
+        "analyzed": "indriyā sota ",
+        "folio": "390"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:391.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "391"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:392.1",
+        "original": "Indriyā ghānaṁ?",
+        "analyzed": "indriyā ghāna ",
+        "folio": "392"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:393.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "393"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:394.1",
+        "original": "Indriyā jivhā?",
+        "analyzed": "indriyā jivhā ",
+        "folio": "394"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:395.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "395"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:396.1",
+        "original": "Indriyā kāyo?",
+        "analyzed": "indriyā kāyo ",
+        "folio": "396"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:397.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "397"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:398.1",
+        "original": "Indriyā mano?",
+        "analyzed": "indriyā mano ",
+        "folio": "398"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:399.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "399"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:400.1",
+        "original": "Indriyā itthī?",
+        "analyzed": "indriyā itthī ",
+        "folio": "400"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:401.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "401"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:402.1",
+        "original": "Indriyā puriso?",
+        "analyzed": "indriyā purisaḥ ",
+        "folio": "402"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:403.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "403"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:404.1",
+        "original": "Indriyā jīvitaṁ?",
+        "analyzed": "indriyā jīvita ",
+        "folio": "404"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:405.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "405"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:406.1",
+        "original": "Indriyā sukhaṁ?",
+        "analyzed": "indriyā sukha ",
+        "folio": "406"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:407.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "407"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:408.1",
+        "original": "Indriyā dukkhaṁ?",
+        "analyzed": "indriyā ",
+        "folio": "408"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:409.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "409"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:410.1",
+        "original": "Indriyā somanassaṁ?",
+        "analyzed": "indriyā somanassa ",
+        "folio": "410"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:411.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "411"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:412.1",
+        "original": "Indriyā domanassaṁ?",
+        "analyzed": "indriyā ",
+        "folio": "412"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:413.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "413"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:414.1",
+        "original": "Indriyā upekkhā?",
+        "analyzed": "indriyāḥ upekkhā ",
+        "folio": "414"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:415.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "415"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:416.1",
+        "original": "Indriyā saddhā?",
+        "analyzed": "indriyā saddhā ",
+        "folio": "416"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:417.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "417"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:418.1",
+        "original": "Indriyā vīriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "418"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:419.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "419"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:420.1",
+        "original": "Indriyā sati?",
+        "analyzed": "indriyā sati ",
+        "folio": "420"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:421.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "421"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:422.1",
+        "original": "Indriyā samādhi?",
+        "analyzed": "indriyā samādhi ",
+        "folio": "422"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:423.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "423"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:424.1",
+        "original": "Indriyā paññā?",
+        "analyzed": "indriyā paññā ",
+        "folio": "424"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:425.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "425"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:426.1",
+        "original": "Indriyā anaññātaññassāmīti?",
+        "analyzed": "indriyāḥ an añña a taññassa āmi iti ",
+        "folio": "426"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:427.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "427"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:428.1",
+        "original": "Indriyā aññaṁ?",
+        "analyzed": "indriyāḥ ",
+        "folio": "428"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:429.1",
+        "original": "Cakkhu indriyaṁ?",
+        "analyzed": "cakkhu indriya ",
+        "folio": "429"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:430.1",
+        "original": "Indriyā aññātāvī?",
+        "analyzed": "indriyā aññātāvī ",
+        "folio": "430"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:431.1",
+        "original": "Sotaṁ indriyaṁ?",
+        "analyzed": "sotam indriya ",
+        "folio": "431"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:432.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "432"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:433.1",
+        "original": "Ghānaṁ indriyaṁ?",
+        "analyzed": "ghānaṃ indriya ",
+        "folio": "433"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:434.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "434"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:435.1",
+        "original": "Jivhā indriyaṁ?",
+        "analyzed": "jivhā indriya ",
+        "folio": "435"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:436.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "436"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:437.1",
+        "original": "Kāyo indriyaṁ?",
+        "analyzed": "kāyaḥ indriya ",
+        "folio": "437"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:438.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "438"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:439.1",
+        "original": "Mano indriyaṁ?",
+        "analyzed": "mano indriya ",
+        "folio": "439"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:440.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "440"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:441.1",
+        "original": "Itthī indriyaṁ?",
+        "analyzed": "itthī indriya ",
+        "folio": "441"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:442.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "442"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:443.1",
+        "original": "Puriso indriyaṁ?",
+        "analyzed": "purisaḥ indriya ",
+        "folio": "443"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:444.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "444"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:445.1",
+        "original": "Jīvitaṁ indriyaṁ?",
+        "analyzed": "jīvitaṃ indriya ",
+        "folio": "445"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:446.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "446"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:447.1",
+        "original": "Sukhaṁ indriyaṁ?",
+        "analyzed": "sukhaṃ indriya ",
+        "folio": "447"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:448.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "448"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:449.1",
+        "original": "Dukkhaṁ indriyaṁ?",
+        "analyzed": "dukkhaṃ ",
+        "folio": "449"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:450.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "450"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:451.1",
+        "original": "Somanassaṁ indriyaṁ?",
+        "analyzed": "somanassam indriya ",
+        "folio": "451"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:452.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "452"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:453.1",
+        "original": "Domanassaṁ indriyaṁ?",
+        "analyzed": "domanassam indriya ",
+        "folio": "453"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:454.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "454"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:455.1",
+        "original": "Upekkhā indriyaṁ?",
+        "analyzed": "upekkhā indriya ",
+        "folio": "455"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:456.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "456"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:457.1",
+        "original": "Saddhā indriyaṁ?",
+        "analyzed": "indriya ",
+        "folio": "457"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:458.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "458"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:459.1",
+        "original": "Vīriyaṁ indriyaṁ?",
+        "analyzed": "vīriyam indriya ",
+        "folio": "459"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:460.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "460"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:461.1",
+        "original": "Sati indriyaṁ?",
+        "analyzed": "sati indriya ",
+        "folio": "461"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:462.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "462"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:463.1",
+        "original": "Samādhi indriyaṁ?",
+        "analyzed": "samādhi indriya ",
+        "folio": "463"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:464.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "464"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:465.1",
+        "original": "Paññā indriyaṁ?",
+        "analyzed": "paññā indriya ",
+        "folio": "465"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:466.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "466"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:467.1",
+        "original": "Anaññātaññassāmīti indriyaṁ?",
+        "analyzed": "anañña ataññassāmi iti ",
+        "folio": "467"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:468.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "468"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:469.1",
+        "original": "Aññaṁ indriyaṁ?",
+        "analyzed": "aññam indriya ",
+        "folio": "469"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:470.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññātāvī?",
+        "analyzed": "indriyā cakkhu pe indriyā aññātāvī ",
+        "folio": "470"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:471.1",
+        "original": "Aññātāvī indriyaṁ?",
+        "analyzed": "aññātāvī indriya ",
+        "folio": "471"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:472.1",
+        "original": "Indriyā cakkhu? …pe… Indriyā aññaṁ?",
+        "analyzed": "indriyā cakkhu pe indriyā ",
+        "folio": "472"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:473.0",
+        "original": "10.1.1.4.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "473"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:473.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "473"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:474.1",
+        "original": "Na indriyā na sotaṁ?",
+        "analyzed": "na indriyā na sota ",
+        "folio": "474"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:475.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "475"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:476.1",
+        "original": "Na indriyā na ghānaṁ?",
+        "analyzed": "na indriyā na ghāna ",
+        "folio": "476"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:477.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "477"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:478.1",
+        "original": "Na indriyā na jivhā?",
+        "analyzed": "na indriyā na jivhā ",
+        "folio": "478"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:479.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "479"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:480.1",
+        "original": "Na indriyā na kāyo?",
+        "analyzed": "na indriyā na kāyo ",
+        "folio": "480"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:481.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "481"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:482.1",
+        "original": "Na indriyā na mano?",
+        "analyzed": "na indriyā na mano ",
+        "folio": "482"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:483.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "483"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:484.1",
+        "original": "Na indriyā na itthī?",
+        "analyzed": "na indriyā na itthī ",
+        "folio": "484"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:485.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "485"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:486.1",
+        "original": "Na indriyā na puriso?",
+        "analyzed": "na indriyā na purisaḥ ",
+        "folio": "486"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:487.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "487"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:488.1",
+        "original": "Na indriyā na jīvitaṁ?",
+        "analyzed": "na indriyā na jīvita ",
+        "folio": "488"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:489.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "489"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:490.1",
+        "original": "Na indriyā na sukhaṁ?",
+        "analyzed": "na indriyā na sukha ",
+        "folio": "490"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:491.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "491"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:492.1",
+        "original": "Na indriyā na dukkhaṁ?",
+        "analyzed": "na indriyā na dukkha ",
+        "folio": "492"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:493.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "493"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:494.1",
+        "original": "Na indriyā na somanassaṁ?",
+        "analyzed": "na indriyā na somanassa ",
+        "folio": "494"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:495.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "495"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:496.1",
+        "original": "Na indriyā na domanassaṁ?",
+        "analyzed": "na indriyā na domanassa ",
+        "folio": "496"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:497.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "497"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:498.1",
+        "original": "Na indriyā na upekkhā?",
+        "analyzed": "na indriyā na upekkhā ",
+        "folio": "498"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:499.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "499"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:500.1",
+        "original": "Na indriyā na saddhā?",
+        "analyzed": "na indriyā na saddhā ",
+        "folio": "500"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:501.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "501"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:502.1",
+        "original": "Na indriyā na vīriyaṁ?",
+        "analyzed": "na indriyā na vīriya ",
+        "folio": "502"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:503.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "503"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:504.1",
+        "original": "Na indriyā na sati?",
+        "analyzed": "na indriyā na sati ",
+        "folio": "504"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:505.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "505"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:506.1",
+        "original": "Na indriyā na samādhi?",
+        "analyzed": "na indriyā na samādhi ",
+        "folio": "506"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:507.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "507"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:508.1",
+        "original": "Na indriyā na paññā?",
+        "analyzed": "na indriyā na paññā ",
+        "folio": "508"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:509.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "509"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:510.1",
+        "original": "Na indriyā na anaññātaññassāmīti?",
+        "analyzed": "na indriyāḥ na anaññātaññassāmi iti ",
+        "folio": "510"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:511.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "511"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:512.1",
+        "original": "Na indriyā na aññaṁ?",
+        "analyzed": "na indriyā na añña ",
+        "folio": "512"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:513.1",
+        "original": "Na cakkhu na indriyaṁ?",
+        "analyzed": "na cakkhu na indriya ",
+        "folio": "513"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:514.1",
+        "original": "Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na aññātāvī ",
+        "folio": "514"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:515.1",
+        "original": "Na sotaṁ na indriyaṁ?",
+        "analyzed": "na sotam naḥ indriya ",
+        "folio": "515"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:516.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "516"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:517.1",
+        "original": "Na ghānaṁ na indriyaṁ?",
+        "analyzed": "na ghānam naḥ indriya ",
+        "folio": "517"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:518.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "518"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:519.1",
+        "original": "Na jivhā na indriyaṁ?",
+        "analyzed": "na jivhā naḥ indriya ",
+        "folio": "519"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:520.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "520"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:521.1",
+        "original": "Na kāyo na indriyaṁ?",
+        "analyzed": "na kāyaḥ naḥ indriya ",
+        "folio": "521"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:522.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "522"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:523.1",
+        "original": "Na mano na indriyaṁ?",
+        "analyzed": "na manaḥ naḥ indriya ",
+        "folio": "523"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:524.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "524"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:525.1",
+        "original": "Na itthī na indriyaṁ?",
+        "analyzed": "na itthī na indriya ",
+        "folio": "525"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:526.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "526"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:527.1",
+        "original": "Na puriso na indriyaṁ?",
+        "analyzed": "na purisaḥ naḥ indriya ",
+        "folio": "527"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:528.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "528"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:529.1",
+        "original": "Na jīvitaṁ na indriyaṁ?",
+        "analyzed": "na jīvitam naḥ indriya ",
+        "folio": "529"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:530.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "530"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:531.1",
+        "original": "Na sukhaṁ na indriyaṁ?",
+        "analyzed": "na sukham naḥ indriya ",
+        "folio": "531"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:532.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "532"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:533.1",
+        "original": "Na dukkhaṁ na indriyaṁ?",
+        "analyzed": "na dukkham naḥ indriya ",
+        "folio": "533"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:534.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "534"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:535.1",
+        "original": "Na somanassaṁ na indriyaṁ?",
+        "analyzed": "na somanassam naḥ indriya ",
+        "folio": "535"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:536.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "536"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:537.1",
+        "original": "Na domanassaṁ na indriyaṁ?",
+        "analyzed": "na domanassam naḥ indriya ",
+        "folio": "537"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:538.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "538"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:539.1",
+        "original": "Na upekkhā na indriyaṁ?",
+        "analyzed": "na upekkhā na indriya ",
+        "folio": "539"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:540.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "540"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:541.1",
+        "original": "Na saddhā na indriyaṁ?",
+        "analyzed": "na saddhā naḥ indriya ",
+        "folio": "541"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:542.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "542"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:543.1",
+        "original": "Na vīriyaṁ na indriyaṁ?",
+        "analyzed": "na vīriyam naḥ indriya ",
+        "folio": "543"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:544.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "544"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:545.1",
+        "original": "Na sati na indriyaṁ?",
+        "analyzed": "na sati na indriya ",
+        "folio": "545"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:546.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "546"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:547.1",
+        "original": "Na samādhi na indriyaṁ?",
+        "analyzed": "na samādhi na indriya ",
+        "folio": "547"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:548.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "548"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:549.1",
+        "original": "Na paññā na indriyaṁ?",
+        "analyzed": "na paññā na indriya ",
+        "folio": "549"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:550.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "550"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:551.1",
+        "original": "Na anaññātaññassāmīti na indriyaṁ?",
+        "analyzed": "na anaññātaññassāmi iti na indriya ",
+        "folio": "551"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:552.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "552"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:553.1",
+        "original": "Na aññaṁ na indriyaṁ?",
+        "analyzed": "na aññam na indriya ",
+        "folio": "553"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:554.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññātāvī?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na aññātāvī ",
+        "folio": "554"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:555.1",
+        "original": "Na aññātāvī na indriyaṁ?",
+        "analyzed": "na aññātāvī na indriya ",
+        "folio": "555"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:556.1",
+        "original": "Na indriyā na cakkhu? …pe… Na indriyā na aññaṁ?",
+        "analyzed": "na indriyā na cakkhu pe na indriyā na añña ",
+        "folio": "556"
+    },
+    {
+        "segmentnr": "PA_ya_10.1.1:557.1",
+        "original": "Paṇṇattiuddesavāro.",
+        "analyzed": "paṇṇatti uddesa vāraḥ ",
+        "folio": "557"
+    }
+]

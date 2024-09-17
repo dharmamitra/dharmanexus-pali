@@ -1,0 +1,2414 @@
+[
+    {
+        "segmentnr": "PA_mn_114:0.1",
+        "original": "Majjhima Nikāya 114",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_114:0.2",
+        "original": "Sevitabbāsevitabbasutta",
+        "analyzed": "sevitabba a sevitabba sutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_114:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_114:1.2",
+        "original": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "ekam samayam bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_114:1.3",
+        "original": "Tatra kho bhagavā bhikkhū āmantesi:",
+        "analyzed": "tatra kho bhagavā bhikkhū āmantesi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_114:1.4",
+        "original": "“bhikkhavo”ti.",
+        "analyzed": "bhikkhavaḥ ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_114:1.5",
+        "original": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ.",
+        "analyzed": "bhadanta iti te bhikkhū bhagavataḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_114:1.6",
+        "original": "Bhagavā etadavoca:",
+        "analyzed": "bhagavān etat avoca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_114:2.1",
+        "original": "“sevitabbāsevitabbaṁ vo, bhikkhave, dhammapariyāyaṁ desessāmi.",
+        "analyzed": "sevitabba a sevitabbam vaḥ bhikkhave dhammapariyāyam desessāmi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_114:2.2",
+        "original": "Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.",
+        "analyzed": "tam suṇātha sādhukam manasi karotha bhāsissāmi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_114:2.3",
+        "original": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ.",
+        "analyzed": "eva bhante iti kho te bhikkhū bhagavato ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_114:2.4",
+        "original": "Bhagavā etadavoca:",
+        "analyzed": "bhagavān etat avoca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.1",
+        "original": "“Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "kāya samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.3",
+        "original": "tañca aññamaññaṁ kāyasamācāraṁ.",
+        "analyzed": "tat ca aññamaññam kāya samācāra ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.4",
+        "original": "Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "vacī samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.5",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.6",
+        "original": "tañca aññamaññaṁ vacīsamācāraṁ.",
+        "analyzed": "tat ca aññam aññam vacīsamācāra ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.7",
+        "original": "Manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "manaḥ samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.8",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.9",
+        "original": "tañca aññamaññaṁ manosamācāraṁ.",
+        "analyzed": "tat ca aññam aññam manaḥ samācāra ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.10",
+        "original": "Cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "cittuppādam pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.11",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.12",
+        "original": "tañca aññamaññaṁ cittuppādaṁ.",
+        "analyzed": "tat ca aññam aññam cittuppāda ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.13",
+        "original": "Saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "saññā paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.14",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.15",
+        "original": "tañca aññamaññaṁ saññāpaṭilābhaṁ.",
+        "analyzed": "tat ca aññam aññam saññā paṭilābha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.16",
+        "original": "Diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "diṭṭhi paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.17",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.18",
+        "original": "tañca aññamaññaṁ diṭṭhipaṭilābhaṁ.",
+        "analyzed": "tat ca aññam aññam diṭṭhi paṭilābha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.19",
+        "original": "Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "atta bhāva paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.20",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:3.21",
+        "original": "tañca aññamaññaṁ attabhāvapaṭilābhan”ti.",
+        "analyzed": "tat ca aññam aññam atta bhāva paṭilābhanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_114:4.1",
+        "original": "Evaṁ vutte āyasmā sāriputto bhagavantaṁ etadavoca:",
+        "analyzed": "evam vutte āyasmā sāriputtaḥ bhagavantam etat avoca ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_114:4.2",
+        "original": "“imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmi.",
+        "analyzed": "imassa kho aha bhante bhagavatā saṅkhittena bhāsitassa vitthārena attham a vibhattassa evam vitthārena attham ājānāmi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.1",
+        "original": "‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "kāya samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.3",
+        "original": "tañca aññamaññaṁ kāyasamācāran’ti—",
+        "analyzed": "tat ca aññamaññam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.6",
+        "original": "Yathārūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpo kāyasamācāro na sevitabbo;",
+        "analyzed": "yathārūpa bhante kāya samācāram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ kāya samācāraḥ na sevitabbaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.7",
+        "original": "yathārūpañca kho, bhante, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, evarūpo kāyasamācāro sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante kāya samācāram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ kāya samācāraḥ sevitabbaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.8",
+        "original": "Kathaṁrūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "bhante kāya samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.9",
+        "original": "Idha, bhante, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu;",
+        "analyzed": "idha bhante ekaccaḥ pāṇa atipātī hoti luddaḥ lohita pāṇi hata ppahate niviṭṭhaḥ adaya āpannaḥ pāṇa bhūtesu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.10",
+        "original": "adinnādāyī kho pana hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti;",
+        "analyzed": "a dinna ādāyī kho pana hoti yam tam parassa para vittu upakaraṇam gāma gatam vā arañña gatam vā tam a dinnam theyya saṅkhātam ādātā hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.11_0",
+        "original": "kāmesumicchācārī kho pana hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā",
+        "analyzed": "kāmesumicchā cārī kho pana hoti yā tā mātu rakkhitā pitu rakkhitā mātā pitu rakkhitā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.11_1",
+        "original": "bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā",
+        "analyzed": "bhātu rakkhitā bhagini rakkhitā ñāti rakkhitā gotta rakkhitā dhamma rakkhitā sa sāmikā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.11_2",
+        "original": "saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu cārittaṁ āpajjitā hoti—",
+        "analyzed": "sa paridaṇḍā antamasaḥ mālā guḷa parikkhittā api tathārūpāsu cārittam āpajjitā hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.12",
+        "original": "evarūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa bhante kāya samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.13",
+        "original": "Kathaṁrūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "bhante kāya samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.14",
+        "original": "Idha, bhante, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati;",
+        "analyzed": "idha bhante ekaccaḥ pāṇa atipātam pahāya pāṇa atipātā paṭivirataḥ hoti nihita daṇḍaḥ nihita satthaḥ lajjī dayā āpannaḥ sabba pāṇa bhūta hita anukampī viharati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.15",
+        "original": "adinnādānaṁ pahāya adinnādānā paṭivirato hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti;",
+        "analyzed": "adinnādānam pahāya adinnādānā paṭivirataḥ hoti yam tam parassa para vittu upakaraṇam gāma gatam vā arañña gatam vā tam na a dinnam theyya saṅkhātam ādātā hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.16_0",
+        "original": "kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti, yā tā māturakkhitā piturakkhitā",
+        "analyzed": "kāmesum icchā ācāram pahāya kāmesum icchā ācārā paṭivirataḥ hoti yā tā mātu rakkhitā pitu rakkhitā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.16_1",
+        "original": "mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā",
+        "analyzed": "mātā pitu rakkhitā bhātu rakkhitā bhagini rakkhitā ñāti rakkhitā gotta rakkhitā dhamma rakkhitā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.16_2",
+        "original": "sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu na cārittaṁ āpajjitā hoti—",
+        "analyzed": "sa sāmikā sa paridaṇḍā antamasaḥ mālā guḷa parikkhittā api tathārūpāsu na cārittam āpajjitā hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.17",
+        "original": "evarūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa bhante kāya samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.18",
+        "original": "‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "kāya samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.19",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.20",
+        "original": "tañca aññamaññaṁ kāyasamācāran’ti—",
+        "analyzed": "tat ca aññamaññam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:5.21",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.1",
+        "original": "‘Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "vacī samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.3",
+        "original": "tañca aññamaññaṁ vacīsamācāran’ti—",
+        "analyzed": "tat ca aññam aññam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.6",
+        "original": "Yathārūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpo vacīsamācāro na sevitabbo;",
+        "analyzed": "yathārūpa bhante vacīsamācāram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ vacīsamācāraḥ na sevitabbaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.7",
+        "original": "yathārūpañca kho, bhante, vacīsamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo vacīsamācāro sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante vacī samācāram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ vacī samācāraḥ sevitabbaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.8",
+        "original": "Kathaṁrūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "bhante vacī samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.9_0",
+        "original": "Idha, bhante, ekacco musāvādī hoti. Sabhāgato vā parisāgato vā ñātimajjhagato vā",
+        "analyzed": "idha bhante ekaccaḥ musāvādī hoti sabhā gataḥ vā parisā gataḥ vā ñāti majjha gataḥ vā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.9_1",
+        "original": "pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṁ",
+        "analyzed": "pūga majjha gataḥ vā rāja kula majjha gataḥ vā abhinīto sakkhi puṭṭhaḥ ehambho ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.9_2",
+        "original": "jānāsi taṁ vadehī’ti so ajānaṁ vā āha: ‘jānāmī’ti, jānaṁ vā āha: ‘na jānāmī’ti; apassaṁ",
+        "analyzed": "jānāsi tam vadehi iti saḥ a jānam vai āha jānāmi iti jānam vai āha na jānāmi iti apassa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.9_3",
+        "original": "vā āha: ‘passāmī’ti, passaṁ vā āha: ‘na passāmī’ti—iti attahetu vā parahetu vā āmisakiñcikkhahetu",
+        "analyzed": "vā āha passāmi iti passam vā āha na passāmi iti iti atta hetu vā para hetu vā āmisa kiñcikkha hetu ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.9_4",
+        "original": "vā sampajānamusā bhāsitā hoti;",
+        "analyzed": "vā sampajāna musā bhāsitāḥ hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.10_0",
+        "original": "pisuṇavāco kho pana hoti, ito sutvā amutra akkhātā imesaṁ bhedāya, amutra vā sutvā",
+        "analyzed": "pisuṇa vācaḥ kho pana hoti itas sutvā amutra akkhātāḥ imesam bhedāya amutra vā sutvā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.10_1",
+        "original": "imesaṁ akkhātā amūsaṁ bhedāya—iti samaggānaṁ vā bhettā, bhinnānaṁ vā anuppadātā,",
+        "analyzed": "imesam akkhātā amūsam bhedāya eti samaggānam vā bhettā bhinnānam vā anuppadātā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.10_2",
+        "original": "vaggārāmo, vaggarato, vagganandī, vaggakaraṇiṁ vācaṁ bhāsitā hoti;",
+        "analyzed": "vagga ārāmaḥ vagga rataḥ vagga nandī vagga karaṇim vācam bhāsitā hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.11",
+        "original": "pharusavāco kho pana hoti, yā sā vācā kaṇḍakā kakkasā pharusā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṁvattanikā, tathārūpiṁ vācaṁ bhāsitā hoti;",
+        "analyzed": "pharusa vācaḥ kho pana hoti yā sā vācā kaṇḍakā kakkasā pharusā para kaṭukā para abhisajjanī kodha sāmantā a samādhi savattanikā tathārūpim vācam bhāsitā hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.12",
+        "original": "samphappalāpī kho pana hoti akālavādī abhūtavādī anatthavādī adhammavādī avinayavādī, anidhānavatiṁ vācaṁ bhāsitā hoti akālena anapadesaṁ apariyantavatiṁ anatthasaṁhitaṁ—",
+        "analyzed": "samphappalāpī kho pana hoti akāla vādī abhūta vādī anattha vādī adhamma vādī avinaya vādī anidhānavatim vācam bhāsitā hoti akālena anapadesam apariyantavatim anattha sahita ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.13",
+        "original": "evarūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa bhante vacī samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.14",
+        "original": "Kathaṁrūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "bhante vacī samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.15_0",
+        "original": "Idha, bhante, ekacco musāvādaṁ pahāya musāvādā paṭivirato hoti sabhāgato vā parisāgato",
+        "analyzed": "idha bhante ekaccaḥ musāvādam pahāya musāvādā paṭivirataḥ hoti sabhā gataḥ vā parisā gataḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.15_1",
+        "original": "vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho:",
+        "analyzed": "vā ñāti majjha gataḥ vā pūga majjha gataḥ vā rāja kula majjha gataḥ vā abhinītaḥ sakkhipuṭṭhaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.15_2",
+        "original": "‘ehambho purisa, yaṁ jānāsi taṁ vadehī’ti so ajānaṁ vā āha: ‘na jānāmī’ti, jānaṁ",
+        "analyzed": "eham bho purisa yam jānāsi tam vadehi iti saḥ a jānam vai āha na jānāmi iti jāna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.15_3",
+        "original": "vā āha: ‘jānāmī’ti, apassaṁ vā āha: ‘na passāmī’ti, passaṁ vā āha: ‘passāmī’ti—iti",
+        "analyzed": "vā āha jānāmi iti a passam vā āha na passāmi iti passam vā āha passāmi iti iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.15_4",
+        "original": "attahetu vā parahetu vā āmisakiñcikkhahetu vā na sampajānamusā bhāsitā hoti;",
+        "analyzed": "atta hetu vā para hetu vā āmisa kiñcikkha hetu vā na sampajāna musā bhāsitā hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.16_0",
+        "original": "pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā",
+        "analyzed": "pisuṇam vācam pahāya pisuṇāya vācāya paṭivirataḥ hoti itas sutvā na amutra akkhātā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.16_1",
+        "original": "imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā",
+        "analyzed": "imesam bhedāya amutra vā sutvā naḥ imesam akkhātāḥ amūsam bhedāya eti bhinnānam vā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.16_2",
+        "original": "sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti;",
+        "analyzed": "sandhātā sahitānam vai anuppadātā samagga ārāmaḥ samagga rataḥ samagga nandī samagga karaṇim vācam bhāsitā hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.17",
+        "original": "pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti;",
+        "analyzed": "pharusam vācam pahāya pharusāya vācāya paṭivirataḥ hoti yā sā vācā nelā kaṇṇa sukhā pemanīyā hadayaṅgamā porī bahu jana kantā bahu jana manāpā tathārūpim vācam bhāsitā hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.18_0",
+        "original": "samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī",
+        "analyzed": "samphappalāpam pahāya samphappalāpā paṭivirataḥ hoti kāla vādī bhūta vādī attha vādī ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.18_1",
+        "original": "dhammavādī vinayavādī, nidhānavatiṁ vācaṁ bhāsitā hoti kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ—",
+        "analyzed": "dhamma vādī vinaya vādī nidhānavatim vācam bhāsitā hoti kālena sa apadesam pariyantavatim attha sahita ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.19",
+        "original": "evarūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa bhante vacī samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.20",
+        "original": "‘Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "vacī samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.21",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.22",
+        "original": "tañca aññamaññaṁ vacīsamācāran’ti—",
+        "analyzed": "tat ca aññam aññam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:6.23",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.1",
+        "original": "‘Manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "manaḥ samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.3",
+        "original": "tañca aññamaññaṁ manosamācāran’ti—",
+        "analyzed": "tat ca aññam aññam manaḥ samācāranti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.6",
+        "original": "Yathārūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo manosamācāro na sevitabbo;",
+        "analyzed": "yathārūpa bhante manaḥ samācāram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ manaḥ samācāraḥ na sevitabbaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.7",
+        "original": "yathārūpañca kho, bhante, manosamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo manosamācāro sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante manaḥ samācāram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ manaḥ samācāraḥ sevitabbaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.8",
+        "original": "Kathaṁrūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "bhante manaḥ samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.9",
+        "original": "Idha, bhante, ekacco abhijjhālu hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ taṁ abhijjhātā hoti: ‘aho vata yaṁ parassa taṁ mamassā’ti;",
+        "analyzed": "idha bhante ekaccaḥ abhijjhālu hoti yam tam parassa para vittu upakaraṇam tam abhijjhātā hoti aho vata yam parassa tam mamassa ati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.10",
+        "original": "byāpannacitto kho pana hoti paduṭṭhamanasaṅkappo: ‘ime sattā haññantu vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun’ti—",
+        "analyzed": "byāpanna cittaḥ kho pana hoti paduṭṭha mana saṅkappaḥ ime sattā haññantu vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesunti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.11",
+        "original": "evarūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa bhante manaḥ samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.12",
+        "original": "Kathaṁrūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "bhante manaḥ samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.13",
+        "original": "Idha, bhante, ekacco anabhijjhālu hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ taṁ nābhijjhātā hoti: ‘aho vata yaṁ parassa taṁ mamassā’ti;",
+        "analyzed": "idha bhante ekaccaḥ an abhijjhālu hoti yam tam parassa para vittu upakaraṇam tam na abhijjhātā hoti aho vata yam parassa tam mamassa ati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.14",
+        "original": "abyāpannacitto kho pana hoti appaduṭṭhamanasaṅkappo: ‘ime sattā averā abyābajjhā anīghā sukhī attānaṁ pariharantū’ti—",
+        "analyzed": "a byāpanna cittaḥ kho pana hoti appaduṭṭha mana saṅkappaḥ ime sattāḥ averāḥ a byābajjhāḥ anīghāḥ sukhī attānam pariharantu uti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.15",
+        "original": "evarūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa bhante manaḥ samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.16",
+        "original": "‘Manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "manaḥ samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.17",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.18",
+        "original": "tañca aññamaññaṁ manosamācāran’ti—",
+        "analyzed": "tat ca aññam aññam manaḥ samācāranti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:7.19",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.1",
+        "original": "‘Cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "cittuppādam pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.3",
+        "original": "tañca aññamaññaṁ cittuppādan’ti—",
+        "analyzed": "tat ca aññam aññam citta uppādanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.6",
+        "original": "Yathārūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo cittuppādo na sevitabbo;",
+        "analyzed": "yathārūpa bhante cittuppādam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ cittuppādaḥ na sevitabbaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.7",
+        "original": "yathārūpañca kho, bhante, cittuppādaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo cittuppādo sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante cittuppādam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ cittuppādaḥ sevitabbaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.8",
+        "original": "Kathaṁrūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "bhante cittuppādam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.9",
+        "original": "Idha, bhante, ekacco abhijjhālu hoti, abhijjhāsahagatena cetasā viharati;",
+        "analyzed": "idha bhante ekaccaḥ abhijjhālu hoti abhijjhā sahagatena cetasā viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.10",
+        "original": "byāpādavā hoti, byāpādasahagatena cetasā viharati;",
+        "analyzed": "byāpāda vā ha iti byāpāda sahagatena cetasā viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.11",
+        "original": "vihesavā hoti, vihesāsahagatena cetasā viharati—",
+        "analyzed": "vihesavā hoti vihesā sahagatena cetasā viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.12",
+        "original": "evarūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa bhante cittuppādam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.13",
+        "original": "Kathaṁrūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "bhante cittuppādam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.14",
+        "original": "Idha, bhante, ekacco anabhijjhālu hoti, anabhijjhāsahagatena cetasā viharati;",
+        "analyzed": "idha bhante ekaccaḥ anabhijjhālu hoti anabhijjhā sahagatena cetasā viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.15",
+        "original": "abyāpādavā hoti, abyāpādasahagatena cetasā viharati;",
+        "analyzed": "a byāpāda vā ha iti a byāpāda sahagatena cetasā viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.16",
+        "original": "avihesavā hoti, avihesāsahagatena cetasā viharati—",
+        "analyzed": "a vihesavā hoti a vihesā sahagatena cetasā viharati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.17",
+        "original": "evarūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa bhante cittuppādam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.18",
+        "original": "‘Cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "cittuppādam pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.19",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.20",
+        "original": "tañca aññamaññaṁ cittuppādan’ti—",
+        "analyzed": "tat ca aññam aññam citta uppādanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:8.21",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.1",
+        "original": "‘Saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "saññā paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.3",
+        "original": "tañca aññamaññaṁ saññāpaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam saññā paṭilābhanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.6",
+        "original": "Yathārūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo saññāpaṭilābho na sevitabbo;",
+        "analyzed": "yathārūpa bhante saññā paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ saññā paṭilābhaḥ na sevitabbaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.7",
+        "original": "yathārūpañca kho, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo saññāpaṭilābho sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante saññā paṭilābham sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ saññā paṭilābhaḥ sevitabbo ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.8",
+        "original": "Kathaṁrūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "katharūpa bhante saññā paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.9",
+        "original": "Idha, bhante, ekacco abhijjhālu hoti, abhijjhāsahagatāya saññāya viharati;",
+        "analyzed": "idha bhante ekaccaḥ abhijjhālu hoti abhijjhā sahagatāya saññāya viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.10",
+        "original": "byāpādavā hoti, byāpādasahagatāya saññāya viharati;",
+        "analyzed": "byāpāda vā hoti byāpāda sahagatāya saññāya viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.11",
+        "original": "vihesavā hoti, vihesāsahagatāya saññāya viharati—",
+        "analyzed": "vihesavā hoti vihesā sahagatāya saññāya viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.12",
+        "original": "evarūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa bhante saññā paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.13",
+        "original": "Kathaṁrūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "katharūpa bhante saññā paṭilābham sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.14",
+        "original": "Idha, bhante, ekacco anabhijjhālu hoti, anabhijjhāsahagatāya saññāya viharati;",
+        "analyzed": "idha bhante ekaccaḥ anabhijjhālu hoti anabhijjhā sahagatāya saññāya viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.15",
+        "original": "abyāpādavā hoti, abyāpādasahagatāya saññāya viharati;",
+        "analyzed": "a byāpāda vā hoti a byāpāda sahagatāya saññāya viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.16",
+        "original": "avihesavā hoti, avihesāsahagatāya saññāya viharati—",
+        "analyzed": "avihesavā hoti avihesā sahagatāya saññāya viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.17",
+        "original": "evarūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa bhante saññā paṭilābham sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.18",
+        "original": "‘Saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "saññā paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.19",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.20",
+        "original": "tañca aññamaññaṁ saññāpaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam saññā paṭilābhanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:9.21",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.1",
+        "original": "‘Diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "diṭṭhi paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.3",
+        "original": "tañca aññamaññaṁ diṭṭhipaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam diṭṭhi paṭilābhanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.6",
+        "original": "Yathārūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo diṭṭhipaṭilābho na sevitabbo;",
+        "analyzed": "yathārūpa bhante diṭṭhi paṭilābham sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ diṭṭhi paṭilābhaḥ na sevitabbaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.7",
+        "original": "yathārūpañca kho, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti—evarūpo diṭṭhipaṭilābho sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante diṭṭhi paṭilābham sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ diṭṭhi paṭilābhaḥ sevitabbaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.8",
+        "original": "Kathaṁrūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "bhante diṭṭhi paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.9",
+        "original": "Idha, bhante, ekacco evaṁdiṭṭhiko hoti:",
+        "analyzed": "idha bhante ekaccaḥ evadiṭṭhikaḥ hoti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.10_0",
+        "original": "‘natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ",
+        "analyzed": "natthi natthi natthi huta natthi su kata dukkaṭānam kammānam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.10_1",
+        "original": "vipāko, natthi ayaṁ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā",
+        "analyzed": "vipākaḥ natthi ayam lokaḥ natthi paraḥ lokaḥ natthi mātā natthi pitā natthi sattā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.10_2",
+        "original": "opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca",
+        "analyzed": "opapātikā natthi loke samaṇa brāhmaṇā sammaggatā sammāpaṭipannā ye imam ca lokam param ca ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.10_3",
+        "original": "lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti—",
+        "analyzed": "lokam sayam abhiññā sacchikatvā pavedenti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.11",
+        "original": "evarūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa bhante diṭṭhi paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.12",
+        "original": "Kathaṁrūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "bhante diṭṭhi paṭilābham sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.13",
+        "original": "Idha, bhante, ekacco evaṁdiṭṭhiko hoti:",
+        "analyzed": "idha bhante ekaccaḥ evadiṭṭhikaḥ hoti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.14_0",
+        "original": "‘atthi dinnaṁ, atthi yiṭṭhaṁ, atthi hutaṁ, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ",
+        "analyzed": "atthi dinna atthi yiṭṭha atthi huta atthi su kata dukkaṭānam kammānam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.14_1",
+        "original": "vipāko, atthi ayaṁ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā,",
+        "analyzed": "vipākaḥ atthi ayam lokaḥ atthi paraḥ lokaḥ atthi mātā atthi pitā atthi sattā opapātikā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.14_2",
+        "original": "atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ",
+        "analyzed": "atthi loke samaṇa brāhmaṇā sammaggatā sammāpaṭipannā ye iman ca lokam paran ca loka ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.14_3",
+        "original": "sayaṁ abhiññā sacchikatvā pavedentī’ti—",
+        "analyzed": "sayam abhiññā sacchikatvā pavedenti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.15",
+        "original": "evarūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa bhante diṭṭhi paṭilābham sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.16",
+        "original": "‘Diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "diṭṭhi paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.17",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.18",
+        "original": "tañca aññamaññaṁ diṭṭhipaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam diṭṭhi paṭilābhanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:10.19",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.1",
+        "original": "‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "atta bhāva paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.3",
+        "original": "tañca aññamaññaṁ attabhāvapaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam atta bhāva paṭilābhanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.4",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.6",
+        "original": "Yathārūpaṁ, bhante, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti—",
+        "analyzed": "yathārūpa bhante atta bhāva paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.7",
+        "original": "evarūpo attabhāvapaṭilābho na sevitabbo;",
+        "analyzed": "evarūpaḥ atta bhāva paṭilābhaḥ na sevitabbo ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.8",
+        "original": "yathārūpañca kho, bhante, attabhāvapaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti—",
+        "analyzed": "yathārūpam ca kho bhante atta bhāva paṭilābham sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.9",
+        "original": "evarūpo attabhāvapaṭilābho sevitabbo.",
+        "analyzed": "evarūpaḥ atta bhāva paṭilābhaḥ sevitabbo ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.10",
+        "original": "Kathaṁrūpaṁ, bhante, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "bhante atta bhāva paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.11",
+        "original": "Sabyābajjhaṁ, bhante, attabhāvapaṭilābhaṁ abhinibbattayato apariniṭṭhitabhāvāya akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;",
+        "analyzed": "bhante atta bhāva paṭilābham abhinibbattayataḥ a pariniṭṭhita bhāvāya akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.12",
+        "original": "abyābajjhaṁ, bhante, attabhāvapaṭilābhaṁ abhinibbattayato pariniṭṭhitabhāvāya akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "a byābajjha bhante atta bhāva paṭilābham abhinibbattayataḥ pariniṭṭhita bhāvāya akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.13",
+        "original": "‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "atta bhāva paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.14",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.15",
+        "original": "tañca aññamaññaṁ attabhāvapaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam atta bhāva paṭilābhanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:11.16",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_114:12.1",
+        "original": "Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmī”ti.",
+        "analyzed": "imassa kho aha bhante bhagavatā saṅkhittena bhāsitassa vitthārena attham avibhattassa evam vitthārena attham ājānāmi iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_114:13.1",
+        "original": "“Sādhu sādhu, sāriputta.",
+        "analyzed": "sādhu sādhu sāriputta ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_114:13.2",
+        "original": "Sādhu kho tvaṁ, sāriputta, imassa mayā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāsi.",
+        "analyzed": "sādhu kho tva sāriputta imassa mayā saṅkhittena bhāsitassa vitthārena attham a vibhattassa evam vitthārena attham ājānāsi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.1",
+        "original": "‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "kāya samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.3",
+        "original": "tañca aññamaññaṁ kāyasamācāran’ti—",
+        "analyzed": "tat ca aññamaññam ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.4",
+        "original": "iti kho panetaṁ vuttaṁ mayā.",
+        "analyzed": "iti kho pana itam vuttam mayā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.6",
+        "original": "Yathārūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo kāyasamācāro na sevitabbo;",
+        "analyzed": "yathārūpa sāriputta kāya samācāram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ kāya samācāraḥ na sevitabbaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.7",
+        "original": "yathārūpañca kho, sāriputta, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti—",
+        "analyzed": "yathārūpam ca kho sāriputta kāya samācāram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:14.8",
+        "original": "evarūpo kāyasamācāro sevitabbo.",
+        "analyzed": "evarūpaḥ kāya samācāraḥ sevitabbo ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.1",
+        "original": "Kathaṁrūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "katharūpa sāriputta kāya samācāram sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.2",
+        "original": "Idha, sāriputta, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu;",
+        "analyzed": "idha sāriputta ekaccaḥ pāṇa atipātī hoti luddaḥ lohita pāṇi hata ppahate niviṭṭhaḥ adaya āpannaḥ pāṇa bhūtesu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.3",
+        "original": "adinnādāyī kho pana hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti;",
+        "analyzed": "a dinna ādāyī kho pana hoti yam tam parassa para vittu upakaraṇam gāma gatam vā arañña gatam vā tam a dinnam theyya saṅkhātam ādātā hoti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.4_0",
+        "original": "kāmesumicchācārī kho pana hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā",
+        "analyzed": "kāmesumicchā cārī kho pana hoti yā tā mātu rakkhitā pitu rakkhitā mātā pitu rakkhitā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.4_1",
+        "original": "bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā",
+        "analyzed": "bhātu rakkhitā bhagini rakkhitā ñāti rakkhitā gotta rakkhitā dhamma rakkhitā sa sāmikā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.4_2",
+        "original": "saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu cārittaṁ āpajjitā hoti—",
+        "analyzed": "sa paridaṇḍā antamasaḥ mālā guḷa parikkhittā api tathārūpāsu cārittam āpajjitā hoti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:15.5",
+        "original": "evarūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+        "analyzed": "evarūpa sāriputta kāya samācāram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.1",
+        "original": "Kathaṁrūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti?",
+        "analyzed": "katharūpa sāriputta kāya samācāram sevato akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.2",
+        "original": "Idha, sāriputta, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati;",
+        "analyzed": "idha sāriputta ekaccaḥ pāṇa atipātam pahāya pāṇa atipātā paṭivirataḥ hoti nihita daṇḍaḥ nihita satthaḥ lajjī dayā āpannaḥ sabba pāṇa bhūta hita anukampī viharati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.3",
+        "original": "adinnādānaṁ pahāya adinnādānā paṭivirato hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti;",
+        "analyzed": "adinnādānam pahāya adinnādānā paṭivirataḥ hoti yam tam parassa para vittu upakaraṇam gāma gatam vā arañña gatam vā tam na a dinnam theyya saṅkhātam ādātā hoti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.4_0",
+        "original": "kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti, yā tā māturakkhitā piturakkhitā",
+        "analyzed": "kāmesum icchā ācāram pahāya kāmesum icchā ācārā paṭivirataḥ hoti yā tā mātu rakkhitā pitu rakkhitā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.4_1",
+        "original": "mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā",
+        "analyzed": "mātā pitu rakkhitā bhātu rakkhitā bhagini rakkhitā ñāti rakkhitā gotta rakkhitā dhamma rakkhitā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.4_2",
+        "original": "sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu na cārittaṁ āpajjitā hoti—",
+        "analyzed": "sa sāmikā sa paridaṇḍā antamasaḥ mālā guḷa parikkhittā api tathārūpāsu na cārittam āpajjitā hoti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.5",
+        "original": "evarūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "evarūpa sāriputta kāya samācāram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.6",
+        "original": "‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "kāya samācāram pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.7",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.8",
+        "original": "tañca aññamaññaṁ kāyasamācāran’ti—",
+        "analyzed": "tat ca aññamaññam ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:16.9",
+        "original": "iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam mayā idam etam paṭicca vutta ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_114:17-19.1",
+        "original": "Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi …pe…",
+        "analyzed": "vacī samācāram pa aha bhikkhave duvidhena vadāmi pe ",
+        "folio": "17-19"
+    },
+    {
+        "segmentnr": "PA_mn_114:17-19.2",
+        "original": "manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi …pe…",
+        "analyzed": "manaḥ samācāram pa aha bhikkhave duvidhena vadāmi pe ",
+        "folio": "17-19"
+    },
+    {
+        "segmentnr": "PA_mn_114:17-19.3",
+        "original": "cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi …pe…",
+        "analyzed": "cittuppādam pa aha bhikkhave duvidhena vadāmi pe ",
+        "folio": "17-19"
+    },
+    {
+        "segmentnr": "PA_mn_114:17-19.4",
+        "original": "saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi …pe…",
+        "analyzed": "saññā paṭilābham pa aha bhikkhave duvidhena vadāmi pe ",
+        "folio": "17-19"
+    },
+    {
+        "segmentnr": "PA_mn_114:17-19.5",
+        "original": "diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi …pe….",
+        "analyzed": "diṭṭhi paṭilābham pa aha bhikkhave duvidhena vadāmi pe ",
+        "folio": "17-19"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.1",
+        "original": "‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "atta bhāva paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.3",
+        "original": "tañca aññamaññaṁ attabhāvapaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam atta bhāva paṭilābhanti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.4",
+        "original": "iti kho panetaṁ vuttaṁ mayā.",
+        "analyzed": "iti kho pana itam vuttam mayā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.5",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.6",
+        "original": "Yathārūpaṁ, sāriputta, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo attabhāvapaṭilābho na sevitabbo;",
+        "analyzed": "yathārūpa sāriputta atta bhāva paṭilābham sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ atta bhāva paṭilābhaḥ na sevitabbaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.7",
+        "original": "yathārūpañca kho, sāriputta, attabhāvapaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti—",
+        "analyzed": "yathārūpam ca kho sāriputta atta bhāva paṭilābham sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:20.8",
+        "original": "evarūpo attabhāvapaṭilābho sevitabbo.",
+        "analyzed": "evarūpaḥ atta bhāva paṭilābhaḥ sevitabbo ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.1",
+        "original": "Kathaṁrūpaṁ, sāriputta, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?",
+        "analyzed": "katharūpa sāriputta atta bhāva paṭilābham sevato akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.2",
+        "original": "Sabyābajjhaṁ, sāriputta, attabhāvapaṭilābhaṁ abhinibbattayato apariniṭṭhitabhāvāya akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;",
+        "analyzed": "sabyābajjha sāriputta atta bhāva paṭilābham abhinibbattayataḥ a pariniṭṭhita bhāvāya akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.3",
+        "original": "abyābajjhaṁ, sāriputta, attabhāvapaṭilābhaṁ abhinibbattayato pariniṭṭhitabhāvāya akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+        "analyzed": "a byābajjha sāriputta atta bhāva paṭilābham abhinibbattayataḥ pariniṭṭhita bhāvāya akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.4",
+        "original": "‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi—",
+        "analyzed": "atta bhāva paṭilābham pa aha bhikkhave duvidhena vadāmi ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.5",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.6",
+        "original": "tañca aññamaññaṁ attabhāvapaṭilābhan’ti—",
+        "analyzed": "tat ca aññam aññam atta bhāva paṭilābhanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.7",
+        "original": "iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam mayā idam etam paṭicca vutta ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:21.8",
+        "original": "Imassa kho, sāriputta, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo.",
+        "analyzed": "imassa kho sāriputta mayā saṅkhittena bhāsitassa evam vitthārena atthaḥ daṭṭhabbo ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.1",
+        "original": "Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cakkhu viññeyyam rūpam pāha sāriputta duvidhena vadāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.2",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.3",
+        "original": "sotaviññeyyaṁ saddampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "sota viññeyyam saddampa āha sāriputta duvidhena vadāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.4",
+        "original": "sevitabbampi asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.5",
+        "original": "ghānaviññeyyaṁ gandhampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "ghāna viññeyyam sāriputta duvidhena vadāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.6",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.7",
+        "original": "jivhāviññeyyaṁ rasampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "jivhā viññeyyam rasam pāha sāriputta duvidhena vadāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.8",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.9",
+        "original": "kāyaviññeyyaṁ phoṭṭhabbampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "kāya viññeyyam phoṭṭhabbam pāha sāriputta duvidhena vadāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.10",
+        "original": "sevitabbampi, asevitabbampi;",
+        "analyzed": "sevitabbam pi a sevitabbam pi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.11",
+        "original": "manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "manaḥ viññeyyam dhammam pāha sāriputta duvidhena vadāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:22.12",
+        "original": "sevitabbampi, asevitabbampī”ti.",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_114:23.1",
+        "original": "Evaṁ vutte, āyasmā sāriputto bhagavantaṁ etadavoca:",
+        "analyzed": "evam vutte āyasmā sāriputtaḥ bhagavantam etat avoca ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_114:23.2",
+        "original": "“imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmi.",
+        "analyzed": "imassa kho aha bhante bhagavatā saṅkhittena bhāsitassa vitthārena attham a vibhattassa evam vitthārena attham ājānāmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.1",
+        "original": "‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cakkhu viññeyyam rūpam pāha sāriputta duvidhena vadāmi ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.3",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.5",
+        "original": "Yathārūpaṁ, bhante, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ na sevitabbaṁ;",
+        "analyzed": "yathārūpa bhante cakkhu viññeyyam rūpam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpam cakkhu viññeyyam rūpam na sevitabba ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.6",
+        "original": "yathārūpañca kho, bhante, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ sevitabbaṁ.",
+        "analyzed": "yathārūpam ca kho bhante cakkhu viññeyyam rūpam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpam cakkhu viññeyyam rūpam sevitabba ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.7",
+        "original": "‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cakkhu viññeyyam rūpam pāha sāriputta duvidhena vadāmi ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.8",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:24.9",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_114:25.1",
+        "original": "Sotaviññeyyaṁ saddampāhaṁ, sāriputta …pe…",
+        "analyzed": "sota viññeyyam saddam pāha sāriputta pe ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_114:25.2",
+        "original": "evarūpo sotaviññeyyo saddo na sevitabbo …",
+        "analyzed": "evarūpaḥ sota viññeyyaḥ saddaḥ na sevitabbaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_114:25.3",
+        "original": "evarūpo sotaviññeyyo saddo sevitabbo …",
+        "analyzed": "evarūpaḥ sota viññeyyaḥ saddaḥ sevitabbaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_114:26.1",
+        "original": "evarūpo ghānaviññeyyo gandho na sevitabbo …",
+        "analyzed": "evarūpaḥ ghāna viññeyyaḥ gandho na sevitabbaḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_114:26.2",
+        "original": "evarūpo ghānaviññeyyo gandho sevitabbo …",
+        "analyzed": "evarūpaḥ ghāna viññeyyaḥ gandho sevitabbaḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_114:27.1",
+        "original": "evarūpo jivhāviññeyyo raso na sevitabbo …",
+        "analyzed": "evarūpaḥ jivhā viññeyyaḥ rasaḥ na sevitabbaḥ ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_114:27.2",
+        "original": "evarūpo jivhāviññeyyo raso sevitabbo …",
+        "analyzed": "evarūpaḥ jivhā viññeyyaḥ raso sevitabbo ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_114:27.3",
+        "original": "kāyaviññeyyaṁ phoṭṭhabbampāhaṁ, sāriputta …",
+        "analyzed": "kāya viññeyyam phoṭṭhabbam pāha sāriputta ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_114:28.1",
+        "original": "evarūpo kāyaviññeyyo phoṭṭhabbo na sevitabbo …",
+        "analyzed": "evarūpaḥ kāya viññeyyaḥ phoṭṭhabbaḥ na sevitabbaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_114:28.2",
+        "original": "evarūpo kāyaviññeyyo phoṭṭhabbo sevitabbo.",
+        "analyzed": "evarūpaḥ kāya viññeyyaḥ phoṭṭhabbaḥ sevitabbo ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_114:29.1",
+        "original": "‘Manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "manaḥ viññeyyam dhammam pāha sāriputta duvidhena vadāmi ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_114:29.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_114:29.3",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_114:29.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_114:30.1",
+        "original": "Yathārūpaṁ, bhante, manoviññeyyaṁ dhammaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo manoviññeyyo dhammo na sevitabbo;",
+        "analyzed": "yathārūpa bhante manaḥ viññeyyam dhammam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ manaḥ viññeyyaḥ dhammaḥ na sevitabbaḥ ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_114:30.2",
+        "original": "yathārūpañca kho, bhante, manoviññeyyaṁ dhammaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo manoviññeyyo dhammo sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante manaḥ viññeyyam dhammam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ manaḥ viññeyyaḥ dhammaḥ sevitabbaḥ ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_114:30.3",
+        "original": "‘Manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "manaḥ viññeyyam dhammam pāha sāriputta duvidhena vadāmi ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_114:30.4",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_114:30.5",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_114:30.6",
+        "original": "Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmī”ti.",
+        "analyzed": "imassa kho aha bhante bhagavatā saṅkhittena bhāsitassa vitthārena attham avibhattassa evam vitthārena attham ājānāmi iti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_114:31.1",
+        "original": "“Sādhu sādhu, sāriputta.",
+        "analyzed": "sādhu sādhu sāriputta ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_mn_114:31.2",
+        "original": "Sādhu kho tvaṁ, sāriputta, imassa mayā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāsi.",
+        "analyzed": "sādhu kho tva sāriputta imassa mayā saṅkhittena bhāsitassa vitthārena attham a vibhattassa evam vitthārena attham ājānāsi ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.1",
+        "original": "‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cakkhu viññeyyam rūpam pāha sāriputta duvidhena vadāmi ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.3",
+        "original": "iti kho panetaṁ vuttaṁ mayā.",
+        "analyzed": "iti kho pana itam vuttam mayā ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.5",
+        "original": "Yathārūpaṁ, sāriputta, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ na sevitabbaṁ;",
+        "analyzed": "yathārūpa sāriputta cakkhu viññeyyam rūpam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpam cakkhu viññeyyam rūpam na sevitabba ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.6",
+        "original": "yathārūpañca kho, sāriputta, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ sevitabbaṁ.",
+        "analyzed": "yathārūpam ca kho sāriputta cakkhu viññeyyam rūpam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpam cakkhu viññeyyam rūpam sevitabba ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.7",
+        "original": "‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cakkhu viññeyyam rūpam pāha sāriputta duvidhena vadāmi ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.8",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:32-36.9",
+        "original": "iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam mayā idam etam paṭicca vutta ",
+        "folio": "32-36"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.1",
+        "original": "Sotaviññeyyaṁ saddampāhaṁ, sāriputta …pe…",
+        "analyzed": "sota viññeyyam saddam pāha sāriputta pe ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.2",
+        "original": "evarūpo sotaviññeyyo saddo na sevitabbo …",
+        "analyzed": "evarūpaḥ sota viññeyyaḥ saddaḥ na sevitabbaḥ ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.3",
+        "original": "evarūpo sotaviññeyyo saddo sevitabbo …",
+        "analyzed": "evarūpaḥ sota viññeyyaḥ saddaḥ sevitabbaḥ ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.4",
+        "original": "evarūpo ghānaviññeyyo gandho na sevitabbo …",
+        "analyzed": "evarūpaḥ ghāna viññeyyaḥ gandho na sevitabbaḥ ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.5",
+        "original": "evarūpo ghānaviññeyyo gandho sevitabbo …",
+        "analyzed": "evarūpaḥ ghāna viññeyyaḥ gandho sevitabbaḥ ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.6",
+        "original": "evarūpo jivhāviññeyyo raso na sevitabbo …",
+        "analyzed": "evarūpaḥ jivhā viññeyyaḥ rasaḥ na sevitabbaḥ ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.7",
+        "original": "evarūpo jivhāviññeyyo raso sevitabbo …",
+        "analyzed": "evarūpaḥ jivhā viññeyyaḥ raso sevitabbo ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.8",
+        "original": "evarūpo kāyaviññeyyo phoṭṭhabbo na sevitabbo …",
+        "analyzed": "evarūpaḥ kāya viññeyyaḥ phoṭṭhabbaḥ na sevitabbaḥ ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:37.9",
+        "original": "evarūpo kāyaviññeyyo phoṭṭhabbo sevitabbo.",
+        "analyzed": "evarūpaḥ kāya viññeyyaḥ phoṭṭhabbaḥ sevitabbo ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.1",
+        "original": "Manoviññeyyaṁ dhammampāhaṁ, sāriputta …pe…",
+        "analyzed": "manaḥ viññeyyam dhammam pāha sāriputta pe ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.2",
+        "original": "evarūpo manoviññeyyo dhammo na sevitabbo …",
+        "analyzed": "evarūpaḥ manaḥ viññeyyaḥ dhammaḥ na sevitabbaḥ ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.3",
+        "original": "evarūpo manoviññeyyo dhammo sevitabbo.",
+        "analyzed": "evarūpaḥ manaḥ viññeyyaḥ dhammaḥ sevitabbo ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.4",
+        "original": "‘Manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "manaḥ viññeyyam dhammam pāha sāriputta duvidhena vadāmi ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.5",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.6",
+        "original": "iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam mayā idam etam paṭicca vutta ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:38.7",
+        "original": "Imassa kho, sāriputta, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo.",
+        "analyzed": "imassa kho sāriputta mayā saṅkhittena bhāsitassa evam vitthārena atthaḥ daṭṭhabbo ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.1",
+        "original": "Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cīvara pāha sāriputta duvidhena vadāmi ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.2",
+        "original": "sevitabbampi, asevitabbampi …pe…",
+        "analyzed": "sevitabbam pi a sevitabbam pi pe ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.3",
+        "original": "piṇḍapātaṁpāhaṁ, sāriputta …",
+        "analyzed": "sāriputta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.4",
+        "original": "senāsanaṁpāhaṁ, sāriputta …",
+        "analyzed": "senāsana pāha sāriputta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.5",
+        "original": "gāmampāhaṁ, sāriputta …",
+        "analyzed": "sāriputta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.6",
+        "original": "nigamampāhaṁ, sāriputta …",
+        "analyzed": "nigamam pāha sāriputta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.7",
+        "original": "nagarampāhaṁ, sāriputta …",
+        "analyzed": "sāriputta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.8",
+        "original": "janapadampāhaṁ, sāriputta …",
+        "analyzed": "janapadampa āha sāriputta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.9",
+        "original": "puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "sāriputta duvidhena vadāmi ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:39.10",
+        "original": "sevitabbampi, asevitabbampī”ti.",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mn_114:40.1",
+        "original": "Evaṁ vutte, āyasmā sāriputto bhagavantaṁ etadavoca:",
+        "analyzed": "evam vutte āyasmā sāriputtaḥ bhagavantam etat avoca ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mn_114:40.2",
+        "original": "“imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmi.",
+        "analyzed": "imassa kho aha bhante bhagavatā saṅkhittena bhāsitassa vitthārena attham a vibhattassa evam vitthārena attham ājānāmi ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.1",
+        "original": "‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cīvara pāha sāriputta duvidhena vadāmi ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.3",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.5",
+        "original": "Yathārūpaṁ, bhante, cīvaraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cīvaraṁ na sevitabbaṁ;",
+        "analyzed": "yathārūpa bhante cīvaram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpam cīvaram na sevitabba ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.6",
+        "original": "yathārūpañca kho, bhante, cīvaraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cīvaraṁ sevitabbaṁ.",
+        "analyzed": "yathārūpam ca kho bhante cīvaram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpam cīvaram sevitabba ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.7",
+        "original": "‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cīvara pāha sāriputta duvidhena vadāmi ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.8",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:41.9",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vutta ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mn_114:42.1",
+        "original": "Piṇḍapātaṁpāhaṁ, sāriputta …pe…",
+        "analyzed": "sāriputta ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_mn_114:42.2",
+        "original": "evarūpo piṇḍapāto na sevitabbo …",
+        "analyzed": "evarūpaḥ piṇḍapātaḥ na sevitabbo ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_mn_114:42.3",
+        "original": "evarūpo piṇḍapāto sevitabbo …",
+        "analyzed": "evarūpaḥ piṇḍapātaḥ sevitabbo ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_mn_114:43.1",
+        "original": "senāsanaṁpāhaṁ, sāriputta …pe…",
+        "analyzed": "senāsana pāha sāriputta pe ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mn_114:43.2",
+        "original": "evarūpaṁ senāsanaṁ na sevitabbaṁ …",
+        "analyzed": "evarūpam senāsanam na sevitabbam ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mn_114:43.3",
+        "original": "evarūpaṁ senāsanaṁ sevitabbaṁ …",
+        "analyzed": "evarūpam senāsanam sevitabbam ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mn_114:44.1",
+        "original": "gāmampāhaṁ, sāriputta …pe…",
+        "analyzed": "sāriputta pe ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_mn_114:45.1",
+        "original": "evarūpo gāmo na sevitabbo …",
+        "analyzed": "evarūpaḥ gāmaḥ na sevitabbaḥ ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mn_114:45.2",
+        "original": "evarūpo gāmo sevitabbo …",
+        "analyzed": "evarūpaḥ gāmaḥ sevitabbaḥ ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mn_114:45.3",
+        "original": "evarūpo nigamo na sevitabbo …",
+        "analyzed": "evarūpaḥ nigamaḥ na sevitabbaḥ ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mn_114:45.4",
+        "original": "evarūpo nigamo sevitabbo …",
+        "analyzed": "evarūpaḥ nigamaḥ sevitabbo ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mn_114:46.1",
+        "original": "evarūpaṁ nagaraṁ na sevitabbaṁ …",
+        "analyzed": "evarūpam nagaram na sevitabbam ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mn_114:46.2",
+        "original": "evarūpaṁ nagaraṁ sevitabbaṁ …",
+        "analyzed": "evarūpam nagaram sevitabbam ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mn_114:47.1",
+        "original": "evarūpo janapado na sevitabbo …",
+        "analyzed": "evarūpaḥ janapadaḥ na sevitabbaḥ ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mn_114:47.2",
+        "original": "evarūpo janapado sevitabbo.",
+        "analyzed": "evarūpaḥ janapadaḥ sevitabbo ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.1",
+        "original": "‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "sāriputta duvidhena vadāmi ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.3",
+        "original": "iti kho panetaṁ vuttaṁ bhagavatā.",
+        "analyzed": "iti kho pana itam vuttam bhagavatā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.5",
+        "original": "Yathārūpaṁ, bhante, puggalaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo puggalo na sevitabbo;",
+        "analyzed": "yathārūpa bhante puggalam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ puggalaḥ na sevitabbaḥ ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.6",
+        "original": "yathārūpañca kho, bhante, puggalaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo puggalo sevitabbo.",
+        "analyzed": "yathārūpam ca kho bhante puggalam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ puggalaḥ sevitabbaḥ ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.7",
+        "original": "‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "sāriputta duvidhena vadāmi ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.8",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:48.9",
+        "original": "iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttanti.",
+        "analyzed": "iti yam tam vuttam bhagavatā idam etam paṭicca vuttam ti ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mn_114:49.1",
+        "original": "Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa evaṁ vitthārena atthaṁ ājānāmī”ti.",
+        "analyzed": "imassa kho aha bhante bhagavatā saṅkhittena bhāsitassa vitthārena attham avibhattassa evam vitthārena attham ājānāmi iti ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_mn_114:50.1",
+        "original": "“Sādhu sādhu, sāriputta.",
+        "analyzed": "sādhu sādhu sāriputta ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_mn_114:50.2",
+        "original": "Sādhu kho tvaṁ, sāriputta, imassa mayā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa evaṁ vitthārena atthaṁ ājānāsi.",
+        "analyzed": "sādhu kho tva sāriputta imassa mayā saṅkhittena bhāsitassa vitthārena attham a vibhattassa evam vitthārena attham ājānāsi ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.1",
+        "original": "‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cīvara pāha sāriputta duvidhena vadāmi ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.3",
+        "original": "iti kho panetaṁ vuttaṁ mayā.",
+        "analyzed": "iti kho pana itam vuttam mayā ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.5",
+        "original": "Yathārūpaṁ, sāriputta, cīvaraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cīvaraṁ na sevitabbaṁ;",
+        "analyzed": "yathārūpa sāriputta cīvaram sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpam cīvaram na sevitabba ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.6",
+        "original": "yathārūpañca kho, sāriputta, cīvaraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cīvaraṁ sevitabbaṁ.",
+        "analyzed": "yathārūpam ca kho sāriputta cīvaram sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpam cīvaram sevitabba ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.7",
+        "original": "‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "cīvara pāha sāriputta duvidhena vadāmi ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.8",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.9",
+        "original": "iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam mayā idam etam paṭicca vutta ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.10",
+        "original": "(Yathā paṭhamaṁ tathā vitthāretabbaṁ)",
+        "analyzed": "yathā paṭhamam tathā ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.11",
+        "original": "Evarūpo piṇḍapāto …",
+        "analyzed": "evarūpaḥ piṇḍapātaḥ ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.12",
+        "original": "evarūpaṁ senāsanaṁ …",
+        "analyzed": "evarūpam senāsanam ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.13",
+        "original": "evarūpo gāmo …",
+        "analyzed": "evarūpaḥ gāmaḥ ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.14",
+        "original": "evarūpo nigamo …",
+        "analyzed": "evarūpaḥ nigamaḥ ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.15",
+        "original": "evarūpaṁ nagaraṁ …",
+        "analyzed": "evarūpam nagaram ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:51-58.16",
+        "original": "evarūpo janapado.",
+        "analyzed": "evarūpaḥ ",
+        "folio": "51-58"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.1",
+        "original": "‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "sāriputta duvidhena vadāmi ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.2",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.3",
+        "original": "iti kho panetaṁ vuttaṁ mayā.",
+        "analyzed": "iti kho pana itam vuttam mayā ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.4",
+        "original": "Kiñcetaṁ paṭicca vuttaṁ?",
+        "analyzed": "kiñca itam paṭicca vutta ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.5",
+        "original": "Yathārūpaṁ, sāriputta, puggalaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo puggalo na sevitabbo;",
+        "analyzed": "yathārūpa sāriputta puggalam sevataḥ akusalāḥ dhammāḥ abhivaḍḍhanti kusalāḥ dhammāḥ parihāyanti evarūpaḥ puggalaḥ na sevitabbaḥ ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.6",
+        "original": "yathārūpañca kho, sāriputta, puggalaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo puggalo sevitabbo.",
+        "analyzed": "yathārūpam ca kho sāriputta puggalam sevataḥ akusalāḥ dhammāḥ parihāyanti kusalāḥ dhammāḥ abhivaḍḍhanti evarūpaḥ puggalaḥ sevitabbaḥ ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.7",
+        "original": "‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi—",
+        "analyzed": "sāriputta duvidhena vadāmi ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.8",
+        "original": "sevitabbampi, asevitabbampī’ti—",
+        "analyzed": "sevitabbam pi a sevitabbam pi iti ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.9",
+        "original": "iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.",
+        "analyzed": "iti yam tam vuttam mayā idam etam paṭicca vutta ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:59.10",
+        "original": "Imassa kho, sāriputta, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo.",
+        "analyzed": "imassa kho sāriputta mayā saṅkhittena bhāsitassa evam vitthārena atthaḥ daṭṭhabbo ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.1",
+        "original": "Sabbepi ce, sāriputta, khattiyā imassa mayā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājāneyyuṁ, sabbesānampissa khattiyānaṁ dīgharattaṁ hitāya sukhāya.",
+        "analyzed": "sabbe api ce sāriputta khattiyāḥ imassa mayā saṅkhittena bhāsitassa evam vitthārena attham ājāneyyu sabbesānam pi ssa khattiyānam dīgharattam hitāya sukhāya ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.2",
+        "original": "Sabbepi ce, sāriputta, brāhmaṇā …pe…",
+        "analyzed": "sabbe pi ce sāriputta brāhmaṇāḥ pe ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.3",
+        "original": "sabbepi ce, sāriputta, vessā …",
+        "analyzed": "sabbe pi ce sāriputta vessā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.4",
+        "original": "sabbepi ce, sāriputta, suddā imassa mayā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājāneyyuṁ, sabbesānampissa suddānaṁ dīgharattaṁ hitāya sukhāya.",
+        "analyzed": "sabbe api ce sāriputta suddāḥ imassa mayā saṅkhittena bhāsitassa evam vitthārena attham ājāneyyu sabbesānam pi suddānam dīgharattam hitāya sukhāya ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.5_0",
+        "original": "Sadevakopi ce, sāriputta, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā",
+        "analyzed": "sa devakaḥ api ce sāriputta lokaḥ sa mārakaḥ sa brahmakaḥ sa ssamaṇa brāhmaṇī pajā sa deva manussā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.5_1",
+        "original": "imassa mayā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājāneyya, sadevakassapissa",
+        "analyzed": "imassa mayā saṅkhittena bhāsitassa evam vitthārena attham ājāneyya sa devakassapissa ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:60.5_2",
+        "original": "lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṁ hitāya sukhāyā”ti.",
+        "analyzed": "lokassa sa mārakassa sa brahmakassa sa ssamaṇa brāhmaṇiyā pajāya sa deva manussāya dīgharattam hitāya sukhāya ati ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mn_114:61.1",
+        "original": "Idamavoca bhagavā.",
+        "analyzed": "idam avoca bhagavān ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_mn_114:61.2",
+        "original": "Attamano āyasmā sāriputto bhagavato bhāsitaṁ abhinandīti.",
+        "analyzed": "atta manaḥ āyasmā sāriputtaḥ bhagavataḥ bhāsitam abhinandi iti ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_mn_114:61.3",
+        "original": "Sevitabbāsevitabbasuttaṁ niṭṭhitaṁ catutthaṁ.",
+        "analyzed": "sevitabba asevitabba suttam niṭṭhitam catuttha ",
+        "folio": "61"
+    }
+]

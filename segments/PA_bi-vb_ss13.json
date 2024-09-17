@@ -1,0 +1,980 @@
+[
+    {
+        "segmentnr": "PA_bi-vb_ss13:0.1",
+        "original": "Theravāda Vinaya",
+        "analyzed": "thera vāda vinaya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:0.2",
+        "original": "Bhikkhunivibhaṅga",
+        "analyzed": "bhikkhuni vibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:0.3",
+        "original": "Saṅghādisesakaṇḍa",
+        "analyzed": "saṅgha ādi sesa kaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:0.4",
+        "original": "13. Dutiyapāpasamācārasikkhāpada",
+        "analyzed": "      ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.1",
+        "original": "Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "tena samayena buddhaḥ bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.2",
+        "original": "Tena kho pana samayena thullanandā bhikkhunī saṅghena samanubhaṭṭhā bhikkhuniyo evaṁ vadeti—",
+        "analyzed": "tena kho pana samayena thullanandā bhikkhunī saṅghena samanubhaṭṭhāḥ bhikkhuniyaḥ evam vadeti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.3",
+        "original": "“saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.4",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā saṅgho na kiñci āha.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā tā saṅghaḥ na kiñci āha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.5_0",
+        "original": "Tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha— ‘bhaginiyo",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evam āha bhaginiyo ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.5_1",
+        "original": "kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā,",
+        "analyzed": "kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.5_2",
+        "original": "aññamaññissā vajjappaṭicchādikā. Viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’”ti.",
+        "analyzed": "aññamaññissā vajja ppaṭicchādikā vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.6",
+        "original": "Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "yāḥ tāḥ bhikkhuniyaḥ appicchāḥ pe tāḥ ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.7",
+        "original": "“kathañhi nāma ayyā thullanandā saṅghena samanubhaṭṭhā bhikkhuniyo evaṁ vakkhati—",
+        "analyzed": "katham hi nāma ayyā thullanandā saṅghena samanubhaṭṭhā bhikkhuniyaḥ evam vakkhati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.8",
+        "original": "saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.9",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo …pe…",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyo pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.10",
+        "original": "viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetīti” …pe…",
+        "analyzed": "vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.11",
+        "original": "“saccaṁ kira, bhikkhave, thullanandā bhikkhunī saṅghena samanubhaṭṭhā bhikkhuniyo evaṁ vadeti—",
+        "analyzed": "saccam kira bhikkhave thullanandā bhikkhunī saṅghena samanubhaṭṭhāḥ bhikkhuniyaḥ evam vadeti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.12",
+        "original": "saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.13",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā saṅgho na kiñci āha.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā tā saṅghaḥ na kiñci āha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.14_0",
+        "original": "Tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha— bhaginiyo",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evam āha bhaginiyo ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.14_1",
+        "original": "kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā,",
+        "analyzed": "kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.14_2",
+        "original": "aññamaññissā vajjappaṭicchādikā. Viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”ti?",
+        "analyzed": "aññamaññissā vajja ppaṭicchādikā vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.15",
+        "original": "“Saccaṁ, bhagavā”ti.",
+        "analyzed": "sat ca bhagavān ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.16",
+        "original": "Vigarahi buddho bhagavā …pe…",
+        "analyzed": "vigarahi buddhaḥ bhagavān pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.17",
+        "original": "kathañhi nāma, bhikkhave, thullanandā bhikkhunī saṅghena samanubhaṭṭhā bhikkhuniyo evaṁ vakkhati—",
+        "analyzed": "katham hi nāma bhikkhave thullanandā bhikkhunī saṅghena samanubhaṭṭhāḥ bhikkhuniyaḥ evam vakkhati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.18",
+        "original": "saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.19",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo …pe…",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyo pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.20",
+        "original": "viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetīti.",
+        "analyzed": "vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.21",
+        "original": "Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe…",
+        "analyzed": "na ita bhikkhave appasannānam vā pasādāya pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.22",
+        "original": "evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—",
+        "analyzed": "evam ca pana bhikkhave bhikkhuniyaḥ imam sikkhāpadam uddisantu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.23.1",
+        "original": "“Yā pana bhikkhunī evaṁ vadeyya—",
+        "analyzed": "yā pana bhikkhunī evam vadeyya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.24",
+        "original": "‘saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.25",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā saṅgho na kiñci āha.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā tā saṅghaḥ na kiñci āha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.26_0",
+        "original": "Tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha— bhaginiyo",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evam āha bhaginiyo ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.26_1",
+        "original": "kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā,",
+        "analyzed": "kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.26_2",
+        "original": "aññamaññissā vajjappaṭicchādikā. Viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’ti.",
+        "analyzed": "aññamaññissā vajja ppaṭicchādikā vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.27",
+        "original": "Sā bhikkhunī bhikkhunīhi evamassa vacanīyā—",
+        "analyzed": "sā bhikkhunī bhikkhunīhi evam assa vacanīyā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.28",
+        "original": "‘mā, ayye, evaṁ avaca—",
+        "analyzed": "mā ayye evam avaca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.29",
+        "original": "saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.30",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā saṅgho na kiñci āha.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā tā saṅghaḥ na kiñci āha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.31_0",
+        "original": "Tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha— bhaginiyo",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evam āha bhaginiyo ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.31_1",
+        "original": "kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā,",
+        "analyzed": "kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.31_2",
+        "original": "aññamaññissā vajjappaṭicchādikā. Viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’ti.",
+        "analyzed": "aññamaññissā vajja ppaṭicchādikā vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.32",
+        "original": "Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya.",
+        "analyzed": "evam ca sā bhikkhunī bhikkhunīhi vuccamānā tathā iva paggaṇheyya sā bhikkhunī bhikkhunīhi yāvatatiyam samanubhāsitabbā tassa paṭinissaggāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.33",
+        "original": "Yāvatatiyañce samanubhāsīyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ;",
+        "analyzed": "tam paṭinissajjeyya icca etam kusala ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:1.34",
+        "original": "no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesan”ti.",
+        "analyzed": "no ce paṭinissajjeyya ayam pi bhikkhunī yāvatatiyakam dhammam āpannā nissāraṇīyam saṅgha ādisesam ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.1",
+        "original": "Yā panāti",
+        "analyzed": "yā panāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.2",
+        "original": "yā yādisā …pe…",
+        "analyzed": "yā yā disā pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.3",
+        "original": "bhikkhunīti",
+        "analyzed": "bhikkhunī iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.4",
+        "original": "…pe… ayaṁ imasmiṁ atthe adhippetā bhikkhunīti.",
+        "analyzed": "pe ayam imasmin atthe adhippetā bhikkhunī iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.5",
+        "original": "Evaṁ vadeyyāti—",
+        "analyzed": "evam vadeyyā iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.6",
+        "original": "“saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.7",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā saṅgho na kiñci āha”.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā tā saṅghaḥ na kiñci āha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.8",
+        "original": "Tumhaññeva saṅgho uññāyāti",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāyāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.9",
+        "original": "avaññāya.",
+        "analyzed": "avaññāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.10",
+        "original": "Paribhavenāti",
+        "analyzed": "paribhavena ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.11",
+        "original": "pāribhabyatā.",
+        "analyzed": "pāribhabya tā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.12",
+        "original": "Akkhantiyāti",
+        "analyzed": "akkhantiyā ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.13",
+        "original": "kopena.",
+        "analyzed": "kopena ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.14",
+        "original": "Vebhassiyāti",
+        "analyzed": "vebhassiyā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.15",
+        "original": "vibhassīkatā.",
+        "analyzed": "vibhassīkatā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.16",
+        "original": "Dubbalyāti",
+        "analyzed": "dubbalyā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.17",
+        "original": "apakkhatā.",
+        "analyzed": "a pakkhatā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.18",
+        "original": "Evamāha—",
+        "analyzed": "evam āha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.19",
+        "original": "“bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā.",
+        "analyzed": "bhaginiyaḥ kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.20",
+        "original": "Viciccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”ti.",
+        "analyzed": "vicit cathāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.21",
+        "original": "Sā bhikkhunīti",
+        "analyzed": "sā bhikkhunī iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.22",
+        "original": "yā sā evaṁvādinī bhikkhunī.",
+        "analyzed": "yā sā eva vādinī bhikkhunī ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.23",
+        "original": "Bhikkhunīhīti",
+        "analyzed": "bhikkhunīhi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.24",
+        "original": "aññāhi bhikkhunīhi. Yā passanti yā suṇanti tāhi vattabbā—",
+        "analyzed": "aññāhi bhikkhunīhi yā passanti yā suṇanti tāhi vattabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.25",
+        "original": "“māyye, evaṁ avaca—",
+        "analyzed": "māyye evam avaca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.26",
+        "original": "‘saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.27",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo …pe…",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyo pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.28",
+        "original": "viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’”ti.",
+        "analyzed": "vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.29",
+        "original": "Dutiyampi vattabbā.",
+        "analyzed": "dutiyam pi vattabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.30",
+        "original": "Tatiyampi vattabbā.",
+        "analyzed": "tatiyam pi vattabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.31",
+        "original": "Sace paṭinissajjati, iccetaṁ kusalaṁ;",
+        "analyzed": "sace paṭinissajjati icca etam kusala ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.32",
+        "original": "no ce paṭinissajjati, āpatti dukkaṭassa.",
+        "analyzed": "no ce paṭinissajjati āpatti dukkaṭassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.33",
+        "original": "Sutvā na vadanti, āpatti dukkaṭassa.",
+        "analyzed": "sutvā na vadanti āpatti dukkaṭassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.34",
+        "original": "Sā bhikkhunī saṅghamajjhampi ākaḍḍhitvā vattabbā—",
+        "analyzed": "sā bhikkhunī saṅgha majjham pi ākaḍḍhitvā vattabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.35",
+        "original": "“māyye, evaṁ avaca—",
+        "analyzed": "māyye evam avaca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.36",
+        "original": "‘saṁsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharittha.",
+        "analyzed": "ayye tumhe viharatha mā tumhe nānā viharittha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.37",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo …pe…",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyo pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.38",
+        "original": "viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’”ti.",
+        "analyzed": "vivicca thāyye vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.39",
+        "original": "Dutiyampi vattabbā.",
+        "analyzed": "dutiyam pi vattabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.40",
+        "original": "Tatiyampi vattabbā.",
+        "analyzed": "tatiyam pi vattabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.41",
+        "original": "Sace paṭinissajjati, iccetaṁ kusalaṁ;",
+        "analyzed": "sace paṭinissajjati icca etam kusala ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.42",
+        "original": "no ce paṭinissajjati, āpatti dukkaṭassa.",
+        "analyzed": "no ce paṭinissajjati āpatti dukkaṭassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.43",
+        "original": "Sā bhikkhunī samanubhāsitabbā.",
+        "analyzed": "sā bhikkhunī samanubhāsitabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.44",
+        "original": "“Evañca pana, bhikkhave, samanubhāsitabbā.",
+        "analyzed": "evam ca pana bhikkhave samanubhāsitabbā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.45",
+        "original": "Byattāya bhikkhuniyā paṭibalāya saṅgho ñāpetabbo—",
+        "analyzed": "byattāya bhikkhuniyā paṭibalāya saṅghaḥ ñāpetabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.46",
+        "original": "‘Suṇātu me, ayye, saṅgho.",
+        "analyzed": "suṇātu me ayye saṅghaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.47",
+        "original": "Ayaṁ itthannāmā bhikkhunī saṅghena samanubhaṭṭhā bhikkhuniyo evaṁ vadeti—",
+        "analyzed": "ayam itthannāmā bhikkhunī saṅghena samanubhaṭṭhāḥ bhikkhuniyaḥ evam vadeti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.48",
+        "original": "“saṁsaṭṭhāva, ayye, tumhe viharatha.",
+        "analyzed": "ayye tumhe viharatha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.49",
+        "original": "Mā tumhe nānā viharittha.",
+        "analyzed": "mā tumhe nānā viharittha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.50",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.51",
+        "original": "Tā saṅgho na kiñci āha.",
+        "analyzed": "tā saṅghaḥ na kiñci āha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.52",
+        "original": "Tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha—",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāya paribhavena akkhantiyāḥ vebhassiyāḥ dubbalyāḥ evam āha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.53",
+        "original": "bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā.",
+        "analyzed": "bhaginiyaḥ kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.54",
+        "original": "Viviccathāyye.",
+        "analyzed": "viviccathāyye ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.55",
+        "original": "Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”ti.",
+        "analyzed": "vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.56",
+        "original": "Sā taṁ vatthuṁ na paṭinissajjati.",
+        "analyzed": "sā tam vatthum na paṭinissajjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.57",
+        "original": "Yadi saṅghassa pattakallaṁ, saṅgho itthannāmaṁ bhikkhuniṁ samanubhāseyya tassa vatthussa paṭinissaggāya.",
+        "analyzed": "yadi saṅghassa pattakalla saṅghaḥ itthannāmam bhikkhunim samanubhāseyya tassa vatthussa paṭinissaggāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.58",
+        "original": "Esā ñatti.",
+        "analyzed": "esā ñatti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.59",
+        "original": "Suṇātu me, ayye, saṅgho.",
+        "analyzed": "suṇātu me ayye saṅghaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.60",
+        "original": "Ayaṁ itthannāmā bhikkhunī saṅghena samanubhaṭṭhā bhikkhuniyo evaṁ vadeti—",
+        "analyzed": "ayam itthannāmā bhikkhunī saṅghena samanubhaṭṭhāḥ bhikkhuniyaḥ evam vadeti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.61",
+        "original": "“saṁsaṭṭhāva, ayye, tumhe viharatha.",
+        "analyzed": "ayye tumhe viharatha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.62",
+        "original": "Mā tumhe nānā viharittha.",
+        "analyzed": "mā tumhe nānā viharittha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.63",
+        "original": "Santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā.",
+        "analyzed": "santi saṅghe aññā api bhikkhuniyaḥ eva ācārāḥ eva saddāḥ eva silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.64",
+        "original": "Tā saṅgho na kiñci āha.",
+        "analyzed": "tā saṅghaḥ na kiñci āha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.65",
+        "original": "Tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha—",
+        "analyzed": "tumhaññā iva saṅghaḥ uññāya paribhavena akkhantiyāḥ vebhassiyāḥ dubbalyāḥ evam āha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.66",
+        "original": "bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā.",
+        "analyzed": "bhaginiyaḥ kho sa saṭṭhāḥ viharanti pāpa ācārāḥ pāpa saddāḥ pāpa silokāḥ bhikkhuni saṅghassa vihesikā aññamaññissā vajja ppaṭicchādikā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.67",
+        "original": "Viviccathāyye.",
+        "analyzed": "viviccathāyye ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.68",
+        "original": "Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”ti.",
+        "analyzed": "vivekaññā iva bhaginīnam saṅghaḥ vaṇṇeti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.69",
+        "original": "Sā taṁ vatthuṁ na paṭinissajjati.",
+        "analyzed": "sā tam vatthum na paṭinissajjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.70",
+        "original": "Saṅgho itthannāmaṁ bhikkhuniṁ samanubhāsati tassa vatthussa paṭinissaggāya.",
+        "analyzed": "saṅghaḥ itthannāmam bhikkhunim samanubhāsati tassa vatthussa paṭinissaggāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.71",
+        "original": "Yassā ayyāya khamati itthannāmāya bhikkhuniyā samanubhāsanā tassa vatthussa paṭinissaggāya, sā tuṇhassa;",
+        "analyzed": "yassa ayyāya khamati itthannāmāya bhikkhuniyā samanubhāsanā tassa vatthussa paṭinissaggāya sā tuṇhassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.72",
+        "original": "yassā nakkhamati, sā bhāseyya.",
+        "analyzed": "yassā nakkhamati sā bhāseyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.73",
+        "original": "Dutiyampi etamatthaṁ vadāmi …pe…",
+        "analyzed": "dutiyam pi etam attham vadāmi pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.74",
+        "original": "tatiyampi etamatthaṁ vadāmi …pe….",
+        "analyzed": "tatiyam pi etam attham vadāmi pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.75",
+        "original": "Samanubhaṭṭhā saṅghena itthannāmā bhikkhunī tassa vatthussa paṭinissaggāya.",
+        "analyzed": "samanubhaṭṭhā saṅghena itthannāmā bhikkhunī tassa vatthussa paṭinissaggāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.76",
+        "original": "Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.",
+        "analyzed": "khamati saṅghassa tasmai tuṇhī evam etam dhārayāmi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.77",
+        "original": "Ñattiyā dukkaṭaṁ,",
+        "analyzed": "ñattiyā dukkaṭa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.78",
+        "original": "dvīhi kammavācāhi thullaccayā,",
+        "analyzed": "dvīhi kamma vācāhi thullaccayā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.79",
+        "original": "kammavācāpariyosāne āpatti saṅghādisesassa.",
+        "analyzed": "kamma vācā pariyosāne āpatti saṅgha ādisesassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.80",
+        "original": "Saṅghādisesaṁ ajjhāpajjantiyā ñattiyā dukkaṭaṁ, dvīhi kammavācāhi thullaccayā paṭippassambhanti.",
+        "analyzed": "saṅgha ādisesam ajjhāpajjantiyā ñattiyā dukkaṭa dvīhi kamma vācāhi thullaccayā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.81",
+        "original": "Ayampīti",
+        "analyzed": "ayam pi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.82",
+        "original": "purimāyo upādāya vuccati.",
+        "analyzed": "purima ayaḥ upādāya vuccati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.83",
+        "original": "Yāvatatiyakanti",
+        "analyzed": "yāvatatiyakanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.84",
+        "original": "yāvatatiyaṁ samanubhāsanāya āpajjati, na sahavatthujjhācārā.",
+        "analyzed": "yāvatatiyam samanubhāsanāya āpajjati na ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.85",
+        "original": "Nissāraṇīyanti",
+        "analyzed": "nissāraṇīyanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.86",
+        "original": "saṅghamhā nissārīyati.",
+        "analyzed": "saṅghamhā nissārīyati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.87",
+        "original": "Saṅghādisesoti",
+        "analyzed": "saṅgha ādi sesaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.88",
+        "original": "saṅghova tassā āpattiyā mānattaṁ deti, mūlāya paṭikassati, abbheti, na sambahulā na ekā bhikkhunī. Tena vuccati “saṅghādiseso”ti.",
+        "analyzed": "saṅghaḥ uva tassā āpattiyāḥ mānattam deti mūlāya paṭikassati abbheti na sambahulā na ekā bhikkhunī tena vuccati saṅgha ādisesaḥ ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:2.89",
+        "original": "Tasseva āpattinikāyassa nāmakammaṁ adhivacanaṁ, tenapi vuccati “saṅghādiseso”ti.",
+        "analyzed": "tassa eva āpatti nikāyassa nāma kammaṃ tena api vuccati saṅgha ādiseso ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.1",
+        "original": "Dhammakamme dhammakammasaññā na paṭinissajjati, āpatti saṅghādisesassa.",
+        "analyzed": "dhamma kamme dhamma kamma saññā na paṭinissajjati āpatti saṅgha ādisesassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.2",
+        "original": "Dhammakamme vematikā na paṭinissajjati, āpatti saṅghādisesassa.",
+        "analyzed": "dhamma kamme vematikā na paṭinissajjati āpatti saṅgha ādisesassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.3",
+        "original": "Dhammakamme adhammakammasaññā na paṭinissajjati, āpatti saṅghādisesassa.",
+        "analyzed": "dhamma kamme adhamma kamma saññā na paṭinissajjati āpatti saṅgha ādisesassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.4",
+        "original": "Adhammakamme dhammakammasaññā, āpatti dukkaṭassa.",
+        "analyzed": "adhamma kamme dhamma kamma saññā āpatti dukkaṭassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.5",
+        "original": "Adhammakamme vematikā, āpatti dukkaṭassa.",
+        "analyzed": "adhamma kamme vematikā āpatti dukkaṭassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.6",
+        "original": "Adhammakamme adhammakammasaññā, āpatti dukkaṭassa.",
+        "analyzed": "adhamma kamme adhamma kamma saññā āpatti dukkaṭassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.7.1",
+        "original": "Anāpatti—",
+        "analyzed": "anāpatti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.8",
+        "original": "asamanubhāsantiyā,",
+        "analyzed": "a samanubhāsantiyā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.9",
+        "original": "paṭinissajjantiyā,",
+        "analyzed": "paṭinissajjantiyā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.10",
+        "original": "ummattikāya,",
+        "analyzed": "ummattikāya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.11",
+        "original": "ādikammikāyāti.",
+        "analyzed": "ādikammikāya ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.12",
+        "original": "Dasamasaṅghādisesasikkhāpadaṁ niṭṭhitaṁ.",
+        "analyzed": "dasama saṅgha ādisesa sikkhāpadam niṭṭhita ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.13.0",
+        "original": "Kuladūsakasikkhāpada",
+        "analyzed": "kula dūsaka sikkhāpada ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.14",
+        "original": "Uddiṭṭhā kho, ayyāyo, sattarasa saṅghādisesā dhammā—",
+        "analyzed": "uddiṭṭhāḥ kho ayyāyo sattarasa saṅgha ādisesāḥ dhammāḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.15",
+        "original": "nava paṭhamāpattikā, aṭṭha yāvatatiyakā.",
+        "analyzed": "nava paṭhama āpattikāḥ aṭṭha yāvatatiyakā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.16",
+        "original": "Yesaṁ bhikkhunī aññataraṁ vā aññataraṁ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṁ caritabbaṁ.",
+        "analyzed": "yesam bhikkhunī aññataram vā aññataram vā āpajjati tāya bhikkhuniyā ubhato saṅghe pakkha mānattam caritabba ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.17",
+        "original": "Ciṇṇamānattā bhikkhunī yattha siyā vīsatigaṇo bhikkhunisaṅgho tattha sā bhikkhunī abbhetabbā.",
+        "analyzed": "ciṇṇa mānattā bhikkhunī yattha siyā vīsati gaṇaḥ bhikkhuni saṅgho tattha sā bhikkhunī abbhetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.18",
+        "original": "Ekāyapi ce ūno vīsatigaṇo bhikkhunisaṅgho taṁ bhikkhuniṁ abbheyya.",
+        "analyzed": "ce ūnaḥ vīsati gaṇaḥ bhikkhuni saṅghaḥ tam bhikkhunim ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.19",
+        "original": "Sā ca bhikkhunī anabbhitā, tā ca bhikkhuniyo gārayhā, ayaṁ tattha sāmīci.",
+        "analyzed": "sā ca bhikkhunī an abbhitā tāḥ ca bhikkhuniyaḥ gārayhāḥ ayam tattha sāmīci ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.20",
+        "original": "Tatthāyyāyo pucchāmi—",
+        "analyzed": "pucchāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.21",
+        "original": "“kaccittha parisuddhā”?",
+        "analyzed": "kaccit tha parisuddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.22",
+        "original": "Dutiyampi pucchāmi—",
+        "analyzed": "dutiyam pi pucchāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.23",
+        "original": "“kaccittha parisuddhā”?",
+        "analyzed": "kaccit tha parisuddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.24",
+        "original": "Tatiyampi pucchāmi—",
+        "analyzed": "tatiyam pi pucchāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.25",
+        "original": "“kaccittha parisuddhā”?",
+        "analyzed": "kaccit tha parisuddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.26",
+        "original": "Parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.",
+        "analyzed": "tasmai tuṇhī evam etam dhārayāmi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.27",
+        "original": "Sattarasakaṁ niṭṭhitaṁ.",
+        "analyzed": "sattarasakam niṭṭhita ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bi-vb_ss13:3.28",
+        "original": "Bhikkhunivibhaṅge saṅghādisesakaṇḍaṁ niṭṭhitaṁ.",
+        "analyzed": "bhikkhuni vibhaṅge saṅgha ādi sesa kaṇḍam niṭṭhita ",
+        "folio": "3"
+    }
+]

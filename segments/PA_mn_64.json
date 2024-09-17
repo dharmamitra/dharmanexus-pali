@@ -1,0 +1,830 @@
+[
+    {
+        "segmentnr": "PA_mn_64:0.1",
+        "original": "Majjhima Nikāya 64",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_64:0.2",
+        "original": "Mahāmālukyasutta",
+        "analyzed": "mahāmālukyasutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_64:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_64:1.2",
+        "original": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "ekam samayam bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_64:1.3",
+        "original": "Tatra kho bhagavā bhikkhū āmantesi:",
+        "analyzed": "tatra kho bhagavā bhikkhū āmantesi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_64:1.4",
+        "original": "“bhikkhavo”ti.",
+        "analyzed": "bhikkhavaḥ ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_64:1.5",
+        "original": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ.",
+        "analyzed": "bhadanta iti te bhikkhū bhagavataḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_64:1.6",
+        "original": "Bhagavā etadavoca:",
+        "analyzed": "bhagavān etat avoca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.1",
+        "original": "“dhāretha no tumhe, bhikkhave, mayā desitāni pañcorambhāgiyāni saṁyojanānī”ti?",
+        "analyzed": "dhāretha no tumhe bhikkhave mayā desitāni pañca orambhāgiyāni sayojanāni iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.2",
+        "original": "Evaṁ vutte, āyasmā mālukyaputto bhagavantaṁ etadavoca:",
+        "analyzed": "evam vutte āyasmā mālukyaputtaḥ bhagavantam etat avoca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.3",
+        "original": "“ahaṁ kho, bhante, dhāremi bhagavatā desitāni pañcorambhāgiyāni saṁyojanānī”ti.",
+        "analyzed": "aham kho bhante dhāremi bhagavatā desitāni pañca orambhāgiyāni sa yojanāni iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.4",
+        "original": "“Yathā kathaṁ pana tvaṁ, mālukyaputta, dhāresi mayā desitāni pañcorambhāgiyāni saṁyojanānī”ti?",
+        "analyzed": "yathā katham pana tva mālukyaputta dhāresi mayā desitāni pañca orambhāgiyāni sayojanāni iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.5",
+        "original": "“Sakkāyadiṭṭhiṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;",
+        "analyzed": "sakkāya diṭṭhim kho aha bhante bhagavatā orambhāgiyam sayojanam desitam dhāremi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.6",
+        "original": "vicikicchaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;",
+        "analyzed": "vicikiccham kho aha bhante bhagavatā orambhāgiyam sayojanam desitam dhāremi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.7",
+        "original": "sīlabbataparāmāsaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;",
+        "analyzed": "sīlabbata parāmāsam kho aha bhante bhagavatā orambhāgiyam sayojanam desitam dhāremi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.8",
+        "original": "kāmacchandaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;",
+        "analyzed": "kāmacchandam kho aha bhante bhagavatā orambhāgiyam sayojanam desitam dhāremi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.9",
+        "original": "byāpādaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi.",
+        "analyzed": "byāpādam kho aha bhante bhagavatā orambhāgiyam sayojanam desitam dhāremi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:2.10",
+        "original": "Evaṁ kho ahaṁ, bhante, dhāremi bhagavatā desitāni pañcorambhāgiyāni saṁyojanānī”ti.",
+        "analyzed": "evam kho aha bhante dhāremi bhagavatā desitāni pañca orambhāgiyāni sa yojanāni iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.1",
+        "original": "“Kassa kho nāma tvaṁ, mālukyaputta, imāni evaṁ pañcorambhāgiyāni saṁyojanāni desitāni dhāresi?",
+        "analyzed": "kassa kho nāma tva mālukyaputta imāni evam pañca urambhāgiyāni sayojanāni desitāni dhāresi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.2",
+        "original": "Nanu, mālukyaputta, aññatitthiyā paribbājakā iminā taruṇūpamena upārambhena upārambhissanti?",
+        "analyzed": "nanu mālukyaputta añña titthiyāḥ paribbājakāḥ iminā taruṇūpamena upārambhena upārambhissanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.3",
+        "original": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sakkāyotipi na hoti, kuto panassa uppajjissati sakkāyadiṭṭhi?",
+        "analyzed": "daharassa hi mālukyaputta kumārassa mandassa uttānaseyyakassa na hoti kutas panassa uppajjissati sakkāya diṭṭhi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.4",
+        "original": "Anusetvevassa sakkāyadiṭṭhānusayo.",
+        "analyzed": "sakkāya diṭṭha anusayo ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.5",
+        "original": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa dhammātipi na hoti, kuto panassa uppajjissati dhammesu vicikicchā?",
+        "analyzed": "daharassa hi mālukyaputta kumārassa mandassa uttānaseyyakassa dhamma atipi na hoti kutas panassa uppajjissati dhammesu vicikicchā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.6",
+        "original": "Anusetvevassa vicikicchānusayo.",
+        "analyzed": "vicikicchā anusayaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.7",
+        "original": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sīlātipi na hoti, kuto panassa uppajjissati sīlesu sīlabbataparāmāso?",
+        "analyzed": "daharassa hi mālukyaputta kumārassa mandassa uttānaseyyakassa sīla atipi na hoti kutas panassa uppajjissati sīlesu sīlabbata parāmāsaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.8",
+        "original": "Anusetvevassa sīlabbataparāmāsānusayo.",
+        "analyzed": "sīlabbata parāmāsa anusayaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.9",
+        "original": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa kāmātipi na hoti, kuto panassa uppajjissati kāmesu kāmacchando?",
+        "analyzed": "daharassa hi mālukyaputta kumārassa mandassa uttānaseyyakassa kāma atipi na hoti kutas panassa uppajjissati kāmesu kāmacchandaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.10",
+        "original": "Anusetvevassa kāmarāgānusayo.",
+        "analyzed": "anusetu eva assa kāma rāga anusayaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.11",
+        "original": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sattātipi na hoti, kuto panassa uppajjissati sattesu byāpādo?",
+        "analyzed": "daharassa hi mālukyaputta kumārassa mandassa uttānaseyyakassa satta atipi na hoti kutas panassa uppajjissati sattesu byāpādaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.12",
+        "original": "Anusetvevassa byāpādānusayo.",
+        "analyzed": "byāpāda anusayaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:3.13",
+        "original": "Nanu, mālukyaputta, aññatitthiyā paribbājakā iminā taruṇūpamena upārambhena upārambhissantī”ti?",
+        "analyzed": "nanu mālukyaputta añña titthiyāḥ paribbājakāḥ iminā taruṇūpamena upārambhena upārambhissanti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_64:4.1",
+        "original": "Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:",
+        "analyzed": "evam vutte āyasmai ānandaḥ bhagavantam etat avoca ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_64:4.2",
+        "original": "“etassa, bhagavā, kālo, etassa, sugata, kālo",
+        "analyzed": "etassa bhagavā kālaḥ etassa sugata kālaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_64:4.3",
+        "original": "yaṁ bhagavā pañcorambhāgiyāni saṁyojanāni deseyya. Bhagavato sutvā bhikkhū dhāressantī”ti.",
+        "analyzed": "yam bhagavā pañca orambhāgiyāni sayojanāni deseyya bhagavataḥ sutvā bhikkhū dhāressanti iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_64:4.4",
+        "original": "“Tena hānanda, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti.",
+        "analyzed": "tena ha ānanda suṇāhi sādhukam manasi karohi bhāsissāmi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_64:4.5",
+        "original": "“Evaṁ, bhante”ti kho āyasmā ānando bhagavato paccassosi.",
+        "analyzed": "eva bhante iti kho āyasmai ānandaḥ bhagavataḥ paccassosi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_64:4.6",
+        "original": "Bhagavā etadavoca:",
+        "analyzed": "bhagavān etat avoca ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.1",
+        "original": "“Idhānanda, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto",
+        "analyzed": "idha ānanda assutavā puthujjanaḥ ariyānam a dassāvī ariya dhammassa a kovidaḥ ariya dhamme a vinītaḥ sappurisānam a dassāvī sappurisa dhammassa a kovidaḥ sappurisa dhamme a vinītaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.2",
+        "original": "sakkāyadiṭṭhipariyuṭṭhitena cetasā viharati sakkāyadiṭṭhiparetena;",
+        "analyzed": "sakkāya diṭṭhi pariyuṭṭhitena cetasā viharati sakkāya diṭṭhi paretena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.3",
+        "original": "uppannāya ca sakkāyadiṭṭhiyā nissaraṇaṁ yathābhūtaṁ nappajānāti.",
+        "analyzed": "uppannāya ca sakkāyadiṭṭhiyāḥ nissaraṇam yathābhūtam na pajānāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.4",
+        "original": "Tassa sā sakkāyadiṭṭhi thāmagatā appaṭivinītā orambhāgiyaṁ saṁyojanaṁ.",
+        "analyzed": "tassa sā sakkāya diṭṭhi thāma gatā appaṭivinītā orambhāgiyam sayojana ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.5",
+        "original": "Vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena;",
+        "analyzed": "vicikicchā pariyuṭṭhitena cetasā viharati vicikicchā paretena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.6",
+        "original": "uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ nappajānāti.",
+        "analyzed": "uppannāya ca vicikicchāya nissaraṇam yathābhūtam na ppajānāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.7",
+        "original": "Tassa sā vicikicchā thāmagatā appaṭivinītā orambhāgiyaṁ saṁyojanaṁ.",
+        "analyzed": "tassa sā vicikicchā thāma gatā appaṭivinītā orambhāgiyam sayojana ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.8",
+        "original": "Sīlabbataparāmāsapariyuṭṭhitena cetasā viharati sīlabbataparāmāsaparetena;",
+        "analyzed": "sīlabbata parāmāsa pariyuṭṭhitena cetasā viharati sīlabbata parāmāsa paretena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.9",
+        "original": "uppannassa ca sīlabbataparāmāsassa nissaraṇaṁ yathābhūtaṁ nappajānāti.",
+        "analyzed": "uppannassa ca sīlabbata parāmāsassa nissaraṇam yathābhūtam na pajānāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.10",
+        "original": "Tassa so sīlabbataparāmāso thāmagato appaṭivinīto orambhāgiyaṁ saṁyojanaṁ.",
+        "analyzed": "tassa so sīlabbata parāmāso thāma gataḥ appaṭivinītaḥ orambhāgiyam sayojana ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.11",
+        "original": "Kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena;",
+        "analyzed": "kāma rāga pariyuṭṭhitena cetasā viharati kāma rāga paretena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.12",
+        "original": "uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ nappajānāti.",
+        "analyzed": "uppannassa ca kāma rāgassa nissaraṇam yathābhūtam na pajānāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.13",
+        "original": "Tassa so kāmarāgo thāmagato appaṭivinīto orambhāgiyaṁ saṁyojanaṁ.",
+        "analyzed": "tassa so kāma rāgaḥ thāma gataḥ appaṭivinītaḥ orambhāgiyam sayojana ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.14",
+        "original": "Byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena;",
+        "analyzed": "byāpāda pariyuṭṭhitena cetasā viharati byāpāda paretena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.15",
+        "original": "uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ nappajānāti.",
+        "analyzed": "uppannassa ca byāpādassa nissaraṇam yathābhūtam na pajānāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:5.16",
+        "original": "Tassa so byāpādo thāmagato appaṭivinīto orambhāgiyaṁ saṁyojanaṁ.",
+        "analyzed": "tassa so byāpādaḥ thāma gataḥ appaṭivinītaḥ orambhāgiyam sayojana ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.1_0",
+        "original": "Sutavā ca kho, ānanda, ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme",
+        "analyzed": "sutavā ca kho ānanda ariya sāvakaḥ ariyānam dassāvī ariya dhammassa kovidaḥ ariya dhamme ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.1_1",
+        "original": "suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto",
+        "analyzed": "su vinītaḥ sappurisānam dassāvī sappurisa dhammassa kovidaḥ sappurisa dhamme su vinītaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.1_2",
+        "original": "na sakkāyadiṭṭhipariyuṭṭhitena cetasā viharati na sakkāyadiṭṭhiparetena;",
+        "analyzed": "na sakkāya diṭṭhi pariyuṭṭhitena cetasā viharati na sakkāya diṭṭhi paretena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.2",
+        "original": "uppannāya ca sakkāyadiṭṭhiyā nissaraṇaṁ yathābhūtaṁ pajānāti.",
+        "analyzed": "uppannāya ca sakkāyadiṭṭhiyāḥ nissaraṇam yathābhūtam pajānāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.3",
+        "original": "Tassa sā sakkāyadiṭṭhi sānusayā pahīyati.",
+        "analyzed": "tassa sā sakkāyadiṭṭhi sa anusayā pahīyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.4",
+        "original": "Na vicikicchāpariyuṭṭhitena cetasā viharati na vicikicchāparetena;",
+        "analyzed": "na vicikicchā pariyuṭṭhitena cetasā viharati na vicikicchā paretena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.5",
+        "original": "uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ pajānāti.",
+        "analyzed": "uppannāya ca vicikicchāya nissaraṇam yathābhūtam pajānāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.6",
+        "original": "Tassa sā vicikicchā sānusayā pahīyati.",
+        "analyzed": "tassa sā vicikicchā sa anusayā pahīyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.7",
+        "original": "Na sīlabbataparāmāsapariyuṭṭhitena cetasā viharati na sīlabbataparāmāsaparetena;",
+        "analyzed": "na sīlabbata parāmāsa pariyuṭṭhitena cetasā viharati na sīlabbata parāmāsa paretena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.8",
+        "original": "uppannassa ca sīlabbataparāmāsassa nissaraṇaṁ yathābhūtaṁ pajānāti.",
+        "analyzed": "uppannassa ca sīlabbata parāmāsassa nissaraṇam yathābhūtam pajānāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.9",
+        "original": "Tassa so sīlabbataparāmāso sānusayo pahīyati.",
+        "analyzed": "tassa so sīlabbata parāmāso sa anusayo pahīyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.10",
+        "original": "Na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena;",
+        "analyzed": "na kāma rāga pariyuṭṭhitena cetasā viharati na kāma rāga paretena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.11",
+        "original": "uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ pajānāti.",
+        "analyzed": "uppannassa ca kāma rāgassa nissaraṇam yathābhūtam pajānāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.12",
+        "original": "Tassa so kāmarāgo sānusayo pahīyati.",
+        "analyzed": "tassa so kāma rāgaḥ sa anusayaḥ pahīyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.13",
+        "original": "Na byāpādapariyuṭṭhitena cetasā viharati na byāpādaparetena;",
+        "analyzed": "na byāpāda pariyuṭṭhitena cetasā viharati na byāpāda paretena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.14",
+        "original": "uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ pajānāti.",
+        "analyzed": "uppannassa ca byāpādassa nissaraṇam yathābhūtam pajānāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.15",
+        "original": "Tassa so byāpādo sānusayo pahīyati.",
+        "analyzed": "tassa saḥ byāpādaḥ sa anusayo pahīyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.16_0",
+        "original": "Yo, ānanda, maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ",
+        "analyzed": "yā ānanda maggaḥ yā paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya taṃ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.16_1",
+        "original": "maggaṁ taṁ paṭipadaṁ anāgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā",
+        "analyzed": "maggam tam paṭipadam an āgamma pañca orambhāgiyāni sayojanāni ñassati vā dakkhati vā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.16_2",
+        "original": "pajahissati vāti—netaṁ ṭhānaṁ vijjati.",
+        "analyzed": "pajahissati vātinā itam ṭhānam vijjati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.17",
+        "original": "Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato tacaṁ acchetvā phegguṁ acchetvā sāracchedo bhavissatīti—",
+        "analyzed": "seyyathā api ānanda mahato rukkhassa tiṭṭhato sāravataḥ tacam acchetvā pheggum acchetvā sāra chedaḥ bhavissati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.18",
+        "original": "netaṁ ṭhānaṁ vijjati;",
+        "analyzed": "na itam ṭhānam vijjati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.19_0",
+        "original": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya",
+        "analyzed": "evam eva kho ānanda yaḥ maggaḥ yā paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.19_1",
+        "original": "taṁ maggaṁ taṁ paṭipadaṁ anāgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati",
+        "analyzed": "tam maggam tam paṭipadam an āgamma pañca orambhāgiyāni sayojanāni ñassati vā dakkhati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:6.19_2",
+        "original": "vā pajahissati vāti—netaṁ ṭhānaṁ vijjati.",
+        "analyzed": "vā pajahissati vā atinā itam ṭhānam vijjati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_64:7.1_0",
+        "original": "Yo ca kho, ānanda, maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya",
+        "analyzed": "yaḥ ca kho ānanda maggaḥ yā paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_64:7.1_1",
+        "original": "taṁ maggaṁ taṁ paṭipadaṁ āgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati",
+        "analyzed": "tam maggam tam paṭipadam āgamma pañca orambhāgiyāni sayojanāni ñassati vā dakkhati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_64:7.1_2",
+        "original": "vā pajahissati vāti—ṭhānametaṁ vijjati.",
+        "analyzed": "vā pajahissati vā atiṭhānam etam vijjati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.1",
+        "original": "Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato tacaṁ chetvā phegguṁ chetvā sāracchedo bhavissatīti—ṭhānametaṁ vijjati.",
+        "analyzed": "seyyathā api ānanda mahato rukkhassa tiṭṭhato sāravataḥ tacam chetvā pheggum chetvā sāra chedaḥ bhavissati iti ṭhānam etam vijjati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.2_0",
+        "original": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya",
+        "analyzed": "evam eva kho ānanda yaḥ maggaḥ yā paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.2_1",
+        "original": "taṁ maggaṁ taṁ paṭipadaṁ āgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati",
+        "analyzed": "tam maggam tam paṭipadam āgamma pañca orambhāgiyāni sayojanāni ñassati vā dakkhati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.2_2",
+        "original": "vā pajahissati vāti—ṭhānametaṁ vijjati.",
+        "analyzed": "vā pajahissati vā atiṭhānam etam vijjati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.3",
+        "original": "Seyyathāpi, ānanda, gaṅgā nadī pūrā udakassa samatittikā kākapeyyā.",
+        "analyzed": "sā iyyathā api ānanda gaṅgā nadī pūrā udakassa sama tittikā kākapeyyā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.4",
+        "original": "Atha dubbalako puriso āgaccheyya:",
+        "analyzed": "atha dubbalakaḥ purisaḥ āgaccheyya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.5",
+        "original": "‘ahaṁ imissā gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gacchissāmī’ti;",
+        "analyzed": "aham imissā gaṅgāya nadiyā tiriyam bāhāya sotam chetvā sotthinā pāram gacchissāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.6",
+        "original": "so na sakkuṇeyya gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gantuṁ.",
+        "analyzed": "saḥ na gaṅgāya nadiyā tiriyam bāhāya sotam chetvā sotthinā pāram gantu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.7",
+        "original": "Evameva kho, ānanda, yesaṁ kesañci sakkāyanirodhāya dhamme desiyamāne cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati;",
+        "analyzed": "evam eva kho ānanda yesam kesañci sakkāya nirodhāya dhamme desiyamāne cittam na pakkhandati na pasīdati na santiṭṭhati na vimuccati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.8",
+        "original": "seyyathāpi so dubbalako puriso evamete daṭṭhabbā.",
+        "analyzed": "seyyathā api saḥ dubbalakaḥ purisaḥ evam ete daṭṭhabbā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.9",
+        "original": "Seyyathāpi, ānanda, gaṅgā nadī pūrā udakassa samatittikā kākapeyyā.",
+        "analyzed": "sā iyyathā api ānanda gaṅgā nadī pūrā udakassa sama tittikā kākapeyyā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.10",
+        "original": "Atha balavā puriso āgaccheyya:",
+        "analyzed": "atha balavā purisaḥ āgaccheyya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.11",
+        "original": "‘ahaṁ imissā gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gacchissāmī’ti;",
+        "analyzed": "aham imissā gaṅgāya nadiyā tiriyam bāhāya sotam chetvā sotthinā pāram gacchissāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.12",
+        "original": "so sakkuṇeyya gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gantuṁ.",
+        "analyzed": "saḥ sakkuṇeyya gaṅgāya nadiyā tiriyam bāhāya sotam chetvā sotthinā pāram gantu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.13",
+        "original": "Evameva kho, ānanda, yesaṁ kesañci sakkāyanirodhāya dhamme desiyamāne cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati;",
+        "analyzed": "evam eva kho ānanda yesam kesañci sakkāya nirodhāya dhamme desiyamāne cittam pakkhandati pasīdati santiṭṭhati vimuccati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:8.14",
+        "original": "seyyathāpi so balavā puriso evamete daṭṭhabbā.",
+        "analyzed": "seyyathā api saḥ balavā purisaḥ evam ete daṭṭhabbā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.1",
+        "original": "Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya?",
+        "analyzed": "katamaḥ ca ānanda maggo katamā paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.2_0",
+        "original": "Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso kāyaduṭṭhullānaṁ",
+        "analyzed": "idha ānanda bhikkhu upadhi vivekā akusalānaṃ dhammānaṃ pahānā sabbaso ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.2_1",
+        "original": "paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ",
+        "analyzed": "paṭippassaddhiyāḥ vivicca iva kāmehi vivicca akusalehi dhammehi sa vitakkam sa vicāra ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.2_2",
+        "original": "vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "viveka jam pīti sukham paṭhamam jhānam upasampajja viharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.3_0",
+        "original": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ",
+        "analyzed": "saḥ yat eva tattha hoti rūpa gatam vedanā gatam saññā gatam saṅkhāra gatam viññāṇa gatam ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.3_1",
+        "original": "te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato",
+        "analyzed": "te dhamme aniccataḥ dukkhataḥ rogataḥ gaṇḍataḥ sallataḥ aghataḥ ābādhataḥ paratas palokataḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.3_2",
+        "original": "suññato anattato samanupassati.",
+        "analyzed": "suññataḥ anattataḥ samanupassati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.4",
+        "original": "So tehi dhammehi cittaṁ paṭivāpeti.",
+        "analyzed": "saḥ tehi dhammehi cittam paṭivāpeti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.5",
+        "original": "So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati:",
+        "analyzed": "saḥ tehi dhammehi cittam paṭivāpetvā amatāya dhātuyā cittam upasaharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.6",
+        "original": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti.",
+        "analyzed": "etam santam etam paṇītam yat idam sabba saṅkhāra samatho sabba upadhi paṭinissaggo taṇhā kkhayaḥ virāgaḥ nirodhaḥ nibbānam ti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.7",
+        "original": "So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti;",
+        "analyzed": "saḥ tattha ṭhitaḥ āsavānam khayam pāpuṇāti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.8_0",
+        "original": "no ce āsavānaṁ khayaṁ pāpuṇāti teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ",
+        "analyzed": "no ce āsavānam khayam pāpuṇāti tena iva dhamma rāgena tāya dhamma nandiyā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.8_1",
+        "original": "saṁyojanānaṁ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā.",
+        "analyzed": "sayojanānam parikkhayā opapātikaḥ hoti tattha parinibbāyī an āvatti dhammo tasmā lokā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:9.9",
+        "original": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.",
+        "analyzed": "ayam pi kho ānanda maggaḥ ayam paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.1",
+        "original": "Puna caparaṁ, ānanda, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati …pe…",
+        "analyzed": "puna caparaḥ ānanda bhikkhu vitakka vicārānam vūpasamā pe dutiyam jhānam upasampajja viharati pe ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.2",
+        "original": "tatiyaṁ jhānaṁ …pe…",
+        "analyzed": "tatiyam jhānam ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.3",
+        "original": "catutthaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "catuttham jhānam upasampajja viharati ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.4",
+        "original": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …",
+        "analyzed": "so yat eva tattha hoti rūpa gatam vedanā gatam saññā gatam saṅkhāra gatam viññāṇa gatam ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.5",
+        "original": "pe…",
+        "analyzed": "pe ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.6",
+        "original": "anāvattidhammo tasmā lokā.",
+        "analyzed": "an āvatti dhammaḥ tasmā lokā ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:10-12.7",
+        "original": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.",
+        "analyzed": "ayam pi kho ānanda maggaḥ ayam paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "10-12"
+    },
+    {
+        "segmentnr": "PA_mn_64:13.1",
+        "original": "Puna caparaṁ, ānanda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati.",
+        "analyzed": "puna caparaḥ ānanda bhikkhu sabbaso rūpa saññānam samatikkamā paṭigha saññānam atthaṅgamā nānatta saññānam amanasikārā anantaḥ ākāsaḥ iti ākāsānañcāyatanam upasampajja viharati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_64:13.2",
+        "original": "So yadeva tattha hoti vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …",
+        "analyzed": "so yat eva tattha hoti vedanā gatam saññā gatam saṅkhāra gatam viññāṇa gatam ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_64:13.3",
+        "original": "pe…",
+        "analyzed": "pe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_64:13.4",
+        "original": "anāvattidhammo tasmā lokā.",
+        "analyzed": "an āvatti dhammaḥ tasmā lokā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_64:13.5",
+        "original": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.",
+        "analyzed": "ayam pi kho ānanda maggaḥ ayam paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_64:14.1",
+        "original": "Puna caparaṁ, ānanda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati.",
+        "analyzed": "puna caparaḥ ānanda bhikkhu sabbaso ākāsānañcāyatanam samatikkamma anantam viññāṇanti viññāṇañcāyatanam upasampajja viharati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_64:14.2",
+        "original": "So yadeva tattha hoti vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …",
+        "analyzed": "so yat eva tattha hoti vedanā gatam saññā gatam saṅkhāra gatam viññāṇa gatam ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_64:14.3",
+        "original": "pe…",
+        "analyzed": "pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_64:14.4",
+        "original": "anāvattidhammo tasmā lokā.",
+        "analyzed": "an āvatti dhammaḥ tasmā lokā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_64:14.5",
+        "original": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.",
+        "analyzed": "ayam pi kho ānanda maggaḥ ayam paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_64:15.1",
+        "original": "Puna caparaṁ, ānanda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati.",
+        "analyzed": "puna caparaḥ ānanda bhikkhu sabbasas viññāṇañca āyatanam samatikkamma na atthi kiñci iti ākiñcaññāyatanam upasampajja viharati ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_64:15.2",
+        "original": "So yadeva tattha hoti vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …",
+        "analyzed": "so yat eva tattha hoti vedanā gatam saññā gatam saṅkhāra gatam viññāṇa gatam ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_64:15.3",
+        "original": "pe…",
+        "analyzed": "pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_64:15.4",
+        "original": "anāvattidhammo tasmā lokā.",
+        "analyzed": "an āvatti dhammaḥ tasmā lokā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_64:15.5",
+        "original": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāyā”ti.",
+        "analyzed": "ayam pi kho ānanda maggaḥ ayam paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya ati ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_64:16.1",
+        "original": "“Eso ce, bhante, maggo esā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya, atha kiñcarahi idhekacce bhikkhū cetovimuttino ekacce bhikkhū paññāvimuttino”ti?",
+        "analyzed": "eso ce bhante maggaḥ esā paṭipadā pañcannam orambhāgiyānam sayojanānam pahānāya atha kiñcarahi idha ekacce bhikkhū cetaḥ vimuttinaḥ ekacce bhikkhū paññā vimuttinaḥ ti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_64:16.2",
+        "original": "“Ettha kho panesāhaṁ, ānanda, indriyavemattataṁ vadāmī”ti.",
+        "analyzed": "ettha khalu pana isā aha ānandaḥ indriya vemattatam vadāmi iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_64:16.3",
+        "original": "Idamavoca bhagavā.",
+        "analyzed": "idam avoca bhagavān ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_64:16.4",
+        "original": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti.",
+        "analyzed": "āyasmai ānandaḥ bhagavataḥ bhāsitam abhinandi iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_64:16.5",
+        "original": "Mahāmālukyasuttaṁ niṭṭhitaṁ catutthaṁ.",
+        "analyzed": "mahāmālukyasuttam niṭṭhitam catuttha ",
+        "folio": "16"
+    }
+]

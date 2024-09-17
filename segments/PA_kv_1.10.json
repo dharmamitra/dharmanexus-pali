@@ -1,0 +1,944 @@
+[
+    {
+        "segmentnr": "PA_kv_1.10:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:0.3",
+        "original": "Paṭhamavagga",
+        "analyzed": "paṭhama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:0.4",
+        "original": "Hevatthikathā",
+        "analyzed": "hevatthi kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.1",
+        "original": "Atītaṁ atthīti?",
+        "analyzed": "atītam atthi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.2",
+        "original": "Hevatthi, heva natthīti.",
+        "analyzed": "heva atthi heva natthi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.3",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.5",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.7",
+        "original": "Atthaṭṭho natthaṭṭho, natthaṭṭho atthaṭṭho, atthibhāvo natthibhāvo, natthibhāvo atthibhāvo, atthīti vā natthīti vā, natthīti vā atthīti vā esese ekaṭṭhe same samabhāge tajjāteti?",
+        "analyzed": "attha ṭṭhaḥ nattha ṭṭhaḥ nattha ṭṭhaḥ attha ṭṭhaḥ atthi bhāvaḥ natthi bhāvaḥ natthi bhāvaḥ atthi bhāvaḥ atthi iti vā natthi iti vā natthi iti vā atthi iti vā esese ekaṭṭhe same sama bhāge tad jātā iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:1.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.1",
+        "original": "Anāgataṁ atthīti?",
+        "analyzed": "anāgatam atthi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.2",
+        "original": "Hevatthi, heva natthīti.",
+        "analyzed": "heva atthi heva natthi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.3",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.5",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.7",
+        "original": "Atthaṭṭho natthaṭṭho, natthaṭṭho atthaṭṭho, atthibhāvo natthibhāvo, natthibhāvo atthibhāvo, atthīti vā natthīti vā, natthīti vā atthīti vā esese ekaṭṭhe same samabhāge tajjāteti?",
+        "analyzed": "attha ṭṭhaḥ nattha ṭṭhaḥ nattha ṭṭhaḥ attha ṭṭhaḥ atthi bhāvaḥ natthi bhāvaḥ natthi bhāvaḥ atthi bhāvaḥ atthi iti vā natthi iti vā natthi iti vā atthi iti vā esese ekaṭṭhe same sama bhāge tad jātā iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:2.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.1",
+        "original": "Paccuppannaṁ atthīti?",
+        "analyzed": "paccuppannam atthi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.2",
+        "original": "Hevatthi, heva natthīti.",
+        "analyzed": "heva atthi heva natthi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.3",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.5",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.7",
+        "original": "Atthaṭṭho natthaṭṭho …pe…",
+        "analyzed": "attha ṭhaḥ nattha ṭhaḥ pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.8",
+        "original": "same samabhāge tajjāteti?",
+        "analyzed": "same sama bhāge tad jātā iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:3.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.1",
+        "original": "Atītaṁ hevatthi, heva natthīti?",
+        "analyzed": "atītam heva atthi heva natthi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.3",
+        "original": "Kintatthi, kinti natthīti?",
+        "analyzed": "kintatthi kinti natthi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.4",
+        "original": "Atītaṁ atītanti hevatthi, atītaṁ anāgatanti heva natthi, atītaṁ paccuppannanti heva natthīti.",
+        "analyzed": "atītam atītanti heva atthi atītam anāgatanti heva natthi atītam paccuppannanti heva natthi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.5",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.7",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.9",
+        "original": "Atthaṭṭho natthaṭṭho, natthaṭṭho atthaṭṭho, atthibhāvo natthibhāvo, natthibhāvo atthibhāvo, atthīti vā natthīti vā, natthīti vā atthīti vā esese ekaṭṭhe same samabhāge tajjāteti?",
+        "analyzed": "attha ṭṭhaḥ nattha ṭṭhaḥ nattha ṭṭhaḥ attha ṭṭhaḥ atthi bhāvaḥ natthi bhāvaḥ natthi bhāvaḥ atthi bhāvaḥ atthi iti vā natthi iti vā natthi iti vā atthi iti vā esese ekaṭṭhe same sama bhāge tad jātā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:4.10",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.1",
+        "original": "Anāgataṁ hevatthi, heva natthīti?",
+        "analyzed": "anāgatam heva atthi heva natthi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.3",
+        "original": "Kintatthi, kinti natthīti?",
+        "analyzed": "kintatthi kinti natthi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.4",
+        "original": "Anāgataṁ anāgatanti hevatthi, anāgataṁ atītanti heva natthi, anāgataṁ paccuppannanti heva natthīti.",
+        "analyzed": "anāgatam anāgatanti heva atthi anāgatam atītanti heva natthi anāgatam paccuppannanti heva natthi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.5",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.7",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.9",
+        "original": "Atthaṭṭho natthaṭṭho, natthaṭṭho atthaṭṭho …pe…",
+        "analyzed": "attha ṭṭhaḥ nattha ṭṭhaḥ nattha ṭṭhaḥ attha ṭṭhaḥ pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.10",
+        "original": "same samabhāge tajjāteti?",
+        "analyzed": "same sama bhāge tad jātā iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:5.11",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.1",
+        "original": "Paccuppannaṁ hevatthi, heva natthīti?",
+        "analyzed": "paccuppannam heva atthi heva natthi iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.3",
+        "original": "Kintatthi, kinti natthīti?",
+        "analyzed": "kintatthi kinti natthi iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.4",
+        "original": "Paccuppannaṁ paccuppannanti hevatthi, paccuppannaṁ atītanti heva natthi, paccuppannaṁ anāgatanti heva natthīti.",
+        "analyzed": "paccuppannam paccuppannanti heva atthi paccuppannam atītanti heva natthi paccuppannam anāgatanti heva natthi iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.5",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.7",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.9",
+        "original": "Atthaṭṭho natthaṭṭho …pe…",
+        "analyzed": "attha ṭhaḥ nattha ṭhaḥ pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.10",
+        "original": "same samabhāge tajjāteti?",
+        "analyzed": "same sama bhāge tad jātā iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:6.11",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.2",
+        "original": "“atītaṁ hevatthi, heva natthi;",
+        "analyzed": "atītam heva atthi heva natthi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.3",
+        "original": "anāgataṁ hevatthi, heva natthi;",
+        "analyzed": "anāgatam heva atthi heva natthi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.4",
+        "original": "paccuppannaṁ hevatthi, heva natthī”ti?",
+        "analyzed": "paccuppannam heva atthi heva natthi iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.6_0",
+        "original": "Atītaṁ anāgatanti hevatthi, atītaṁ paccuppannanti hevatthi, anāgataṁ atītanti hevatthi,",
+        "analyzed": "atītam anāgatanti hevatthi atītam paccuppannanti hevatthi anāgatam atītanti hevatthi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.6_1",
+        "original": "anāgataṁ paccuppannanti hevatthi, paccuppannaṁ atītanti hevatthi, paccuppannaṁ anāgatanti hevatthīti?",
+        "analyzed": "anāgatam paccuppannanti hevatthi paccuppannam atītanti hevatthi paccuppannam anāgatanti hevatthi iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.7",
+        "original": "Na hevaṁ vattabbe.",
+        "analyzed": "na ha ivam vattabbe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.8",
+        "original": "…pe….",
+        "analyzed": "pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:7.9",
+        "original": "Tena hi atītaṁ hevatthi heva natthi, anāgataṁ hevatthi heva natthi, paccuppannaṁ hevatthi, heva natthīti.",
+        "analyzed": "tena hi atītam hevatthi heva natthi anāgatam hevatthi heva natthi paccuppannam hevatthi heva natthi iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.1",
+        "original": "Rūpaṁ atthīti?",
+        "analyzed": "rūpam atthi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.2",
+        "original": "Hevatthi, heva natthīti.",
+        "analyzed": "heva atthi heva natthi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.3",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.5",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.7",
+        "original": "Atthaṭṭho natthaṭṭho, natthaṭṭho atthaṭṭho, atthibhāvo natthibhāvo, natthibhāvo atthibhāvo, atthīti vā natthīti vā, natthīti vā atthīti vā esese ekaṭṭhe same samabhāge tajjāteti?",
+        "analyzed": "attha ṭṭhaḥ nattha ṭṭhaḥ nattha ṭṭhaḥ attha ṭṭhaḥ atthi bhāvaḥ natthi bhāvaḥ natthi bhāvaḥ atthi bhāvaḥ atthi iti vā natthi iti vā natthi iti vā atthi iti vā esese ekaṭṭhe same sama bhāge tad jātā iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:8.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.1",
+        "original": "Vedanā …",
+        "analyzed": "vedanā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.2",
+        "original": "saññā …",
+        "analyzed": "saññā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.3",
+        "original": "saṅkhārā …",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.4",
+        "original": "viññāṇaṁ atthīti?",
+        "analyzed": "viññāṇam atthi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.5",
+        "original": "Hevatthi, heva natthīti.",
+        "analyzed": "heva atthi heva natthi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.6",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.7",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.8",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.9",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.10",
+        "original": "Atthaṭṭho natthaṭṭho …pe…",
+        "analyzed": "attha ṭhaḥ nattha ṭhaḥ pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.11",
+        "original": "same samabhāge tajjāteti?",
+        "analyzed": "same sama bhāge tad jātā iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:9.12",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.1",
+        "original": "Rūpaṁ hevatthi, heva natthīti?",
+        "analyzed": "rūpam heva atthi heva natthi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.3",
+        "original": "Kintatthi, kinti natthīti?",
+        "analyzed": "kintatthi kinti natthi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.4",
+        "original": "Rūpaṁ rūpanti hevatthi, rūpaṁ vedanāti heva natthi …pe…",
+        "analyzed": "rūpam rūpanti heva atthi rūpam vedanā ati heva natthi pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.5",
+        "original": "rūpaṁ saññāti heva natthi …pe…",
+        "analyzed": "rūpam saññā ati ha iva natthi pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.6",
+        "original": "rūpaṁ saṅkhārāti heva natthi …pe…",
+        "analyzed": "rūpam saṅkhārā ati ha iva natthi pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.7",
+        "original": "rūpaṁ viññāṇanti heva natthīti.",
+        "analyzed": "rūpam viññāṇanti ha iva natthi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.8",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.9",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.10",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.11",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.12",
+        "original": "Atthaṭṭho natthaṭṭho …pe…",
+        "analyzed": "attha ṭhaḥ nattha ṭhaḥ pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.13",
+        "original": "same samabhāge tajjāteti?",
+        "analyzed": "same sama bhāge tad jātā iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:10.14",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.1",
+        "original": "Vedanā …",
+        "analyzed": "vedanā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.2",
+        "original": "saññā …",
+        "analyzed": "saññā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.3",
+        "original": "saṅkhārā …",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.4",
+        "original": "viññāṇaṁ hevatthi, heva natthīti?",
+        "analyzed": "viññāṇam heva atthi heva natthi iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.6",
+        "original": "Kintatthi, kinti natthīti?",
+        "analyzed": "kintatthi kinti natthi iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.7",
+        "original": "Viññāṇaṁ viññāṇanti hevatthi.",
+        "analyzed": "viññāṇam viññāṇanti ha iva atthi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.8",
+        "original": "Viññāṇaṁ rūpanti heva natthi …pe…",
+        "analyzed": "viññāṇam rūpan ti ha iva natthi pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.9",
+        "original": "viññāṇaṁ vedanāti heva natthi …pe…",
+        "analyzed": "viññāṇam vedanā ati ha iva natthi pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.10",
+        "original": "viññāṇaṁ saññāti heva natthi …pe…",
+        "analyzed": "viññāṇam saññā ati ha iva natthi pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.11",
+        "original": "viññāṇaṁ saṅkhārāti heva natthīti.",
+        "analyzed": "viññāṇam saṅkhārā ati ha iva na atthi iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.12",
+        "original": "Sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.13",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.14",
+        "original": "sevatthi, seva natthīti?",
+        "analyzed": "seva atthi seva na atthi iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.15",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.16",
+        "original": "Atthaṭṭho natthaṭṭho …pe…",
+        "analyzed": "attha ṭhaḥ nattha ṭhaḥ pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.17",
+        "original": "same samabhāge tajjāteti?",
+        "analyzed": "same sama bhāge tad jātā iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:11.18",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.2",
+        "original": "“rūpaṁ hevatthi, heva natthīti;",
+        "analyzed": "rūpam heva atthi heva natthi iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.3",
+        "original": "vedanā …",
+        "analyzed": "vedanā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.4",
+        "original": "saññā …",
+        "analyzed": "saññā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.5",
+        "original": "saṅkhārā …",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.6",
+        "original": "viññāṇaṁ hevatthi, heva natthīti?",
+        "analyzed": "viññāṇam heva atthi heva natthi iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.7",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.8",
+        "original": "Rūpaṁ vedanāti hevatthi …pe…",
+        "analyzed": "rūpam vedanā ati hevatthi pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.9",
+        "original": "rūpaṁ saññāti hevatthi …pe…",
+        "analyzed": "rūpam saññā ati hevatthi pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.10",
+        "original": "rūpaṁ saṅkhārāti hevatthi …pe…",
+        "analyzed": "rūpam saṅkhārā ti hevatthi pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.11",
+        "original": "rūpaṁ viññāṇanti hevatthi …",
+        "analyzed": "rūpam viññāṇanti heva atthi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.12",
+        "original": "vedanā …",
+        "analyzed": "vedanā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.13",
+        "original": "saññā …",
+        "analyzed": "saññā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.14",
+        "original": "saṅkhārā …",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.15",
+        "original": "viññāṇaṁ rūpanti hevatthi …",
+        "analyzed": "viññāṇam rūpanti heva atthi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.16",
+        "original": "viññāṇaṁ vedanāti hevatthi …",
+        "analyzed": "viññāṇam vedanā ti ha iva atthi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.17",
+        "original": "viññāṇaṁ saññāti hevatthi …",
+        "analyzed": "viññāṇam saññā ti ha iva atthi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.18",
+        "original": "viññāṇaṁ saṅkhārāti hevatthīti?",
+        "analyzed": "viññāṇam saṅkhārā ati heva atthi iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.19",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.20",
+        "original": "tena hi rūpaṁ hevatthi, heva natthi;",
+        "analyzed": "tena hi rūpam heva atthi heva natthi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.21",
+        "original": "vedanā …",
+        "analyzed": "vedanā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.22",
+        "original": "saññā …",
+        "analyzed": "saññā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.23",
+        "original": "saṅkhārā …",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.24",
+        "original": "viññāṇaṁ hevatthi, heva natthīti.",
+        "analyzed": "viññāṇam heva atthi heva natthi iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.25",
+        "original": "Hevatthikathā niṭṭhitā.",
+        "analyzed": "hevatthi kathā niṭṭhitā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:12.26",
+        "original": "Tassuddānaṁ",
+        "analyzed": "tassa uddāna ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.1",
+        "original": "Upalabbho parihāni,",
+        "analyzed": "upalabbhaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.2",
+        "original": "Brahmacariyavāso odhiso;",
+        "analyzed": "brahmacariya vāsaḥ odhisaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.3",
+        "original": "Pariññā kāmarāgappahānaṁ,",
+        "analyzed": "pariññā kāma rāga ppahāna ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.4",
+        "original": "Sabbatthivādo āyatanaṁ;",
+        "analyzed": "sabbatthi vādaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.5",
+        "original": "Atītānāgato subhaṅgo,",
+        "analyzed": "atīta anāgataḥ su bhaṅgaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.6",
+        "original": "Sabbe dhammā satipaṭṭhānā;",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.7",
+        "original": "Hevatthi heva natthīti.",
+        "analyzed": "heva atthi heva natthi iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.10:13.8",
+        "original": "Mahāvaggo.",
+        "analyzed": "mahāvaggo ",
+        "folio": "13"
+    }
+]

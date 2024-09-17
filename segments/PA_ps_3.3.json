@@ -1,0 +1,668 @@
+[
+    {
+        "segmentnr": "PA_ps_3.3:0.1",
+        "original": "Paṭisambhidāmagga",
+        "analyzed": "paṭisambhidā magga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:0.2",
+        "original": "3 Paññāvagga",
+        "analyzed": "paññāvagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:0.3",
+        "original": "3.3. Abhisamayakathā",
+        "analyzed": "abhisamaya kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:1.1",
+        "original": "Abhisamayoti.",
+        "analyzed": "abhisamaya iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:1.2",
+        "original": "Kena abhisameti?",
+        "analyzed": "kena abhisameti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:1.3",
+        "original": "Cittena abhisameti.",
+        "analyzed": "cittena abhisameti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:2.1",
+        "original": "Hañci cittena abhisameti, tena hi aññāṇī abhisameti?",
+        "analyzed": "hañci cittena abhisameti tena hi aññāṇī abhisameti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:2.2",
+        "original": "Na aññāṇī abhisameti.",
+        "analyzed": "na aññāṇī abhisameti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:2.3",
+        "original": "Ñāṇena abhisameti.",
+        "analyzed": "ñāṇena abhisameti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:3.1",
+        "original": "Hañci ñāṇena abhisameti, tena hi acittena ca ñāṇena ca acittako abhisameti?",
+        "analyzed": "hañci ñāṇena abhisameti tena hi acittena ca ñāṇena ca acittakaḥ abhisameti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:3.2",
+        "original": "Na acittako abhisameti.",
+        "analyzed": "na acittakaḥ abhisameti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:3.3",
+        "original": "Cittena ca ñāṇena ca abhisameti.",
+        "analyzed": "cittena ca ñāṇena ca abhisameti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:4.1",
+        "original": "Hañci cittena ca ñāṇena ca abhisameti, tena hi kāmāvacaracittena ca ñāṇena ca abhisameti?",
+        "analyzed": "hañci cittena ca ñāṇena ca abhisameti tena hi kāmāvacara cittena ca ñāṇena ca abhisameti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:4.2",
+        "original": "Na kāmāvacaracittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na kāmāvacara cittena ca ñāṇena ca abhisameti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:5.1",
+        "original": "Tena hi rūpāvacaracittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi rūpāvacara cittena ca ñāṇena ca abhisameti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:5.2",
+        "original": "Na rūpāvacaracittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na rūpāvacara cittena ca ñāṇena ca abhisameti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:6.1",
+        "original": "Tena hi arūpāvacaracittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi arūpāvacara cittena ca ñāṇena ca abhisameti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:6.2",
+        "original": "Na arūpāvacaracittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na arūpāvacara cittena ca ñāṇena ca abhisameti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:7.1",
+        "original": "Tena hi kammassakatacittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi kammassakata cittena ca ñāṇena ca abhisameti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:7.2",
+        "original": "Na kammassakatacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na kammassakata cittena ca ñāṇena ca abhisameti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:8.1",
+        "original": "Tena hi saccānulomikacittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi sacca ānulomika cittena ca ñāṇena ca abhisameti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:8.2",
+        "original": "Na saccānulomikacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na sacca ānulomika cittena ca ñāṇena ca abhisameti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:9.1",
+        "original": "Tena hi atītacittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi atīta cittena ca ñāṇena ca abhisameti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:9.2",
+        "original": "Na atītacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na atīta cittena ca ñāṇena ca abhisameti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:10.1",
+        "original": "Tena hi anāgatacittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi anāgata cittena ca ñāṇena ca abhisameti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:10.2",
+        "original": "Na anāgatacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na anāgata cittena ca ñāṇena ca abhisameti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:11.1",
+        "original": "Tena hi paccuppannalokiyacittena ca ñāṇena ca abhisameti?",
+        "analyzed": "tena hi paccuppanna lokiya cittena ca ñāṇena ca abhisameti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:11.2",
+        "original": "Na paccuppannalokiyacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "na paccuppanna lokiya cittena ca ñāṇena ca abhisameti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:11.3",
+        "original": "Lokuttaramaggakkhaṇe paccuppannacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "lokuttara magga kkhaṇe paccuppanna cittena ca ñāṇena ca abhisameti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:12.1",
+        "original": "Kathaṁ lokuttaramaggakkhaṇe paccuppannacittena ca ñāṇena ca abhisameti?",
+        "analyzed": "katham lokuttara magga kkhaṇe paccuppanna cittena ca ñāṇena ca abhisameti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:12.2_0",
+        "original": "Lokuttaramaggakkhaṇe uppādādhipateyyaṁ cittaṁ ñāṇassa hetu paccayo ca taṁsampayuttaṁ",
+        "analyzed": "lokuttara magga kkhaṇe uppāda ādhipateyyam cittam ñāṇassa hetu paccayo ca ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:12.2_1",
+        "original": "nirodhagocaraṁ dassanādhipateyyaṁ ñāṇaṁ cittassa hetu paccayo ca taṁsampayuttaṁ ñāṇaṁ nirodhagocaraṁ.",
+        "analyzed": "nirodha gocaram dassana ādhipateyyam ñāṇam cittassa hetu paccayo ca ta sampayuttam ñāṇam nirodha gocara ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:12.3",
+        "original": "Evaṁ lokuttaramaggakkhaṇe paccuppannacittena ca ñāṇena ca abhisameti.",
+        "analyzed": "evam lokuttara magga kkhaṇe paccuppanna cittena ca ñāṇena ca abhisameti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.1",
+        "original": "Kiṁ nu ettakoyeva abhisamayoti?",
+        "analyzed": "kim nu ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.2",
+        "original": "Na hi.",
+        "analyzed": "na hi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.3_0",
+        "original": "Lokuttaramaggakkhaṇe dassanābhisamayo sammādiṭṭhi, abhiniropanābhisamayo sammāsaṅkappo,",
+        "analyzed": "lokuttara magga kkhaṇe dassana abhisamayo sammādiṭṭhi abhiniropana abhisamayo sammāsaṅkappo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.3_1",
+        "original": "pariggahābhisamayo sammāvācā, samuṭṭhānābhisamayo sammākammanto, vodānābhisamayo",
+        "analyzed": "pariggaha abhisamayo sammā vācā samuṭṭhāna abhisamayo sammā kammantaḥ vodāna abhisamayo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.3_2",
+        "original": "sammāājīvo, paggahābhisamayo sammāvāyāmo, upaṭṭhānābhisamayo sammāsati, avikkhepābhisamayo sammāsamādhi;",
+        "analyzed": "sammāājīvaḥ paggaha abhisamayo sammāvāyāmaḥ upaṭṭhāna abhisamayo sammā sati avikkhepa abhisamayo sammā samādhi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.4_0",
+        "original": "upaṭṭhānābhisamayo satisambojjhaṅgo, pavicayābhisamayo dhammavicayasambojjhaṅgo,",
+        "analyzed": "upaṭṭhāna abhisamayo sati sambojjhaṅgo pavicaya abhisamayo dhamma vicaya sambojjhaṅgo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.4_1",
+        "original": "paggahābhisamayo vīriyasambojjhaṅgo, pharaṇābhisamayo pītisambojjhaṅgo, upasamābhisamayo",
+        "analyzed": "paggaha abhisamayaḥ vīriya sambojjhaṅgo pharaṇa abhisamayaḥ pīti sambojjhaṅgaḥ upasama abhisamayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.4_2",
+        "original": "passaddhisambojjhaṅgo, avikkhepābhisamayo samādhisambojjhaṅgo, paṭisaṅkhānābhisamayo",
+        "analyzed": "passaddhi sambojjhaṅgaḥ avikkhepa abhisamayaḥ samādhi sambojjhaṅgaḥ paṭisaṅkhāna abhisamayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.4_3",
+        "original": "upekkhāsambojjhaṅgo;",
+        "analyzed": "upekkhā sambojjhaṅgo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.5_0",
+        "original": "assaddhiye akampiyābhisamayo saddhābalaṁ, kosajje akampiyābhisamayo vīriyabalaṁ,",
+        "analyzed": "akampiya abhisamayaḥ saddhā bala kosajje akampiya abhisamayaḥ vīriya bala ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.5_1",
+        "original": "pamāde akampiyābhisamayo satibalaṁ, uddhacce akampiyābhisamayo samādhibalaṁ, avijjāya",
+        "analyzed": "pamāde akampiya abhisamayaḥ sati bala uddhacce akampiya abhisamayaḥ samādhi bala avijjāya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.5_2",
+        "original": "akampiyābhisamayo paññābalaṁ;",
+        "analyzed": "akampiya abhisamayo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.6",
+        "original": "adhimokkhābhisamayo saddhindriyaṁ, paggahābhisamayo vīriyindriyaṁ, upaṭṭhānābhisamayo satindriyaṁ, avikkhepābhisamayo samādhindriyaṁ, dassanābhisamayo paññindriyaṁ.",
+        "analyzed": "adhimokkha abhisamayo saddhi indriya paggaha abhisamayaḥ vīriya indriya upaṭṭhāna abhisamayo sati indriya avikkhepa abhisamayo samādhi indriya dassana abhisamayo paññindriya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_0",
+        "original": "Ādhipateyyaṭṭhena indriyābhisamayo, akampiyaṭṭhena balābhisamayo, niyyānaṭṭhena bojjhaṅgābhisamayo,",
+        "analyzed": "ādhipateyya ṭṭhena indriya abhisamayaḥ akampiya ṭṭhena bala abhisamayaḥ niyyāna ṭṭhena bojjhaṅga abhisamayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_1",
+        "original": "hetuṭṭhena maggābhisamayo, upaṭṭhānaṭṭhena satipaṭṭhānābhisamayo, padahaṭṭhena sammappadhānābhisamayo,",
+        "analyzed": "hetu ṭṭhena magga abhisamayaḥ upaṭṭhāna ṭṭhena sati paṭṭhāna abhisamayaḥ padaha ṭṭhena sammappadhāna abhisamayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_2",
+        "original": "ijjhanaṭṭhena iddhipādābhisamayo, tathaṭṭhena saccābhisamayo, avikkhepaṭṭhena samathābhisamayo,",
+        "analyzed": "ijjhana ṭhena iddhipāda abhisamayo tatha ṭhena sacca abhisamayo avikkhepa ṭhena samatha abhisamayo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_3",
+        "original": "anupassanaṭṭhena vipassanābhisamayo, ekarasaṭṭhena samathavipassanābhisamayo, anativattanaṭṭhena",
+        "analyzed": "anupassana ṭhena vipassanā abhisamayaḥ ekarasa ṭhena samatha vipassanā abhisamayaḥ an ativattana ṭhena ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_4",
+        "original": "yuganaddhābhisamayo, saṁvaraṭṭhena sīlavisuddhiabhisamayo, avikkhepaṭṭhena visuddhiabhisamayo,",
+        "analyzed": "yuga naddha abhisamayo savara ṭṭhena sīla visuddhi abhisamayo avikkhepa ṭṭhena visuddhi abhisamayo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_5",
+        "original": "dassanaṭṭhena diṭṭhivisuddhiabhisamayo, muttaṭṭhena vimokkhābhisamayo, paṭivedhaṭṭhena",
+        "analyzed": "dassana ṭṭhena diṭṭhi visuddhi abhisamayaḥ mutta ṭṭhena vimokkha abhisamayaḥ paṭivedha ṭṭhena ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.7_6",
+        "original": "vijjābhisamayo, pariccāgaṭṭhena vimuttiabhisamayo, samucchedaṭṭhena khaye ñāṇaṁ abhisamayo.",
+        "analyzed": "vijjā abhisamayo pariccāga ṭṭhena vimutti abhisamayo samuccheda ṭṭhena khaye ñāṇam abhisamayo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.8_0",
+        "original": "Chando mūlaṭṭhena abhisamayo, manasikāro samuṭṭhānaṭṭhena abhisamayo, phasso samodhānaṭṭhena",
+        "analyzed": "chandaḥ mūla ṭṭhena abhisamayaḥ manasikāro samuṭṭhāna ṭṭhena abhisamayaḥ phasso samodhāna ṭṭhena ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.8_1",
+        "original": "abhisamayo, vedanā samosaraṇaṭṭhena abhisamayo, samādhi pamukhaṭṭhena abhisamayo,",
+        "analyzed": "abhisamayo vedanā samosaraṇa ṭhena abhisamayo samādhi pamukha ṭṭhena abhisamayo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.8_2",
+        "original": "sati ādhipateyyaṭṭhena abhisamayo, paññā taduttaraṭṭhena abhisamayo, vimutti sāraṭṭhena",
+        "analyzed": "sati ādhipateyya ṭṭhena abhisamayaḥ paññā tad uttara ṭṭhena abhisamayaḥ vimutti sāra ṭṭhena ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:13.8_3",
+        "original": "abhisamayo, amatogadhaṁ nibbānaṁ pariyosānaṭṭhena abhisamayo.",
+        "analyzed": "abhisamayaḥ amatogadham nibbānam pariyosāna ṭṭhena abhisamayaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:14.1",
+        "original": "Kiṁ nu ettakoyeva abhisamayoti?",
+        "analyzed": "kim nu ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:14.2",
+        "original": "Na hi.",
+        "analyzed": "na hi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:14.3",
+        "original": "Sotāpattimaggakkhaṇe dassanābhisamayo sammādiṭṭhi …pe…",
+        "analyzed": "sotāpatti magga kkhaṇe dassana abhisamayaḥ sammādiṭṭhi pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:14.4",
+        "original": "amatogadhaṁ nibbānaṁ pariyosānaṭṭhena abhisamayo.",
+        "analyzed": "amatogadham nibbānam pariyosāna ṭṭhena abhisamayaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:15.1",
+        "original": "Kiṁ nu ettakoyeva abhisamayoti?",
+        "analyzed": "kim nu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:15.2",
+        "original": "Na hi.",
+        "analyzed": "na hi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:15.3",
+        "original": "Sotāpattiphalakkhaṇe dassanābhisamayo sammādiṭṭhi …pe…",
+        "analyzed": "sotāpatti phala khaṇe dassana abhisamayaḥ sammādiṭṭhi pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:15.4",
+        "original": "paṭippassaddhaṭṭhena anuppāde ñāṇaṁ abhisamayo.",
+        "analyzed": "paṭippassaddha ṭṭhena anuppāde ñāṇam abhisamayaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:15.5",
+        "original": "Chando mūlaṭṭhena abhisamayo …pe…",
+        "analyzed": "chandaḥ mūlaṭṭhena abhisamayaḥ pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:15.6",
+        "original": "amatogadhaṁ nibbānaṁ pariyosānaṭṭhena abhisamayo.",
+        "analyzed": "amatogadham nibbānam pariyosāna ṭṭhena abhisamayaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.1",
+        "original": "Kiṁ nu ettakoyeva abhisamayoti?",
+        "analyzed": "kim nu ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.2",
+        "original": "Na hi.",
+        "analyzed": "na hi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.3",
+        "original": "Sakadāgāmimaggakkhaṇe …pe…",
+        "analyzed": "sakadāgāmi magga kkhaṇe pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.4",
+        "original": "sakadāgāmiphalakkhaṇe …",
+        "analyzed": "sakadāgāmi pha lakkhaṇe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.5",
+        "original": "anāgāmimaggakkhaṇe …",
+        "analyzed": "anāgāmi magga kkhaṇe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.6",
+        "original": "anāgāmiphalakkhaṇe …",
+        "analyzed": "anāgāmi pha lakkhaṇe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.7",
+        "original": "arahattamaggakkhaṇe …pe…",
+        "analyzed": "arahatta magga kkhaṇe pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.8",
+        "original": "arahattaphalakkhaṇe dassanābhisamayo sammādiṭṭhi, abhiniropanābhisamayo sammāsaṅkappo …pe…",
+        "analyzed": "arahatta phala kkhaṇe dassana abhisamayo sammādiṭṭhi abhiniropana abhisamayo sammāsaṅkappo pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.9",
+        "original": "paṭippassaddhaṭṭhena anuppāde ñāṇaṁ abhisamayo.",
+        "analyzed": "paṭippassaddha ṭṭhena anuppāde ñāṇam abhisamayaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.10",
+        "original": "Chando mūlaṭṭhena abhisamayo …pe…",
+        "analyzed": "chandaḥ mūlaṭṭhena abhisamayaḥ pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:16.11",
+        "original": "amatogadhaṁ nibbānaṁ pariyosānaṭṭhena abhisamayo.",
+        "analyzed": "amatogadham nibbānam pariyosāna ṭṭhena abhisamayaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.1",
+        "original": "Yvāyaṁ kilese pajahati, atīte kilese pajahati …pe…",
+        "analyzed": "yvā ayam kilese pajahati atīte kilese pajahati pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.2",
+        "original": "anāgate kilese pajahati, paccuppanne kilese pajahati, atīte kilese pajahatīti.",
+        "analyzed": "anāgate kilese pajahati paccuppanne kilese pajahati atīte kilese pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.3",
+        "original": "Hañci atīte kilese pajahati, tena hi khīṇaṁ khepeti, niruddhaṁ nirodheti, vigataṁ vigameti, atthaṅgataṁ atthaṅgameti, atītaṁ yaṁ na atthi taṁ pajahatīti?",
+        "analyzed": "hañci atīte kilese pajahati tena hi khīṇam khepeti niruddham nirodheti vigatam vigameti atthaṅgatam atthaṅgama iti atītam yam na atthi tam pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.4",
+        "original": "Na atīte kilese pajahatīti.",
+        "analyzed": "na atīte kilese pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.5",
+        "original": "Anāgate kilese pajahatīti.",
+        "analyzed": "anāgate kilese pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.6",
+        "original": "Hañci anāgate kilese pajahati, tena hi ajātaṁ pajahati, anibbattaṁ pajahati, anuppannaṁ pajahati, apātubhūtaṁ pajahati, anāgataṁ yaṁ na atthi taṁ pajahatīti?",
+        "analyzed": "hañci anāgate kilese pajahati tena hi a jātam pajahati anibbattam pajahati anuppannam pajahati a pātubhūtam pajahati anāgatam yam na atthi tam pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.7",
+        "original": "Na anāgate kilese pajahatīti.",
+        "analyzed": "na anāgate kilese pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.8",
+        "original": "Paccuppanne kilese pajahatīti.",
+        "analyzed": "paccuppanne kilese pajahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.9_0",
+        "original": "Hañci paccuppanne kilese pajahati, tena hi ratto rāgaṁ pajahati, duṭṭho dosaṁ pajahati,",
+        "analyzed": "hañci paccuppanne kilese pajahati tena hi rattaḥ rāgam pajahati duṭṭhaḥ dosam pajahati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.9_1",
+        "original": "mūḷho mohaṁ pajahati, vinibaddho mānaṁ pajahati, parāmaṭṭho diṭṭhiṁ pajahati, vikkhepagato",
+        "analyzed": "mūḷhaḥ moham pajahati vinibaddhaḥ mānam pajahati parāmaṭṭhaḥ diṭṭhim pajahati vikkhepa gataḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.9_2",
+        "original": "uddhaccaṁ pajahati, aniṭṭhaṅgato vicikicchaṁ pajahati, thāmagato anusayaṁ pajahati,",
+        "analyzed": "uddhaccam pajahati a niṭṭhaṅgataḥ vicikiccham pajahati thāma gataḥ anusayam pajahati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:17.9_3",
+        "original": "kaṇhasukkadhammā yuganaddhā samameva vattanti, saṅkilesikā maggabhāvanā hoti?",
+        "analyzed": "kaṇha sukka dhammā yuga naddhā samam eva vattanti saṅkilesikā magga bhāvanā hoti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.1",
+        "original": "Na hi atīte kilese pajahati, na anāgate kilese pajahati, na paccuppanne kilese pajahatīti.",
+        "analyzed": "na hi atīte kilese pajahati na anāgate kilese pajahati na paccuppanne kilese pajahati iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.2",
+        "original": "Hañci na atīte kilese pajahati, na anāgate …pe…",
+        "analyzed": "hañci na atīte kilese pajahati na anāgate pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.3",
+        "original": "na paccuppanne kilese pajahati, tena hi natthi maggabhāvanā, natthi phalasacchikiriyā, natthi kilesappahānaṁ, natthi dhammābhisamayoti?",
+        "analyzed": "na paccuppanne kilese pajahati tena hi natthi magga bhāvanā natthi phala sacchikiriyā natthi kilesa ppahāna natthi dhamma abhisamayo ti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.4",
+        "original": "Atthi maggabhāvanā, atthi phalasacchikiriyā, atthi kilesappahānaṁ, atthi dhammābhisamayo.",
+        "analyzed": "atthi magga bhāvanā atthi phala sacchikiriyā atthi kilesa ppahāna atthi dhamma abhisamayo ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.5",
+        "original": "Yathā kathaṁ viya?",
+        "analyzed": "yathā katham ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.6",
+        "original": "Seyyathāpi taruṇo rukkho ajātaphalo.",
+        "analyzed": "seyyathā api taruṇaḥ rukkhaḥ a jāta phalaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.7",
+        "original": "Tamenaṁ puriso mūlaṁ chindeyya.",
+        "analyzed": "tam enam purisaḥ mūlam chindeyya ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.8",
+        "original": "Ye tassa rukkhassa ajātaphalā, te ajātāyeva na jāyanti, anibbattāyeva na nibbattanti, anuppannāyeva na uppajjanti, apātubhūtāyeva na pātubhavanti.",
+        "analyzed": "ye tassa rukkhassa a jāta phalā te a jātāya iva na jāyanti a nibbattāya iva na nibbattanti anuppannāya iva na uppajjanti a pātubhūtāya iva na pātubhavanti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.9",
+        "original": "Evamevaṁ uppādo hetu, uppādo paccayo kilesānaṁ nibbattiyāti.",
+        "analyzed": "evam evam uppādaḥ hetu uppādaḥ paccayaḥ kilesānam nibbattiyā ati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.10",
+        "original": "Uppāde ādīnavaṁ disvā anuppāde cittaṁ pakkhandati.",
+        "analyzed": "uppāde ādīnavam disvā anuppāde cittam pakkhandati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.11_0",
+        "original": "Anuppāde cittassa pakkhandattā ye uppādapaccayā kilesā nibbatteyyuṁ, te ajātāyeva",
+        "analyzed": "anuppāde cittassa pakkhanda ttāḥ ye uppāda paccayā kilesā nibbatteyyu te a jātāya iva ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.11_1",
+        "original": "na jāyanti, anibbattāyeva na nibbattanti, anuppannāyeva na uppajjanti, apātubhūtāyeva na pātubhavanti.",
+        "analyzed": "na jāyanti a nibbattāya iva na nibbattanti anuppannāya iva na uppajjanti apātubhūtāya iva na pātubhavanti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.12",
+        "original": "Evaṁ hetunirodhā dukkhanirodho.",
+        "analyzed": "evam hetu nirodhā dukkha nirodho ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.13",
+        "original": "Pavattaṁ hetu, nimittaṁ hetu, āyūhanā hetu.",
+        "analyzed": "pavattam hetu nimittam hetu āyūhanā hetu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.14",
+        "original": "Āyūhanā paccayo kilesānaṁ nibbattiyāti.",
+        "analyzed": "āyūhanā paccayaḥ kilesānam nibbattiyā ati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.15",
+        "original": "Āyūhane ādīnavaṁ disvā anāyūhane cittaṁ pakkhandati.",
+        "analyzed": "āyūhane ādīnavam disvā an āyūhane cittam pakkhandati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.16_0",
+        "original": "Anāyūhane cittassa pakkhandattā, ye āyūhanapaccayā kilesā nibbatteyyuṁ, te ajātāyeva",
+        "analyzed": "an āyūhane cittassa ye āyūhana paccayā kilesā nibbatteyyu te a jātāya iva ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.16_1",
+        "original": "na jāyanti, anibbattāyeva na nibbattanti, anuppannāyeva na uppajjanti, apātubhūtāyeva na pātubhavanti.",
+        "analyzed": "na jāyanti a nibbattāya iva na nibbattanti anuppannāya iva na uppajjanti apātubhūtāya iva na pātubhavanti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.17",
+        "original": "Evaṁ hetunirodhā dukkhanirodho.",
+        "analyzed": "evam hetu nirodhā dukkha nirodho ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.18",
+        "original": "Evaṁ atthi maggabhāvanā, atthi phalasacchikiriyā, atthi kilesappahānaṁ, atthi dhammābhisamayoti.",
+        "analyzed": "evam atthi magga bhāvanā atthi phala sacchikiriyā atthi kilesa ppahāna atthi dhamma abhisamaya ti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.3:18.19",
+        "original": "Abhisamayakathā niṭṭhitā.",
+        "analyzed": "abhisamaya kathā niṭṭhitā ",
+        "folio": "18"
+    }
+]

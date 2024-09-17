@@ -1,0 +1,614 @@
+[
+    {
+        "segmentnr": "PA_pvr_6:0.1",
+        "original": "Parivāra",
+        "analyzed": "parivāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_6:0.2",
+        "original": "6. Khandhakapucchāvāra",
+        "analyzed": "khandhakapucchāvāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pvr_6:1.1",
+        "original": "Upasampadaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "upasampadam pucchissam sa nidānam sa niddesa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_6:1.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_6:1.3",
+        "original": "Upasampadaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "upasampadam vissajjissam sa nidānam sa niddesa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_6:1.4",
+        "original": "Samukkaṭṭhapadānaṁ dve āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam dve āpattiyaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pvr_6:2.1",
+        "original": "Uposathaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "uposatham pucchissam sa nidānam sa niddesa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_6:2.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_6:2.3",
+        "original": "Uposathaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "uposatham vissajjissam sa nidānam sa niddesa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_6:2.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pvr_6:3.1",
+        "original": "Vassūpanāyikaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "vassūpanāyikam pucchissam sa nidānam sa niddesa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_6:3.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_6:3.3",
+        "original": "Vassūpanāyikaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "vassūpanāyikam vissajjissam sa nidānam sa niddesa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_6:3.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pvr_6:4.1",
+        "original": "Pavāraṇaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "pavāraṇam pucchissam sa nidānam sa niddesa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_6:4.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_6:4.3",
+        "original": "Pavāraṇaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "pavāraṇam vissajjissam sa nidānam sa niddesa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_6:4.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pvr_6:5.1",
+        "original": "Cammasaññuttaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "camma saññuttam pucchissam sa nidānam sa niddesa ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pvr_6:5.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pvr_6:5.3",
+        "original": "Cammasaññuttaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "camma saññuttam vissajjissam sa nidānam sa niddesa ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pvr_6:5.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pvr_6:6.1",
+        "original": "Bhesajjaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "bhesajjam pucchissam sa nidānam sa niddesa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_6:6.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_6:6.3",
+        "original": "Bhesajjaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "bhesajjam vissajjissam sa nidānam sa niddesa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_6:6.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pvr_6:7.1",
+        "original": "Kathinakaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "kathinakam pucchissam sa nidānam sa niddesa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_6:7.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_6:7.3",
+        "original": "Kathinakaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "kathinakam vissajjissam sa nidānam sa niddesa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_6:7.4",
+        "original": "Samukkaṭṭhapadānaṁ natthi tattha āpatti.",
+        "analyzed": "samukkaṭṭha padānam natthi tattha āpatti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pvr_6:8.1",
+        "original": "Cīvarasaññuttaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "cīvara saññuttam pucchissam sa nidānam sa niddesa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_6:8.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_6:8.3",
+        "original": "Cīvarasaññuttaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "cīvara saññuttam vissajjissam sa nidānam sa niddesa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_6:8.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pvr_6:9.1",
+        "original": "Campeyyakaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "campeyyakam pucchissam sa nidānam sa niddesa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_6:9.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_6:9.3",
+        "original": "Campeyyakaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "campeyyakam vissajjissam sa nidānam sa niddesa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_6:9.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pvr_6:10.1",
+        "original": "Kosambakaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "kosambakam pucchissam sa nidānam sa niddesa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_6:10.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_6:10.3",
+        "original": "Kosambakaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "kosambakam vissajjissam sa nidānam sa niddesa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_6:10.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pvr_6:11.1",
+        "original": "Kammakkhandhakaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "kammakkhandhakam pucchissam sa nidānam sa niddesa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_6:11.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_6:11.3",
+        "original": "Kammakkhandhakaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "kammakkhandhakam vissajjissam sa nidānam sa niddesa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_6:11.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_pvr_6:12.1",
+        "original": "Pārivāsikaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "pārivāsikam pucchissam sa nidānam sa niddesa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_6:12.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_6:12.3",
+        "original": "Pārivāsikaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "pārivāsikam vissajjissam sa nidānam sa niddesa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_6:12.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_pvr_6:13.1",
+        "original": "Samuccayaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "samuccayam pucchissam sa nidānam sa niddesa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_6:13.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_6:13.3",
+        "original": "Samuccayaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "samuccayam vissajjissam sa nidānam sa niddesa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_6:13.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_pvr_6:14.1",
+        "original": "Samathaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "samatham pucchissam sa nidānam sa niddesa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_6:14.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_6:14.3",
+        "original": "Samathaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "samatham vissajjissam sa nidānam sa niddesa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_6:14.4",
+        "original": "Samukkaṭṭhapadānaṁ dve āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam dve āpattiyaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_pvr_6:15.1",
+        "original": "Khuddakavatthukaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "khuddaka vatthukam pucchissam sa nidānam sa niddesa ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_6:15.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_6:15.3",
+        "original": "Khuddakavatthukaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "khuddaka vatthukam vissajjissam sa nidānam sa niddesa ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_6:15.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_pvr_6:16.1",
+        "original": "Senāsanaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "senāsanam pucchissam sa nidānam sa niddesa ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_6:16.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_6:16.3",
+        "original": "Senāsanaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "senāsanam vissajjissam sa nidānam sa niddesa ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_6:16.4",
+        "original": "Samukkaṭṭhapadānaṁ tisso āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam tissaḥ āpattiyaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_pvr_6:17.1",
+        "original": "Saṅghabhedaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "saṅgha bhedam pucchissam sa nidānam sa niddesa ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_6:17.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_6:17.3",
+        "original": "Saṅghabhedaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "saṅgha bhedam vissajjissam sa nidānam sa niddesa ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_6:17.4",
+        "original": "Samukkaṭṭhapadānaṁ dve āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam dve āpattiyaḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_pvr_6:18.1",
+        "original": "Samācāraṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "samācāram pucchissam sa nidānam sa niddesa ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_6:18.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_6:18.3",
+        "original": "Samācāraṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "samācāram vissajjissam sa nidānam sa niddesa ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_6:18.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_pvr_6:19.1",
+        "original": "Ṭhapanaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "ṭhapanam pucchissam sa nidānam sa niddesa ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_pvr_6:19.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_pvr_6:19.3",
+        "original": "Ṭhapanaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "ṭhapanam vissajjissam sa nidānam sa niddesa ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_pvr_6:19.4",
+        "original": "Samukkaṭṭhapadānaṁ ekā āpatti.",
+        "analyzed": "samukkaṭṭha padānam ekā āpatti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_pvr_6:20.1",
+        "original": "Bhikkhunikkhandhakaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "bhikkhu nikkhandhakam pucchissam sa nidānam sa niddesa ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_6:20.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_6:20.3",
+        "original": "Bhikkhunikkhandhakaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "bhikkhu nikkhandhakam vissajjissam sa nidānam sa niddesa ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_6:20.4",
+        "original": "Samukkaṭṭhapadānaṁ dve āpattiyo.",
+        "analyzed": "samukkaṭṭha padānam dve āpattiyaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_pvr_6:21.1",
+        "original": "Pañcasatikaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "pañcasatikam pucchissam sa nidānam sa niddesa ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_pvr_6:21.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_pvr_6:21.3",
+        "original": "Pañcasatikaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "pañcasatikam vissajjissam sa nidānam sa niddesa ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_pvr_6:21.4",
+        "original": "Samukkaṭṭhapadānaṁ natthi tattha āpatti.",
+        "analyzed": "samukkaṭṭha padānam natthi tattha āpatti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_pvr_6:22.1",
+        "original": "Sattasatikaṁ pucchissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "sattasatikam pucchissam sa nidānam sa niddesa ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_pvr_6:22.2",
+        "original": "Samukkaṭṭhapadānaṁ kati āpattiyo;",
+        "analyzed": "samukkaṭṭha padānam kati āpattiyaḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_pvr_6:22.3",
+        "original": "Sattasatikaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,",
+        "analyzed": "sattasatikam vissajjissam sa nidānam sa niddesa ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_pvr_6:22.4",
+        "original": "Samukkaṭṭhapadānaṁ natthi tattha āpattīti.",
+        "analyzed": "samukkaṭṭha padānam na atthi tattha āpatti iti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_pvr_6:23.1",
+        "original": "Khandhakapucchāvāro niṭṭhito paṭhamo.",
+        "analyzed": "khandhaka pucchāvāraḥ niṭṭhitaḥ paṭhamo ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_pvr_6:24.1",
+        "original": "Tassuddānaṁ",
+        "analyzed": "tassa uddāna ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_pvr_6:25.1",
+        "original": "Upasampadūposatho,",
+        "analyzed": "upasampad ūposathaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_6:25.2",
+        "original": "Vassūpanāyikapavāraṇā;",
+        "analyzed": "vassūpanāyika pavāraṇā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_6:25.3",
+        "original": "Cammabhesajjakathinā,",
+        "analyzed": "camma bhesajja kathinā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_6:25.4",
+        "original": "Cīvaraṁ campeyyakena ca.",
+        "analyzed": "cīvaram campeyyakena ca ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_pvr_6:26.1",
+        "original": "Kosambakkhandhakaṁ kammaṁ,",
+        "analyzed": "kosambakkhandhakam kamma ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_6:26.2",
+        "original": "Pārivāsisamuccayā;",
+        "analyzed": "pārivāsi samuccayā ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_6:26.3",
+        "original": "Samathakhuddakā senā,",
+        "analyzed": "samathakhuddakā senā ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_6:26.4",
+        "original": "Saṅghabhedaṁ samācāro;",
+        "analyzed": "saṅgha bhedam ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_6:26.5",
+        "original": "Ṭhapanaṁ bhikkhunikkhandhaṁ,",
+        "analyzed": "ṭhapanam bhikkhu nikkhandha ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_pvr_6:26.6",
+        "original": "Pañcasattasatena cāti.",
+        "analyzed": "pañca satta satena ca ati ",
+        "folio": "26"
+    }
+]

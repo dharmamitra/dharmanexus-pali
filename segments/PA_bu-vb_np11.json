@@ -1,0 +1,338 @@
+[
+    {
+        "segmentnr": "PA_bu-vb_np11:0.1",
+        "original": "Theravāda Vinaya",
+        "analyzed": "thera vāda vinaya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:0.2",
+        "original": "Mahāvibhaṅga",
+        "analyzed": "mahāvibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:0.3",
+        "original": "Nissaggiyakaṇḍa",
+        "analyzed": "nissaggiya kaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:0.4",
+        "original": "Kosiyavagga",
+        "analyzed": "kosiya vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:0.5",
+        "original": "11. Kosiyasikkhāpada",
+        "analyzed": "kosiya sikkhāpada ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.1",
+        "original": "Tena samayena buddho bhagavā āḷaviyaṁ viharati aggāḷave cetiye.",
+        "analyzed": "tena samayena buddhaḥ bhagavā āḷaviyam viharati aggāḷave cetiye ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.2",
+        "original": "Tena kho pana samayena chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṁ vadanti—",
+        "analyzed": "tena kho pana samayena chabbaggiyāḥ bhikkhū kosiya kārake upasaṅkamitvā evam vadanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.3",
+        "original": "“bahū, āvuso, kosakārake pacatha, amhākampi dassatha,",
+        "analyzed": "bahū āvuso kosakārake pacatha amhākam pi dassatha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.4",
+        "original": "mayampi icchāma kosiyamissakaṁ santhataṁ kātun”ti.",
+        "analyzed": "mayam pi icchāma kosiya missakam santhatam kātunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.5",
+        "original": "Te ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "te ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.6",
+        "original": "“kathañhi nāma samaṇā sakyaputtiyā amhe upasaṅkamitvā evaṁ vakkhanti—",
+        "analyzed": "katham hi nāma samaṇāḥ sakyaputtiyāḥ amhe upasaṅkamitvā evam vakkhanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.7",
+        "original": "‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’ti.",
+        "analyzed": "bahū āvuso kosa kārake pacatha amhākam pi dassatha mayam pi icchāma kosiya missakam santhatam kātunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.8",
+        "original": "Amhākampi alābhā, amhākampi dulladdhaṁ, ye mayaṁ ājīvassa hetu puttadārassa kāraṇā bahū khuddake pāṇe saṅghātaṁ āpādemā”ti.",
+        "analyzed": "amhākam pi alābhāḥ amhākam pi dulladdha ye mayam ājīvassa hetu putta dārassa kāraṇā bahū khuddake pāṇe saṅghātam āpādema ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.9",
+        "original": "Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ.",
+        "analyzed": "assosum kho bhikkhū tesam manussānam ujjhāyantānam khiyyantānam vipācentāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.10",
+        "original": "Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "ye te bhikkhū appicchā pe te ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.11",
+        "original": "“kathañhi nāma chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṁ vakkhanti—",
+        "analyzed": "katham hi nāma chabbaggiyāḥ bhikkhū kosiya kārake upasaṅkamitvā evam vakkhanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.12",
+        "original": "‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’”ti.",
+        "analyzed": "bahū āvuso kosa kārake pacatha amhākam pi dassatha mayam pi icchāma kosiya missakam santhatam kātunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.13",
+        "original": "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "atha kho te bhikkhū chabbaggiye bhikkhū aneka pariyāyena vigarahitvā bhagavato etam attham ārocesuṃ pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.14",
+        "original": "“saccaṁ kira tumhe, bhikkhave, kosiyakārake upasaṅkamitvā evaṁ vadetha—",
+        "analyzed": "saccam kira tumhe bhikkhave kosiya kārake upasaṅkamitvā evam vadetha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.15",
+        "original": "‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha,",
+        "analyzed": "bahū āvuso kosakārake pacatha amhākam pi dassatha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.16",
+        "original": "mayampi icchāma kosiyamissakaṁ santhataṁ kātun’”ti?",
+        "analyzed": "mayam pi icchāma kosiya missakam santhatam kātunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.17",
+        "original": "“Saccaṁ, bhagavā”ti.",
+        "analyzed": "sat ca bhagavān ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.18",
+        "original": "Vigarahi buddho bhagavā …pe…",
+        "analyzed": "vigarahi buddhaḥ bhagavān pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.19",
+        "original": "kathañhi nāma tumhe, moghapurisā, kosiyakārake upasaṅkamitvā evaṁ vakkhatha—",
+        "analyzed": "katham hi nāma tumhe mogha purisāḥ kosiya kārake upasaṅkamitvā evam vakkhatha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.20",
+        "original": "‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’ti.",
+        "analyzed": "bahū āvuso kosa kārake pacatha amhākam pi dassatha mayam pi icchāma kosiya missakam santhatam kātunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.21",
+        "original": "Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe…",
+        "analyzed": "neta moghapurisāḥ appasannānam vā pasādāya pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.22",
+        "original": "evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:1.23.1",
+        "original": "“Yo pana bhikkhu kosiyamissakaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyan”ti.",
+        "analyzed": "yaḥ pana bhikkhu kosiya missakam santhatam kārāpeyya nissaggiyam pācittiyanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.1",
+        "original": "Yo panāti",
+        "analyzed": "yaḥ panāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.2",
+        "original": "yo yādiso …pe…",
+        "analyzed": "yaḥ ya ādisaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.3",
+        "original": "bhikkhūti",
+        "analyzed": "bhikkhū ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.4",
+        "original": "…pe… ayaṁ imasmiṁ atthe adhippeto bhikkhūti.",
+        "analyzed": "pe ayam imasmin atthe adhippetaḥ bhikkhu iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.5",
+        "original": "Santhataṁ nāma",
+        "analyzed": "santhatam nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.6",
+        "original": "santharitvā kataṁ hoti avāyimaṁ.",
+        "analyzed": "santharitvā katam hoti avāyima ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.7",
+        "original": "Kārāpeyyāti",
+        "analyzed": "kārāpeyyā iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.8",
+        "original": "ekenapi kosiyaṁsunā missitvā karoti vā kārāpeti vā, payoge dukkaṭaṁ.",
+        "analyzed": "ekena api kosiyasunā missitvā karoti vā kārāpeti vā payoge dukkaṭa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.9",
+        "original": "Paṭilābhena nissaggiyaṁ hoti.",
+        "analyzed": "paṭilābhena nissaggiyam hoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.10",
+        "original": "Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā.",
+        "analyzed": "nissajjitabbam saṅghassa vā gaṇassa vā puggalassa vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.11",
+        "original": "Evañca pana, bhikkhave, nissajjitabbaṁ.",
+        "analyzed": "evam ca pana bhikkhave ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.12",
+        "original": "…pe…",
+        "analyzed": "pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.13",
+        "original": "idaṁ me, bhante, kosiyamissakaṁ santhataṁ kārāpitaṁ nissaggiyaṁ.",
+        "analyzed": "idam me bhante kosiya missakam santhatam kārāpitam nissaggiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.14",
+        "original": "Imāhaṁ saṅghassa nissajjāmīti …pe…",
+        "analyzed": "imā aham saṅghassa nissajjāmi iti pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.15",
+        "original": "dadeyyāti …pe…",
+        "analyzed": "dadeyyā ati pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.16",
+        "original": "dadeyyunti …pe…",
+        "analyzed": "pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.1.17",
+        "original": "āyasmato dammīti.",
+        "analyzed": "āyasmataḥ dammi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.1",
+        "original": "Attanā vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "attanā vippakatam attanā pariyosāpeti nissaggiyam pācittiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.2",
+        "original": "Attanā vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "attanā vippakatam parehi pariyosāpeti nissaggiyam pācittiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.3",
+        "original": "Parehi vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "parehi vippakatam attanā pariyosāpeti nissaggiyam pācittiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.4",
+        "original": "Parehi vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "parehi vippakatam parehi pariyosāpeti nissaggiyam pācittiya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.5",
+        "original": "Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa.",
+        "analyzed": "aññassa atthāya karoti vā kārāpeti vā āpatti dukkaṭassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.6",
+        "original": "Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.",
+        "analyzed": "aññena katam paṭilabhitvā paribhuñjati āpatti dukkaṭassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.7.1",
+        "original": "Anāpatti—",
+        "analyzed": "anāpatti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.8",
+        "original": "vitānaṁ vā bhūmattharaṇaṁ vā sāṇipākāraṁ vā bhisiṁ vā bibbohanaṁ vā karoti,",
+        "analyzed": "vitānam vā bhūmattharaṇam vā sāṇi pākāram vā bhisim vā bibbohanam vā karoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.9",
+        "original": "ummattakassa,",
+        "analyzed": "ummattakassa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.10",
+        "original": "ādikammikassāti.",
+        "analyzed": "ādikammikassa ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np11:2.2.11",
+        "original": "Kosiyasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.",
+        "analyzed": "kosiya sikkhāpadam niṭṭhitam paṭhama ",
+        "folio": "2"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "segmentnr": "PA_kv_7.9:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:0.3",
+        "original": "Sattamavagga",
+        "analyzed": "sattama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:0.4",
+        "original": "Ariyadhammavipākakathā",
+        "analyzed": "ariya dhamma vipāka kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:1.1",
+        "original": "Natthi ariyadhammavipākoti?",
+        "analyzed": "natthi ariya dhamma vipāko ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:1.3",
+        "original": "Nanu mahapphalaṁ sāmaññaṁ mahapphalaṁ brahmaññanti?",
+        "analyzed": "nanu mahat phalam sāmaññam mahat phalam brahmaññanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:1.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:1.5",
+        "original": "Hañci mahapphalaṁ sāmaññaṁ mahapphalaṁ brahmaññaṁ, no ca vata re vattabbe—",
+        "analyzed": "hañci mahat phalam sāmaññam mahat phalam brahmañña no ca vata re vattabbe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:1.6",
+        "original": "“natthi ariyadhammavipāko”ti.",
+        "analyzed": "natthi ariya dhamma vipāko ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.1",
+        "original": "Natthi ariyadhammavipākoti?",
+        "analyzed": "natthi ariya dhamma vipāko ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.3",
+        "original": "Nanu atthi sotāpattiphalanti?",
+        "analyzed": "nanu atthi sotāpatti phalanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.5",
+        "original": "Hañci atthi sotāpattiphalaṁ, no ca vata re vattabbe—",
+        "analyzed": "hañci atthi sotāpatti phala no ca vata re vattabbe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.6",
+        "original": "“natthi ariyadhammavipāko”ti.",
+        "analyzed": "natthi ariya dhamma vipāko ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.7",
+        "original": "Nanu atthi sakadāgāmiphalaṁ …pe…",
+        "analyzed": "nanu atthi sakadāgāmi phalam pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.8",
+        "original": "anāgāmiphalaṁ …pe…",
+        "analyzed": "anāgāmi phalam pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.9",
+        "original": "arahattaphalanti?",
+        "analyzed": "arahatta phalanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.10",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.11",
+        "original": "Hañci atthi arahattaphalaṁ, no ca vata re vattabbe—",
+        "analyzed": "hañci atthi arahatta phala no ca vata re vattabbe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:2.12",
+        "original": "“natthi ariyadhammavipāko”ti.",
+        "analyzed": "natthi ariya dhamma vipāko ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.1",
+        "original": "Sotāpattiphalaṁ na vipākoti?",
+        "analyzed": "sā utāpatti phalam na ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.3",
+        "original": "Dānaphalaṁ na vipākoti?",
+        "analyzed": "dāna phalam na ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.5",
+        "original": "sotāpattiphalaṁ na vipākoti?",
+        "analyzed": "sā utāpatti phalam na ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.7",
+        "original": "Sīlaphalaṁ …pe…",
+        "analyzed": "sīla phalam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.8",
+        "original": "bhāvanāphalaṁ na vipākoti?",
+        "analyzed": "bhāvanā phalam na ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:3.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.1",
+        "original": "Sakadāgāmiphalaṁ …pe…",
+        "analyzed": "sakadāgāmi phalam pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.2",
+        "original": "anāgāmiphalaṁ …pe…",
+        "analyzed": "anāgāmi phalam pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.3",
+        "original": "arahattaphalaṁ na vipākoti?",
+        "analyzed": "arahatta phalam na ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.5",
+        "original": "Dānaphalaṁ na vipākoti?",
+        "analyzed": "dāna phalam na ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.7",
+        "original": "arahattaphalaṁ na vipākoti?",
+        "analyzed": "arahatta phalam na ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.9",
+        "original": "Sīlaphalaṁ …pe…",
+        "analyzed": "sīla phalam pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.10",
+        "original": "bhāvanāphalaṁ na vipākoti?",
+        "analyzed": "bhāvanā phalam na ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.11",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.12",
+        "original": "dānaphalaṁ vipākoti?",
+        "analyzed": "dāna phalam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.13",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.14",
+        "original": "Sotāpattiphalaṁ vipākoti?",
+        "analyzed": "sā utāpatti phalam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:4.15",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.1",
+        "original": "Dānaphalaṁ vipākoti?",
+        "analyzed": "dāna phalam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.3",
+        "original": "Sakadāgāmiphalaṁ …pe…",
+        "analyzed": "sakadāgāmi phalam pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.4",
+        "original": "anāgāmiphalaṁ …pe…",
+        "analyzed": "anāgāmi phalam pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.5",
+        "original": "arahattaphalaṁ vipākoti?",
+        "analyzed": "arahatta phalam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.7",
+        "original": "sīlaphalaṁ …pe…",
+        "analyzed": "sīla phalam pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.8",
+        "original": "bhāvanāphalaṁ vipākoti?",
+        "analyzed": "bhāvanā phalam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.9",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.10",
+        "original": "Sotāpattiphalaṁ vipākoti?",
+        "analyzed": "sā utāpatti phalam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.11",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.12",
+        "original": "bhāvanāphalaṁ vipākoti?",
+        "analyzed": "bhāvanā phalam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.13",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.14",
+        "original": "Sakadāgāmiphalaṁ …pe…",
+        "analyzed": "sakadāgāmi phalam pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.15",
+        "original": "anāgāmiphalaṁ …pe…",
+        "analyzed": "anāgāmi phalam pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.16",
+        "original": "arahattaphalaṁ vipākoti?",
+        "analyzed": "arahatta phalam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:5.17",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.1",
+        "original": "Kāmāvacaraṁ kusalaṁ savipākanti?",
+        "analyzed": "kāmāvacaram kusalam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.3",
+        "original": "Lokuttaraṁ kusalaṁ savipākanti?",
+        "analyzed": "lokuttaram kusalam sa vipākam ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.5",
+        "original": "rūpāvacaraṁ kusalaṁ …pe…",
+        "analyzed": "rūpāvacaram kusalam pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.6",
+        "original": "arūpāvacaraṁ kusalaṁ savipākanti?",
+        "analyzed": "arūpāvacaram kusalam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.7",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.8",
+        "original": "Lokuttaraṁ kusalaṁ savipākanti?",
+        "analyzed": "lokuttaram kusalam sa vipākam ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:6.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.1",
+        "original": "Lokuttaraṁ kusalaṁ avipākanti?",
+        "analyzed": "lokuttaram kusalam a vipākam ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.3",
+        "original": "Kāmāvacaraṁ kusalaṁ avipākanti?",
+        "analyzed": "kāmāvacaram kusalam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.5",
+        "original": "lokuttaraṁ kusalaṁ avipākanti?",
+        "analyzed": "lokuttaram kusalam a vipākam ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.7",
+        "original": "Rūpāvacaraṁ …pe…",
+        "analyzed": "rūpa avacaram pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.8",
+        "original": "arūpāvacaraṁ kusalaṁ avipākanti?",
+        "analyzed": "arūpāvacaram kusalam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:7.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.1",
+        "original": "Kāmāvacaraṁ kusalaṁ savipākaṁ ācayagāmīti?",
+        "analyzed": "kāmāvacaram kusalam sa vipākam ācaya gāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.3",
+        "original": "Lokuttaraṁ kusalaṁ savipākaṁ ācayagāmīti?",
+        "analyzed": "lokuttaram kusalam sa vipākam ācaya gāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.5",
+        "original": "rūpāvacaraṁ …pe…",
+        "analyzed": "rūpa avacaram pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.6",
+        "original": "arūpāvacaraṁ kusalaṁ savipākaṁ ācayagāmīti?",
+        "analyzed": "arūpāvacaram kusalam sa vipākam ācaya gāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.7",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.8",
+        "original": "Lokuttaraṁ kusalaṁ savipākaṁ ācayagāmīti?",
+        "analyzed": "lokuttaram kusalam sa vipākam ācaya gāmi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:8.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.1",
+        "original": "Lokuttaraṁ kusalaṁ savipākaṁ apacayagāmīti?",
+        "analyzed": "lokuttaram kusalam sa vipākam apacaya gāmi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.3",
+        "original": "Kāmāvacaraṁ kusalaṁ savipākaṁ apacayagāmīti?",
+        "analyzed": "kāmāvacaram kusalam sa vipākam apacaya gāmi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.5",
+        "original": "Lokuttaraṁ kusalaṁ savipākaṁ apacayagāmīti?",
+        "analyzed": "lokuttaram kusalam sa vipākam apacaya gāmi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.7",
+        "original": "Rūpāvacaraṁ …pe…",
+        "analyzed": "rūpa avacaram pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.8",
+        "original": "arūpāvacaraṁ kusalaṁ savipākaṁ apacayagāmīti?",
+        "analyzed": "arūpāvacaram kusalam sa vipākam apacaya gāmi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.9:9.10",
+        "original": "Ariyadhammavipākakathā niṭṭhitā.",
+        "analyzed": "ariya dhamma vipāka kathā niṭṭhitā ",
+        "folio": "9"
+    }
+]

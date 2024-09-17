@@ -1,0 +1,542 @@
+[
+    {
+        "segmentnr": "PA_pe_7:0.1",
+        "original": "Peṭakopadesa",
+        "analyzed": "peṭaka upadesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pe_7:0.2",
+        "original": "Pakiṇṇakaniddesa",
+        "analyzed": "pakiṇṇaka niddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.1",
+        "original": "Jhānaṁ virāgo.",
+        "analyzed": "jhānam virāgaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.2",
+        "original": "Cattāri jhānāni vitthārena kātabbāni.",
+        "analyzed": "cattāri jhānāni vitthārena kātabbāni ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.3",
+        "original": "Tāni duvidhāni;",
+        "analyzed": "tāni duvidhāni ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.4",
+        "original": "bojjhaṅgavippayuttāni ca bojjhaṅgasampayuttāni ca.",
+        "analyzed": "bojjhaṅga vippayuttāni ca bojjhaṅga sampayuttāni ca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.5",
+        "original": "Tattha bojjhaṅgavippayuttāni bāhirakāni, bojjhaṅgasampayuttāni ariyapuggalāni.",
+        "analyzed": "tattha bojjhaṅga vippayuttāni bāhirakāni bojjhaṅga sampayuttāni ariya puggalāni ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.6_0",
+        "original": "Tattha yena cha puggalamūlāni tesaṁ nikkhipetvā rāgacarito, dosacarito, mohacarito,",
+        "analyzed": "tattha yena cha puggala mūlāni tesam nikkhipetvā rāga caritaḥ dosa caritaḥ moha caritaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.6_1",
+        "original": "rāgadosacarito, rāgamohacarito, dosamohacarito, samabhāgacarito, iti imesaṁ puggalānaṁ",
+        "analyzed": "rāga dosa caritaḥ rāga moha caritaḥ dosa moha caritaḥ sama bhāga caritaḥ iti imesam puggalāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.6_2",
+        "original": "jhānaṁ samāpajjitānaṁ pañca nīvaraṇāni paṭipakkho tesaṁ paṭighātāya yathā asamattho",
+        "analyzed": "jhānam samāpajjitānam pañca nīvaraṇāni paṭipakkhaḥ tesam paṭighātāya yathā asamatthaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.6_3",
+        "original": "tīṇi akusalamūlāni niggaṇhāti.",
+        "analyzed": "tīṇi akusala mūlāni niggaṇhāti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.7",
+        "original": "Lobhena akusalamūlena abhijjhā ca uddhaccañca uppilavataṁ alobhena kusalamūlena niggaṇhāti, kukkuccañca vicikicchā ca mohapakkho, taṁ amohena niggaṇhāti.",
+        "analyzed": "lobhena akusala mūlena abhijjhā ca uddhaccam ca uppilavatam alobhena kusala mūlena niggaṇhāti kukkuccam ca vicikicchā ca moha pakkhaḥ tam amohena niggaṇhāti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:1.8",
+        "original": "Doso ca thinamiddhañca dosapakkho, taṁ adosena niggaṇhāti.",
+        "analyzed": "doso ca thinam iddham ca dosa pakkhaḥ tam adosena niggaṇhāti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_pe_7:2.1",
+        "original": "Tattha alobhassa pāripūriyā nekkhammavitakkaṁ vitakketi.",
+        "analyzed": "tattha alobhassa pāripūriyā nekkhamma vitakkam vitakketi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pe_7:2.2",
+        "original": "Tattha adosassa pāripūriyā abyāpādavitakkaṁ vitakketi.",
+        "analyzed": "tattha a dosassa pāripūriyai a byāpāda vitakkam vitakketi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pe_7:2.3",
+        "original": "Tattha amohassa pāripūriyā avihiṁsāvitakkaṁ vitakketi.",
+        "analyzed": "tattha amohassa pāripūriyai a vihisā vitakkam vitakketi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pe_7:2.4",
+        "original": "Tattha alobhassa pāripūriyā vivitto hoti kāmehi.",
+        "analyzed": "tattha alobhassa pāripūriyā vivittaḥ hoti kāmehi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pe_7:2.5",
+        "original": "Tattha adosassa pāripūriyā amohassa pāripūriyā ca vivitto hoti pāpakehi akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "tattha adosassa pāripūriyā amohassa pāripūriyā ca vivittaḥ hoti pāpakehi akusalehi dhammehi sa vitakkam sa vicāram viveka jam pīti sukham paṭhamam jhānam upasampajja viharati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.1",
+        "original": "Vitakkāti tayo vitakkā—",
+        "analyzed": "vitakkā ati tayaḥ vitakkā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.2",
+        "original": "nekkhammavitakko abyāpādavitakko avihiṁsāvitakko.",
+        "analyzed": "nekkhamma vitakko a byāpāda vitakko a vihisā vitakko ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.3",
+        "original": "Tattha paṭhamābhinipāto vitakko, paṭiladdhassa vicaraṇaṁ vicāro.",
+        "analyzed": "tattha paṭhama abhinipātaḥ vitakko paṭiladdhassa vicaraṇam vicāro ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.4_0",
+        "original": "Yathā puriso dūrato purisaṁ passati āgacchantaṁ, na ca tāva jānāti eso itthīti vā",
+        "analyzed": "yathā purisaḥ dūratas purisam passati āgacchanta na ca tāva jānāti eso itthī iti vā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.4_1",
+        "original": "purisoti vā yadā tu paṭilabhati itthīti vā purisoti vā evaṁ vaṇṇoti vā evaṁ saṇṭhānoti",
+        "analyzed": "puriso ti vā yadā tu paṭilabhati itthī iti vā purisaḥ iti vā evam vaṇṇo ti vā evam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.4_2",
+        "original": "vā ime vitakkayanto uttari upaparikkhanti kiṁ nu kho ayaṁ sīlavā udāhu dussīlo aḍḍho vā duggatoti vā.",
+        "analyzed": "vā ime vitakkayantaḥ uttari upaparikkhanti kim nu kho ayam sīlavā udāhu dussīlaḥ aḍḍhaḥ vā duggataḥ iti vā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.5",
+        "original": "Evaṁ vicāro vitakke appeti, vicāro cariyati ca anuvattati ca.",
+        "analyzed": "evam vicāraḥ vitakke appeti vicāro cariyati ca anuvattati ca ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.6",
+        "original": "Yathā pakkhī pubbaṁ āyūhati pacchā nāyūhati yathā āyūhanā evaṁ vitakko, yathā pakkhānaṁ pasāraṇaṁ evaṁ vicāro anupālati vitakketi vicarati vicāreti.",
+        "analyzed": "yathā pakkhī pubbam āyūhati pacchā na āyūhati yathā āyūhanā evam vitakkaḥ yathā pakkhānam pasāraṇam evam vicāraḥ anupālati vitakketi vicarati vicāreti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.7",
+        "original": "Vitakkayati vitakketi, anuvicarati vicāreti.",
+        "analyzed": "vitakkayati vitakketi anuvicarati vicāreti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.8",
+        "original": "Kāmasaññāya paṭipakkho vitakko, byāpādasaññāya vihiṁsasaññāya ca paṭipakkho vicāro.",
+        "analyzed": "kāma saññāya paṭipakkhaḥ vitakkaḥ byāpāda saññāya vihisa saññāya ca paṭipakkhaḥ vicāraḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.9",
+        "original": "Vitakkānaṁ kammaṁ akusalassa amanasikāro, vicārānaṁ kammaṁ jeṭṭhānaṁ saṁvāraṇā.",
+        "analyzed": "vitakkānam kammam akusalassa amanasikāraḥ vicārānam kammam jeṭṭhānam sa vāraṇā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.10",
+        "original": "Yathā paliko tuṇhiko sajjhāyaṁ karoti evaṁ vitakko, yathā taṁyeva anupassati evaṁ vicāro.",
+        "analyzed": "yathā palikaḥ tuṇhikaḥ sajjhāyam karoti evam vitakkaḥ yathā tayā iva anupassati evam vicāraḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.11",
+        "original": "Yathā apariññā evaṁ vitakko.",
+        "analyzed": "yathā apariññā evam vitakkaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.12",
+        "original": "Yathā pariññā evaṁ vicāro.",
+        "analyzed": "yathā pariññā evam vicāraḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.13",
+        "original": "Niruttipaṭisambhidāyañca paṭibhānapaṭisambhidāyañca vitakko, dhammapaṭisambhidāyañca atthapaṭisambhidāyañca vicāro.",
+        "analyzed": "nirutti paṭisambhidāyañca paṭibhāna paṭisambhidāyañca vitakkaḥ dhamma paṭisambhidāyañca attha paṭisambhidāyañca vicāraḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.14",
+        "original": "Kallitā kosallattaṁ cittassa vitakko, abhinīhārakosallaṁ cittassa vicāro.",
+        "analyzed": "kallitā kosallattam cittassa vitakkaḥ abhinīhāra kosallam cittassa vicāro ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.15",
+        "original": "Idaṁ kusalaṁ idaṁ akusalaṁ idaṁ bhāvetabbaṁ idaṁ pahātabbaṁ idaṁ sacchikātabbanti vitakko, yathā pahānañca bhāvanā ca sacchikiriyā ca evaṁ vicāro.",
+        "analyzed": "idam kusalam idam akusalam idam bhāvetabbam idam pahātabbam idam sacchikātabbanti vitakkaḥ yathā pahānam ca bhāvanā ca sacchikiriyā ca evam vicāraḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.16",
+        "original": "Imesu vitakkavicāresu ṭhitassa duvidhaṁ dukkhaṁ na uppajjati kāyikañca cetasikañca;",
+        "analyzed": "imesu vitakka vicāresu ṭhitassa duvidham dukkham na uppajjati kāyikam ca cetasikam ca ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.17",
+        "original": "duvidhaṁ sukhaṁ uppajjati kāyikañca cetasikañca.",
+        "analyzed": "duvidham sukham uppajjati kāyikam ca cetasikam ca ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.18",
+        "original": "Iti vitakkajanitaṁ cetasikaṁ sukhaṁ pīti kāyikaṁ sukhaṁ kāyikoyeva.",
+        "analyzed": "iti vitakka janitam cetasikam sukham pīti kāyikam sukham ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.19",
+        "original": "Yā tattha cittassa ekaggatā, ayaṁ samādhi.",
+        "analyzed": "yā tattha cittassa ekagga tā ayam samādhi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:3.20",
+        "original": "Iti paṭhamaṁ jhānaṁ pañcaṅgavippahīnaṁ pañcaṅgasamannāgataṁ.",
+        "analyzed": "iti paṭhamam jhānam pañcaṅga vippahīnam pañcaṅga samannāgata ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.1",
+        "original": "Tesaṁyeva vitakkavicārānaṁ abhikkhaṇaṁ āsevanāya tassa tappoṇamānasaṁ hoti.",
+        "analyzed": "vitakka vicārānam abhikkhaṇam āsevanāya tassa tat poṇa mānasam hoti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.2",
+        "original": "Tassa vitakkavicārā oḷārikā khāyanti.",
+        "analyzed": "tassa vitakka vicārā oḷārikā khāyanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.3",
+        "original": "Yañca pītisukhañca nekkhammañca oḷārikaṁ bhavati.",
+        "analyzed": "yat ca pīti sukham ca nekkhammañca oḷārikam bhavati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.4",
+        "original": "Api ca samādhijā pīti rati ca jāyati.",
+        "analyzed": "api ca samādhi jā pīti rati ca jāyati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.5",
+        "original": "Tassa vicārārammaṇaṁ.",
+        "analyzed": "tassa vicāra ārammaṇa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.6",
+        "original": "Tesaṁ vūpasamā ajjhattaṁ ceto sampasīdati.",
+        "analyzed": "tesam vūpasamā ajjhattam cetaḥ sampasīdati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.7",
+        "original": "Ye vitakkavicārā dve dhammānussaritabbā.",
+        "analyzed": "ye vitakka vicārā dve dhamma anussaritabbā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.8",
+        "original": "Paccuppannā daraṇitabbaṁ.",
+        "analyzed": "paccuppannā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.9",
+        "original": "Tesaṁ vūpasamā ekodibhāvaṁ cittekaggataṁ hoti.",
+        "analyzed": "tesam vūpasamā ekodi bhāvam citta ekaggatam hoti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.10",
+        "original": "Tassa ekodibhāvena pīti pāripūriṁ gacchati.",
+        "analyzed": "tassa eka udi bhāvena pīti pāripūrim gacchati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.11",
+        "original": "Yā pīti, taṁ somanassindriyaṁ, yaṁ sukhaṁ, taṁ sukhindriyaṁ.",
+        "analyzed": "yā tam somanassindriya yam tam sukhindriya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.12",
+        "original": "Yā cittekaggatā, ayaṁ samādhi.",
+        "analyzed": "yā citta ekagga tā ayam samādhi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.13",
+        "original": "Taṁ dutiyaṁ jhānaṁ caturaṅgasamannāgataṁ.",
+        "analyzed": "tam dutiyam jhānam catur aṅga samannāgata ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:4.14",
+        "original": "So pītiyā virāgā yāti ojahi jallasahagataṁ.",
+        "analyzed": "saḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_pe_7:5.1",
+        "original": "Tattha somanassacittamupādānanti ca so taṁ vicinanto upekkhameva manasikaroti.",
+        "analyzed": "tattha somanassa cittam upādānanti ca saḥ tam vicinantaḥ upekkham eva manasikaroti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pe_7:5.2",
+        "original": "So pītiyā virāgā upekkhako viharati.",
+        "analyzed": "so pītiyāḥ virāgāḥ upekkhakaḥ viharati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pe_7:5.3",
+        "original": "Yathā ca pītiyā sukhamānitaṁ, taṁ kāyena paṭisaṁvedeti sampajāno viharati.",
+        "analyzed": "yathā ca tam kāyena paṭisaveda iti sampajānaḥ viharati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pe_7:5.4",
+        "original": "Yena satisampajaññena upekkhāpāripūriṁ gacchati.",
+        "analyzed": "yena sati sampajaññena upekkhā pāripūrim gacchati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pe_7:5.5",
+        "original": "Idaṁ tatiyaṁ jhānaṁ caturaṅgasamannāgataṁ.",
+        "analyzed": "idam tatiyam jhānam catur aṅga samannāgata ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.1",
+        "original": "Tathā kāyikassa sukhassa pahānāya paṭhame jhāne somanassindriyaṁ nirujjhati.",
+        "analyzed": "tathā kāyikassa sukhassa pahānāya paṭhame jhāne somanassa indriyam nirujjhati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.2",
+        "original": "Dutiye jhāne dukkhindriyaṁ nirujjhati.",
+        "analyzed": "dutiye jhāne dukkha indriyam nirujjhati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.3",
+        "original": "So sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "so sukhassa ca pahānā dukkhassa ca pahānā pubbe va somanassa domanassānam atthaṅgamā adukkham asukham upekkhā sati pārisuddhim catuttham jhānam upasampajja viharati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.4",
+        "original": "Tattha catūhi indriyehi upekkhā pasādā hoti, dukkhindriyena domanassindriyena sukhindriyena somanassindriyena ca.",
+        "analyzed": "tattha catūhi indriyehi upekkhā pasādā hoti dukkhindriyena domanassindriyena sukhindriyena somanassindriyena ca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.5_0",
+        "original": "Tesaṁ nirodhā upekkhāsampajaññaṁ hoti, tattha sukhindriyena somanassindriyena ca",
+        "analyzed": "tesam nirodhā upekkhā sampajaññam hoti tattha sukha indriyena somanassa indriyena ca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.5_1",
+        "original": "asati hoti, tesaṁ nirodhā satimā hoti, dukkhindriyena domanassindriyena ca asampajaññaṁ,",
+        "analyzed": "asati hoti tesam nirodhā satimā hoti dukkha indriyena domanassa indriyena ca asampajañña ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.5_2",
+        "original": "tesaṁ nirodhā sampajaññaṁ hoti, iti upekkhāya ca saññā, sato sampajāno cittekaggatā",
+        "analyzed": "tesam nirodhā sampajaññam hoti iti upekkhāya ca saññā sataḥ sampajāno citta ekagga tā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:6.5_3",
+        "original": "ca idaṁ vuccate ca catutthaṁ jhānaṁ.",
+        "analyzed": "ca idam vuccate ca catuttham jhāna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_pe_7:7.1",
+        "original": "Tattha yo rāgacarito puggalo tassa sukhindriyañca somanassindriyañca;",
+        "analyzed": "tattha yaḥ rāga caritaḥ puggalo tassa sukha indriyañca somanassa indriyañca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pe_7:7.2",
+        "original": "yo dosacarito puggalo tassa dukkhindriyañca domanassindriyañca;",
+        "analyzed": "yaḥ dosa caritaḥ puggalo tassa dukkha indriyañca domanassa indriyañca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pe_7:7.3",
+        "original": "yo mohacarito puggalo tassa asati ca asampajaññañca.",
+        "analyzed": "yaḥ moha carito puggalo tassa asati ca asaṃpajaññam ca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_pe_7:8.1_0",
+        "original": "Tattha rāgacaritassa puggalassa tatiye jhāne catutthe ca anunayo nirujjhati, dosacaritassa",
+        "analyzed": "tattha rāga caritassa puggalassa tatiye jhāne catutthe ca anunayaḥ nirujjhati dosa caritassa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pe_7:8.1_1",
+        "original": "paṭhame jhāne dutiye ca paṭighaṁ nirujjhati, mohacaritassa puggalassa paṭhame jhāne",
+        "analyzed": "paṭhame jhāne dutiye ca paṭigham nirujjhati moha caritassa puggalassa paṭhame jhāne ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pe_7:8.1_2",
+        "original": "dutiye ca asampajaññaṁ nirujjhati.",
+        "analyzed": "dutiye ca asampajaññam nirujjhati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pe_7:8.2",
+        "original": "Tatiye jhāne catutthe ca asati nirujjhati, evameva tesaṁ tiṇṇaṁ puggalānaṁ cattāri jhānāni vodānaṁ gamissanti.",
+        "analyzed": "tatiye jhāne catutthe ca asati nirujjhati evam eva tesam tiṇṇam puggalānam cattāri jhānāni vodānam gamissanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_pe_7:9.1",
+        "original": "Tattha rāgadosacaritassa puggalassa asampajaññañca anunayo ca paṭighañca, tena hānabhāgiyaṁ jhānaṁ hoti.",
+        "analyzed": "tattha rāga dosa caritassa puggalassa asampajaññam ca anunayo ca paṭighañca tena hāna bhāgiyam jhānam hoti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pe_7:9.2",
+        "original": "Tattha rāgamohacaritassa puggalassa anunayattaṁ ca ādīnavaṁ dassitā, taṁ tassa hānabhāgiyaṁ jhānaṁ hoti.",
+        "analyzed": "tattha rāga moha caritassa puggalassa ca ādīnavam dassitā tam tassa hāna bhāgiyam jhānam hoti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pe_7:9.3",
+        "original": "Tattha dosamohacaritassa puggalassa paṭigho ca asati ca asampajaññañca ādīnavaṁ dassitā tena tassa hānabhāgiyaṁ jhānaṁ hoti.",
+        "analyzed": "tattha dosa moha caritassa puggalassa paṭighaḥ ca asati ca asampajaññam ca ādīnavam dassitā tena tassa hāna bhāgiyam jhānam hoti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.1",
+        "original": "Tattha rāgadosamohasamabhāgacaritassa puggalassa visesabhāgiyaṁ jhānaṁ hoti, imāni cattāri jhānāni sattasu puggalesu niddisitabbāni.",
+        "analyzed": "tattha rāga dosa moha sama bhāga caritassa puggalassa visesa bhāgiyam jhānam hoti imāni cattāri jhānāni sattasu puggalesu niddisitabbāni ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.2",
+        "original": "Catūsu ca samādhīsu chandasamādhinā paṭhamaṁ jhānaṁ, vīriyasamādhinā dutiyaṁ jhānaṁ, cittasamādhinā tatiyaṁ jhānaṁ, vīmaṁsāsamādhinā catutthaṁ jhānaṁ.",
+        "analyzed": "catūsu ca samādhīsu chanda samādhinā paṭhamam jhāna vīriya samādhinā dutiyam jhāna citta samādhinā tatiyam jhāna vīmasā samādhinā catuttham jhāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.3",
+        "original": "Appaṇihitena paṭhamaṁ jhānaṁ, suññatāya dutiyaṁ jhānaṁ, animittena tatiyaṁ jhānaṁ, ānāpānassatiyā catutthaṁ jhānaṁ.",
+        "analyzed": "appaṇihitena paṭhamam jhāna suññatāya dutiyam jhāna animittena tatiyam jhāna āna apāna satiyā catuttham jhāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.4_0",
+        "original": "Kāmavitakkabyāpādānañca taṁ taṁ vūpasamena paṭhamaṁ jhānaṁ hoti, vitakkavicārānaṁ",
+        "analyzed": "kāma vitakka byāpādānam ca tam tam vūpasamena paṭhamam jhānam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.4_1",
+        "original": "vūpasamena dutiyaṁ jhānaṁ, sukhindriyasomanassindriyānaṁ vūpasamena tatiyaṁ jhānaṁ,",
+        "analyzed": "vūpasamena dutiyam jhāna sukha indriya somanassa indriyānam vūpasamena tatiyam jhāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.4_2",
+        "original": "kāyasaṅkhārānaṁ vūpasamena catutthaṁ jhānañca.",
+        "analyzed": "vūpasamena catuttham jhānam ca ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.5",
+        "original": "Cāgādhiṭṭhānena paṭhamaṁ jhānaṁ, saccādhiṭṭhānena dutiyaṁ jhānaṁ, paññādhiṭṭhānena tatiyaṁ jhānaṁ, upasamādhiṭṭhānena catutthaṁ jhānaṁ.",
+        "analyzed": "cāga adhiṭṭhānena paṭhamam jhāna sacca adhiṭṭhānena dutiyam jhāna paññā adhiṭṭhānena tatiyam jhāna upasamā dhiṭṭhānena catuttham jhāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.6",
+        "original": "Imāni cattāri jhānāni saṅkhepaniddesena niddiṭṭhāni, tattha samādhindriyaṁ pāripūriṁ gacchati.",
+        "analyzed": "imāni cattāri jhānāni saṅkhepa niddesena niddiṭṭhāni tattha samādhi indriyam pāripūrim gacchati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.7",
+        "original": "Anuvattanakāni cattāri, tattha yo paṭhamaṁ jhānaṁ nissāya āsavakkhayaṁ pāpuṇāti, so sukhāya paṭipadāya dandhābhiññāya domanassindriyapaṭipakkhena.",
+        "analyzed": "anuvattanakāni cattāri tattha yaḥ paṭhamam jhānam nissāya āsava kkhayam pāpuṇāti so sukhāya paṭipadāya dandha abhiññāya domanassindriya paṭipakkhena ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.8",
+        "original": "Yo dutiyaṁ jhānaṁ nissāya āsavānaṁ khayaṁ pāpuṇāti, so sukhāya paṭipadāya khippābhiññāya dukkhindriyapaṭipakkhena.",
+        "analyzed": "yaḥ dutiyam jhānam nissāya āsavānam khayam pāpuṇāti so sukhāya paṭipadāya khippa abhiññāya dukkha indriya paṭipakkhena ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.9",
+        "original": "Yo tatiyaṁ jhānaṁ nissāya āsavānaṁ khayaṁ pāpuṇāti, so sukhāya paṭipadāya dandhābhiññāya somanassindriyapaṭipakkhena.",
+        "analyzed": "yaḥ tatiyam jhānam nissāya āsavānam khayam pāpuṇāti so sukhāya paṭipadāya dandha abhiññāya somanassa indriya paṭipakkhena ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:10.10",
+        "original": "Yo catutthaṁ jhānaṁ nissāya āsavānaṁ khayaṁ pāpuṇāti, so sukhāya paṭipadāya khippābhiññāya sukhindriyapaṭipakkhena gato.",
+        "analyzed": "yaḥ catuttham jhānam nissāya āsavānam khayam pāpuṇāti so sukhāya paṭipadāya khippa abhiññāya sukha indriya paṭipakkhena gataḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_pe_7:11.1",
+        "original": "Pakiṇṇakaniddeso.",
+        "analyzed": "pakiṇṇaka niddeso ",
+        "folio": "11"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "segmentnr": "PA_mil_6.3.3:0.1",
+        "original": "Milindapañha",
+        "analyzed": "milindapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:0.2",
+        "original": "Anumānapañha",
+        "analyzed": "anumāna pañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:0.3",
+        "original": "Vessantaravagga",
+        "analyzed": "vessantara vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:0.4",
+        "original": "3. Kusalākusalabalavatarapañha",
+        "analyzed": "kusala akusala balavatara pañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.1",
+        "original": "“Bhante nāgasena, katamaṁ adhimattaṁ balavataraṁ kusalaṁ vā akusalaṁ vā”ti?",
+        "analyzed": "bhante nāgasena katamam adhimattam balavataram kusalam vā akusalam vā ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.2",
+        "original": "“Kusalaṁ, mahārāja, adhimattaṁ balavataraṁ, no tathā akusalan”ti.",
+        "analyzed": "kusala mahā rāja adhimattam balavatara no tathā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_0",
+        "original": "“Nāhaṁ, bhante nāgasena, taṁ vacanaṁ sampaṭicchāmi ‘kusalaṁ adhimattaṁ balavataraṁ,",
+        "analyzed": "na aha bhante nāgasena tam vacanam sampaṭicchāmi kusalam adhimattam balavatara ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_1",
+        "original": "no tathā akusalan’ti, dissanti, bhante nāgasena, idha pāṇātipātino adinnādāyino kāmesumicchācārino",
+        "analyzed": "no tathā akusalanti dissanti bhante nāgasena idha pāṇa atipātinaḥ adinna ādāyinaḥ kāmesu micchā cārinaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_2",
+        "original": "musāvādino gāmaghātikā panthadūsakā nekatikā vañcanikā, sabbe te tāvatakena pāpena",
+        "analyzed": "musāvādinaḥ gāma ghātikā panthadūsakā nekatikā vañcanikā sabbe te tāvatakena pāpena ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_3",
+        "original": "labhanti hatthacchedaṁ pādacchedaṁ hatthapādacchedaṁ kaṇṇacchedaṁ nāsacchedaṁ kaṇṇanāsacchedaṁ",
+        "analyzed": "labhanti hattha chedam pāda chedam hattha pāda chedam kaṇṇa chedam nāsa chedam kaṇṇa nāsa cheda ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_4",
+        "original": "bilaṅgathālikaṁ saṅkhamuṇḍikaṁ rāhumukhaṁ jotimālikaṁ hatthapajjotikaṁ erakavattikaṁ",
+        "analyzed": "bilaṅga thālikam saṅkhamuṇḍikam rāhumukham jotimālikam hatthapajjotikam erakavattikam ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_5",
+        "original": "cīrakavāsikaṁ eṇeyyakaṁ baḷisamaṁsikaṁ kahāpaṇikaṁ khārāpatacchikaṁ palighaparivattikaṁ",
+        "analyzed": "cīraka vāsikam eṇeyyakam baḷisa masikam kahāpaṇikam khārāpatacchikam paligha parivattika ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_6",
+        "original": "palālapīṭhakaṁ tattenapi telena osiñcanaṁ sunakhehipi khādāpanaṁ jīvasūlāropanaṁ",
+        "analyzed": "palāla pīṭhakam tat tena api telena osiñcanam khādāpanam ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_7",
+        "original": "asināpi sīsacchedaṁ, keci rattiṁ pāpaṁ katvā rattiṁ yeva vipākaṁ anubhavanti, keci",
+        "analyzed": "asinā api sīsaccheda keci rattim pāpam katvā rattim yā iva vipākam anubhavanti keci ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_8",
+        "original": "rattiṁ katvā divāyeva anubhavanti, keci divā katvā divāyeva anubhavanti, keci divā",
+        "analyzed": "rattim katvā divāya iva anubhavanti keci divā katvā divāya iva anubhavanti keci divā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_9",
+        "original": "katvā rattiṁ yeva anubhavanti, keci dve tayo divase vītivatte anubhavanti, sabbepi",
+        "analyzed": "katvā rattim yeva anubhavanti keci dve tayaḥ divase vītivatte anubhavanti sabbe pi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.3_10",
+        "original": "te diṭṭheva dhamme vipākaṁ anubhavanti.",
+        "analyzed": "te diṭṭhā iva dhamme vipākam anubhavanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.4_0",
+        "original": "Atthi pana, bhante nāgasena, koci ekassa vā dvinnaṁ vā tiṇṇaṁ vā catunnaṁ vā pañcannaṁ",
+        "analyzed": "atthi pana bhante nāgasena koci ekassa vā dvinnam vā tiṇṇam vā catunnam vā pañcannam ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.4_1",
+        "original": "vā dasannaṁ vā satassa vā sahassassa vā satasahassassa vā saparivāraṁ dānaṁ datvā",
+        "analyzed": "vā dasannam vā satassa vā sahassassa vā sata sahassassa vā sa parivāram dānam da tvā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:1.4_2",
+        "original": "diṭṭhadhammikaṁ bhogaṁ vā yasaṁ vā sukhaṁ vā anubhavitā sīlena vā uposathakammena vā”ti?",
+        "analyzed": "diṭṭhadhammikam bhogam vā yasam vā sukham vā anubhavitā sīlena vā uposatha kammena vā ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:2.1",
+        "original": "“Atthi, mahārāja, cattāro purisā dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā diṭṭheva dhamme teneva sarīradehena tidasapure samanuppattā”ti.",
+        "analyzed": "atthi mahā rāja cattāro purisāḥ dānam da tvā sīlam samādiyitvā uposatha kammam katvā diṭṭhe iva dhamme tena iva sarīra dehena tidasapure samanuppattā ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:2.2",
+        "original": "“Ko ca ko ca, bhante”ti?",
+        "analyzed": "kaḥ ca kaḥ ca bhantā iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:2.3",
+        "original": "“Mandhātā, mahārāja, rājā, nimi rājā, sādhīno rājā, guttilo ca gandhabbo”ti.",
+        "analyzed": "mandhātā mahā rāja rājā nimi rājā sādhīnaḥ rājā guttilaḥ ca gandhabbaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.1",
+        "original": "“Bhante nāgasena, anekehi taṁ bhavasahassehi antaritaṁ, dvinnampetaṁ amhākaṁ parokkhaṁ, yadi samatthosi vattamānake bhave bhagavato dharamānakāle kathehī”ti?",
+        "analyzed": "bhante nāgasena anekehi tam bhava sahassehi antarita amhākam parokkha yadi samatthaḥ asi vattamānake bhave bhagavataḥ dharamāna kāle kathehi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.2_0",
+        "original": "“Vattamānakepi, mahārāja, bhave puṇṇako dāso therassa sāriputtassa bhojanaṁ datvā",
+        "analyzed": "vattamānake api mahā rāja bhave puṇṇakaḥ dāsaḥ therassa sāriputtassa bhojanam da tvā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.2_1",
+        "original": "tadaheva seṭṭhiṭṭhānaṁ ajjhupagato, so etarahi puṇṇako seṭṭhīti paññāyi, gopālamātā",
+        "analyzed": "tadahā iva seṭṭhi ṭhānam ajjhupagato so etarahi puṇṇakaḥ seṭṭhī iti paññāyi gopāla mātā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.2_2",
+        "original": "devī attano kese vikkiṇitvā laddhehi aṭṭhahi kahāpaṇehi therassa mahākaccāyanassa",
+        "analyzed": "devī attano kese vikkiṇitvā laddhehi aṭṭhahi kahāpaṇehi therassa mahākaccāyanassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.2_3",
+        "original": "attaṭṭhamakassa piṇḍapātaṁ datvā tadaheva rañño candapajjotassa aggamahesiṭṭhānaṁ pattā.",
+        "analyzed": "atta ṭṭhamakassa piṇḍapātam da tvā tadahā iva raññaḥ candapajjotassa aggamahesi ṭṭhānam pattā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.3",
+        "original": "Suppiyā upāsikā aññatarassa gilānabhikkhuno attano ūrumaṁsena paṭicchādanīyaṁ datvā dutiyadivaseyeva rūḷhavaṇā sañchavī arogā jātā.",
+        "analyzed": "suppiyā upāsikā aññatarassa gilāna bhikkhuno attanaḥ ūru masena paṭicchādanīyam da tvā dutiya divaseyeva rūḍha vaṇā sañchavī arogā jātā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.4",
+        "original": "Mallikā devī bhagavato ābhidosikaṁ kummāsapiṇḍaṁ datvā tadaheva rañño kosalassa aggamahesī jātā.",
+        "analyzed": "mallikā devī bhagavataḥ ābhidosikam kummāsa piṇḍam da tvā tad ahā iva rañño kosalassa aggamahesī jātā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.5",
+        "original": "Sumano mālākāro aṭṭhahi sumanapupphamuṭṭhīhi bhagavantaṁ pūjetvā taṁ divasaṁyeva mahāsampattiṁ patto.",
+        "analyzed": "sumanaḥ mālākāraḥ aṭṭhahi sumana puppha muṭṭhīhi bhagavantam pūjetvā tam divasayā iva mahā sampattim pattaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:3.6",
+        "original": "Ekasāṭako brāhmaṇo uttarasāṭakena bhagavantaṁ pūjetvā taṁ divasaṁ yeva sabbaṭṭhakaṁ labhi, sabbepete, mahārāja, diṭṭhadhammikaṁ bhogañca yasañca anubhaviṁsū”ti.",
+        "analyzed": "eka sāṭakaḥ brāhmaṇaḥ uttara sāṭakena bhagavantam pūjetvā tam divasam yā iva sabbaṭṭhakam labhi sabbe pete mahā rāja diṭṭhadhammikam bhogañca yasañca anubhavisu iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.1",
+        "original": "“Bhante nāgasena, vicinitvā pariyesitvā cha janeyeva addasāsī”ti.",
+        "analyzed": "bhante nāgasena vicinitvā pariyesitvā cha janeyā iva addasāsi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.2",
+        "original": "“Āma, mahārājā”ti.",
+        "analyzed": "āma mahārāja ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.3",
+        "original": "“Tena hi, bhante nāgasena, akusalaṁyeva adhimattaṁ balavataraṁ, no tathā kusalaṁ.",
+        "analyzed": "tena hi bhante nāgasena akusalayā iva adhimattam balavatara no tathā kusala ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.4_0",
+        "original": "Ahañhi, bhante nāgasena, ekadivasaṁyeva dasapi purise passāmi pāpassa kammassa vipākena",
+        "analyzed": "ahan hi bhante nāgasena eka divasayā iva dasa pi purise passāmi pāpassa kammassa vipākena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.4_1",
+        "original": "sūlesu āropente, vīsampi tiṁsampi cattālīsampi paññāsampi purisasatampi purisasahassampi",
+        "analyzed": "sūlesu āropente vīsam pi tisam pi cattālīsam pi paññāsam pi purisa satam pi purisa sahassam pi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.4_2",
+        "original": "passāmi pāpassa kammassa vipākena sūlesu āropente.",
+        "analyzed": "passāmi pāpassa kammassa vipākena sūlesu āropente ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.5",
+        "original": "Nandakulassa, bhante nāgasena, bhaddasālo nāma senāpatiputto ahosi.",
+        "analyzed": "nanda kulassa bhante nāgasena bhaddasālaḥ nāma senāpati putto ahosi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.6",
+        "original": "Tena ca raññā candaguttena saṅgāmo samupabyūḷho ahosi.",
+        "analyzed": "tena ca raññā candaguttena saṅgāmaḥ samupabyūḷhaḥ ahosi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.7_0",
+        "original": "Tasmiṁ kho pana, bhante nāgasena, saṅgāme ubhato balakāye asītikabandharūpāni ahesuṁ,",
+        "analyzed": "tasmin kho pana bhante nāgasena saṅgāme ubhatas balakāye asīti kabandha rūpāni ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.7_1",
+        "original": "ekasmiṁ kira sīsakabandhe paripāte ekaṁ kabandharūpaṁ uṭṭhahati, sabbepete pāpasseva",
+        "analyzed": "ekasmim kira sīsa kabandhe paripāte ekam kabandha rūpam uṭṭhahati sabbe pete pāpassa iva ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.7_2",
+        "original": "kammassa vipākena anayabyasanaṁ āpannā.",
+        "analyzed": "kammassa vipākena anaya byasanam āpannā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:4.8",
+        "original": "Imināpi, bhante nāgasena, kāraṇena bhaṇāmi akusalaṁyeva adhimattaṁ balavataraṁ, no tathā kusalanti.",
+        "analyzed": "iminā api bhante nāgasena kāraṇena bhaṇāmi akusalayā iva adhimattam balavatara no tathā kusalanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.1",
+        "original": "Suyyati, bhante nāgasena, imasmiṁ buddhasāsane kosalena raññā asadisadānaṁ dinnan”ti?",
+        "analyzed": "suyyati bhante nāgasena imasmim buddha sāsane kosalena raññā asadisa dānam dinnanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.2",
+        "original": "“Āma, mahārāja, suyyatī”ti.",
+        "analyzed": "āma mahā rāja suyyati iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.3",
+        "original": "“Api nu kho, bhante nāgasena, kosalarājā taṁ asadisaṁ dānaṁ datvā tatonidānaṁ kañci diṭṭhadhammikaṁ bhogaṁ vā yasaṁ vā sukhaṁ vā paṭilabhī”ti?",
+        "analyzed": "api nu khalu bhante nāgasena kosala rājā tam asadisam dānam da tvā tatonidānam kañci diṭṭhadhammikam bhogam vā yasam vā sukham vā paṭilabhi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.4",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.5_0",
+        "original": "“Yadi, bhante nāgasena, kosalarājā evarūpaṁ anuttaraṁ dānaṁ datvāpi na labhi tatonidānaṁ",
+        "analyzed": "yadi bhante nāgasena kosala rājā evarūpam anuttaram dānam da tvā api na tatonidāna ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.5_1",
+        "original": "kañci diṭṭhadhammikaṁ bhogaṁ vā yasaṁ vā sukhaṁ vā, tena hi, bhante nāgasena, akusalaṁyeva",
+        "analyzed": "kañci diṭṭhadhammikam bhogam vā yasam vā sukham vā tena hi bhante nāgasena akusalayā iva ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:5.5_2",
+        "original": "adhimattaṁ balavataraṁ, no tathā kusalan”ti.",
+        "analyzed": "adhimattam balavatara no tathā kusalanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.1",
+        "original": "“Parittattā, mahārāja, akusalaṁ khippaṁ pariṇamati, vipulattā kusalaṁ dīghena kālena pariṇamati, upamāyapi, mahārāja, etaṁ upaparikkhitabbaṁ.",
+        "analyzed": "paritta ttā mahā rāja akusalam khippam pariṇamati vipula ttā kusalam dīghena kālena pariṇamati mahā rāja etam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.2_0",
+        "original": "Yathā, mahārāja, aparante janapade kumudabhaṇḍikā nāma dhaññajāti māsalūnā antogehagatā",
+        "analyzed": "yathā mahā rāja aparante janapade kumudabhaṇḍikā nāma dhañña jāti māsa lūnā antar geha gatā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.2_1",
+        "original": "hoti, sālayo chappañcamāsehi pariṇamanti, kiṁ panettha, mahārāja, antaraṁ ko viseso",
+        "analyzed": "pariṇamanti kim pana ittha mahā rāja antaram kaḥ visesaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.2_2",
+        "original": "kumudabhaṇḍikāya ca sālīnañcā”ti?",
+        "analyzed": "kumudabhaṇḍikāya ca sālīnam ca ati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.3",
+        "original": "“Parittattā, bhante, kumudabhaṇḍikāya, vipulattā ca sālīnaṁ.",
+        "analyzed": "paritta ttā bhante kumudabhaṇḍikāya vipula ttā ca sālīna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.4",
+        "original": "Sālayo, bhante nāgasena, rājārahā rājabhojanaṁ, kumudabhaṇḍikā dāsakammakarānaṁ bhojanan”ti.",
+        "analyzed": "sa ālayaḥ bhante nāgasena rājā ara hā rājabhojana kumudabhaṇḍikāḥ dāsa kammakarāṇam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:6.5",
+        "original": "“Evameva kho, mahārāja, parittattā akusalaṁ khippaṁ pariṇamati, vipulattā kusalaṁ dīghena kālena pariṇamatī”ti.",
+        "analyzed": "evam eva kho mahā rāja paritta ttā akusalam khippam pariṇamati vipula ttā kusalam dīghena kālena pariṇamati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:7.1",
+        "original": "“Yaṁ tattha, bhante nāgasena, khippaṁ pariṇamati, taṁ nāma loke adhimattaṁ balavataraṁ, tasmā akusalaṁ balavataraṁ, no tathā kusalaṁ.",
+        "analyzed": "yam tattha bhante nāgasena khippam pariṇamati tam nāma loke adhimattam balavatara tasmai akusalam balavatara no tathā kusala ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:7.2",
+        "original": "Yathā nāma, bhante nāgasena, yo koci yodho mahatimahāyuddhaṁ pavisitvā paṭisattuṁ upakacchake gahetvā ākaḍḍhitvā khippataraṁ sāmino upaneyya, so yodho loke samattho sūro nāma.",
+        "analyzed": "yathā nāma bhante nāgasena yaḥ koci yodhaḥ mahati mahā yuddham pavisitvā paṭisattum upakacchake gahetvā ākaḍḍhitvā khippataram sāminaḥ upaneyya saḥ yodhaḥ loke samatthaḥ sūraḥ nāma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:7.3",
+        "original": "Yo ca bhisakko khippaṁ sallaṁ uddharati rogamapaneti, so bhisakko cheko nāma.",
+        "analyzed": "yaḥ ca bhisakkaḥ khippam sallam uddharati rogam apaneti saḥ bhisakkaḥ chekaḥ nāma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:7.4",
+        "original": "Yo gaṇako sīghasīghaṁ gaṇetvā khippaṁ dassayati, so gaṇako cheko nāma.",
+        "analyzed": "yaḥ gaṇako sīgha sīgham gaṇetvā khippam dassayati so gaṇako chekaḥ nāma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:7.5",
+        "original": "Yo mallo khippaṁ paṭimallaṁ ukkhipitvā uttānakaṁ pāteti, so mallo samattho sūro nāma.",
+        "analyzed": "yaḥ mallaḥ khippam paṭimallam ukkhipitvā uttānakam pāteti saḥ mallaḥ samatthaḥ sūraḥ nāma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:7.6",
+        "original": "Evameva kho, bhante nāgasena, yaṁ khippaṁ pariṇamati kusalaṁ vā akusalaṁ vā, taṁ loke adhimattaṁ balavataran”ti.",
+        "analyzed": "evam eva kho bhante nāgasena yam khippam pariṇamati kusalam vā akusalam vā tam loke adhimattam balavataranti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.1_0",
+        "original": "“Ubhayampi taṁ, mahārāja, kammaṁ samparāyavedanīyameva, api ca kho akusalaṁ sāvajjatāya",
+        "analyzed": "ubhayam pi te mahā rāja kammam samparāya vedanīyam eva api ca kho akusalam sa avajja tāya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.1_1",
+        "original": "khaṇena diṭṭhadhammavedanīyaṁ hoti, pubbakehi, mahārāja, khattiyehi ṭhapito eso niyamo",
+        "analyzed": "khaṇena diṭṭhadhamma vedanīyam hoti pubbakehi mahā rāja khattiyehi ṭhapitaḥ esaḥ niyamaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.1_2",
+        "original": "‘yo pāṇaṁ hanati, so daṇḍāraho … yo adinnaṁ ādiyati … yo paradāraṁ gacchati … yo",
+        "analyzed": "yaḥ pāṇam hanati saḥ daṇḍārahaḥ yaḥ a dinnam ādiyati yaḥ paradāram gacchati yaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.1_3",
+        "original": "musā bhaṇati … yo gāmaṁ ghāteti … yo panthaṁ dūseti … yo nikatiṁ karoti … yo vañcanaṁ",
+        "analyzed": "musā bhaṇati yaḥ gāmam ghāta iti yaḥ pantham dūsa iti yaḥ nikatim karoti yaḥ vañcana ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.1_4",
+        "original": "karoti, so daṇḍāraho vadhitabbo chettabbo bhettabbo hantabbo’ti.",
+        "analyzed": "karoti saḥ daṇḍa ārahaḥ vadhitabbaḥ chettabbaḥ bhettabbaḥ hantabbaḥ iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.2_0",
+        "original": "Taṁ te upādāya vicinitvā vicinitvā daṇḍenti vadhenti chindanti bhindanti hananti",
+        "analyzed": "tam te upādāya vicinitvā vicinitvā daṇḍenti vadhenti chindanti bhindanti hananti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.2_1",
+        "original": "ca, api nu, mahārāja, atthi kehici ṭhapito niyamo ‘yo dānaṁ vā deti, sīlaṁ vā rakkhati,",
+        "analyzed": "ca api nu mahā rāja atthi kehici ṭhapitaḥ niyamaḥ yaḥ dānam vā deti sīlam vā rakkhati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.2_2",
+        "original": "uposathakammaṁ vā karoti, tassa dhanaṁ vā yasaṁ vā dātabban’ti;",
+        "analyzed": "uposatha kammam vā karoti tassa dhanam vā yasam vā dātabbanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.3",
+        "original": "api nu taṁ vicinitvā vicinitvā dhanaṁ vā yasaṁ vā denti, corassa katakammassa vadhabandhanaṁ viyā”ti?",
+        "analyzed": "api nu tam vicinitvā vicinitvā dhanam vā yasam vā denti corassa kata kammassa vadha bandhanam viyāti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.4",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.5_0",
+        "original": "“Yadi, mahārāja, dāyakānaṁ vicinitvā vicinitvā dhanaṁ vā yasaṁ vā dadeyyuṁ, kusalampi",
+        "analyzed": "yadi mahā rāja dāyakānam vicinitvā vicinitvā dhanam vā yasam vā dadeyyuḥ kusalampi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.5_1",
+        "original": "diṭṭhadhammavedanīyaṁ bhaveyya, yasmā ca kho, mahārāja, dāyake na vicinanti ‘dhanaṁ",
+        "analyzed": "diṭṭhadhamma vedanīyam bhaveyya yasmai ca kho mahā rāja dāyake na vicinanti dhana ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.5_2",
+        "original": "vā yasaṁ vā dassāmā’ti, tasmā kusalaṁ na diṭṭhadhammavedanīyaṁ.",
+        "analyzed": "vā yasam vā dassāma ati tasmai kusalam na diṭṭhadhamma vedanīya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.6",
+        "original": "Iminā, mahārāja, kāraṇena akusalaṁ diṭṭhadhammavedanīyaṁ, samparāyeva so adhimattaṁ balavataraṁ vedanaṁ vedayatī”ti.",
+        "analyzed": "iminā mahā rāja kāraṇena akusalam diṭṭhadhamma vedanīya samparāyā iva saḥ adhimattam balavataram vedanam vedayati iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:8.7",
+        "original": "“Sādhu, bhante nāgasena, tavādisena buddhimantena vinā neso pañho sunibbeṭhiyo, lokikaṁ, bhante nāgasena, lokuttarena viññāpitan”ti.",
+        "analyzed": "sādhu bhante nāgasena tava ādisena buddhimantena vinā na iso pañho su nibbeṭhiyaḥ lokika bhante nāgasena lokuttarena viññāpitanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.3:9.1",
+        "original": "Kusalākusalabalavatarapañho tatiyo.",
+        "analyzed": "kusala akusala balavatara pañho tatiyo ",
+        "folio": "9"
+    }
+]

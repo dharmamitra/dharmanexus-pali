@@ -1,0 +1,506 @@
+[
+    {
+        "segmentnr": "PA_kv_4.6:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:0.3",
+        "original": "Catutthavagga",
+        "analyzed": "catuttha vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:0.4",
+        "original": "Bodhiyābuddhotikathā",
+        "analyzed": "bodhiyā buddha uti kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:1.1",
+        "original": "Bodhiyā buddhoti?",
+        "analyzed": "bodhiyā buddha iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:1.3",
+        "original": "Bodhiyā niruddhāya vigatāya paṭipassaddhāya abuddho hotīti?",
+        "analyzed": "bodhiyā niruddhāya vigatāya paṭipassaddhāya abuddhaḥ hoti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:1.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.1",
+        "original": "Bodhiyā buddhoti?",
+        "analyzed": "bodhiyā buddha iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.3",
+        "original": "Atītāya bodhiyā buddhoti?",
+        "analyzed": "atītāya bodhiyā buddha uti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.5",
+        "original": "atītāya bodhiyā buddhoti?",
+        "analyzed": "atītāya bodhiyā buddha uti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.7",
+        "original": "Tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:2.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:3.1",
+        "original": "Tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:3.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:3.3",
+        "original": "Tāya bodhiyā dukkhaṁ parijānāti, samudayaṁ pajahati, nirodhaṁ sacchikaroti, maggaṁ bhāvetīti?",
+        "analyzed": "tāya bodhiyā dukkham parijānāti samudayam pajahati nirodham sacchikaroti maggam bhāveti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:3.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:4.1",
+        "original": "Bodhiyā buddhoti?",
+        "analyzed": "bodhiyā buddha iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:4.3",
+        "original": "Anāgatāya bodhiyā buddhoti?",
+        "analyzed": "anāgatāya bodhiyā buddha uti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:4.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:5.1",
+        "original": "Anāgatāya bodhiyā buddhoti?",
+        "analyzed": "anāgatāya bodhiyā buddha uti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:5.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:5.3",
+        "original": "Tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:5.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:6.1",
+        "original": "Tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:6.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:6.3",
+        "original": "Tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:6.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:7.1",
+        "original": "Paccuppannāya bodhiyā buddho, tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:7.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:7.3",
+        "original": "Atītāya bodhiyā buddho, tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "atītāya bodhiyā buddhaḥ tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:7.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:8.1",
+        "original": "Paccuppannāya bodhiyā buddho, tāya bodhiyā dukkhaṁ parijānāti, samudayaṁ pajahati, nirodhaṁ sacchikaroti, maggaṁ bhāvetīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ tāya bodhiyā dukkham parijānāti samudayam pajahati nirodham sacchikaroti maggam bhāveti iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:8.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:8.3",
+        "original": "Atītāya bodhiyā buddho, tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "atītāya bodhiyā buddhaḥ tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:8.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:9.1",
+        "original": "Paccuppannāya bodhiyā buddho, tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:9.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:9.3",
+        "original": "Anāgatāya bodhiyā buddho, tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "anāgatāya bodhiyā buddhaḥ tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:9.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:10.1",
+        "original": "Paccuppannāya bodhiyā buddho, tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:10.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:10.3",
+        "original": "Anāgatāya bodhiyā buddho, tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "anāgatāya bodhiyā buddhaḥ tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:10.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:11.1",
+        "original": "Atītāya bodhiyā buddho, na ca tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "atītāya bodhiyā buddhaḥ na ca tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:11.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:11.3",
+        "original": "Paccuppannāya bodhiyā buddho, na ca tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ na ca tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:11.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:12.1",
+        "original": "Atītāya bodhiyā buddho, na ca tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "atītāya bodhiyā buddhaḥ na ca tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:12.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:12.3",
+        "original": "Paccuppannāya bodhiyā buddho, na ca tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ na ca tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:12.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:13.1",
+        "original": "Anāgatāya bodhiyā buddho, na ca tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "anāgatāya bodhiyā buddhaḥ na ca tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:13.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:13.3",
+        "original": "Paccuppannāya bodhiyā buddho, na ca tāya bodhiyā bodhikaraṇīyaṁ karotīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ na ca tāya bodhiyā bodhi karaṇīyam karoti iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:13.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:14.1",
+        "original": "Anāgatāya bodhiyā buddho, na ca tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "anāgatāya bodhiyā buddhaḥ na ca tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:14.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:14.3",
+        "original": "Paccuppannāya bodhiyā buddho, na ca tāya bodhiyā dukkhaṁ parijānāti …pe… maggaṁ bhāvetīti?",
+        "analyzed": "paccuppannāya bodhiyā buddhaḥ na ca tāya bodhiyā dukkham parijānāti pe maggam bhāveti iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:14.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:15.1",
+        "original": "Atītāya bodhiyā buddho, anāgatāya bodhiyā buddho, paccuppannāya bodhiyā buddhoti?",
+        "analyzed": "atītāya bodhiyā buddhaḥ anāgatāya bodhiyā buddhaḥ paccuppannāya bodhiyā buddhaḥ iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:15.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:15.3",
+        "original": "Tīhi bodhīhi buddhoti?",
+        "analyzed": "tīhi bodhīhi buddha uti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:15.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:16.1",
+        "original": "Tīhi bodhīhi buddhoti?",
+        "analyzed": "tīhi bodhīhi buddha uti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:16.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:16.3",
+        "original": "Satataṁ samitaṁ abbokiṇṇaṁ tīhi bodhīhi samannāgato samohito, tisso bodhiyo paccupaṭṭhitāti?",
+        "analyzed": "satatam samitam abbokiṇṇam tīhi bodhīhi samannāgataḥ samohitaḥ tisso bodhiyo paccupaṭṭhitā ati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:16.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.2",
+        "original": "“bodhiyā buddho”ti?",
+        "analyzed": "bodhiyā buddha iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.4",
+        "original": "Nanu bodhipaṭilābhā buddhoti?",
+        "analyzed": "nanu bodhi paṭilābhā buddhā iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.6",
+        "original": "Hañci bodhipaṭilābhā buddho, tena vata re vattabbe—",
+        "analyzed": "hañci bodhi paṭilābhā buddhaḥ tena vata re vattabbe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:17.7",
+        "original": "“bodhiyā buddho”ti.",
+        "analyzed": "bodhiyā buddha iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:18.1",
+        "original": "Bodhipaṭilābhā buddhoti, bodhiyā buddhoti?",
+        "analyzed": "bodhi paṭilābhā buddhaḥ uti bodhiyā buddhaḥ iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:18.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:18.3",
+        "original": "Bodhipaṭilābhā bodhīti?",
+        "analyzed": "bodhi paṭilābhā bodhi iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:18.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_4.6:18.5",
+        "original": "Bodhiyā buddhotikathā niṭṭhitā.",
+        "analyzed": "bodhiyā buddha uti kathā niṭṭhitā ",
+        "folio": "18"
+    }
+]

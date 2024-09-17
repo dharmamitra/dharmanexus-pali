@@ -1,0 +1,578 @@
+[
+    {
+        "segmentnr": "PA_kv_7.7:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:0.3",
+        "original": "Sattamavagga",
+        "analyzed": "sattama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:0.4",
+        "original": "Pathavīkammavipākotikathā",
+        "analyzed": "pathavī kamma vipāka uti kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.1",
+        "original": "Pathavī kammavipākoti?",
+        "analyzed": "pathavī kamma vipākā ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.3_0",
+        "original": "Sukhavedaniyā dukkhavedaniyā adukkhamasukhavedaniyā, sukhāya vedanāya sampayuttā,",
+        "analyzed": "sukha vedaniyā dukkha vedaniyā adukkhamasukha vedaniyā sukhāya vedanāya sampayuttā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.3_1",
+        "original": "dukkhāya vedanāya sampayuttā, adukkhamasukhāya vedanāya sampayuttā, phassena sampayuttā,",
+        "analyzed": "dukkhāya vedanāya sampayuttā adukkhamasukhāya vedanāya sampayuttā phassena sampayuttā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.3_2",
+        "original": "vedanāya sampayuttā, saññāya sampayuttā, cetanāya sampayuttā, cittena sampayuttā, sārammaṇā;",
+        "analyzed": "vedanāya sampayuttā saññāya sampayuttā cetanāya sampayuttā cittena sampayuttā sa ārammaṇā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.4",
+        "original": "atthi tāya āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhīti?",
+        "analyzed": "atthi tāya āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.5",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.6_0",
+        "original": "nanu na sukhavedaniyā na dukkhavedaniyā na adukkhamasukhavedaniyā, na sukhāya vedanāya",
+        "analyzed": "nanu na sukha vedaniyā na dukkha vedaniyā na adukkhamasukha vedaniyā na sukhāya vedanāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.6_1",
+        "original": "sampayuttā, na dukkhāya vedanāya sampayuttā, na adukkhamasukhāya vedanāya sampayuttā,",
+        "analyzed": "sampayuttā na dukkhāya vedanāya sampayuttā na adukkhamasukhāya vedanāya sampayuttā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.6_2",
+        "original": "na phassena sampayuttā, na vedanāya sampayuttā, na saññāya sampayuttā, na cetanāya",
+        "analyzed": "na phassena sampayuttā na vedanāya sampayuttā na saññāya sampayuttā na cetanāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.6_3",
+        "original": "sampayuttā, na cittena sampayuttā, anārammaṇā;",
+        "analyzed": "sampayuttāḥ na cittena sampayuttāḥ anārammaṇāḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.7",
+        "original": "natthi tāya āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhīti?",
+        "analyzed": "natthi tāya āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.9",
+        "original": "Hañci na sukhavedaniyā na dukkhavedaniyā …pe…",
+        "analyzed": "hañci na sukha vedaniyā na dukkha vedaniyā pe",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.10",
+        "original": "anārammaṇā;",
+        "analyzed": "anārammaṇā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.11",
+        "original": "natthi tāya āvaṭṭanā …pe… paṇidhi, no ca vata re vattabbe—",
+        "analyzed": "natthi tāya āvaṭṭanā pe paṇidhi no ca vata re vattabbe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:1.12",
+        "original": "“pathavī kammavipāko”ti.",
+        "analyzed": "pathavī kamma vipākā ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.1_0",
+        "original": "Phasso kammavipāko, phasso sukhavedaniyo dukkhavedaniyo adukkhamasukhavedaniyo sukhāya",
+        "analyzed": "phasso kamma vipāko phassaḥ sukha vedaniyaḥ dukkha vedaniyaḥ adukkhamasukha vedaniyaḥ sukhāya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.1_1",
+        "original": "vedanāya sampayutto dukkhāya …pe… adukkhamasukhāya vedanāya sampayutto phassena sampayutto",
+        "analyzed": "vedanāya sampayuttaḥ dukkhāya pe adukkhamasukhāya vedanāya sampayuttaḥ phassena sampayuttaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.1_2",
+        "original": "vedanāya sampayutto saññāya sampayutto cetanāya sampayutto cittena sampayutto sārammaṇo;",
+        "analyzed": "vedanāya sampayutto saññāya sampayutto cetanāya sampayutto cittena sampayutto sa ārammaṇaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.2",
+        "original": "atthi tassa āvaṭṭanā …pe… paṇidhīti?",
+        "analyzed": "atthi tassa āvaṭṭanā pe paṇidhi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.4_0",
+        "original": "Pathavī kammavipāko, pathavī sukhavedaniyā dukkhavedaniyā adukkhamasukhavedaniyā",
+        "analyzed": "pathavī kamma vipāko pathavī sukha vedaniyā dukkha vedaniyā adukkhamasukha vedaniyā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.4_1",
+        "original": "sukhāya vedanāya sampayuttā dukkhāya …pe… adukkhamasukhāya vedanāya sampayuttā phassena",
+        "analyzed": "sukhāya vedanāya sampayuttā dukkhāya pe adukkhamasukhāya vedanāya sampayuttā phassena ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.4_2",
+        "original": "sampayuttā vedanāya sampayuttā saññāya sampayuttā cetanāya sampayuttā cittena sampayuttā sārammaṇā;",
+        "analyzed": "sampayuttā vedanāya sampayuttā saññāya sampayuttā cetanāya sampayuttā cittena sampayuttā sa ārammaṇā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.5",
+        "original": "atthi tāya āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhīti?",
+        "analyzed": "atthi tāya āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.7",
+        "original": "pathavī kammavipāko, pathavī na sukhavedaniyā na dukkhavedaniyā …pe… anārammaṇā;",
+        "analyzed": "pathavī kamma vipāko pathavī na sukha vedaniyā na dukkha vedaniyā pe anārammaṇā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.8",
+        "original": "natthi tāya āvaṭṭanā …pe… paṇidhīti?",
+        "analyzed": "natthi tāya āvaṭṭanā pe paṇidhi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.9",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.10",
+        "original": "Phasso kammavipāko, phasso na sukhavedaniyo na dukkhavedaniyo …pe… anārammaṇo;",
+        "analyzed": "phassaḥ kamma vipāko phassaḥ na sukha vedaniyaḥ na dukkha vedaniyaḥ pe anārammaṇaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.11",
+        "original": "natthi tassa āvaṭṭanā …pe… paṇidhīti?",
+        "analyzed": "natthi tassa āvaṭṭanā pe paṇidhi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:2.12",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:3.1",
+        "original": "Pathavī kammavipākoti?",
+        "analyzed": "pathavī kamma vipākā ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:3.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:3.3",
+        "original": "Pathavī paggahaniggahupagā chedanabhedanupagāti?",
+        "analyzed": "pathavī paggaha niggaha upagā chedana bhedana upagā ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:3.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:3.5",
+        "original": "Kammavipāko paggahaniggahupago chedanabhedanupagoti?",
+        "analyzed": "kamma vipāko paggaha niggaha upago chedana bhedana upago ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:3.6",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:4.1",
+        "original": "Labbhā pathavī ketuṁ vikketuṁ āṭhapetuṁ ocinituṁ vicinitunti?",
+        "analyzed": "labbhā pathavī ketum vikketum āṭhapetum ocinitum vicinitunti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:4.3",
+        "original": "Labbhā kammavipāko ketuṁ vikketuṁ āṭhapetuṁ ocinituṁ vicinitunti?",
+        "analyzed": "labbhā kamma vipāko ketum vikketum āṭhapetum ocinitum vicinitum ti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:4.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:5.1",
+        "original": "Pathavī paresaṁ sādhāraṇāti?",
+        "analyzed": "pathavī ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:5.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:5.3",
+        "original": "Kammavipāko paresaṁ sādhāraṇoti?",
+        "analyzed": "kamma vipāko paresam sādhāraṇo ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:5.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:6.1",
+        "original": "Kammavipāko paresaṁ sādhāraṇoti?",
+        "analyzed": "kamma vipāko paresam sādhāraṇo ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:6.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:6.3",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:7.1",
+        "original": "“Asādhāraṇamaññesaṁ,",
+        "analyzed": "asādhāraṇa maññesa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:7.2",
+        "original": "acoraharaṇo nidhi;",
+        "analyzed": "a cora haraṇaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:7.3",
+        "original": "Kayirātha macco puññāni,",
+        "analyzed": "kayirātha macco puññāni ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:7.4",
+        "original": "sace sucaritaṁ care”ti.",
+        "analyzed": "sace su caritam cara iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:8.1",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:8.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:8.3",
+        "original": "Tena hi na vattabbaṁ—",
+        "analyzed": "tena hi na vattabba ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:8.4",
+        "original": "“kammavipāko paresaṁ sādhāraṇo”ti.",
+        "analyzed": "kamma vipāko paresam sādhāraṇo ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:9.1",
+        "original": "Pathavī kammavipākoti?",
+        "analyzed": "pathavī kamma vipākā ti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:9.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:9.3",
+        "original": "Paṭhamaṁ pathavī saṇṭhāti, pacchā sattā uppajjantīti?",
+        "analyzed": "paṭhamam pathavī saṇṭhāti pacchā sattāḥ uppajjanti iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:9.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:9.5",
+        "original": "Paṭhamaṁ vipāko uppajjati, pacchā vipākapaṭilābhāya kammaṁ karontīti?",
+        "analyzed": "paṭhamam vipākaḥ uppajjati pacchā vipāka paṭilābhāya kammam karonti iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:9.6",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.1",
+        "original": "Pathavī sabbasattānaṁ kammavipākoti?",
+        "analyzed": "pathavī sabba sattānam kamma vipāko ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.3",
+        "original": "Sabbe sattā pathaviṁ paribhuñjantīti?",
+        "analyzed": "sabbe sattā pathavim paribhuñjanti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.5",
+        "original": "sabbe sattā pathaviṁ paribhuñjantīti?",
+        "analyzed": "sabbe sattā pathavim paribhuñjanti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.7",
+        "original": "Atthi keci pathaviṁ aparibhuñjitvā parinibbāyantīti?",
+        "analyzed": "atthi keci pathavim a paribhuñjitvā parinibbāyanti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.9",
+        "original": "Atthi keci kammavipākaṁ akhepetvā parinibbāyantīti?",
+        "analyzed": "atthi keci kamma vipākam a khepetvā parinibbāyanti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:10.10",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.1",
+        "original": "Pathavī cakkavattisattassa kammavipākoti?",
+        "analyzed": "pathavī cakkavatti sattassa kamma vipāko ti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.3",
+        "original": "Aññe sattā pathaviṁ paribhuñjantīti?",
+        "analyzed": "aññe sattā pathavim paribhuñjanti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.5",
+        "original": "Cakkavattisattassa kammavipākaṁ aññe sattā paribhuñjantīti?",
+        "analyzed": "cakkavatti sattassa kamma vipākam aññe sattā paribhuñjanti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.6",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.7",
+        "original": "cakkavattisattassa kammavipākaṁ aññe sattā paribhuñjantīti?",
+        "analyzed": "cakkavatti sattassa kamma vipākam aññe sattā paribhuñjanti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.9",
+        "original": "Cakkavattisattassa phassaṁ vedanaṁ saññaṁ cetanaṁ cittaṁ saddhaṁ vīriyaṁ satiṁ samādhiṁ paññaṁ aññe sattā paribhuñjantīti?",
+        "analyzed": "cakkavatti sattassa phassam vedanam saññam cetanam cittam saddham vīriyam satim samādhim paññam aññe sattā paribhuñjanti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:11.10",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.2",
+        "original": "“pathavī kammavipāko”ti?",
+        "analyzed": "pathavī kamma vipākā ti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.4",
+        "original": "Nanu atthi issariyasaṁvattaniyaṁ kammaṁ adhipaccasaṁvattaniyaṁ kammanti?",
+        "analyzed": "nanu atthi issariya savattaniyam kammam adhipacca savattaniyam kammanti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.6",
+        "original": "Hañci atthi issariyasaṁvattaniyaṁ kammaṁ adhipaccasaṁvattaniyaṁ kammaṁ, tena vata re vattabbe—",
+        "analyzed": "hañci atthi issariya savattaniyam kammam adhipacca savattaniyam kamma tena vata re vattabbe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.7",
+        "original": "“pathavī kammavipāko”ti.",
+        "analyzed": "pathavī kamma vipākā ti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_7.7:12.8",
+        "original": "Pathavī kammavipākotikathā niṭṭhitā.",
+        "analyzed": "pathavī kamma vipāka uti kathā niṭṭhitā ",
+        "folio": "12"
+    }
+]

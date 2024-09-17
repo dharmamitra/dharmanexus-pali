@@ -1,0 +1,728 @@
+[
+    {
+        "segmentnr": "PA_ya_1.1.1:0.1",
+        "original": "1 Mūlayamaka",
+        "analyzed": "mūlayamaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:0.2",
+        "original": "1.1 Uddesa",
+        "analyzed": "uddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:0.3",
+        "original": "1.1.1. Mūlavārauddesa",
+        "analyzed": "     ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:1.0.1",
+        "original": "1.1.1.1. Kusalapada nayacatukka",
+        "analyzed": "kusala pada naya catukka ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:1.0.2",
+        "original": "1.1.1.1.1. Mūlanaya",
+        "analyzed": "mūlanaya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:1.1",
+        "original": "Namo tassa Bhagavato Arahato Sammāsambuddhassa.",
+        "analyzed": "namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:2.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlā?",
+        "analyzed": "ye keci kusalāḥ dhammāḥ sabbe te kusala mūlā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:3.1",
+        "original": "Ye vā pana kusalamūlā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlā sabbe te dhammā kusalā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:4.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlā?",
+        "analyzed": "ye keci kusalāḥ dhammāḥ sabbe te kusala mūlena eka mūlā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:5.1",
+        "original": "Ye vā pana kusalamūlena ekamūlā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena eka mūlā sabbe te dhammā kusalā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:6.1",
+        "original": "Ye keci kusalamūlena ekamūlā dhammā, sabbe te kusalamūlena aññamaññamūlā?",
+        "analyzed": "ye keci kusala mūlena eka mūlāḥ dhammāḥ sabbe te kusala mūlena aññamañña mūlā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:7.1",
+        "original": "Ye vā pana kusalamūlena aññamaññamūlā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena sabbe te dhammā kusalā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:8.0",
+        "original": "1.1.1.1.2. Mūlamūlanaya",
+        "analyzed": "mūla mūla naya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:8.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlamūlā?",
+        "analyzed": "ye keci kusalāḥ dhammāḥ sabbe te kusala mūla mūlā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:9.1",
+        "original": "Ye vā pana kusalamūlamūlā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūla mūlā sabbe te dhammā kusalā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:10.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlamūlā?",
+        "analyzed": "ye keci kusalāḥ dhammāḥ sabbe te kusala mūlena eka mūla mūlā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:11.1",
+        "original": "Ye vā pana kusalamūlena ekamūlamūlā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena eka mūla mūlā sabbe te dhammā kusalā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:12.1",
+        "original": "Ye keci kusalamūlena ekamūlamūlā dhammā, sabbe te kusalamūlena aññamaññamūlamūlā?",
+        "analyzed": "ye keci kusala mūlena eka mūla mūlāḥ dhammāḥ sabbe te kusala mūlena aññamañña mūla mūlā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:13.1",
+        "original": "Ye vā pana kusalamūlena aññamaññamūlamūlā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena sabbe te dhammā kusalā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:14.0",
+        "original": "1.1.1.1.3. Mūlakanaya",
+        "analyzed": "mūlakanaya ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:14.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlakā?",
+        "analyzed": "ye keci kusalāḥ dhammāḥ sabbe te kusala mūlakā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:15.1",
+        "original": "Ye vā pana kusalamūlakā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlakā sabbe te dhammā kusalā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:16.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlakā?",
+        "analyzed": "ye keci kusalāḥ dhammāḥ sabbe te kusala mūlena eka mūlakā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:17.1",
+        "original": "Ye vā pana kusalamūlena ekamūlakā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena eka mūlakā sabbe te dhammā kusalā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:18.1",
+        "original": "Ye keci kusalamūlena ekamūlakā dhammā, sabbe te kusalamūlena aññamaññamūlakā?",
+        "analyzed": "ye keci kusala mūlena eka mūlakā dhammā sabbe te kusala mūlena aññamañña mūlakā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:19.1",
+        "original": "Ye vā pana kusalamūlena aññamaññamūlakā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena sabbe te dhammā kusalā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:20.0",
+        "original": "1.1.1.1.4. Mūlamūlakanaya",
+        "analyzed": "mūla mūlaka naya ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:20.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlamūlakā?",
+        "analyzed": "ye keci kusalā dhammā sabbe te kusala mūla mūlakā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:21.1",
+        "original": "Ye vā pana kusalamūlamūlakā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūla mūlakā sabbe te dhammā kusalā ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:22.1",
+        "original": "Ye keci kusalā dhammā, sabbe te kusalamūlena ekamūlamūlakā?",
+        "analyzed": "ye keci kusalā dhammā sabbe te kusala mūlena eka mūla mūlakā ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:23.1",
+        "original": "Ye vā pana kusalamūlena ekamūlamūlakā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena eka mūla mūlakā sabbe te dhammā kusalā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:24.1",
+        "original": "Ye keci kusalamūlena ekamūlamūlakā dhammā, sabbe te kusalamūlena aññamaññamūlamūlakā?",
+        "analyzed": "ye keci kusala mūlena eka mūla mūlakā dhammā sabbe te kusala mūlena aññamañña mūla mūlakā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:25.1",
+        "original": "Ye vā pana kusalamūlena aññamaññamūlamūlakā, sabbe te dhammā kusalā?",
+        "analyzed": "ye vā pana kusala mūlena sabbe te dhammā kusalā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:26.0.1",
+        "original": "1.1.1.2. Akusalapada nayacatukka",
+        "analyzed": "akusala pada naya catukka ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:26.0.2",
+        "original": "1.1.1.2.1. Mūlanaya",
+        "analyzed": "mūlanaya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:26.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūlā ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:27.1",
+        "original": "Ye vā pana akusalamūlā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlā sabbe te dhammā akusalā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:28.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūlena eka mūlā ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:29.1",
+        "original": "Ye vā pana akusalamūlena ekamūlā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena eka mūlā sabbe te dhammā akusalā ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:30.1",
+        "original": "Ye keci akusalamūlena ekamūlā dhammā, sabbe te akusalamūlena aññamaññamūlā?",
+        "analyzed": "ye keci akusala mūlena eka mūlāḥ dhammāḥ sabbe te akusala mūlena aññamañña mūlā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:31.1",
+        "original": "Ye vā pana akusalamūlena aññamaññamūlā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena sabbe te dhammā akusalā ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:32.0",
+        "original": "1.1.1.2.2. Mūlamūlanaya",
+        "analyzed": "mūla mūla naya ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:32.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlamūlā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūla mūlā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:33.1",
+        "original": "Ye vā pana akusalamūlamūlā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūla mūlā sabbe te dhammā akusalā ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:34.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlamūlā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūlena eka mūla mūlā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:35.1",
+        "original": "Ye vā pana akusalamūlena ekamūlamūlā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena eka mūla mūlā sabbe te dhammā akusalā ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:36.1",
+        "original": "Ye keci akusalamūlena ekamūlamūlā dhammā, sabbe te akusalamūlena aññamaññamūlamūlā?",
+        "analyzed": "ye keci akusala mūlena eka mūla mūlāḥ dhammāḥ sabbe te akusala mūlena aññamañña mūla mūlā ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:37.1",
+        "original": "Ye vā pana akusalamūlena aññamaññamūlamūlā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena sabbe te dhammā akusalā ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:38.0",
+        "original": "1.1.1.2.3. Mūlakanaya",
+        "analyzed": "mūlakanaya ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:38.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlakā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūlakā ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:39.1",
+        "original": "Ye vā pana akusalamūlakā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlakā sabbe te dhammā akusalā ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:40.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlakā?",
+        "analyzed": "ye keci akusalāḥ dhammāḥ sabbe te akusala mūlena eka mūlakā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:41.1",
+        "original": "Ye vā pana akusalamūlena ekamūlakā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena eka mūlakā sabbe te dhammā akusalā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:42.1",
+        "original": "Ye keci akusalamūlena ekamūlakā dhammā, sabbe te akusalamūlena aññamaññamūlakā?",
+        "analyzed": "ye keci akusala mūlena eka mūlakāḥ dhammāḥ sabbe te akusala mūlena aññamañña mūlakā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:43.1",
+        "original": "Ye vā pana akusalamūlena aññamaññamūlakā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena sabbe te dhammā akusalā ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:44.0",
+        "original": "1.1.1.2.4. Mūlamūlakanaya",
+        "analyzed": "mūla mūlaka naya ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:44.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlamūlakā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūla mūlakā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:45.1",
+        "original": "Ye vā pana akusalamūlamūlakā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūla mūlakā sabbe te dhammā akusalā ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:46.1",
+        "original": "Ye keci akusalā dhammā, sabbe te akusalamūlena ekamūlamūlakā?",
+        "analyzed": "ye keci akusalā dhammā sabbe te akusala mūlena eka mūla mūlakā ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:47.1",
+        "original": "Ye vā pana akusalamūlena ekamūlamūlakā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena eka mūla mūlakā sabbe te dhammā akusalā ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:48.1",
+        "original": "Ye keci akusalamūlena ekamūlamūlakā dhammā, sabbe te akusalamūlena aññamaññamūlamūlakā?",
+        "analyzed": "ye keci akusala mūlena eka mūla mūlakāḥ dhammāḥ sabbe te akusala mūlena aññamañña mūla mūlakā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:49.1",
+        "original": "Ye vā pana akusalamūlena aññamaññamūlamūlakā, sabbe te dhammā akusalā?",
+        "analyzed": "ye vā pana akusala mūlena sabbe te dhammā akusalā ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:50.0.1",
+        "original": "1.1.1.3. Abyākatapada nayacatukka",
+        "analyzed": "abyākata pada naya catukka ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:50.0.2",
+        "original": "1.1.1.3.1. Mūlanaya",
+        "analyzed": "mūlanaya ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:50.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlā?",
+        "analyzed": "ye keci abyākatāḥ dhammāḥ sabbe te abyākata mūlā ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:51.1",
+        "original": "Ye vā pana abyākatamūlā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlā sabbe te dhammā abyākatā ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:52.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlā?",
+        "analyzed": "ye keci abyākatāḥ dhammāḥ sabbe te abyākata mūlena eka mūlā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:53.1",
+        "original": "Ye vā pana abyākatamūlena ekamūlā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena eka mūlā sabbe te dhammā abyākatā ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:54.1",
+        "original": "Ye keci abyākatamūlena ekamūlā dhammā, sabbe te abyākatamūlena aññamaññamūlā?",
+        "analyzed": "ye keci abyākata mūlena eka mūlāḥ dhammāḥ sabbe te abyākata mūlena aññamañña mūlā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:55.1",
+        "original": "Ye vā pana abyākatamūlena aññamaññamūlā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena aññamañña mūlā sabbe te dhammā abyākatā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:56.0",
+        "original": "1.1.1.3.2. Mūlamūlanaya",
+        "analyzed": "mūla mūla naya ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:56.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlamūlā?",
+        "analyzed": "ye keci abyākatā dhammā sabbe te abyākata mūla mūlā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:57.1",
+        "original": "Ye vā pana abyākatamūlamūlā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūla mūlā sabbe te dhammā abyākatā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:58.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlamūlā?",
+        "analyzed": "ye keci abyākatā dhammā sabbe te abyākata mūlena eka mūla mūlā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:59.1",
+        "original": "Ye vā pana abyākatamūlena ekamūlamūlā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena eka mūla mūlā sabbe te dhammā abyākatā ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:60.1",
+        "original": "Ye keci abyākatamūlena ekamūlamūlā dhammā, sabbe te abyākatamūlena aññamaññamūlamūlā?",
+        "analyzed": "ye keci abyākata mūlena eka mūla mūlāḥ dhammāḥ sabbe te abyākata mūlena aññamañña mūla mūlā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:61.1",
+        "original": "Ye vā pana abyākatamūlena aññamaññamūlamūlā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena aññam añña mūla mūlā sabbe te dhammā abyākatā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:62.0",
+        "original": "1.1.1.3.3. Mūlakanaya",
+        "analyzed": "mūlakanaya ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:62.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlakā?",
+        "analyzed": "ye keci abyākatāḥ dhammāḥ sabbe te abyākata mūlakā ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:63.1",
+        "original": "Ye vā pana abyākatamūlakā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlakā sabbe te dhammā abyākatā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:64.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlakā?",
+        "analyzed": "ye keci abyākatāḥ dhammāḥ sabbe te abyākata mūlena eka mūlakā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:65.1",
+        "original": "Ye vā pana abyākatamūlena ekamūlakā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena eka mūlakā sabbe te dhammā abyākatā ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:66.1",
+        "original": "Ye keci abyākatamūlena ekamūlakā dhammā, sabbe te abyākatamūlena aññamaññamūlakā?",
+        "analyzed": "ye keci abyākata mūlena eka mūlakāḥ dhammāḥ sabbe te abyākata mūlena aññamañña mūlakā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:67.1",
+        "original": "Ye vā pana abyākatamūlena aññamaññamūlakā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena sabbe te dhammā abyākatā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:68.0",
+        "original": "1.1.1.3.4. Mūlamūlakanaya",
+        "analyzed": "mūla mūlaka naya ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:68.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlamūlakā?",
+        "analyzed": "ye keci abyākatāḥ dhammāḥ sabbe te abyākata mūla mūlakā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:69.1",
+        "original": "Ye vā pana abyākatamūlamūlakā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūla mūlakā sabbe te dhammā abyākatā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:70.1",
+        "original": "Ye keci abyākatā dhammā, sabbe te abyākatamūlena ekamūlamūlakā?",
+        "analyzed": "ye keci abyākatā dhammā sabbe te abyākata mūlena eka mūla mūlakā ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:71.1",
+        "original": "Ye vā pana abyākatamūlena ekamūlamūlakā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena eka mūla mūlakā sabbe te dhammā abyākatā ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:72.1",
+        "original": "Ye keci abyākatamūlena ekamūlamūlakā dhammā, sabbe te abyākatamūlena aññamaññamūlamūlakā?",
+        "analyzed": "ye keci abyākata mūlena eka mūla mūlakāḥ dhammāḥ sabbe te abyākata mūlena aññamañña mūla mūlakā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:73.1",
+        "original": "Ye vā pana abyākatamūlena aññamaññamūlamūlakā, sabbe te dhammā abyākatā?",
+        "analyzed": "ye vā pana abyākata mūlena sabbe te dhammā abyākatā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:74.0.1",
+        "original": "1.1.1.4. Nāmapada nayacatukka",
+        "analyzed": "nāma pada naya catukka ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:74.0.2",
+        "original": "1.1.1.3.1. Mūlanaya",
+        "analyzed": "mūlanaya ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:74.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūlā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:75.1",
+        "original": "Ye vā pana nāmamūlā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlā sabbe te dhammā nāmā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:76.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūlena eka mūlā ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:77.1",
+        "original": "Ye vā pana nāmamūlena ekamūlā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena eka mūlā sabbe te dhammā nāmā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:78.1",
+        "original": "Ye keci nāmamūlena ekamūlā dhammā, sabbe te nāmamūlena aññamaññamūlā?",
+        "analyzed": "ye keci nāma mūlena eka mūlāḥ dhammāḥ sabbe te nāma mūlena aññamañña mūlā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:79.1",
+        "original": "Ye vā pana nāmamūlena aññamaññamūlā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena añña mañña mūlā sabbe te dhammā nāmā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:80.0",
+        "original": "1.1.1.3.2. Mūlamūlanaya",
+        "analyzed": "mūla mūla naya ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:80.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlamūlā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūla mūlā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:81.1",
+        "original": "Ye vā pana nāmamūlamūlā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūla mūlā sabbe te dhammā nāmā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:82.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlamūlā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūlena eka mūla mūlā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:83.1",
+        "original": "Ye vā pana nāmamūlena ekamūlamūlā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena eka mūla mūlā sabbe te dhammā nāmā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:84.1",
+        "original": "Ye keci nāmamūlena ekamūlamūlā dhammā, sabbe te nāmamūlena aññamaññamūlamūlā?",
+        "analyzed": "ye keci nāma mūlena eka mūla mūlāḥ dhammāḥ sabbe te nāma mūlena añña mañña mūla mūlā ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:85.1",
+        "original": "Ye vā pana nāmamūlena aññamaññamūlamūlā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena añña mañña mūla mūlā sabbe te dhammā nāmā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:86.0",
+        "original": "1.1.1.3.3. Mūlakanaya",
+        "analyzed": "mūlakanaya ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:86.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlakā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūlakā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:87.1",
+        "original": "Ye vā pana nāmamūlakā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlakā sabbe te dhammā nāmā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:88.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlakā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūlena eka mūlakā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:89.1",
+        "original": "Ye vā pana nāmamūlena ekamūlakā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena eka mūlakā sabbe te dhammā nāmā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:90.1",
+        "original": "Ye keci nāmamūlena ekamūlakā dhammā, sabbe te nāmamūlena aññamaññamūlakā?",
+        "analyzed": "ye keci nāma mūlena eka mūlakāḥ dhammāḥ sabbe te nāma mūlena añña mañña mūlakā ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:91.1",
+        "original": "Ye vā pana nāmamūlena aññamaññamūlakā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena añña mañña mūlakā sabbe te dhammā nāmā ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:92.0",
+        "original": "1.1.1.3.4. Mūlamūlakanaya",
+        "analyzed": "mūla mūlaka naya ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:92.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlamūlakā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūla mūlakā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:93.1",
+        "original": "Ye vā pana nāmamūlamūlakā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūla mūlakā sabbe te dhammā nāmā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:94.1",
+        "original": "Ye keci nāmā dhammā, sabbe te nāmamūlena ekamūlamūlakā?",
+        "analyzed": "ye keci nāmā dhammā sabbe te nāma mūlena eka mūla mūlakā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:95.1",
+        "original": "Ye vā pana nāmamūlena ekamūlamūlakā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena eka mūla mūlakā sabbe te dhammā nāmā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:96.1",
+        "original": "Ye keci nāmamūlena ekamūlamūlakā dhammā, sabbe te nāmamūlena aññamaññamūlamūlakā?",
+        "analyzed": "ye keci nāma mūlena eka mūla mūlakāḥ dhammāḥ sabbe te nāma mūlena aññam añña mūla mūlakā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:97.1",
+        "original": "Ye vā pana nāmamūlena aññamaññamūlamūlakā, sabbe te dhammā nāmā?",
+        "analyzed": "ye vā pana nāma mūlena añña mañña mūla mūlakā sabbe te dhammā nāmā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_ya_1.1.1:98.1",
+        "original": "Mūlavārauddeso.",
+        "analyzed": "mūla vāra uddesaḥ ",
+        "folio": "98"
+    }
+]

@@ -1,0 +1,776 @@
+[
+    {
+        "segmentnr": "PA_mil_3.1.1:0.1",
+        "original": "Milindapañha",
+        "analyzed": "milindapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:0.2",
+        "original": "Mahāvagga",
+        "analyzed": "mahāvagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:0.3",
+        "original": "1. Paññattipañha",
+        "analyzed": "paññatti pañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:1.1",
+        "original": "Atha kho milindo rājā yenāyasmā nāgaseno tenupasaṅkami, upasaṅkamitvā āyasmatā nāgasenena saddhiṁ sammodi, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi.",
+        "analyzed": "atha khalu milindaḥ rājā yena āyasmā nāgasenaḥ tena upasaṅkami upasaṅkamitvā āyasmatā nāgasenena saddhim sammodi sammodanīyam katham sāraṇīyam vītisāretvā ekamantam nisīdi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:1.2",
+        "original": "Āyasmāpi kho nāgaseno paṭisammodanīyeneva milindassa rañño cittaṁ ārādhesi.",
+        "analyzed": "āyasmā api kho nāgasenaḥ paṭisammodanīyena iva milindassa raññaḥ cittam ārādhesi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:2.1",
+        "original": "Atha kho milindo rājā āyasmantaṁ nāgasenaṁ etadavoca—",
+        "analyzed": "atha khalu milindaḥ rājā āyasmantam nāgasenam etat avoca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:2.2",
+        "original": "“kathaṁ bhadanto ñāyati, kinnāmosi, bhante”ti?",
+        "analyzed": "katham bhadantaḥ ñāyati kinnāmā asi bhantā iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:2.3_0",
+        "original": "“‘Nāgaseno’ti kho ahaṁ, mahārāja, ñāyāmi, ‘nāgaseno’ti kho maṁ, mahārāja, sabrahmacārī",
+        "analyzed": "nāgasena uti khalu aha mahā rāja nāyāmi nāgasena uti khalu ma mahā rāja sabrahmacārī ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:2.3_1",
+        "original": "samudācaranti, api ca mātāpitaro nāmaṁ karonti ‘nāgaseno’ti vā ‘sūraseno’ti vā ‘vīraseno’ti",
+        "analyzed": "samudācaranti api ca mātā pitaraḥ nāmam karonti nāgasena uti vā sūrasena uti vā vīrasena uti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:2.3_2",
+        "original": "vā ‘sīhaseno’ti vā, api ca kho, mahārāja, saṅkhā samaññā paññatti vohāro nāmamattaṁ",
+        "analyzed": "vā sīhasena uti vā api ca kho mahā rāja saṅkhā samaññā paññatti vohāraḥ nāmamatta ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:2.3_3",
+        "original": "yadidaṁ nāgasenoti, na hettha puggalo upalabbhatī”ti.",
+        "analyzed": "yat idam nāgasena uti na ha ittha puggalaḥ upalabbhati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.1",
+        "original": "Atha kho milindo rājā evamāha—",
+        "analyzed": "atha khalu milindaḥ rājā evam āha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.2",
+        "original": "“suṇantu me bhonto pañcasatā yonakā asītisahassā ca bhikkhū, ayaṁ nāgaseno evamāha—",
+        "analyzed": "suṇantu me bhonto pañca satāḥ yonakāḥ asīti sahassā ca bhikkhū ayam nāgasenaḥ evam āha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.3",
+        "original": "‘na hettha puggalo upalabbhatī’ti, kallaṁ nu kho tadabhinanditun”ti.",
+        "analyzed": "na ha ittha puggalaḥ upalabbhati iti kallam nu kho tat abhinanditun ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.4",
+        "original": "Atha kho milindo rājā āyasmantaṁ nāgasenaṁ etadavoca—",
+        "analyzed": "atha khalu milindaḥ rājā āyasmantam nāgasenam etat avoca ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_0",
+        "original": "“sace, bhante nāgasena, puggalo nūpalabbhati, ko carahi tumhākaṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ",
+        "analyzed": "sace bhante nāgasena puggalaḥ nu upalabbhati kaḥ carahi tumhākam cīvara piṇḍapāta senāsana gilāna ppaccaya bhesajja parikkhāra ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_1",
+        "original": "deti, ko taṁ paribhuñjati, ko sīlaṁ rakkhati, ko bhāvanamanuyuñjati, ko maggaphalanibbānāni",
+        "analyzed": "deti kaḥ tam paribhuñjati kaḥ sīlam rakkhati kaḥ bhāvanam anuyuñjati kaḥ magga phala nibbānāni ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_2",
+        "original": "sacchikaroti, ko pāṇaṁ hanati, ko adinnaṁ ādiyati, ko kāmesumicchācāraṁ carati, ko",
+        "analyzed": "sacchikaroti kaḥ pāṇam hanati kaḥ adinnam ādiyati kaḥ kāmesum icchā ācāram carati kaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_3",
+        "original": "musā bhaṇati, ko majjaṁ pivati, ko pañcānantariyakammaṁ karoti, tasmā natthi kusalaṁ,",
+        "analyzed": "musā bhaṇati kaḥ majjam pivati kaḥ pañca ānantariya kammam karoti tasmā natthi kusala ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_4",
+        "original": "natthi akusalaṁ, natthi kusalākusalānaṁ kammānaṁ kattā vā kāretā vā, natthi sukatadukkaṭānaṁ",
+        "analyzed": "natthi akusala natthi kusala akusalānam kammānam kattā vā kāretā vā natthi su kata dukkaṭāna ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_5",
+        "original": "kammānaṁ phalaṁ vipāko, sace, bhante nāgasena, yo tumhe māreti, natthi tassāpi pāṇātipāto,",
+        "analyzed": "kammānam phalam vipākaḥ sace bhante nāgasena yaḥ tumhe māreti natthi tassa api pāṇa atipāto ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.5_6",
+        "original": "tumhākampi, bhante nāgasena, natthi ācariyo, natthi upajjhāyo, natthi upasampadā.",
+        "analyzed": "tumhākam pi bhante nāgasena natthi ācariyaḥ natthi upajjhāyaḥ natthi upasampadā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.6",
+        "original": "‘Nāgasenoti maṁ, mahārāja, sabrahmacārī samudācarantī’ti yaṁ vadesi, katamo ettha nāgaseno?",
+        "analyzed": "nāgasena uti ma mahā rāja sabrahmacārī samudācaranti iti yam vadesi katamaḥ ettha nāgasenaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.7",
+        "original": "Kiṁ nu kho, bhante, kesā nāgaseno”ti?",
+        "analyzed": "kim nu khalu bhante kesāḥ nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.8",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.9",
+        "original": "“Lomā nāgaseno”ti?",
+        "analyzed": "lomā nāgasenā iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.10",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.11",
+        "original": "“Nakhā …pe…",
+        "analyzed": "nakhā pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.12",
+        "original": "dantā …",
+        "analyzed": "dantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.13",
+        "original": "taco …",
+        "analyzed": "tacaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.14",
+        "original": "maṁsaṁ …",
+        "analyzed": "masam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.15",
+        "original": "nhāru …",
+        "analyzed": "nhāru ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.16",
+        "original": "aṭṭhi …",
+        "analyzed": "aṭṭhi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.17",
+        "original": "aṭṭhimiñjaṁ …",
+        "analyzed": "aṭṭhimiñjam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.18",
+        "original": "vakkaṁ …",
+        "analyzed": "vakkam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.19",
+        "original": "hadayaṁ …",
+        "analyzed": "hadayam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.20",
+        "original": "yakanaṁ …",
+        "analyzed": "ya kanam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.21",
+        "original": "kilomakaṁ …",
+        "analyzed": "kilomakam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.22",
+        "original": "pihakaṁ …",
+        "analyzed": "pihakam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.23",
+        "original": "papphāsaṁ …",
+        "analyzed": "papphāsam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.24",
+        "original": "antaṁ …",
+        "analyzed": "antam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.25",
+        "original": "antaguṇaṁ …",
+        "analyzed": "anta guṇam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.26",
+        "original": "udariyaṁ …",
+        "analyzed": "udariyam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.27",
+        "original": "karīsaṁ …",
+        "analyzed": "karīsam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.28",
+        "original": "pittaṁ …",
+        "analyzed": "pittam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.29",
+        "original": "semhaṁ …",
+        "analyzed": "semham ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.30",
+        "original": "pubbo …",
+        "analyzed": "pubbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.31",
+        "original": "lohitaṁ …",
+        "analyzed": "lohitam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.32",
+        "original": "sedo …",
+        "analyzed": "sedaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.33",
+        "original": "medo …",
+        "analyzed": "medaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.34",
+        "original": "assu …",
+        "analyzed": "assu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.35",
+        "original": "vasā …",
+        "analyzed": "vasā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.36",
+        "original": "kheḷo …",
+        "analyzed": "kheḷaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.37",
+        "original": "siṅghāṇikā …",
+        "analyzed": "siṅghāṇikā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.38",
+        "original": "lasikā …",
+        "analyzed": "lasikā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.39",
+        "original": "muttaṁ …pe…",
+        "analyzed": "muttam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.40",
+        "original": "matthake matthaluṅgaṁ nāgaseno”ti?",
+        "analyzed": "matthake matthaluṅgam nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.41",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.42",
+        "original": "“Kiṁ nu kho, bhante, rūpaṁ nāgaseno”ti?",
+        "analyzed": "kim nu khalu bhante rūpam nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.43",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.44",
+        "original": "“Vedanā nāgaseno”ti?",
+        "analyzed": "vedanāḥ nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.45",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.46",
+        "original": "“Saññā nāgaseno”ti?",
+        "analyzed": "saññā nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.47",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.48",
+        "original": "“Saṅkhārā nāgaseno”ti?",
+        "analyzed": "saṅkhārāḥ nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.49",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.50",
+        "original": "“Viññāṇaṁ nāgaseno”ti?",
+        "analyzed": "viññāṇam nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.51",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.52",
+        "original": "“Kiṁ pana, bhante, rūpavedanāsaññāsaṅkhāraviññāṇaṁ nāgaseno”ti?",
+        "analyzed": "kim pana bhante rūpa vedanā saññā saṅkhāra viññāṇam nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.53",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.54",
+        "original": "“Kiṁ pana, bhante, aññatra rūpavedanāsaññāsaṅkhāraviññāṇaṁ nāgaseno”ti?",
+        "analyzed": "kim pana bhante aññatra rūpa vedanā saññā saṅkhāra viññāṇam nāgasena uti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.55",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.56",
+        "original": "“Tamahaṁ, bhante, pucchanto pucchanto na passāmi nāgasenaṁ.",
+        "analyzed": "tam aha bhante pucchantaḥ pucchantaḥ na passāmi nāgasena ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.57",
+        "original": "Nāgasenasaddoyeva nu kho, bhante, nāgaseno”ti?",
+        "analyzed": "nāgasena saddaḥ iva nu kho bhante nāgasenaḥ ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.58",
+        "original": "“Na hi, mahārājā”ti.",
+        "analyzed": "na hi mahā rājāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:3.59",
+        "original": "“Ko panettha nāgaseno, alikaṁ tvaṁ, bhante, bhāsasi musāvādaṁ, natthi nāgaseno”ti.",
+        "analyzed": "kaḥ pana ittha nāgasenaḥ alikam tva bhante bhāsasi musāvāda natthi nāgasenaḥ ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.1",
+        "original": "Atha kho āyasmā nāgaseno milindaṁ rājānaṁ etadavoca—",
+        "analyzed": "atha khalu āyasmā nāgasenaḥ milindam rājānam etat avoca ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.2_0",
+        "original": "“tvaṁ khosi, mahārāja, khattiyasukhumālo accantasukhumālo, tassa te, mahārāja, majjhanhikasamayaṁ",
+        "analyzed": "tvam kho asi mahā rāja khattiya sukhumālaḥ accanta sukhumālaḥ tassa te mahā rāja majjhanhika samaya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.2_1",
+        "original": "tattāya bhūmiyā uṇhāya vālikāya kharāya sakkharakathalikāya madditvā pādenāgacchantassa",
+        "analyzed": "tattāya bhūmiyāḥ uṇhāya vālikāya kharāya sakkhara kathalikāya madditvā pādena āgacchantassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.2_2",
+        "original": "pādā rujjanti, kāyo kilamati, cittaṁ upahaññati, dukkhasahagataṁ kāyaviññāṇaṁ uppajjati,",
+        "analyzed": "pādāḥ rujjanti kāyaḥ kilamati cittam upahaññati dukkha sahagatam kāya viññāṇam uppajjati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.2_3",
+        "original": "kiṁ nu kho tvaṁ pādenāgatosi, udāhu vāhanenā”ti?",
+        "analyzed": "kim nu khalu tvam pādena āgataḥ asi udāhu vāhanena ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.3",
+        "original": "“Nāhaṁ, bhante, pādenāgacchāmi, rathenāhaṁ āgatosmī”ti.",
+        "analyzed": "na aha bhante pādena āgacchāmi rathena aham āgataḥ asmi iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.4",
+        "original": "“Sace tvaṁ, mahārāja, rathenāgatosi, rathaṁ me ārocehi, kiṁ nu kho, mahārāja, īsā ratho”ti?",
+        "analyzed": "sace tva mahā rāja rathena āgataḥ asi ratham me ārocehi kim nu khalu mahā rāja ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.5",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.6",
+        "original": "“Akkho ratho”ti?",
+        "analyzed": "akkhaḥ ratho ti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.7",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.8",
+        "original": "“Cakkāni ratho”ti?",
+        "analyzed": "cakkāni ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.9",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.10",
+        "original": "“Rathapañjaraṁ ratho”ti?",
+        "analyzed": "ratha pañjaram ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.11",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.12",
+        "original": "“Rathadaṇḍako ratho”ti?",
+        "analyzed": "ratha daṇḍakaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.13",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.14",
+        "original": "“Yugaṁ ratho”ti?",
+        "analyzed": "yugam rathā ūti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.15",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.16",
+        "original": "“Rasmiyo ratho”ti?",
+        "analyzed": "rasmiyaḥ ratha uti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.17",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.18",
+        "original": "“Patodalaṭṭhi ratho”ti?",
+        "analyzed": "rathoti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.19",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.20",
+        "original": "“Kiṁ nu kho, mahārāja, īsāakkhacakkarathapañjararathadaṇḍayugarasmipatodā ratho”ti?",
+        "analyzed": "kim nu khalu mahā rāja īsā akkha cakka ratha pañjara ratha daṇḍa yuga rasmi patodāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.21",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.22",
+        "original": "“Kiṁ pana, mahārāja, aññatra īsāakkhacakkarathapañjararathadaṇḍayugarasmipatodā ratho”ti?",
+        "analyzed": "kim pana mahā rāja aññatra īsā akkha cakka ratha pañjara ratha daṇḍa yuga rasmi patodāḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.23",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.24",
+        "original": "“Tamahaṁ, mahārāja, pucchanto pucchanto na passāmi rathaṁ.",
+        "analyzed": "tam aha mahā rāja pucchantaḥ pucchantaḥ na passāmi ratha ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.25",
+        "original": "Rathasaddoyeva nu kho, mahārāja, ratho”ti?",
+        "analyzed": "nu khalu mahā rāja rathaḥ iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.26",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.27_0",
+        "original": "“Ko panettha ratho, alikaṁ tvaṁ, mahārāja, bhāsasi musāvādaṁ, natthi ratho, tvaṁsi,",
+        "analyzed": "kaḥ pana ittha rathaḥ alikam tva mahā rāja bhāsasi musāvāda natthi ratho tvasi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.27_1",
+        "original": "mahārāja, sakalajambudīpe aggarājā, kassa pana tvaṁ bhāyitvā musāvādaṁ bhāsasi, suṇantu",
+        "analyzed": "mahā rāja sakala jambudīpe agga rājā kassa pana tvam bhāyitvā musāvādam bhāsasi suṇantu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.27_2",
+        "original": "me bhonto pañcasatā yonakā asītisahassā ca bhikkhū, ayaṁ milindo rājā evamāha—",
+        "analyzed": "me bhonto pañca satāḥ yonakāḥ asīti sahassā ca bhikkhū ayam milindaḥ rājā evam āha ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:4.28",
+        "original": "‘rathenāhaṁ āgatosmī’ti, sace tvaṁ, mahārāja, rathenāgatosi, ‘rathaṁ me ārocehī’ti vutto samāno rathaṁ na sampādeti, kallaṁ nu kho tadabhinanditun”ti.",
+        "analyzed": "rathena aham āgataḥ asmi iti sace tva mahā rāja rathena āgataḥ asi ratham me ārocehi iti vuttaḥ samānaḥ ratham na sampādeti kallam nu kho tat abhinanditunti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:5.1",
+        "original": "Evaṁ vutte, pañcasatā yonakā āyasmato nāgasenassa sādhukāraṁ datvā milindaṁ rājānaṁ etadavocuṁ—",
+        "analyzed": "evam vutte pañcasatāḥ yonakāḥ āyasmataḥ nāgasenassa sādhukāram da tvā milindam rājānam etat avocuḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:5.2",
+        "original": "“idāni kho tvaṁ, mahārāja, sakkonto bhāsassū”ti.",
+        "analyzed": "idāni kho tva mahā rāja sakkontaḥ bhāsassu iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:6.1",
+        "original": "Atha kho milindo rājā āyasmantaṁ nāgasenaṁ etadavoca—",
+        "analyzed": "atha khalu milindaḥ rājā āyasmantam nāgasenam etat avoca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:6.2_0",
+        "original": "“nāhaṁ, bhante nāgasena, musā bhaṇāmi, īsañca paṭicca akkhañca paṭicca cakkāni ca",
+        "analyzed": "na aha bhante nāgasena musā bhaṇāmi īsañca paṭicca akkhañca paṭicca cakkāni ca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:6.2_1",
+        "original": "paṭicca rathapañjarañca paṭicca rathadaṇḍakañca paṭicca ‘ratho’ti saṅkhā samaññā",
+        "analyzed": "paṭicca ratha pañjarañca paṭicca ratha daṇḍakañca paṭicca rathaḥ uti saṅkhā samaññā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:6.2_2",
+        "original": "paññatti vohāro nāmamattaṁ pavattatī”ti.",
+        "analyzed": "paññatti vohāraḥ nāma mattam pavattati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:7.1",
+        "original": "“Sādhu kho tvaṁ, mahārāja, rathaṁ jānāsi;",
+        "analyzed": "sādhu khalu tva mahā rāja ratham jānāsi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:7.2_0",
+        "original": "evameva kho, mahārāja, mayhampi kese ca paṭicca lome ca paṭicca …pe… matthake matthaluṅgañca",
+        "analyzed": "evam eva kho mahā rāja mayham pi kese ca paṭicca lome ca paṭicca pe matthake mattha luṅgañca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:7.2_1",
+        "original": "paṭicca rūpañca paṭicca vedanañca paṭicca saññañca paṭicca saṅkhāre ca paṭicca viññāṇañca",
+        "analyzed": "paṭicca rūpañca paṭicca vedanañca paṭicca saññañca paṭicca saṅkhāre ca paṭicca viññāṇañca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:7.2_2",
+        "original": "paṭicca ‘nāgaseno’ti saṅkhā samaññā paññatti vohāro nāmamattaṁ pavattati, paramatthato",
+        "analyzed": "paṭicca nāgasenaḥ ti saṅkhā samaññā paññatti vohāraḥ nāma mattam pavattati paramatthato ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:7.2_3",
+        "original": "panettha puggalo nūpalabbhati.",
+        "analyzed": "pana ittha puggalaḥ nūpalabbhati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:7.3",
+        "original": "Bhāsitampetaṁ, mahārāja, vajirāya bhikkhuniyā bhagavato sammukhā—",
+        "analyzed": "mahā rāja vajirāya bhikkhuniyāḥ bhagavataḥ sammukhā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:8.1",
+        "original": "‘Yathā hi aṅgasambhārā,",
+        "analyzed": "yathā hi aṅga sambhārā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:8.2",
+        "original": "hoti saddo ratho iti;",
+        "analyzed": "hoti saddo ratho iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:8.3",
+        "original": "Evaṁ khandhesu santesu,",
+        "analyzed": "evam khandhesu santesu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:8.4",
+        "original": "hoti “satto”ti sammutī’”ti.",
+        "analyzed": "hoti satto ti sammutī iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:9.1_0",
+        "original": "“Acchariyaṁ, bhante nāgasena, abbhutaṁ, bhante nāgasena, aticitrāni pañhapaṭibhānāni",
+        "analyzed": "acchariya bhante nāgasena abbhuta bhante nāgasena ati citrāni pañha paṭibhānāni ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:9.1_1",
+        "original": "visajjitāni, yadi buddho tiṭṭheyya sādhukāraṁ dadeyya, sādhu sādhu, nāgasena, aticitrāni",
+        "analyzed": "visajjitāni yadi buddhaḥ tiṭṭheyya sādhukāram dadeyya sādhu sādhu nāgasena ati citrāni ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:9.1_2",
+        "original": "pañhapaṭibhānāni visajjitānī”ti.",
+        "analyzed": "pañha paṭibhānāni visajjitāni iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_3.1.1:10.1",
+        "original": "Paññattipañho paṭhamo.",
+        "analyzed": "paññatti pañhaḥ paṭhamaḥ ",
+        "folio": "10"
+    }
+]

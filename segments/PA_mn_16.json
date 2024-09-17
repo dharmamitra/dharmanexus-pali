@@ -1,0 +1,572 @@
+[
+    {
+        "segmentnr": "PA_mn_16:0.1",
+        "original": "Majjhima Nikāya 16",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_16:0.2",
+        "original": "Cetokhilasutta",
+        "analyzed": "cetokhilasutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_16:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_16:1.2",
+        "original": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "ekam samayam bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_16:1.3",
+        "original": "Tatra kho bhagavā bhikkhū āmantesi:",
+        "analyzed": "tatra kho bhagavā bhikkhū āmantesi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_16:1.4",
+        "original": "“bhikkhavo”ti.",
+        "analyzed": "bhikkhavaḥ ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_16:1.5",
+        "original": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ.",
+        "analyzed": "bhadanta iti te bhikkhū bhagavataḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_16:1.6",
+        "original": "Bhagavā etadavoca:",
+        "analyzed": "bhagavān etat avoca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_16:2.1_0",
+        "original": "“Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā appahīnā, pañca cetasovinibandhā",
+        "analyzed": "yassa kassaci bhikkhave bhikkhuno pañca cetasokhilāḥ appahīnāḥ pañca cetasovinibandhāḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_16:2.1_1",
+        "original": "asamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—netaṁ ṭhānaṁ vijjati.",
+        "analyzed": "asamucchinnā saḥ vatimasmin dhamma vinaye vuddhim virūḷhim vepullam āpajjissati iti na etam ṭhānam vijjati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_16:3.1",
+        "original": "Katamāssa pañca cetokhilā appahīnā honti?",
+        "analyzed": "katamāssa pañca cetokhilāḥ appahīnāḥ honti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_16:3.2",
+        "original": "Idha, bhikkhave, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati.",
+        "analyzed": "idha bhikkhave bhikkhu satthari kaṅkhati vicikicchati na adhimuccati na sampasīdati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_16:3.3",
+        "original": "Yo so, bhikkhave, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu satthari kaṅkhati vicikicchati na adhimuccati na sampasīdati tassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_16:3.4",
+        "original": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo appahīno hoti.",
+        "analyzed": "yassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam paṭhamaḥ cetaḥ khilo appahīnaḥ hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_16:4.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu dhamme kaṅkhati vicikicchati nādhimuccati na sampasīdati …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu dhamme kaṅkhati vicikicchati na adhimuccati na sampasīdati pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_16:4.2",
+        "original": "evamassāyaṁ dutiyo cetokhilo appahīno hoti.",
+        "analyzed": "evam assa ayam dutiyaḥ cetaḥ khilo appahīnaḥ hoti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_16:5.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu saṅghe kaṅkhati vicikicchati nādhimuccati na sampasīdati …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu saṅghe kaṅkhati vicikicchati na adhimuccati na sampasīdati pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_16:5.2",
+        "original": "evamassāyaṁ tatiyo cetokhilo appahīno hoti.",
+        "analyzed": "evam assa ayam tatiyaḥ cetaḥ khilo appahīnaḥ hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_16:6.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati na sampasīdati.",
+        "analyzed": "puna capara bhikkhave bhikkhu sikkhāya kaṅkhati vicikicchati na adhimuccati na sampasīdati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_16:6.2",
+        "original": "Yo so, bhikkhave, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati na sampasīdati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu sikkhāya kaṅkhati vicikicchati na adhimuccati na sampasīdati tassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_16:6.3",
+        "original": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ catuttho cetokhilo appahīno hoti.",
+        "analyzed": "yassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam catuttho cetaḥ khilo appahīnaḥ hoti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_16:7.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto.",
+        "analyzed": "puna capara bhikkhave bhikkhu sabrahmacārīsu kupitaḥ hoti anatta manaḥ āhata cittaḥ khila jātaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_16:7.2",
+        "original": "Yo so, bhikkhave, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu sabrahmacārīsu kupitaḥ hoti anatta manaḥ āhata citto khila jāto tassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_16:7.3",
+        "original": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo appahīno hoti.",
+        "analyzed": "yassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam pañcamaḥ cetaḥ khilo appahīnaḥ hoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_16:7.4",
+        "original": "Imāssa pañca cetokhilā appahīnā honti.",
+        "analyzed": "imāssa pañca cetokhilā appahīnā honti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_16:8.1",
+        "original": "Katamāssa pañca cetasovinibandhā asamucchinnā honti?",
+        "analyzed": "katamāḥ sa pañca cetasaḥ vinibandhāḥ asamucchinnāḥ honti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_16:8.2",
+        "original": "Idha, bhikkhave, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho.",
+        "analyzed": "idha bhikkhave bhikkhu kāme avīta rāgaḥ hoti avigata chandaḥ avigata pemaḥ avigata pipāsaḥ avigata pariḷāhaḥ avigata taṇhaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_16:8.3",
+        "original": "Yo so, bhikkhave, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu kāme a vīta rāgaḥ hoti avigata chandaḥ avigata pemaḥ avigata pipāsaḥ avigata pariḷāhaḥ avigata taṇhaḥ tassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_16:8.4",
+        "original": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetasovinibandho asamucchinno hoti.",
+        "analyzed": "yassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam paṭhamaḥ cetasovinibandho asamucchinnaḥ hoti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_16:9.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu kāye avītarāgo hoti …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu kāye a vīta rāgaḥ hoti pe",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_16:9.2",
+        "original": "evamassāyaṁ dutiyo cetasovinibandho asamucchinno hoti.",
+        "analyzed": "evam assa ayam dutiyaḥ cetasaḥ vinibandhaḥ asamucchinnaḥ hoti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_16:10.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu rūpe avītarāgo hoti …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu rūpe a vīta rāgaḥ hoti pe",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_16:10.2",
+        "original": "evamassāyaṁ tatiyo cetasovinibandho asamucchinno hoti.",
+        "analyzed": "evam assa ayam tatiyaḥ cetasaḥ vinibandhaḥ asamucchinnaḥ hoti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_16:11.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharati.",
+        "analyzed": "puna capara bhikkhave bhikkhu yāvadattham udarāvadehakam bhuñjitvā seyya sukham passa sukham middha sukham anuyuttaḥ viharati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_16:11.2_0",
+        "original": "Yo so, bhikkhave, bhikkhu yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu yāvadattham udarāvadehakam bhuñjitvā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_16:11.2_1",
+        "original": "middhasukhaṁ anuyutto viharati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "middha sukham anuyuttaḥ viharati tassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_16:11.3",
+        "original": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ catuttho cetasovinibandho asamucchinno hoti.",
+        "analyzed": "yassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam catuttho cetasovinibandho asamucchinnaḥ hoti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.1_0",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati:",
+        "analyzed": "puna capara bhikkhave bhikkhu aññataram devanikāyam paṇidhāya brahmacariyam carati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.1_1",
+        "original": "‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti.",
+        "analyzed": "iminā aham sīlena vā vatena vā tapena vā brahmacariyena vā devaḥ vā bhavissāmi devaññataraḥ vā ati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.2_0",
+        "original": "Yo so, bhikkhave, bhikkhu aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati: ‘imināhaṁ",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu aññataram devanikāyam paṇidhāya brahmacariyam carati iminā āha ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.2_1",
+        "original": "sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti,",
+        "analyzed": "sīlena vā vatena vā tapena vā brahmacariyena vā devaḥ vā bhavissāmi devaññataraḥ vā ati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.2_2",
+        "original": "tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "tassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.3",
+        "original": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetasovinibandho asamucchinno hoti.",
+        "analyzed": "yassa cittam na namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam pañcamo cetasovinibandho asamucchinnaḥ hoti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:12.4",
+        "original": "Imāssa pañca cetasovinibandhā asamucchinnā honti.",
+        "analyzed": "pañca cetasaḥ vinibandhāḥ asamucchinnāḥ honti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_16:13.1_0",
+        "original": "Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā appahīnā, ime pañca cetasovinibandhā",
+        "analyzed": "yassa kassaci bhikkhave bhikkhunaḥ ime pañca cetaḥ khilāḥ a pahīnāḥ ime pañca cetaso vinibandhā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_16:13.1_1",
+        "original": "asamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—netaṁ ṭhānaṁ vijjati.",
+        "analyzed": "asamucchinnā saḥ vatimasmin dhamma vinaye vuddhim virūḷhim vepullam āpajjissati iti na etam ṭhānam vijjati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_16:14.1_0",
+        "original": "Yassa kassaci, bhikkhave, bhikkhuno pañca cetokhilā pahīnā, pañca cetasovinibandhā",
+        "analyzed": "yassa kassaci bhikkhave bhikkhuno pañca cetaḥ khilā pahīnā pañca cetaso vinibandhā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_16:14.1_1",
+        "original": "susamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—ṭhānametaṁ vijjati.",
+        "analyzed": "su samucchinnā saḥ vatimasmin dhamma vinaye vuddhim virūḷhim vepullam āpajjissati iti ṭhānam etat vijjati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_16:15.1",
+        "original": "Katamāssa pañca cetokhilā pahīnā honti?",
+        "analyzed": "pañca pahīnāḥ honti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_16:15.2",
+        "original": "Idha, bhikkhave, bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati sampasīdati.",
+        "analyzed": "idha bhikkhave bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati sampasīdati ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_16:15.3",
+        "original": "Yo so, bhikkhave, bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati sampasīdati, tassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu satthari na kaṅkhati na vicikicchati adhimuccati sampasīdati tassa cittam namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_16:15.4",
+        "original": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo pahīno hoti.",
+        "analyzed": "yassa cittam namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam paṭhamaḥ cetaḥ khilo pahīnaḥ hoti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_16:16.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu dhamme na kaṅkhati na vicikicchati adhimuccati sampasīdati …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu dhamme na kaṅkhati na vicikicchati adhimuccati sampasīdati pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_16:16.2",
+        "original": "evamassāyaṁ dutiyo cetokhilo pahīno hoti.",
+        "analyzed": "evam assa ayam dutiyaḥ cetaḥ khilaḥ pahīnaḥ hoti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_16:17.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu saṅghe na kaṅkhati na vicikicchati adhimuccati sampasīdati …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu saṅghe na kaṅkhati na vicikicchati adhimuccati sampasīdati pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_16:17.2",
+        "original": "evamassāyaṁ tatiyo cetokhilo pahīno hoti.",
+        "analyzed": "evam assa ayam tatiyaḥ cetaḥ khilaḥ pahīnaḥ hoti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_16:18.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu sikkhāya na kaṅkhati na vicikicchati adhimuccati sampasīdati …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu sikkhāya na kaṅkhati na vicikicchati adhimuccati sampasīdati pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_16:18.2",
+        "original": "evamassāyaṁ catuttho cetokhilo pahīno hoti.",
+        "analyzed": "evam assa ayam catutthaḥ cetaḥ khilo pahīnaḥ hoti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_16:19.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu sabrahmacārīsu na kupito hoti na anattamano anāhatacitto akhilajāto.",
+        "analyzed": "puna capara bhikkhave bhikkhu sabrahmacārīsu na kupitaḥ hoti na anatta manaḥ anāhata cittaḥ akhila jātaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_16:19.2",
+        "original": "Yo so, bhikkhave, bhikkhu sabrahmacārīsu na kupito hoti na anattamano anāhatacitto akhilajāto, tassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu sabrahmacārīsu na kupitaḥ hoti na anatta manaḥ anāhata cittaḥ akhila jātaḥ tassa cittam namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_16:19.3",
+        "original": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo pahīno hoti.",
+        "analyzed": "yassa cittam namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam pañcamaḥ cetaḥ khilo pahīnaḥ hoti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_16:19.4",
+        "original": "Imāssa pañca cetokhilā pahīnā honti.",
+        "analyzed": "pañca cetaḥ khilā pahīnāḥ honti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_16:20.1",
+        "original": "Katamāssa pañca cetasovinibandhā susamucchinnā honti?",
+        "analyzed": "pañca cetasaḥ vinibandhā su samucchinnāḥ honti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_16:20.2",
+        "original": "Idha, bhikkhave, bhikkhu kāme vītarāgo hoti vigatacchando vigatapemo vigatapipāso vigatapariḷāho vigatataṇho.",
+        "analyzed": "idha bhikkhave bhikkhu kāme vīta rāgaḥ hoti vigata chandaḥ vigata pemaḥ vigata pipāsaḥ vigata pariḷāhaḥ vigata taṇhaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_16:20.3",
+        "original": "Yo so, bhikkhave, bhikkhu kāme vītarāgo hoti vigatacchando vigatapemo vigatapipāso vigatapariḷāho vigatataṇho, tassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu kāme vīta rāgaḥ hoti vigata chandaḥ vigata pemaḥ vigata pipāsaḥ vigata pariḷāhaḥ vigata taṇhaḥ tassa cittam namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_16:20.4",
+        "original": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetasovinibandho susamucchinno hoti.",
+        "analyzed": "yassa cittam namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam paṭhamaḥ cetasovinibandho su samucchinno hoti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_16:21.1",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu kāye vītarāgo hoti …pe…",
+        "analyzed": "puna capara bhikkhave bhikkhu kāye vīta rāgaḥ hoti pe",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_16:22.1",
+        "original": "rūpe vītarāgo hoti …pe…",
+        "analyzed": "rūpe vīta rāgaḥ hoti pe ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_16:23.1",
+        "original": "na yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharati.",
+        "analyzed": "na yāvadattham udara avadehakam bhuñjitvā seyya sukham passa sukham middha sukham anuyuttaḥ viharati ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_16:23.2_0",
+        "original": "Yo so, bhikkhave, bhikkhu na yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu na yāvadattham udarāvadehakam bhuñjitvā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_16:23.2_1",
+        "original": "middhasukhaṁ anuyutto viharati, tassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "middha sukham anuyuttaḥ viharati tassa cittam namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_16:23.3",
+        "original": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ catuttho cetasovinibandho susamucchinno hoti.",
+        "analyzed": "yassa cittam namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam catuttho cetasovinibandho su samucchinno hoti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.1_0",
+        "original": "Puna caparaṁ, bhikkhave, bhikkhu na aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ",
+        "analyzed": "puna capara bhikkhave bhikkhu na aññataram devanikāyam paṇidhāya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.1_1",
+        "original": "carati: ‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti.",
+        "analyzed": "carati iminā aham sīlena vā vatena vā tapena vā brahmacariyena vā devaḥ vā bhavissāmi devaññataraḥ vā ati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.2_0",
+        "original": "Yo so, bhikkhave, bhikkhu na aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati:",
+        "analyzed": "yaḥ saḥ bhikkhave bhikkhu na aññataram devanikāyam paṇidhāya brahmacariyam carati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.2_1",
+        "original": "‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro",
+        "analyzed": "iminā aham sīlena vā vatena vā tapena vā brahmacariyena vā devaḥ vā bhavissāmi devaññataraḥ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.2_2",
+        "original": "vā’ti, tassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya.",
+        "analyzed": "vāti tassa cittam namati ātappāya anuyogāya sātaccāya padhānāya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.3",
+        "original": "Yassa cittaṁ namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetasovinibandho susamucchinno hoti.",
+        "analyzed": "yassa cittam namati ātappāya anuyogāya sātaccāya padhānāya evam assa ayam pañcamaḥ cetasovinibandho su samucchinno hoti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:24.4",
+        "original": "Imāssa pañca cetasovinibandhā susamucchinnā honti.",
+        "analyzed": "pañca su samucchinnāḥ honti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_16:25.1_0",
+        "original": "Yassa kassaci, bhikkhave, bhikkhuno ime pañca cetokhilā pahīnā, ime pañca cetasovinibandhā",
+        "analyzed": "yassa kassaci bhikkhave bhikkhunaḥ ime pañca cetaḥ khilā pahīnāḥ ime pañca cetasaḥ vinibandhā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_16:25.1_1",
+        "original": "susamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—ṭhānametaṁ vijjati.",
+        "analyzed": "su samucchinnā saḥ vatimasmin dhamma vinaye vuddhim virūḷhim vepullam āpajjissati iti ṭhānam etat vijjati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_16:26.1",
+        "original": "So chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti,",
+        "analyzed": "saḥ chanda samādhi padhāna saṅkhāra samannāgatam iddhipādam bhāva iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_16:26.2",
+        "original": "vīriyasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti,",
+        "analyzed": "vīriya samādhi padhāna saṅkhāra samannāgatam iddhipādam bhāva iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_16:26.3",
+        "original": "cittasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti,",
+        "analyzed": "citta samādhi padhāna saṅkhāra samannāgatam iddhipādam bhāva iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_16:26.4",
+        "original": "vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, ussoḷhīyeva pañcamī.",
+        "analyzed": "vīmasā samādhi padhāna saṅkhāra samannāgatam iddhipādam bhāva iti ussoḍhīya iva pañcamī ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.1",
+        "original": "Sa kho so, bhikkhave, evaṁ ussoḷhipannarasaṅgasamannāgato bhikkhu bhabbo abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāya.",
+        "analyzed": "sa kho saḥ bhikkhave evam ussoḷhi pannarasaṅga samannāgataḥ bhikkhu bhabbaḥ abhinibbidāya bhabbaḥ sambodhāya bhabbaḥ anuttarassa yogakkhemassa adhigamāya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.2",
+        "original": "Seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.",
+        "analyzed": "seyyathā api bhikkhave kukkuṭiyāḥ aṇḍāni aṭṭha vā dasa vā dvādasa vā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.3",
+        "original": "Tānassu kukkuṭiyā sammā adhisayitāni sammā pariseditāni sammā paribhāvitāni.",
+        "analyzed": "kukkuṭiyā sammā adhisayitāni sammā pariseditāni sammā paribhāvitāni ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.4",
+        "original": "Kiñcāpi tassā kukkuṭiyā na evaṁ icchā uppajjeyya:",
+        "analyzed": "kiñca api tassā kukkuṭiyā na evam icchā uppajjeyya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.5",
+        "original": "‘aho vatime kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṁ padāletvā sotthinā abhinibbhijjeyyun’ti.",
+        "analyzed": "aho vati me kukkuṭa potakā pāda nakha sikhāya vā mukha tuṇḍakena vā aṇḍa kosam padāletvā sotthinā abhinibbhijjeyyunti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.6",
+        "original": "Atha kho bhabbāva te kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṁ padāletvā sotthinā abhinibbhijjituṁ.",
+        "analyzed": "atha kho bhabbāva te kukkuṭa potakā pāda nakha sikhāya vā mukha tuṇḍakena vā aṇḍa kosam padāletvā sotthinā abhinibbhijjitu ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.7",
+        "original": "Evameva kho, bhikkhave, evaṁ ussoḷhipannarasaṅgasamannāgato bhikkhu bhabbo abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāyā”ti.",
+        "analyzed": "evam eva kho bhikkhave evam ussoḷhi pannarasaṅga samannāgataḥ bhikkhu bhabbaḥ abhinibbidāya bhabbaḥ sambodhāya bhabbaḥ anuttarassa yogakkhemassa adhigamāya ati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.8",
+        "original": "Idamavoca bhagavā.",
+        "analyzed": "idam avoca bhagavān ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.9",
+        "original": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.",
+        "analyzed": "attamanāḥ te bhikkhū bhagavataḥ bhāsitam abhinandunti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_16:27.10",
+        "original": "Cetokhilasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.",
+        "analyzed": "cetokhila suttam niṭṭhitam chaṭṭha ",
+        "folio": "27"
+    }
+]

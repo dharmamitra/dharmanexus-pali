@@ -1,0 +1,380 @@
+[
+    {
+        "segmentnr": "PA_mil_5.3.2:0.1",
+        "original": "Milindapañha",
+        "analyzed": "milindapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:0.2",
+        "original": "Meṇḍakapañha",
+        "analyzed": "meṇḍakapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:0.3",
+        "original": "Paṇāmitavagga",
+        "analyzed": "paṇāmita vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:0.4",
+        "original": "2. Sabbasattahitapharaṇapañha",
+        "analyzed": "       ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.1",
+        "original": "“Bhante nāgasena, tumhe bhaṇatha—",
+        "analyzed": "bhante nāgasena tumhe bhaṇatha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.2",
+        "original": "‘tathāgato sabbasattānaṁ ahitamapanetvā hitamupadahatī’ti.",
+        "analyzed": "tathāgataḥ sabba sattānam ahitam apanetvā hitam upadahati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.3",
+        "original": "Puna ca bhaṇatha aggikkhandhūpame dhammapariyāye bhaññamāne ‘saṭṭhimattānaṁ bhikkhūnaṁ uṇhaṁ lohitaṁ mukhato uggatan’ti.",
+        "analyzed": "puna ca bhaṇatha aggi kkhandha upame dhammapariyāye bhaññamāne saṭṭhimattānam bhikkhūnam uṇham lohitam mukhataḥ uggatanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.4",
+        "original": "Aggikkhandhūpamaṁ, bhante, dhammapariyāyaṁ desentena tathāgatena saṭṭhimattānaṁ bhikkhūnaṁ hitamapanetvā ahitamupadahitaṁ.",
+        "analyzed": "aggi khandha upama bhante dhammapariyāyam desentena tathāgatena saṭṭhimattānam bhikkhūnam hitam apanetvā ahitam upadahita ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.5_0",
+        "original": "Yadi, bhante nāgasena, tathāgato sabbasattānaṁ ahitamapanetvā hitamupadahati, tena",
+        "analyzed": "yadi bhante nāgasena tathāgataḥ sabba sattānam ahitam apanetvā hitam upadahati tena ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.5_1",
+        "original": "hi aggikkhandhūpame dhammapariyāye bhaññamāne saṭṭhimattānaṁ bhikkhūnaṁ uṇhaṁ lohitaṁ",
+        "analyzed": "hi aggi khandha upame dhammapariyāye bhaññamāne saṭṭhimattānam bhikkhūnam uṇham lohita ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.5_2",
+        "original": "mukhato uggatanti yaṁ vacanaṁ, taṁ micchā.",
+        "analyzed": "mukhataḥ yam tam micchā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.6_0",
+        "original": "Yadi aggikkhandhūpame dhammapariyāye bhaññamāne saṭṭhimattānaṁ bhikkhūnaṁ uṇhaṁ lohitaṁ",
+        "analyzed": "yadi aggi kkhandha upame dhammapariyāye bhaññamāne saṭṭhimattānam bhikkhūnam uṇham lohita ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.6_1",
+        "original": "mukhato uggataṁ, tena hi tathāgato sabbasattānaṁ ahitamapanetvā hitamupadahatīti",
+        "analyzed": "mukhataḥ uggata tena hi tathāgataḥ sabba sattānam ahitam apanetvā hitam upadahati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.6_2",
+        "original": "tampi vacanaṁ micchā.",
+        "analyzed": "vacanam micchā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:1.7",
+        "original": "Ayampi ubhato koṭiko pañho tavānuppatto, so tayā nibbāhitabbo”ti.",
+        "analyzed": "ayam pi ubhatas koṭikaḥ pañho tava anuppatto saḥ tayā nibbāhitabbaḥ ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:2.1_0",
+        "original": "“Tathāgato, mahārāja, sabbasattānaṁ ahitamapanetvā hitamupadahati, aggikkhandhūpame",
+        "analyzed": "tathāgataḥ mahā rāja sabba sattānam ahitam apanetvā hitam upadahati aggi kkhandha upame ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:2.1_1",
+        "original": "dhammapariyāye bhaññamāne saṭṭhimattānaṁ bhikkhūnaṁ uṇhaṁ lohitaṁ mukhato uggataṁ,",
+        "analyzed": "dhammapariyāye bhaññamāne saṭṭhimattānam bhikkhūnam uṇham lohitam mukhataḥ uggata ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:2.1_2",
+        "original": "tañca pana na tathāgatassa katena, tesaṁyeva attano katenā”ti.",
+        "analyzed": "tat ca pana na tathāgatassa katena tesayā iva attano katena ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.1",
+        "original": "“Yadi, bhante nāgasena, tathāgato aggikkhandhūpamaṁ dhammapariyāyaṁ na bhāseyya, api nu tesaṁ uṇhaṁ lohitaṁ mukhato uggaccheyyā”ti.",
+        "analyzed": "yadi bhante nāgasena tathāgataḥ aggi khandha upamam dhammapariyāyam na bhāseyya api nu tesam uṇham lohitam mukhataḥ uggaccheyya ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.2",
+        "original": "“Na hi, mahārāja, micchāpaṭipannānaṁ tesaṁ bhagavato dhammapariyāyaṁ sutvā pariḷāho kāye uppajji, tena tesaṁ pariḷāhena uṇhaṁ lohitaṁ mukhato uggatan”ti.",
+        "analyzed": "na hi mahā rāja micchā paṭipannānam tesam bhagavataḥ dhammapariyāyam sutvā pariḷāhaḥ kāye uppajji tena tesam pariḷāhena uṇham lohitam mukhataḥ uggatanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.3_0",
+        "original": "“Tena hi, bhante nāgasena, tathāgatasseva katena tesaṁ uṇhaṁ lohitaṁ mukhato uggataṁ,",
+        "analyzed": "tena hi bhante nāgasena tathāgatassa iva katena tesam uṇham lohitam mukhataḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.3_1",
+        "original": "tathāgatoyeva tattha adhikāro tesaṁ nāsanāya, yathā nāma, bhante nāgasena, ahi vammikaṁ",
+        "analyzed": "tathāgataḥ yeva tattha adhikāraḥ tesam na āsanāya yathā nāma bhante nāgasena ahi vammika ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.3_2",
+        "original": "paviseyya, athaññataro paṁsukāmo puriso vammikaṁ bhinditvā paṁsuṁ hareyya, tassa",
+        "analyzed": "paviseyya athaññataraḥ pasu kāmaḥ purisaḥ vammikam bhinditvā pasum hareyya tassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.3_3",
+        "original": "paṁsuharaṇena vammikassa susiraṁ pidaheyya, atha tattheva so assāsaṁ alabhamāno mareyya,",
+        "analyzed": "pasu haraṇena vammikassa susiram pidaheyya atha tattha iva saḥ assāsam a labhamānaḥ mareyya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.3_4",
+        "original": "nanu so, bhante, ahi tassa purisassa katena maraṇappatto”ti.",
+        "analyzed": "nanu saḥ bhante ahi tassa purisassa katena maraṇa ppatto ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.4",
+        "original": "“Āma, mahārājā”ti.",
+        "analyzed": "āma mahārāja ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:3.5",
+        "original": "“Evameva kho, bhante nāgasena, tathāgatoyeva tattha adhikāro tesaṁ nāsanāyā”ti.",
+        "analyzed": "evam eva kho bhante nāgasena tathāgataḥ yā iva tattha adhikāraḥ tesam na āsanāya ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.1",
+        "original": "“Tathāgato, mahārāja, dhammaṁ desayamāno anunayappaṭighaṁ na karoti, anunayappaṭighavippamutto dhammaṁ deseti, evaṁ dhamme desīyamāne ye tattha sammāpaṭipannā, te bujjhanti.",
+        "analyzed": "tathāgataḥ mahā rāja dhammam desayamānaḥ anunaya ppaṭigham na karoti anunaya ppaṭigha vippamuttaḥ dhammam deseti evam dhamme desīyamāne ye tattha sammā paṭipannā te bujjhanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.2",
+        "original": "Ye pana micchāpaṭipannā, te patanti.",
+        "analyzed": "ye pana micchā paṭipannā te patanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.3_0",
+        "original": "Yathā, mahārāja, purisassa ambaṁ vā jambuṁ vā madhukaṁ vā cālayamānassa yāni tattha",
+        "analyzed": "yathā mahā rāja purisassa ambam vā jambum vā madhukam vā cālayamānassa yāni ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.3_1",
+        "original": "phalāni sārāni daḷhabandhanāni, tāni tattheva accutāni tiṭṭhanti, yāni tattha phalāni",
+        "analyzed": "phalāni sārāni daḷha bandhanāni tāni tattha iva accutāni tiṭṭhanti yāni tattha phalāni ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.3_2",
+        "original": "pūtivaṇṭamūlāni dubbalabandhanāni, tāni patanti;",
+        "analyzed": "pūti vaṇṭa mūlāni dubbala bandhanāni tāni patanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.4_0",
+        "original": "evameva kho, mahārāja, tathāgato dhammaṁ desayamāno anunayappaṭighaṁ na karoti, anunayappaṭighavippamutto",
+        "analyzed": "evam eva kho mahā rāja tathāgataḥ dhammam desayamānaḥ anunaya ppaṭigham na karoti anunaya ppaṭigha vippamuttaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.4_1",
+        "original": "dhammaṁ deseti, evaṁ dhamme desīyamāne ye tattha sammāpaṭipannā, te bujjhanti.",
+        "analyzed": "dhammaṃ deseti evam dhamme desīyamāne ye tattha sammāpaṭipannā te bujjhanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:4.5",
+        "original": "Ye pana micchāpaṭipannā, te patanti.",
+        "analyzed": "ye pana micchā paṭipannā te patanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:5.1",
+        "original": "Yathā vā pana, mahārāja, kassako dhaññaṁ ropetukāmo khettaṁ kasati, tassa kasantassa anekasatasahassāni tiṇāni maranti;",
+        "analyzed": "yathā vā pana mahā rāja kassakaḥ dhaññam ropetu kāmo khettam kasati tassa kasantassa aneka sata sahassāni tiṇāni maranti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:5.2",
+        "original": "evameva kho, mahārāja, tathāgato paripakkamānase satte bodhento anunayappaṭighavippamutto dhammaṁ deseti, evaṁ dhamme desīyamāne ye tattha sammāpaṭipannā, te bujjhanti.",
+        "analyzed": "evam eva kho mahā rāja tathāgataḥ paripakka mānase satte bodhentaḥ anunaya ppaṭigha vippamuttaḥ dhammam deseti evam dhamme desīyamāne ye tattha sammā paṭipannā te bujjhanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:5.3",
+        "original": "Ye pana micchāpaṭipannā, te tiṇāni viya maranti.",
+        "analyzed": "ye pana micchā paṭipannā te tiṇāni viya maranti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:6.1",
+        "original": "Yathā vā pana, mahārāja, manussā rasahetu yantena ucchuṁ pīḷayanti, tesaṁ ucchuṁ pīḷayamānānaṁ ye tattha yantamukhagatā kimayo, te pīḷiyanti;",
+        "analyzed": "yathā vā pana mahā rāja manussāḥ rasa hetu yantena ucchum pīḍayanti tesam ucchum pīḷayamānānam ye tattha yanta mukha gatā te ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:6.2",
+        "original": "evameva kho, mahārāja, tathāgato paripakkamānase satte bodhento dhammayantamabhipīḷayati, ye tattha micchāpaṭipannā, te kimī viya marantī”ti.",
+        "analyzed": "evam eva kho mahā rāja tathāgataḥ paripakka mānase satte bodhentaḥ dhammayantam abhipīḍayati ye tattha micchā paṭipannā te kimī viya maranti iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:7.1",
+        "original": "“Nanu, bhante nāgasena, te bhikkhū tāya dhammadesanāya patitā”ti?",
+        "analyzed": "nanu bhante nāgasena te bhikkhū tāya dhamma desanāya patitā ati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:7.2",
+        "original": "“Api nu kho, mahārāja, tacchako rukkhaṁ tacchanto ujukaṁ parisuddhaṁ karotī”ti?",
+        "analyzed": "api nu khalu mahā rāja tat śakaḥ rukkham tat śantaḥ ujukam parisuddham karoti iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:7.3",
+        "original": "“Na hi, bhante, vajjanīyaṁ apanetvā tacchako rukkhaṁ ujukaṁ parisuddhaṁ karotī”ti.",
+        "analyzed": "na hi bhante vajjanīyam apanetvā tat śakaḥ rukkham ujukam parisuddham karoti iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:7.4_0",
+        "original": "“Evameva kho, mahārāja, tathāgato parisaṁ rakkhanto na sakkoti bodhaneyye satte bodhetuṁ,",
+        "analyzed": "evam eva kho mahā rāja tathāgataḥ parisam rakkhantaḥ na sakkoti bodhaneyye satte bodhetu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:7.4_1",
+        "original": "micchāpaṭipanne pana satte apanetvā bodhaneyye satte bodheti, attakatena pana te,",
+        "analyzed": "micchā paṭipanne pana satte apanetvā bodhaneyye satte bodheti atta katena pana te ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:7.4_2",
+        "original": "mahārāja, micchāpaṭipannā patanti.",
+        "analyzed": "mahā rāja micchā paṭipannāḥ patanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:8.1",
+        "original": "Yathā, mahārāja, kadalī veḷu assatarī attajena haññati;",
+        "analyzed": "yathā mahā rāja kadalī veḷu assatarī attajena haññati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:8.2",
+        "original": "evameva kho, mahārāja, ye te micchāpaṭipannā, te attakatena haññanti patanti.",
+        "analyzed": "evam eva kho mahā rāja ye te micchā paṭipannā te atta katena haññanti patanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:9.1",
+        "original": "Yathā, mahārāja, corā attakatena cakkhuppāṭanaṁ sūlāropanaṁ sīsacchedanaṁ pāpuṇanti;",
+        "analyzed": "yathā mahā rāja corāḥ atta katena cakkhuppāṭanam sūla āropanam sīsa chedanam pāpuṇanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:9.2",
+        "original": "evameva kho, mahārāja, ye te micchāpaṭipannā, te attakatena haññanti patanti.",
+        "analyzed": "evam eva kho mahā rāja ye te micchā paṭipannā te atta katena haññanti patanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:9.3",
+        "original": "Yesaṁ, mahārāja, saṭṭhimattānaṁ bhikkhūnaṁ uṇhaṁ lohitaṁ mukhato uggataṁ, tesaṁ taṁ neva bhagavato katena, na paresaṁ katena, atha kho attanoyeva katena.",
+        "analyzed": "mahā rāja saṭṭhimattānam bhikkhūnam uṇham lohitam mukhataḥ tesam tam na iva bhagavato katena na paresam katena atha kho attano yeva katena ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.1_0",
+        "original": "Yathā, mahārāja, puriso sabbajanassa amataṁ dadeyya, te taṁ amataṁ asitvā arogā dīghāyukā",
+        "analyzed": "yathā mahā rāja purisaḥ sabba janassa amatam dadeyya te tam amatam a sitvā arogāḥ dīgha āyukā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.1_1",
+        "original": "sabbītito parimucceyyuṁ, athaññataro puriso durupacārena taṁ asitvā maraṇaṁ pāpuṇeyya,",
+        "analyzed": "sabbītitaḥ parimucceyyu athaññataraḥ puriso durupacārena tam a sitvā maraṇam pāpuṇeyya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.1_2",
+        "original": "api nu kho so, mahārāja, amatadāyako puriso tatonidānaṁ kiñci apuññaṁ āpajjeyyā”ti?",
+        "analyzed": "api nu kho saḥ mahā rāja amata dāyakaḥ puriso tatonidānam kiñci apuññam āpajjeyya ati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.3",
+        "original": "“Evameva kho, mahārāja, tathāgato dasasahassiyā lokadhātuyā devamanussānaṁ amataṁ dhammadānaṁ deti, ye te sattā bhabbā, te dhammāmatena bujjhanti.",
+        "analyzed": "evam eva kho mahā rāja tathāgataḥ dasa sahassiyā lokadhātuyā deva manussānam amatam dhamma dānam deti ye te sattā bhabbā te dhamma amatena bujjhanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.4",
+        "original": "Ye pana te sattā abhabbā, te dhammāmatena haññanti patanti.",
+        "analyzed": "ye pana te sattāḥ abhabbā te dhamma amatena haññanti patanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.5",
+        "original": "Bhojanaṁ, mahārāja, sabbasattānaṁ jīvitaṁ rakkhati, tamekacce bhuñjitvā visūcikāya maranti, api nu kho so, mahārāja, bhojanadāyako puriso tatonidānaṁ kiñci apuññaṁ āpajjeyyā”ti?",
+        "analyzed": "bhojana mahā rāja sabba sattānam jīvitam rakkhati tam ekacce bhuñjitvā visūcikāya maranti api nu kho saḥ mahā rāja bhojana dāyakaḥ puriso tatonidānam kiñci apuññam āpajjeyya ati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.6",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.7",
+        "original": "“Evameva kho, mahārāja, tathāgato dasasahassiyā lokadhātuyā devamanussānaṁ amataṁ dhammadānaṁ deti, ye te sattā bhabbā, te dhammāmatena bujjhanti.",
+        "analyzed": "evam eva kho mahā rāja tathāgataḥ dasa sahassiyā lokadhātuyā deva manussānam amatam dhamma dānam deti ye te sattā bhabbā te dhamma amatena bujjhanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.8",
+        "original": "Ye pana te sattā abhabbā, te dhammāmatena haññanti patantī”ti.",
+        "analyzed": "ye pana te sattāḥ abhabbā te dhamma amatena haññanti patanti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:10.9",
+        "original": "“Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti.",
+        "analyzed": "sādhu bhante nāgasena evam etam tathā sampaṭicchāmi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.3.2:11.1",
+        "original": "Sabbasattahitapharaṇapañho dutiyo.",
+        "analyzed": "sabba satta hita pharaṇa pañhaḥ dutiyaḥ ",
+        "folio": "11"
+    }
+]

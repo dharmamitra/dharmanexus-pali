@@ -1,0 +1,3608 @@
+[
+    {
+        "segmentnr": "PA_vb_3:0.1",
+        "original": "Vibhaṅga",
+        "analyzed": "vibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_vb_3:0.2",
+        "original": "Dhātuvibhaṅga",
+        "analyzed": "dhātu vibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_vb_3:1.0",
+        "original": "1. Suttantabhājanīya",
+        "analyzed": "suttanta bhājanīya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_3:1.1",
+        "original": "Cha dhātuyo—",
+        "analyzed": "cha dhātuyo ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_3:1.2",
+        "original": "pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu.",
+        "analyzed": "pathavī dhātu āpaḥ dhātu tejaḥ dhātu vāyo dhātu ākāsa dhātu viññāṇa dhātu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.1",
+        "original": "Tattha katamā pathavīdhātu?",
+        "analyzed": "tattha katamā pathavī dhātu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.2",
+        "original": "Pathavīdhātudvayaṁ—",
+        "analyzed": "pathavī dhātu dvaya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.3",
+        "original": "atthi ajjhattikā, atthi bāhirā.",
+        "analyzed": "atthi ajjhattikā atthi bāhirā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.4",
+        "original": "Tattha katamā ajjhattikā pathavīdhātu?",
+        "analyzed": "tattha katamā ajjhattikā pathavī dhātu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.5",
+        "original": "Yaṁ ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ kakkhaḷattaṁ kakkhaḷabhāvo ajjhattaṁ upādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam ajjhattam paccattam kakkhaḷam khari gatam kakkhaḷa ttam kakkhaḷa bhāvaḥ ajjhattam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.6_0",
+        "original": "kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ",
+        "analyzed": "kesāḥ lomā nakhāḥ dantāḥ tacaḥ masam nhāru aṭṭhi aṭṭhimiñjam vakkam hadayam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.6_1",
+        "original": "kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ, yaṁ vā panaññampi atthi",
+        "analyzed": "kilomakam pihakam papphāsam antam anta guṇam udariyam yam vā pana aññam pi atthi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.6_2",
+        "original": "ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ kakkhaḷattaṁ kakkhaḷabhāvo ajjhattaṁ upādinnaṁ—",
+        "analyzed": "ajjhattam paccattam kakkhaḷam khari gatam kakkhaḷa ttam kakkhaḷa bhāvaḥ ajjhattam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:2.7",
+        "original": "ayaṁ vuccati “ajjhattikā pathavīdhātu”.",
+        "analyzed": "ayam vuccati ajjhattikā pathavī dhātu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.1",
+        "original": "Tattha katamā bāhirā pathavīdhātu?",
+        "analyzed": "tattha katamā bāhirā pathavī dhātu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.2",
+        "original": "Yaṁ bāhiraṁ kakkhaḷaṁ kharigataṁ kakkhaḷattaṁ kakkhaḷabhāvo bahiddhā anupādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam bāhiram kakkhaḷam khari gatam kakkhaḷa ttam kakkhaḷa bhāvaḥ bahiddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.3_0",
+        "original": "ayo lohaṁ tipu sīsaṁ sajjhaṁ muttā maṇi veḷuriyo saṅkho silā pavāḷaṁ rajataṁ jātarūpaṁ",
+        "analyzed": "ayaḥ loham tipu sīsam sajjham muttā maṇi veḷuriyaḥ saṅkhaḥ silā pavāḷam rajatam jātarūpa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.3_1",
+        "original": "lohitaṅko masāragallaṁ tiṇaṁ kaṭṭhaṁ sakkharā kaṭhalaṁ bhūmi pāsāṇo pabbato, yaṁ",
+        "analyzed": "lohitaṅkaḥ masāragallam tiṇam kaṭṭham sakkharā kaṭhalam bhūmi pāsāṇaḥ pabbataḥ ya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.3_2",
+        "original": "vā panaññampi atthi bāhiraṁ kakkhaḷaṁ kharigataṁ kakkhaḷattaṁ kakkhaḷabhāvo bahiddhā anupādinnaṁ—",
+        "analyzed": "vā pana aññam pi atthi bāhiram kakkhaḷam khari gatam kakkhaḷa ttam kakkhaḷa bhāvaḥ bahiddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.4",
+        "original": "ayaṁ vuccati “bāhirā pathavīdhātu”.",
+        "analyzed": "ayam vuccati bāhirā pathavī dhātu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.5",
+        "original": "Yā ca ajjhattikā pathavīdhātu yā ca bāhirā pathavīdhātu, tadekajjhaṁ abhisaññūhitvā abhisaṅkhipitvā—",
+        "analyzed": "yā ca ajjhattikā pathavī dhātu yā ca bāhirā pathavī dhātu tat ekajjham abhisaññūhitvā abhisaṅkhipitvā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:3.6",
+        "original": "ayaṁ vuccati “pathavīdhātu”.",
+        "analyzed": "ayam vuccati pathavī dhātu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.1",
+        "original": "Tattha katamā āpodhātu?",
+        "analyzed": "tattha katamā āpodhātu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.2",
+        "original": "Āpodhātudvayaṁ—",
+        "analyzed": "āpaḥ dhātu dvaya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.3",
+        "original": "atthi ajjhattikā, atthi bāhirā.",
+        "analyzed": "atthi ajjhattikā atthi bāhirā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.4",
+        "original": "Tattha katamā ajjhattikā āpodhātu?",
+        "analyzed": "tattha katamā ajjhattikā āpodhātu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.5",
+        "original": "Yaṁ ajjhattaṁ paccattaṁ āpo āpogataṁ sineho sinehagataṁ bandhanattaṁ rūpassa ajjhattaṁ upādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam ajjhattam paccattam āpaḥ āpas gatam sinehaḥ sineha gatam bandhanattam rūpassa ajjhattam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.6_0",
+        "original": "pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṁ, yaṁ",
+        "analyzed": "pittam semham pubbaḥ lohitam sedaḥ medaḥ assu vasā kheḷaḥ siṅghāṇikā lasikā ya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.6_1",
+        "original": "vā panaññampi atthi ajjhattaṁ paccattaṁ āpo āpogataṁ sineho sinehagataṁ bandhanattaṁ",
+        "analyzed": "vā pana aññam pi atthi ajjhattam paccattam āpaḥ āpas gatam sinehaḥ sineha gatam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.6_2",
+        "original": "rūpassa ajjhattaṁ upādinnaṁ—",
+        "analyzed": "rūpassa ajjhattam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:4.7",
+        "original": "ayaṁ vuccati “ajjhattikā āpodhātu”.",
+        "analyzed": "ayam vuccati ajjhattikā āpodhātu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.1",
+        "original": "Tattha katamā bāhirā āpodhātu?",
+        "analyzed": "tattha katamā bāhirā āpodhātu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.2",
+        "original": "Yaṁ bāhiraṁ āpo āpogataṁ sineho sinehagataṁ bandhanattaṁ rūpassa bahiddhā anupādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam bāhiram āpaḥ āpaḥ gatam sinehaḥ sineha gatam bandhanattam rūpassa bahiddhā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.3_0",
+        "original": "mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso khīraṁ dadhi sappi navanītaṁ",
+        "analyzed": "mūla rasaḥ khandha rasaḥ taca rasaḥ patta rasaḥ puppha rasaḥ phala rasaḥ khīram dadhi sappi navanīta ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.3_1",
+        "original": "telaṁ madhu phāṇitaṁ bhummāni vā udakāni antalikkhāni vā, yaṁ vā panaññampi atthi",
+        "analyzed": "telam madhu phāṇitam bhummāni vā udakāni antalikkhāni vā yam vā panaññam pi atthi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.3_2",
+        "original": "bāhiraṁ āpo āpogataṁ sineho sinehagataṁ bandhanattaṁ rūpassa bahiddhā anupādinnaṁ—",
+        "analyzed": "bāhiram āpaḥ āpaḥ gatam sinehaḥ sineha gatam bandhanattam rūpassa bahiddhā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.4",
+        "original": "ayaṁ vuccati “bāhirā āpodhātu”.",
+        "analyzed": "ayam vuccati bāhirā āpodhātu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.5",
+        "original": "Yā ca ajjhattikā āpodhātu yā ca bāhirā āpodhātu, tadekajjhaṁ abhisaññūhitvā abhisaṅkhipitvā—",
+        "analyzed": "yā ca ajjhattikā āpodhātu yā ca bāhirā āpodhātu tat ekajjham abhisaññūhitvā abhisaṅkhipitvā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:5.6",
+        "original": "ayaṁ vuccati “āpodhātu”.",
+        "analyzed": "ayam vuccati āpodhātu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.1",
+        "original": "Tattha katamā tejodhātu?",
+        "analyzed": "tat tha katamā tejaḥ dhātu ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.2",
+        "original": "Tejodhātudvayaṁ—",
+        "analyzed": "tejaḥ dhātu dvaya ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.3",
+        "original": "atthi ajjhattikā, atthi bāhirā.",
+        "analyzed": "atthi ajjhattikā atthi bāhirā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.4",
+        "original": "Tattha katamā ajjhattikā tejodhātu?",
+        "analyzed": "tattha katamā ajjhattikā tejaḥ dhātu ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.5",
+        "original": "Yaṁ ajjhattaṁ paccattaṁ tejo tejogataṁ usmā usmāgataṁ usumaṁ usumagataṁ ajjhattaṁ upādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam ajjhattam paccattam tejaḥ tejaḥ gatam usmā usmā gatam usumam usuma gatam ajjhattam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.6_0",
+        "original": "yena ca santappati yena ca jīrīyati yena ca pariḍayhati yena ca asitapītakhāyitasāyitaṁ",
+        "analyzed": "yena ca santappati yena ca jīrīyati yena ca pariḍayhati yena ca asita pīta khāyita sāyita ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.6_1",
+        "original": "sammā pariṇāmaṁ gacchati, yaṁ vā panaññampi atthi ajjhattaṁ paccattaṁ tejo tejogataṁ",
+        "analyzed": "sammā pariṇāmam gacchati yam vā pana aññam pi atthi ajjhattam paccattam tejaḥ tejogata ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.6_2",
+        "original": "usmā usmāgataṁ usumaṁ usumagataṁ ajjhattaṁ upādinnaṁ—",
+        "analyzed": "usmā usmā gatam usumam usuma gatam ajjhattam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:6.7",
+        "original": "ayaṁ vuccati “ajjhattikā tejodhātu”.",
+        "analyzed": "ayam vuccati ajjhattikā tejaḥ dhātu ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.1",
+        "original": "Tattha katamā bāhirā tejodhātu?",
+        "analyzed": "tattha katamā bāhirā tejaḥ dhātu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.2",
+        "original": "Yaṁ bāhiraṁ tejo tejogataṁ usmā usmāgataṁ usumaṁ usumagataṁ bahiddhā anupādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam bāhiram tejaḥ tejaḥ gatam usmai usmā gatam usumam usuma gatam bahiddhā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.3_0",
+        "original": "kaṭṭhaggi palālaggi tiṇaggi gomayaggi thusaggi saṅkāraggi indaggi aggisantāpo sūriyasantāpo",
+        "analyzed": "kaṭṭhaggi palālaggi tiṇaggi gomayaggi thusaggi saṅkāraggi indaggi aggi santāpaḥ sūriya santāpaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.3_1",
+        "original": "kaṭṭhasannicayasantāpo tiṇasannicayasantāpo dhaññasannicayasantāpo bhaṇḍasannicayasantāpo,",
+        "analyzed": "kaṭṭha sannicaya santāpo tiṇa sannicaya santāpaḥ dhañña sannicaya santāpaḥ bhaṇḍa sannicaya santāpo ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.3_2",
+        "original": "yaṁ vā panaññampi atthi bāhiraṁ tejo tejogataṁ usmā usmāgataṁ usumaṁ usumagataṁ bahiddhā anupādinnaṁ—",
+        "analyzed": "yam vā pana aññam pi atthi bāhiram tejaḥ tejaḥ gatam usmā usmā gatam usumam usuma gatam bahiddhā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.4",
+        "original": "ayaṁ vuccati “bāhirā tejodhātu”.",
+        "analyzed": "ayam vuccati bāhirā tejaḥ dhātu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.5",
+        "original": "Yā ca ajjhattikā tejodhātu yā ca bāhirā tejodhātu, tadekajjhaṁ abhisaññūhitvā abhisaṅkhipitvā—",
+        "analyzed": "yā ca ajjhattikā tejaḥ dhātu yā ca bāhirā tejaḥ dhātu tat ekajjham abhisaññūhitvā abhisaṅkhipitvā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:7.6",
+        "original": "ayaṁ vuccati “tejodhātu”.",
+        "analyzed": "ayam vuccati tejaḥ dhātu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.1",
+        "original": "Tattha katamā vāyodhātu?",
+        "analyzed": "tat tha katamā vāyodhātu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.2",
+        "original": "Vāyodhātudvayaṁ—",
+        "analyzed": "vāyo dhātu dvaya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.3",
+        "original": "atthi ajjhattikā, atthi bāhirā.",
+        "analyzed": "atthi ajjhattikā atthi bāhirā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.4",
+        "original": "Tattha katamā ajjhattikā vāyodhātu?",
+        "analyzed": "tattha katamā ajjhattikā vāyodhātu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.5",
+        "original": "Yaṁ ajjhattaṁ paccattaṁ vāyo vāyogataṁ thambhitattaṁ rūpassa ajjhattaṁ upādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam ajjhattam paccattam vāyo vāyogatam thambhitattam rūpassa ajjhattam ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.6_0",
+        "original": "uddhaṅgamā vātā adhogamā vātā kucchisayā vātā koṭṭhāsayā vātā aṅgamaṅgānusārino vātā",
+        "analyzed": "uddhaṅgamāḥ vātāḥ adhas gamāḥ vātā kucchisayāḥ vātā koṭṭhāsayāḥ vātāḥ aṅgamaṅga anusārinaḥ vātāḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.6_1",
+        "original": "satthakavātā khurakavātā uppalakavātā assāso passāso iti vā, yaṁ vā panaññampi atthi",
+        "analyzed": "satthaka vātā khuraka vātā uppalaka vātā assāsaḥ passāsaḥ iti vā yam vā pana aññam pi atthi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.6_2",
+        "original": "ajjhattaṁ paccattaṁ vāyo vāyogataṁ thambhitattaṁ rūpassa ajjhattaṁ upādinnaṁ—",
+        "analyzed": "ajjhattam paccattam vāyo vāyogatam thambhitattam rūpassa ajjhattam upādinna ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:8.7",
+        "original": "ayaṁ vuccati “ajjhattikā vāyodhātu”.",
+        "analyzed": "ayam vuccati ajjhattikā vāyodhātu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.1",
+        "original": "Tattha katamā bāhirā vāyodhātu?",
+        "analyzed": "tattha katamā bāhirā vāyodhātu ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.2",
+        "original": "Yaṁ bāhiraṁ vāyo vāyogataṁ thambhitattaṁ rūpassa bahiddhā anupādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam bāhiram vāyo vāyogatam thambhitattam rūpassa bahiddhā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.3_0",
+        "original": "puratthimā vātā pacchimā vātā uttarā vātā dakkhiṇā vātā sarajā vātā arajā vātā sītā",
+        "analyzed": "puratthimā vātā pacchimā vātā uttarā vātā dakkhiṇā vātā sarajā vātā arajā vātā sītā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.3_1",
+        "original": "vātā uṇhā vātā parittā vātā adhimattā vātā kāḷavātā verambhavātā pakkhavātā supaṇṇavātā",
+        "analyzed": "vātā uṇhā vātā parittā vātā adhimattā vātā kāḷa vātā verambha vātā pakkha vātā supaṇṇa vātā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.3_2",
+        "original": "tālavaṇṭavātā vidhūpanavātā, yaṁ vā panaññampi atthi bāhiraṁ vāyo vāyogataṁ thambhitattaṁ",
+        "analyzed": "tālavaṇṭa vātāḥ vidhūpana vātāḥ yam vā pana aññam pi atthi bāhiram vāyo vāyogatam ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.3_3",
+        "original": "rūpassa bahiddhā anupādinnaṁ—",
+        "analyzed": "rūpassa bahiddhā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.4",
+        "original": "ayaṁ vuccati “bāhirā vāyodhātu”.",
+        "analyzed": "ayam vuccati bāhirā vāyodhātu ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.5",
+        "original": "Yā ca ajjhattikā vāyodhātu yā ca bāhirā vāyodhātu, tadekajjhaṁ abhisaññūhitvā abhisaṅkhipitvā—",
+        "analyzed": "yā ca ajjhattikā vāyodhātu yā ca bāhirā vāyodhātu tat ekajjham abhisaññūhitvā abhisaṅkhipitvā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:9.6",
+        "original": "ayaṁ vuccati “vāyodhātu”.",
+        "analyzed": "ayam vuccati vāyodhātu ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.1",
+        "original": "Tattha katamā ākāsadhātu?",
+        "analyzed": "tattha katamā ākāsa dhātu ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.2",
+        "original": "Ākāsadhātudvayaṁ—",
+        "analyzed": "ākāsa dhātu dvaya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.3",
+        "original": "atthi ajjhattikā, atthi bāhirā.",
+        "analyzed": "atthi ajjhattikā atthi bāhirā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.4",
+        "original": "Tattha katamā ajjhattikā ākāsadhātu?",
+        "analyzed": "tattha katamā ajjhattikā ākāsa dhātu ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.5",
+        "original": "Yaṁ ajjhattaṁ paccattaṁ ākāso ākāsagataṁ aghaṁ aghagataṁ vivaro vivaragataṁ asamphuṭṭhaṁ maṁsalohitehi ajjhattaṁ upādinnaṁ, seyyathidaṁ—",
+        "analyzed": "yam ajjhattam paccattam ākāsaḥ ākāsa gatam agham agha gatam vivaraḥ vivara gatam asamphuṭṭham masa lohitehi ajjhattam upādinna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.6_0",
+        "original": "kaṇṇacchiddaṁ nāsacchiddaṁ mukhadvāraṁ, yena ca asitapītakhāyitasāyitaṁ ajjhoharati,",
+        "analyzed": "kaṇṇa chiddam nāsa chiddam mukha dvāra yena ca asita pīta khāyita sāyitam ajjhoharati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.6_1",
+        "original": "yattha ca asitapītakhāyitasāyitaṁ santiṭṭhati, yena ca asitapītakhāyitasāyitaṁ adhobhāgaṁ",
+        "analyzed": "yattha ca asita pīta khāyita sāyitam santiṭṭhati yena ca asita pīta khāyita sāyitam adhobhāga ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.6_2",
+        "original": "nikkhamati, yaṁ vā panaññampi atthi ajjhattaṁ paccattaṁ ākāso ākāsagataṁ aghaṁ aghagataṁ",
+        "analyzed": "nikkhamati yam vā pana aññam pi atthi ajjhattam paccattam ākāsaḥ ākāsa gatam agham agha gata ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.6_3",
+        "original": "vivaro vivaragataṁ asamphuṭṭhaṁ maṁsalohitehi ajjhattaṁ upādinnaṁ—",
+        "analyzed": "vivaraḥ vivara gatam a samphuṭṭham masa lohitehi ajjhattam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:10.7",
+        "original": "ayaṁ vuccati “ajjhattikā ākāsadhātu”.",
+        "analyzed": "ayam vuccati ajjhattikā ākāsa dhātu ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_3:11.1",
+        "original": "Tattha katamā bāhirā ākāsadhātu?",
+        "analyzed": "tattha katamā bāhirā ākāsa dhātu ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_3:11.2",
+        "original": "Yaṁ bāhiraṁ ākāso ākāsagataṁ aghaṁ aghagataṁ vivaro vivaragataṁ asamphuṭṭhaṁ catūhi mahābhūtehi bahiddhā anupādinnaṁ—",
+        "analyzed": "yam bāhiram ākāsaḥ ākāsa gatam agham agha gatam vivaraḥ vivara gatam a samphuṭṭham catūhi mahābhūtehi bahiddhā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_3:11.3",
+        "original": "ayaṁ vuccati “bāhirā ākāsadhātu”.",
+        "analyzed": "ayam vuccati bāhirā ākāsa dhātu ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_3:11.4",
+        "original": "Yā ca ajjhattikā ākāsadhātu yā ca bāhirā ākāsadhātu, tadekajjhaṁ abhisaññūhitvā abhisaṅkhipitvā—",
+        "analyzed": "yā ca ajjhattikā ākāsa dhātu yā ca bāhirā ākāsa dhātu tat ekajjham abhisaññūhitvā abhisaṅkhipitvā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_3:11.5",
+        "original": "ayaṁ vuccati “ākāsadhātu”.",
+        "analyzed": "ayam vuccati ākāsadhātu ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_3:12.1",
+        "original": "Tattha katamā viññāṇadhātu?",
+        "analyzed": "tattha katamā viññāṇa dhātu ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_vb_3:12.2",
+        "original": "Cakkhuviññāṇadhātu, sotaviññāṇadhātu, ghānaviññāṇadhātu, jivhāviññāṇadhātu, kāyaviññāṇadhātu, manoviññāṇadhātu—",
+        "analyzed": "cakkhu viññāṇa dhātu sota viññāṇa dhātu ghāna viññāṇa dhātu jivhā viññāṇa dhātu kāya viññāṇa dhātu manas viññāṇa dhātu ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_vb_3:12.3",
+        "original": "ayaṁ vuccati “viññāṇadhātu”.",
+        "analyzed": "ayam vuccati viññāṇa dhātu ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_vb_3:13.1",
+        "original": "Imā cha dhātuyo.",
+        "analyzed": "imāḥ cha dhātuyaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_vb_3:14.1",
+        "original": "Aparāpi cha dhātuyo—",
+        "analyzed": "aparā api cha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_vb_3:14.2",
+        "original": "sukhadhātu, dukkhadhātu, somanassadhātu, domanassadhātu, upekkhādhātu, avijjādhātu.",
+        "analyzed": "sukha dhātu dukkha dhātu somanassa dhātu domanassa dhātu upekkhā dhātu avijjā dhātu ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_vb_3:15.1",
+        "original": "Tattha katamā sukhadhātu?",
+        "analyzed": "tattha katamā sukha dhātu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_vb_3:15.2",
+        "original": "Yaṁ kāyikaṁ sātaṁ kāyikaṁ sukhaṁ kāyasamphassajaṁ sātaṁ sukhaṁ vedayitaṁ kāyasamphassajā sātā sukhā vedanā—",
+        "analyzed": "yam kāyikam sātam kāyikam sukham kāya samphassa jam sātam sukham vedayitam kāya samphassa jā sātā sukhā vedanā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_vb_3:15.3",
+        "original": "ayaṁ vuccati “sukhadhātu”.",
+        "analyzed": "ayam vuccati sukha dhātu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_vb_3:16.1",
+        "original": "Tattha katamā dukkhadhātu?",
+        "analyzed": "tattha katamā dukkha dhātu ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_vb_3:16.2",
+        "original": "Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ kāyasamphassajā asātā dukkhā vedanā—",
+        "analyzed": "yam kāyikam asātam kāyikam dukkham kāya samphassa jam asātam dukkham vedayitam kāya samphassa jā asātā dukkhā vedanā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_vb_3:16.3",
+        "original": "ayaṁ vuccati “dukkhadhātu”.",
+        "analyzed": "ayam vuccati dukkhadhātu ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_vb_3:17.1",
+        "original": "Tattha katamā somanassadhātu?",
+        "analyzed": "tattha katamā somanassa dhātu ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_vb_3:17.2",
+        "original": "Yaṁ cetasikaṁ sātaṁ cetasikaṁ sukhaṁ cetosamphassajaṁ sātaṁ sukhaṁ vedayitaṁ cetosamphassajā sātā sukhā vedanā—",
+        "analyzed": "yam cetasikam sātam cetasikam sukham cetaḥ samphassa jam sātam sukham vedayitam cetaḥ samphassa jā sātā sukhā vedanā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_vb_3:17.3",
+        "original": "ayaṁ vuccati “somanassadhātu”.",
+        "analyzed": "ayam vuccati somanassa dhātu ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_vb_3:18.1",
+        "original": "Tattha katamā domanassadhātu?",
+        "analyzed": "tattha katamā domanassa dhātu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_vb_3:18.2",
+        "original": "Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ cetosamphassajā asātā dukkhā vedanā—",
+        "analyzed": "yam cetasikam asātam cetasikam dukkham cetas samphassa jam asātam dukkham vedayitam cetas samphassa jā asātā dukkhā vedanā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_vb_3:18.3",
+        "original": "ayaṁ vuccati “domanassadhātu”.",
+        "analyzed": "ayam vuccati domanassa dhātu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_vb_3:19.1",
+        "original": "Tattha katamā upekkhādhātu?",
+        "analyzed": "tattha katamā upekkhā dhātu ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_vb_3:19.2",
+        "original": "Yaṁ cetasikaṁ neva sātaṁ nāsātaṁ cetosamphassajaṁ adukkhamasukhaṁ vedayitaṁ cetosamphassajā adukkhamasukhā vedanā—",
+        "analyzed": "yam cetasikam na iva sātam na asātam cetaḥ samphassa jam adukkham asukham vedayitam cetaḥ samphassa jā adukkham asukhā vedanā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_vb_3:19.3",
+        "original": "ayaṁ vuccati “upekkhādhātu”.",
+        "analyzed": "ayam vuccati upekkhā dhātu ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_vb_3:20.1",
+        "original": "Tattha katamā avijjādhātu?",
+        "analyzed": "tattha katamā avijjā dhātu ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_3:20.2_0",
+        "original": "Yaṁ aññāṇaṁ adassanaṁ anabhisamayo ananubodho asambodho appaṭivedho asaṅgāhaṇā apariyogāhaṇā",
+        "analyzed": "yam aññāṇam a dassanam an abhisamayaḥ an anubodhaḥ asambodhaḥ appaṭivedhaḥ a saṅgāhaṇā a pariyogāhaṇā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_3:20.2_1",
+        "original": "asamapekkhanā apaccavekkhaṇā apaccakkhakammaṁ dummejjhaṁ bālyaṁ asampajaññaṁ moho",
+        "analyzed": "a samapekkhanā a paccavekkhaṇā a paccakkha kammam dummejjham bālyam asampajaññam mohaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_3:20.2_2",
+        "original": "pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṁ avijjālaṅgī moho akusalamūlaṁ—",
+        "analyzed": "pamohaḥ sammohaḥ avijjā avijjoghaḥ avijjāyogaḥ avijjā anusayaḥ avijjā pariyuṭṭhānam avijjā laṅgī mohaḥ akusala mūla ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_3:20.3",
+        "original": "ayaṁ vuccati “avijjādhātu”.",
+        "analyzed": "ayam vuccati avijjā dhātu ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_3:21.1",
+        "original": "Imā cha dhātuyo.",
+        "analyzed": "imāḥ cha dhātuyaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_vb_3:22.1",
+        "original": "Aparāpi cha dhātuyo—",
+        "analyzed": "aparā api cha ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_vb_3:22.2",
+        "original": "kāmadhātu, byāpādadhātu, vihiṁsādhātu, nekkhammadhātu, abyāpādadhātu, avihiṁsādhātu.",
+        "analyzed": "kāmadhātu byāpāda dhātu vihisā dhātu nekkhammadhātu a byāpāda dhātu a vihisā dhātu ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.1",
+        "original": "Tattha katamā kāmadhātu?",
+        "analyzed": "tattha katamā kāmadhātu ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.2",
+        "original": "Kāmapaṭisaṁyutto takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā micchāsaṅkappo—",
+        "analyzed": "kāma paṭisayutto takkaḥ vitakkaḥ saṅkappaḥ appanā byappanā cetasaḥ abhiniropanā micchā saṅkappaḥ ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.3",
+        "original": "ayaṁ vuccati kāmadhātu.",
+        "analyzed": "ayam vuccati kāmadhātu ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.4_0",
+        "original": "Heṭṭhato avīcinirayaṁ pariyantaṁ karitvā uparito paranimmitavasavattī deve anto karitvā",
+        "analyzed": "heṭṭhatas avīcinirayam pariyantam karitvā uparitas paranimmitavasavattī deve antar karitvā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.4_1",
+        "original": "yaṁ etasmiṁ antare etthāvacarā ettha pariyāpannā khandhadhātuāyatanā rūpā vedanā",
+        "analyzed": "yam etasmin antare etthāvacarāḥ ettha pariyāpannā khandha dhātu āyatanāḥ rūpāḥ vedanā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.4_2",
+        "original": "saññā saṅkhārā viññāṇaṁ—",
+        "analyzed": "saññā saṅkhārā viññāṇa ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:23.5",
+        "original": "ayaṁ vuccati “kāmadhātu”.",
+        "analyzed": "ayam vuccati kāmadhātu ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.1",
+        "original": "Tattha katamā byāpādadhātu?",
+        "analyzed": "katamā byāpāda dhātu ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.2",
+        "original": "Byāpādapaṭisaṁyutto takko vitakko …pe… micchāsaṅkappo—",
+        "analyzed": "byāpāda paṭisayutto takkaḥ vitakko pe micchā saṅkappo ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.3",
+        "original": "ayaṁ vuccati “byāpādadhātu”.",
+        "analyzed": "ayam vuccati byāpāda dhātu ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.4_0",
+        "original": "Dasasu vā āghātavatthūsu cittassa āghāto paṭighāto paṭighaṁ paṭivirodho kopo pakopo",
+        "analyzed": "dasasu vā āghāta vatthūsu cittassa āghāto paṭighātaḥ paṭigham paṭivirodho kopaḥ pakopaḥ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.4_1",
+        "original": "sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṁ",
+        "analyzed": "sampakopaḥ doso padosaḥ sampadoso cittassa byāpatti manopadoso kodhaḥ kujjhanā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.4_2",
+        "original": "doso dussanā dussitattaṁ byāpatti byāpajjanā virodho paṭivirodho caṇḍikkaṁ asuropo",
+        "analyzed": "dosaḥ dussanā dussita ttam byāpatti byāpajjanā virodho paṭivirodho caṇḍikkam asuropaḥ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.4_3",
+        "original": "anattamanatā cittassa—",
+        "analyzed": "anatta manatā cittassa ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:24.5",
+        "original": "ayaṁ vuccati “byāpādadhātu”.",
+        "analyzed": "ayam vuccati byāpāda dhātu ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_3:25.1",
+        "original": "Tattha katamā vihiṁsādhātu?",
+        "analyzed": "tattha katamā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_3:25.2",
+        "original": "Vihiṁsāpaṭisaṁyutto takko vitakko …pe… micchāsaṅkappo—",
+        "analyzed": "vihisā paṭisayutto takkaḥ vitakko pe micchā saṅkappo ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_3:25.3",
+        "original": "ayaṁ vuccati “vihiṁsādhātu”.",
+        "analyzed": "ayam vuccati vihisā dhātu ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_3:25.4",
+        "original": "Idhekacco pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā rajjuyā vā aññataraññatarena satte viheṭheti, yā evarūpā heṭhanā viheṭhanā hiṁsanā vihiṁsanā rosanā virosanā parūpaghāto—",
+        "analyzed": "idha ekaccaḥ pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā rajjuyā vā aññatara aññatarena satte viheṭheti yā evarūpā heṭhanā viheṭhanā hisanā vihisanā rosanā virosanā parūpaghāto ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_3:25.5",
+        "original": "ayaṁ vuccati “vihiṁsādhātu”.",
+        "analyzed": "ayam vuccati vihisā dhātu ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_3:26.1",
+        "original": "Tattha katamā nekkhammadhātu?",
+        "analyzed": "tattha katamā nekkhammadhātu ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_3:26.2",
+        "original": "Nekkhammapaṭisaṁyutto takko vitakko …pe… sammāsaṅkappo—",
+        "analyzed": "nekkhamma paṭisayutto takkaḥ vitakkaḥ pe sammāsaṅkappo ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_3:26.3",
+        "original": "ayaṁ vuccati “nekkhammadhātu”.",
+        "analyzed": "ayam vuccati nekkhammadhātu ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_3:26.4",
+        "original": "Sabbepi kusalā dhammā “nekkhammadhātu”.",
+        "analyzed": "sabbe pi kusalāḥ dhammāḥ nekkhamma dhātu ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_3:27.1",
+        "original": "Tattha katamā abyāpādadhātu?",
+        "analyzed": "katamāḥ a byāpāda dhātu ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_vb_3:27.2",
+        "original": "Abyāpādapaṭisaṁyutto takko vitakko …pe… sammāsaṅkappo—",
+        "analyzed": "a byāpāda paṭisayutto takkaḥ vitakko pe sammā saṅkappo ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_vb_3:27.3",
+        "original": "ayaṁ vuccati “abyāpādadhātu”.",
+        "analyzed": "ayam vuccati a byāpāda dhātu ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_vb_3:27.4",
+        "original": "Yā sattesu metti mettāyanā mettāyitattaṁ mettācetovimutti—",
+        "analyzed": "yā sattesu metti mettāyanā mettā āyitattam mettā cetaḥ vimutti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_vb_3:27.5",
+        "original": "ayaṁ vuccati “abyāpādadhātu”.",
+        "analyzed": "ayam vuccati a byāpāda dhātu ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_vb_3:28.1",
+        "original": "Tattha katamā avihiṁsādhātu?",
+        "analyzed": "tattha katamāḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_3:28.2",
+        "original": "Avihiṁsāpaṭisaṁyutto takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo—",
+        "analyzed": "a vihisā paṭisayutto takkaḥ vitakko saṅkappaḥ appanā byappanā cetasaḥ abhiniropanā sammāsaṅkappo ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_3:28.3",
+        "original": "ayaṁ vuccati “avihiṁsādhātu”.",
+        "analyzed": "ayam vuccati a vihi sādhātu ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_3:28.4",
+        "original": "Yā sattesu karuṇā karuṇāyanā karuṇāyitattaṁ karuṇācetovimutti—",
+        "analyzed": "yā sattesu karuṇā karuṇāyanā karuṇāyi tattam karuṇā cetaḥ vimutti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_3:28.5",
+        "original": "ayaṁ vuccati “avihiṁsādhātu”.",
+        "analyzed": "ayam vuccati a vihi sādhātu ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_3:29.1",
+        "original": "Imā cha dhātuyo.",
+        "analyzed": "imāḥ cha dhātuyaḥ ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_vb_3:30.1",
+        "original": "Iti imāni tīṇi chakkāni tadekajjhaṁ abhisaññūhitvā abhisaṅkhipitvā aṭṭhārasa dhātuyo honti.",
+        "analyzed": "iti imāni tīṇi chakkāni tad ekajjham abhisaññūhitvā abhisaṅkhipitvā aṭṭhārasa dhātuyaḥ honti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_3:31.1",
+        "original": "Suttantabhājanīyaṁ.",
+        "analyzed": "suttanta bhājanīya ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_3:32.0",
+        "original": "2. Abhidhammabhājanīya",
+        "analyzed": "abhidhammabhājanīya ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_3:32.1",
+        "original": "Aṭṭhārasa dhātuyo—",
+        "analyzed": "aṭṭhārasa dhātuyaḥ ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_3:32.2_0",
+        "original": "cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu, sotadhātu, saddadhātu, sotaviññāṇadhātu,",
+        "analyzed": "cakkhu dhātu rūpa dhātu cakkhu viññāṇa dhātu sota dhātu sadda dhātu sota viññāṇa dhātu ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_3:32.2_1",
+        "original": "ghānadhātu, gandhadhātu, ghānaviññāṇadhātu, jivhādhātu, rasadhātu, jivhāviññāṇadhātu,",
+        "analyzed": "ghāna dhātu gandha dhātu ghāna viññāṇa dhātu jivhā dhātu rasa dhātu jivhā viññāṇa dhātu ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_3:32.2_2",
+        "original": "kāyadhātu, phoṭṭhabbadhātu, kāyaviññāṇadhātu, manodhātu, dhammadhātu, manoviññāṇadhātu.",
+        "analyzed": "kāya dhātu phoṭṭhabba dhātu kāya viññāṇa dhātu manaḥ dhātu dhammadhātu manas viññāṇa dhātu ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_3:33.1",
+        "original": "Tattha katamā cakkhudhātu?",
+        "analyzed": "tattha katamā cakkhu dhātu ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_3:33.2",
+        "original": "Yaṁ cakkhu catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yam cakkhu catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopeso ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_3:33.3",
+        "original": "ayaṁ vuccati “cakkhudhātu”.",
+        "analyzed": "ayam vuccati cakkhu dhātu ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_3:34.1",
+        "original": "Tattha katamā rūpadhātu?",
+        "analyzed": "tat tha katamā rūpadhātu ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_3:34.2",
+        "original": "Yaṁ rūpaṁ catunnaṁ mahābhūtānaṁ upādāya vaṇṇanibhā …pe… rūpadhātupesā—",
+        "analyzed": "yam rūpam catunnam mahābhūtānam upādāya vaṇṇa nibhā pe rūpa dhātu pesā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_3:34.3",
+        "original": "ayaṁ vuccati “rūpadhātu”.",
+        "analyzed": "ayam vuccati rūpadhātu ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_3:35.1",
+        "original": "Tattha katamā cakkhuviññāṇadhātu?",
+        "analyzed": "tattha katamā cakkhu viññāṇa dhātu ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_3:35.2",
+        "original": "Cakkhuñca paṭicca rūpe ca uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjācakkhuviññāṇadhātu—",
+        "analyzed": "cakkhuñca paṭicca rūpe ca uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ man āyatanam man indriyam viññāṇam viññāṇa kkhandho tajjā cakkhu viññāṇa dhātu ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_3:35.3",
+        "original": "ayaṁ vuccati “cakkhuviññāṇadhātu”.",
+        "analyzed": "ayam vuccati cakkhu viññāṇa dhātu ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_3:36.1",
+        "original": "Tattha katamā sotadhātu?",
+        "analyzed": "tattha katamā sotadhātu ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_3:36.2",
+        "original": "Yaṁ sotaṁ catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yam sotam catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopeso ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_3:36.3",
+        "original": "ayaṁ vuccati “sotadhātu”.",
+        "analyzed": "ayam vuccati sotadhātu ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_3:37.1",
+        "original": "Tattha katamā saddadhātu?",
+        "analyzed": "tattha katamā saddadhātu ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_vb_3:37.2",
+        "original": "Yo saddo catunnaṁ mahābhūtānaṁ upādāya anidassano sappaṭigho …pe… saddadhātupesā—",
+        "analyzed": "yaḥ saddo catunnam mahābhūtānam upādāya anidassanaḥ sa paṭighaḥ pe sadda dhātu pesā ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_vb_3:37.3",
+        "original": "ayaṁ vuccati “saddadhātu”.",
+        "analyzed": "ayam vuccati saddadhātu ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_vb_3:38.1",
+        "original": "Tattha katamā sotaviññāṇadhātu?",
+        "analyzed": "tattha katamā sota viññāṇa dhātu ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_vb_3:38.2",
+        "original": "Sotañca paṭicca sadde ca uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjāsotaviññāṇadhātu—",
+        "analyzed": "sotam ca paṭicca sadde ca uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ man āyatanam man indriyam viññāṇam viññāṇa kkhandho tajjā sota viññāṇa dhātu ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_vb_3:38.3",
+        "original": "ayaṁ vuccati “sotaviññāṇadhātu”.",
+        "analyzed": "ayam vuccati sota viññāṇa dhātu ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_vb_3:39.1",
+        "original": "Tattha katamā ghānadhātu?",
+        "analyzed": "tattha katamā ghāna dhātu ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_3:39.2",
+        "original": "Yaṁ ghānaṁ catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yam ghānam catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopeso ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_3:39.3",
+        "original": "ayaṁ vuccati “ghānadhātu”.",
+        "analyzed": "ayam vuccati ghāna dhātu ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_3:40.1",
+        "original": "Tattha katamā gandhadhātu?",
+        "analyzed": "tattha katamā gandha dhātu ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_3:40.2",
+        "original": "Yo gandho catunnaṁ mahābhūtānaṁ upādāya anidassano sappaṭigho …pe… gandhadhātupesā—",
+        "analyzed": "yaḥ gandho catunnam mahābhūtānam upādāya anidassanaḥ sa paṭighaḥ pe gandha dhātu pesā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_3:40.3",
+        "original": "ayaṁ vuccati “gandhadhātu”.",
+        "analyzed": "ayam vuccati gandha dhātu ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_3:41.1",
+        "original": "Tattha katamā ghānaviññāṇadhātu?",
+        "analyzed": "tattha katamā ghāna viññāṇa dhātu ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_vb_3:41.2",
+        "original": "Ghānañca paṭicca gandhe ca uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjāghānaviññāṇadhātu—",
+        "analyzed": "ghānañca paṭicca gandhe ca uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ man āyatanam man indriyam viññāṇam viññāṇa kkhandhaḥ tajjāghāna viññāṇa dhātu ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_vb_3:41.3",
+        "original": "ayaṁ vuccati “ghānaviññāṇadhātu”.",
+        "analyzed": "ayam vuccati ghāna viññāṇa dhātu ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_vb_3:42.1",
+        "original": "Tattha katamā jivhādhātu?",
+        "analyzed": "tattha katamā jivhā dhātu ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_3:42.2",
+        "original": "Yā jivhā catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yā jivhā catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopesaḥ ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_3:42.3",
+        "original": "ayaṁ vuccati “jivhādhātu”.",
+        "analyzed": "ayam vuccati jivhā dhātu ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_3:43.1",
+        "original": "Tattha katamā rasadhātu?",
+        "analyzed": "katamā rasa dhātu ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_3:43.2",
+        "original": "Yo raso catunnaṁ mahābhūtānaṁ upādāya anidassano sappaṭigho …pe… rasadhātupesā—",
+        "analyzed": "yaḥ raso catunnam mahābhūtānam upādāya anidassanaḥ sa paṭighaḥ pe rasa dhātu pesā ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_3:43.3",
+        "original": "ayaṁ vuccati “rasadhātu”.",
+        "analyzed": "ayam vuccati rasa dhātu ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_3:44.1",
+        "original": "Tattha katamā jivhāviññāṇadhātu?",
+        "analyzed": "tattha katamā jivhā viññāṇa dhātu ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_3:44.2",
+        "original": "Jivhañca paṭicca rase ca uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjājivhāviññāṇadhātu—",
+        "analyzed": "jivham ca paṭicca rase ca uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ man āyatanam man indriyam viññāṇam viññāṇa kkhandho tajjā jivhā viññāṇa dhātu ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_3:44.3",
+        "original": "ayaṁ vuccati “jivhāviññāṇadhātu”.",
+        "analyzed": "ayam vuccati jivhā viññāṇa dhātu ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_3:45.1",
+        "original": "Tattha katamā kāyadhātu?",
+        "analyzed": "tattha katamā kāyadhātu ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_3:45.2",
+        "original": "Yo kāyo catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yaḥ kāyo catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopeso ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_3:45.3",
+        "original": "ayaṁ vuccati “kāyadhātu”.",
+        "analyzed": "ayam vuccati kāyadhātu ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_3:46.1",
+        "original": "Tattha katamā phoṭṭhabbadhātu?",
+        "analyzed": "tattha katamā phoṭṭhabba dhātu ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_vb_3:46.2",
+        "original": "Pathavīdhātu …pe… phoṭṭhabbadhātupesā—",
+        "analyzed": "pathavī dhātu pe phoṭṭhabba dhātu pesā ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_vb_3:46.3",
+        "original": "ayaṁ vuccati “phoṭṭhabbadhātu”.",
+        "analyzed": "ayam vuccati phoṭṭhabba dhātu ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_vb_3:47.1",
+        "original": "Tattha katamā kāyaviññāṇadhātu?",
+        "analyzed": "tattha katamā kāya viññāṇa dhātu ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_vb_3:47.2",
+        "original": "Kāyañca paṭicca phoṭṭhabbe ca uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjākāyaviññāṇadhātu—",
+        "analyzed": "kāyam ca paṭicca phoṭṭhabbe ca uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ man āyatanam man indriyam viññāṇam viññāṇa kkhandho tajjā kāya viññāṇa dhātu ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_vb_3:47.3",
+        "original": "ayaṁ vuccati “kāyaviññāṇadhātu”.",
+        "analyzed": "ayam vuccati kāya viññāṇa dhātu ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.1",
+        "original": "Tattha katamā manodhātu?",
+        "analyzed": "tat tha katamā manaḥ dhātu ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.2",
+        "original": "Cakkhuviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjāmanodhātu;",
+        "analyzed": "cakkhu viññāṇa dhātuyāḥ uppajjitvā niruddha samanantarā uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ man āyatanam man indriyam viññāṇam viññāṇa kkhandho tajjā manaḥ dhātu ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.3",
+        "original": "sotaviññāṇadhātuyā …pe…",
+        "analyzed": "sota viññāṇa dhātuyā pe ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.4",
+        "original": "ghānaviññāṇadhātuyā …pe…",
+        "analyzed": "ghāna viññāṇa dhātuyā pe ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.5",
+        "original": "jivhāviññāṇadhātuyā …pe…",
+        "analyzed": "jivhā viññāṇa dhātuyā pe ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.6_0",
+        "original": "kāyaviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati cittaṁ mano mānasaṁ hadayaṁ",
+        "analyzed": "kāya viññāṇa dhātuyā uppajjitvā niruddha samanantarā uppajjati cittam manaḥ mānasam ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.6_1",
+        "original": "paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjāmanodhātu sabbadhammesu",
+        "analyzed": "paṇḍaram manaḥ mana āyatanam man indriyam viññāṇam viññāṇa kkhandho tajjā manaḥ dhātu sabba dhammesu ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.6_2",
+        "original": "vā pana paṭhamasamannāhāro uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ",
+        "analyzed": "vā pana paṭhama samannāhāraḥ uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.6_3",
+        "original": "manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjāmanodhātu—",
+        "analyzed": "manindriyam viññāṇam viññāṇa kkhandho tajjā manaḥ dhātu ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:48.7",
+        "original": "ayaṁ vuccati “manodhātu”.",
+        "analyzed": "ayam vuccati manaḥ dhātu ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_3:49.1",
+        "original": "Tattha katamā dhammadhātu?",
+        "analyzed": "tattha katamā dhammadhātu ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_vb_3:49.2",
+        "original": "Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, yañca rūpaṁ anidassanaappaṭighaṁ dhammāyatanapariyāpannaṁ, asaṅkhatā ca dhātu.",
+        "analyzed": "vedanā kkhandho saññā kkhandho saṅkhāra kkhandho yat ca rūpam anidassana appaṭigham dhamma āyatana pariyāpanna asaṅkhatā ca dhātu ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.1",
+        "original": "Tattha katamo vedanākkhandho?",
+        "analyzed": "tattha katamaḥ vedanā khandho ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.2",
+        "original": "Ekavidhena vedanākkhandho—",
+        "analyzed": "ekavidhena vedanākkhandho ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.3",
+        "original": "phassasampayutto.",
+        "analyzed": "phassa sampayuttaḥ ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.4",
+        "original": "Duvidhena vedanākkhandho—",
+        "analyzed": "duvidhena vedanākkhandho ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.5",
+        "original": "atthi sahetuko, atthi ahetuko.",
+        "analyzed": "atthi sa hetukaḥ atthi ahetukaḥ ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.6",
+        "original": "Tividhena vedanākkhandho—",
+        "analyzed": "tividhena vedanākkhandho ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.7",
+        "original": "atthi kusalo, atthi akusalo, atthi abyākato …pe…",
+        "analyzed": "atthi kusalaḥ atthi akusalaḥ atthi abyākataḥ pe ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.8",
+        "original": "evaṁ dasavidhena vedanākkhandho …pe…",
+        "analyzed": "evam dasavidhena vedanā khandhaḥ ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.9",
+        "original": "evaṁ bahuvidhena vedanākkhandho.",
+        "analyzed": "evam bahuvidhena vedanā khandhaḥ ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:50.10",
+        "original": "Ayaṁ vuccati “vedanākkhandho”.",
+        "analyzed": "ayam vuccati vedanā khandho ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.1",
+        "original": "Tattha katamo saññākkhandho?",
+        "analyzed": "tattha katamaḥ saññā khandho ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.2",
+        "original": "Ekavidhena saññākkhandho—",
+        "analyzed": "ekavidhena saññākkhandho ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.3",
+        "original": "phassasampayutto.",
+        "analyzed": "phassa sampayuttaḥ ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.4",
+        "original": "Duvidhena saññākkhandho—",
+        "analyzed": "duvidhena saññākkhandho ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.5",
+        "original": "atthi sahetuko, atthi ahetuko.",
+        "analyzed": "atthi sa hetukaḥ atthi ahetukaḥ ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.6",
+        "original": "Tividhena saññākkhandho—",
+        "analyzed": "tividhena saññākkhandho ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.7",
+        "original": "atthi kusalo, atthi akusalo, atthi abyākato …pe…",
+        "analyzed": "atthi kusalaḥ atthi akusalaḥ atthi abyākataḥ pe ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.8",
+        "original": "evaṁ dasavidhena saññākkhandho …pe…",
+        "analyzed": "evam dasavidhena saññā khandho pe ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.9",
+        "original": "evaṁ bahuvidhena saññākkhandho.",
+        "analyzed": "evam bahuvidhena saññā khandho ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:51.10",
+        "original": "Ayaṁ vuccati “saññākkhandho”.",
+        "analyzed": "ayam vuccati saññā khandho ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.1",
+        "original": "Tattha katamo saṅkhārakkhandho?",
+        "analyzed": "tattha katamaḥ saṅkhāra kkhandho ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.2",
+        "original": "Ekavidhena saṅkhārakkhandho—",
+        "analyzed": "ekavidhena saṅkhāra kkhandho ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.3",
+        "original": "cittasampayutto.",
+        "analyzed": "citta sampayuttaḥ ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.4",
+        "original": "Duvidhena saṅkhārakkhandho—",
+        "analyzed": "duvidhena saṅkhāra kkhandho ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.5",
+        "original": "atthi hetu, atthi ahetu.",
+        "analyzed": "atthi hetu atthi ahetu ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.6",
+        "original": "Tividhena saṅkhārakkhandho—",
+        "analyzed": "tividhena saṅkhāra kkhandho ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.7",
+        "original": "atthi kusalo, atthi akusalo, atthi abyākato …pe…",
+        "analyzed": "atthi kusalaḥ atthi akusalaḥ atthi abyākataḥ pe ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.8",
+        "original": "evaṁ dasavidhena saṅkhārakkhandho …pe…",
+        "analyzed": "evam dasavidhena saṅkhāra kkhandho pe ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.9",
+        "original": "evaṁ bahuvidhena saṅkhārakkhandho—",
+        "analyzed": "evam bahuvidhena saṅkhāra kkhandho ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:52.10",
+        "original": "ayaṁ vuccati “saṅkhārakkhandho”.",
+        "analyzed": "ayam vuccati saṅkhāra kkhandho ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_3:53.1",
+        "original": "Tattha katamaṁ rūpaṁ anidassanaappaṭighaṁ dhammāyatanapariyāpannaṁ?",
+        "analyzed": "tattha katamam rūpam a nidassana appaṭigham dhamma āyatana pariyāpanna ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_3:53.2",
+        "original": "Itthindriyaṁ …pe… kabaḷīkāro āhāro—",
+        "analyzed": "itthi indriyam kabaḷīkāraḥ āhāraḥ ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_3:53.3",
+        "original": "idaṁ vuccati rūpaṁ “anidassanaappaṭighaṁ dhammāyatanapariyāpannaṁ”.",
+        "analyzed": "idam vuccati rūpam anidassana appaṭigham dhamma āyatana pariyāpanna ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_3:54.1",
+        "original": "Tattha katamā asaṅkhatā dhātu?",
+        "analyzed": "tattha katamā asaṅkhatā dhātu ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_3:54.2",
+        "original": "Rāgakkhayo, dosakkhayo, mohakkhayo—",
+        "analyzed": "rāga khayaḥ dosa khayaḥ moha kkhayaḥ ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_3:54.3",
+        "original": "ayaṁ vuccati “asaṅkhatā dhātu”.",
+        "analyzed": "ayam vuccati asaṅkhatā dhātu ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_3:54.4",
+        "original": "Ayaṁ vuccati “dhammadhātu”. –17",
+        "analyzed": "ayam vuccati dhammadhātu ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.1",
+        "original": "Tattha katamā manoviññāṇadhātu?",
+        "analyzed": "tattha katamā manaḥ viññāṇa dhātu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.2",
+        "original": "Cakkhuviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati manodhātu, manodhātuyā uppajjitvā niruddhasamanantarā uppajjati cittaṁ mano mānasaṁ …pe… tajjāmanoviññāṇadhātu;",
+        "analyzed": "cakkhu viññāṇa dhātuyāḥ uppajjitvā niruddha samanantarā uppajjati manaḥ dhātu manaḥ dhātuyāḥ uppajjitvā niruddha samanantarā uppajjati cittam manaḥ mānasam pe tajjā manaḥ viññāṇa dhātu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.3",
+        "original": "sotaviññāṇadhātuyā …pe…",
+        "analyzed": "sota viññāṇa dhātuyā pe ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.4",
+        "original": "ghānaviññāṇadhātuyā …pe…",
+        "analyzed": "ghāna viññāṇa dhātuyā pe ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.5",
+        "original": "jivhāviññāṇadhātuyā …pe…",
+        "analyzed": "jivhā viññāṇa dhātuyā pe ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.6_0",
+        "original": "kāyaviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati manodhātu, manodhātuyāpi",
+        "analyzed": "kāya viññāṇa dhātuyāḥ uppajjitvā niruddha samanantarā uppajjati manaḥ dhātu manaḥ dhātuyā api ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.6_1",
+        "original": "uppajjitvā niruddhasamanantarā uppajjati cittaṁ mano mānasaṁ …pe… tajjāmanoviññāṇadhātu",
+        "analyzed": "uppajjitvā niruddha samanantarā uppajjati cittam manaḥ mānasam pe tajjā manaḥ viññāṇa dhātu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.6_2",
+        "original": "manañca paṭicca dhamme ca uppajjati cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ",
+        "analyzed": "manañca paṭicca dhamme ca uppajjati cittam manaḥ mānasam hadayam paṇḍaram manaḥ ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.6_3",
+        "original": "manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjāmanoviññāṇadhātu—",
+        "analyzed": "man indriyam viññāṇam viññāṇa kkhandho tajjā manaḥ viññāṇa dhātu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:55.7",
+        "original": "ayaṁ vuccati “manoviññāṇadhātu”.",
+        "analyzed": "ayam vuccati manaḥ viññāṇa dhātu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_3:56.1",
+        "original": "Abhidhammabhājanīyaṁ.",
+        "analyzed": "abhidhammabhājanīya ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_3:57.0",
+        "original": "3. Pañhāpucchaka",
+        "analyzed": "pañhāpucchaka ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_3:57.1",
+        "original": "Aṭṭhārasa dhātuyo—",
+        "analyzed": "aṭṭhārasa dhātuyaḥ ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_3:57.2_0",
+        "original": "cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu, sotadhātu, saddadhātu, sotaviññāṇadhātu,",
+        "analyzed": "cakkhu dhātu rūpa dhātu cakkhu viññāṇa dhātu sota dhātu sadda dhātu sota viññāṇa dhātu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_3:57.2_1",
+        "original": "ghānadhātu, gandhadhātu, ghānaviññāṇadhātu, jivhādhātu, rasadhātu, jivhāviññāṇadhātu,",
+        "analyzed": "ghāna dhātu gandha dhātu ghāna viññāṇa dhātu jivhā dhātu rasa dhātu jivhā viññāṇa dhātu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_3:57.2_2",
+        "original": "kāyadhātu, phoṭṭhabbadhātu, kāyaviññāṇadhātu, manodhātu, dhammadhātu, manoviññāṇadhātu.",
+        "analyzed": "kāya dhātu phoṭṭhabba dhātu kāya viññāṇa dhātu manaḥ dhātu dhammadhātu manas viññāṇa dhātu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_3:58.1",
+        "original": "Aṭṭhārasannaṁ dhātūnaṁ kati kusalā, kati akusalā, kati abyākatā …pe… kati saraṇā, kati araṇā?",
+        "analyzed": "dhātūnam kati kusalā kati akusalā kati abyākatā pe kati saraṇā kati araṇā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_3:59.0",
+        "original": "3.1. Tika",
+        "analyzed": "tika ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_vb_3:59.1",
+        "original": "Soḷasa dhātuyo abyākatā.",
+        "analyzed": "soḍasa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_vb_3:59.2",
+        "original": "Dve dhātuyo siyā kusalā, siyā akusalā, siyā abyākatā.",
+        "analyzed": "dve siyā kusalā siyā akusalā siyā abyākatā ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.1",
+        "original": "Dasa dhātuyo na vattabbā—",
+        "analyzed": "dasa dhātuyaḥ na vattabbā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.2",
+        "original": "“sukhāya vedanāya sampayuttā”tipi, “dukkhāya vedanāya sampayuttā”tipi, “adukkhamasukhāya vedanāya sampayuttā”tipi.",
+        "analyzed": "sukhāya vedanāya sampayuttā atipi dukkhāya vedanāya sampayuttā atipi adukkhamasukhāya vedanāya sampayuttā atipi ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.3",
+        "original": "Pañca dhātuyo adukkhamasukhāya vedanāya sampayuttā.",
+        "analyzed": "pañca dhātuyaḥ adukkham asukhāya vedanāya sampayuttā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.4",
+        "original": "Kāyaviññāṇadhātu siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā.",
+        "analyzed": "kāya viññāṇa dhātu siyā sukhāya vedanāya sampayuttā siyā dukkhāya vedanāya sampayuttā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.5",
+        "original": "Manoviññāṇadhātu siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā.",
+        "analyzed": "manaḥ viññāṇa dhātu siyā sukhāya vedanāya sampayuttā siyā dukkhāya vedanāya sampayuttā siyā adukkhamasukhāya vedanāya sampayuttā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.6_0",
+        "original": "Dhammadhātu siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā,",
+        "analyzed": "dhammadhātu siyā sukhāya vedanāya sampayuttā siyā dukkhāya vedanāya sampayuttā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.6_1",
+        "original": "siyā adukkhamasukhāya vedanāya sampayuttā, siyā na vattabbā—“sukhāya vedanāya sampayuttā”tipi,",
+        "analyzed": "siyā adukkhamasukhāya vedanāya sampayuttā siyā na vattabbā asukhāya vedanāya sampayuttā atipi ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:60.6_2",
+        "original": "“dukkhāya vedanāya sampayuttā”tipi, “adukkhamasukhāya vedanāya sampayuttā”tipi.",
+        "analyzed": "dukkhāya vedanāya sampayuttā atipi adukkhamasukhāya vedanāya sampayuttā atipi ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_3:61.1",
+        "original": "Dasa dhātuyo nevavipākanavipākadhammadhammā.",
+        "analyzed": "dasa dhātuyaḥ na iva vipāka na vipāka dhamma dhammā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_3:61.2",
+        "original": "Pañca dhātuyo vipākā.",
+        "analyzed": "pañca dhātuyaḥ vipākā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_3:61.3",
+        "original": "Manodhātu siyā vipākā, siyā nevavipākanavipākadhammadhammā.",
+        "analyzed": "manaḥ dhātu siyā vipākā siyā na iva vipāka na vipāka dhamma dhammā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_3:61.4",
+        "original": "Dve dhātuyo siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā.",
+        "analyzed": "dve dhātuyo siyā vipākā siyā vipāka dhamma dhammā siyā neva vipāka na vipāka dhamma dhammā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_3:62.1",
+        "original": "Dasa dhātuyo upādinnupādāniyā.",
+        "analyzed": "dasa ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_3:62.2",
+        "original": "Saddadhātu anupādinnupādāniyā.",
+        "analyzed": "saddadhātu ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_3:62.3",
+        "original": "Pañca dhātuyo siyā upādinnupādāniyā, siyā anupādinnupādāniyā.",
+        "analyzed": "pañca dhātuyaḥ siyā upādinnupādāniyā siyā anupādinnupādāniyā ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_3:62.4",
+        "original": "Dve dhātuyo siyā upādinnupādāniyā, siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā.",
+        "analyzed": "dve siyā upādinnupādāniyā siyā anupādinnupādāniyā siyā anupādinna anupādāniyā ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_3:63.1",
+        "original": "Soḷasa dhātuyo asaṅkiliṭṭhasaṅkilesikā.",
+        "analyzed": "soḷasa dhātuyaḥ asaṅkiliṭṭha saṅkilesikā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_3:63.2",
+        "original": "Dve dhātuyo siyā saṅkiliṭṭhasaṅkilesikā, siyā asaṅkiliṭṭhasaṅkilesikā, siyā asaṅkiliṭṭhaasaṅkilesikā.",
+        "analyzed": "dve dhātuyo siyā saṅkiliṭṭha saṅkilesikā siyā asaṅkiliṭṭha saṅkilesikā siyā asaṅkiliṭṭha asaṅkilesikā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_3:64.1",
+        "original": "Pannarasa dhātuyo avitakkaavicārā.",
+        "analyzed": "pannarasa dhātuyaḥ a vitakka a vicārā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_3:64.2",
+        "original": "Manodhātu savitakkasavicārā.",
+        "analyzed": "manaḥ dhātu sa vitakka sa vicārā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_3:64.3",
+        "original": "Manoviññāṇadhātu siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā.",
+        "analyzed": "manaḥ viññāṇa dhātu siyā sa vitakka sa vicārā siyā a vitakka vicāra mattā siyā a vitakka avicārā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_3:64.4",
+        "original": "Dhammadhātu siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā, siyā na vattabbā—“savitakkasavicārā”tipi, “avitakkavicāramattā”tipi, “avitakkaavicārā”tipi.",
+        "analyzed": "dhammadhātu siyā sa vitakka sa vicārā siyā avitakka vicāra mattā siyā avitakka avicārā siyā na vattabbā sa vitakka sa vicārā atipi avitakka vicāra mattā atipi avitakka avicārā atipi ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_3:65.1",
+        "original": "Dasa dhātuyo na vattabbā—",
+        "analyzed": "dasa dhātuyaḥ na vattabbā ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_3:65.2",
+        "original": "“pītisahagatā”tipi, “sukhasahagatā”tipi, “upekkhāsahagatā”tipi.",
+        "analyzed": "pīti sahagatā atipi sukha sahagatā atipi upekkhā sahagatā atipi ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_3:65.3",
+        "original": "Pañca dhātuyo upekkhāsahagatā.",
+        "analyzed": "pañca dhātuyaḥ upekkhā sahagatā ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_3:65.4",
+        "original": "Kāyaviññāṇadhātu na pītisahagatā, siyā sukhasahagatā, na upekkhāsahagatā, siyā na vattabbā—“sukhasahagatā”ti.",
+        "analyzed": "kāya viññāṇa dhātu na pīti sahagatā siyā sukha sahagatā na upekkhā sahagatā siyā na vattabbā asukha sahagatā ti ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_3:65.5",
+        "original": "Dve dhātuyo siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā, siyā na vattabbā—“pītisahagatā”tipi, “sukhasahagatā”tipi, “upekkhāsahagatā”tipi.",
+        "analyzed": "dve dhātuyaḥ siyā pīti sahagatā siyā sukha sahagatā siyā upekkhā sahagatā siyā na vattabbā pīti sahagatā atipi sukha sahagatā atipi upekkhā sahagatā atipi ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_3:66.1",
+        "original": "Soḷasa dhātuyo neva dassanena na bhāvanāya pahātabbā.",
+        "analyzed": "soḷasa dhātuyaḥ na iva dassanena na bhāvanāya pahātabbā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_3:66.2",
+        "original": "Dve dhātuyo siyā dassanena pahātabbā, siyā bhāvanāya pahātabbā, siyā neva dassanena na bhāvanāya pahātabbā.",
+        "analyzed": "dve dhātuyo siyā dassanena pahātabbā siyā bhāvanāya pahātabbā siyā na iva dassanena na bhāvanāya pahātabbā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_3:67.1",
+        "original": "Soḷasa dhātuyo neva dassanena na bhāvanāya pahātabbahetukā.",
+        "analyzed": "soḷasa dhātuyaḥ na iva dassanena na bhāvanāya pahātabba hetukā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_3:67.2",
+        "original": "Dve dhātuyo siyā dassanena pahātabbahetukā, siyā bhāvanāya pahātabbahetukā, siyā neva dassanena na bhāvanāya pahātabbahetukā.",
+        "analyzed": "dve dhātuyo siyā dassanena pahātabba hetukā siyā bhāvanāya pahātabba hetukā siyā na iva dassanena na bhāvanāya pahātabba hetukā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_3:68.1",
+        "original": "Soḷasa dhātuyo nevācayagāmināpacayagāmino.",
+        "analyzed": "soḍasa ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_3:68.2",
+        "original": "Dve dhātuyo siyā ācayagāmino, siyā apacayagāmino, siyā nevācayagāmināpacayagāmino.",
+        "analyzed": "dve siyā ācaya gāmino siyā apacaya gāmino siyā na iva ācaya gāminā apacaya gāmino ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_3:69.1",
+        "original": "Soḷasa dhātuyo nevasekkhanāsekkhā.",
+        "analyzed": "soḷasa dhātuyaḥ neva sekkha nā sekkhā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_3:69.2",
+        "original": "Dve dhātuyo siyā sekkhā, siyā asekkhā, siyā nevasekkhanāsekkhā.",
+        "analyzed": "dve dhātuyaḥ siyā sekkhā siyā asekkhā siyā nevasekkhanā asekkhā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_3:70.1",
+        "original": "Soḷasa dhātuyo parittā.",
+        "analyzed": "soḷasa dhātuyaḥ parittā ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_3:70.2",
+        "original": "Dve dhātuyo siyā parittā, siyā mahaggatā, siyā appamāṇā.",
+        "analyzed": "dve dhātuyaḥ siyā parittā siyā mahaggatā siyā appamāṇā ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_3:71.1",
+        "original": "Dasa dhātuyo anārammaṇā.",
+        "analyzed": "dasa dhātuyaḥ anārammaṇā ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_3:71.2",
+        "original": "Cha dhātuyo parittārammaṇā.",
+        "analyzed": "cha dhātuyaḥ paritta ārammaṇā ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_3:71.3",
+        "original": "Dve dhātuyo siyā parittārammaṇā, siyā mahaggatārammaṇā, siyā appamāṇārammaṇā, siyā na vattabbā—“parittārammaṇā”tipi, “mahaggatārammaṇā”tipi, “appamāṇārammaṇā”tipi.",
+        "analyzed": "dve dhātuyo siyā paritta ārammaṇā siyā mahaggata ārammaṇā siyā appamāṇa ārammaṇā siyā na vattabbā aparitta ārammaṇā atipi mahaggata ārammaṇā atipi appamāṇa ārammaṇā atipi ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_3:72.1",
+        "original": "Soḷasa dhātuyo majjhimā.",
+        "analyzed": "soḷasa dhātuyaḥ majjhimā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_3:72.2",
+        "original": "Dve dhātuyo siyā hīnā, siyā majjhimā, siyā paṇītā.",
+        "analyzed": "dve dhātuyo siyā hīnā siyā majjhimā siyā paṇītā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_3:73.1",
+        "original": "Soḷasa dhātuyo aniyatā.",
+        "analyzed": "soḷasa aniyatā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_3:73.2",
+        "original": "Dve dhātuyo siyā micchattaniyatā, siyā sammattaniyatā, siyā aniyatā.",
+        "analyzed": "dve siyā micchatta niyatā siyā sammatta niyatā siyā aniyatā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_3:74.1",
+        "original": "Dasa dhātuyo anārammaṇā.",
+        "analyzed": "dasa dhātuyaḥ anārammaṇā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_3:74.2",
+        "original": "Cha dhātuyo na vattabbā—",
+        "analyzed": "cha dhātuyaḥ na vattabbā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_3:74.3",
+        "original": "“maggārammaṇā”tipi, “maggahetukā”tipi, “maggādhipatino”tipi.",
+        "analyzed": "magga ārammaṇā atipi magga hetukā atipi magga adhipatinā atipi ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_3:74.4",
+        "original": "Dve dhātuyo siyā maggārammaṇā, siyā maggahetukā, siyā maggādhipatino, siyā na vattabbā—“maggārammaṇā”tipi, “maggahetukā”tipi, “maggādhipatino”tipi.",
+        "analyzed": "dve dhātuyaḥ siyā magga ārammaṇā siyā magga hetukā siyā magga adhipatino siyā na vattabbā a magga ārammaṇā atipi magga hetukā atipi magga adhipatino tipi ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_3:75.1",
+        "original": "Dasa dhātuyo siyā uppannā, siyā uppādino, siyā na vattabbā—“anuppannā”ti.",
+        "analyzed": "dasa dhātuyaḥ siyā uppannā siyā uppādino siyā na vattabbā anuppannā ti ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_3:75.2",
+        "original": "Saddadhātu siyā uppannā, siyā anuppannā, siyā na vattabbā—“uppādinī”ti.",
+        "analyzed": "sadda dhātu siyā uppannā siyā anuppannā siyā na vattabbā auppādinī iti ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_3:75.3",
+        "original": "Cha dhātuyo siyā uppannā, siyā anuppannā, siyā uppādino.",
+        "analyzed": "cha dhātuyaḥ siyā uppannā siyā anuppannā siyā uppādinaḥ ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_3:75.4",
+        "original": "Dhammadhātu siyā uppannā, siyā anuppannā, siyā uppādinī, siyā na vattabbā—“uppannā”tipi, “anuppannā”tipi, “uppādinī”tipi.",
+        "analyzed": "dhammadhātu siyā uppannā siyā anuppannā siyā uppādinī siyā na vattabbā auppannā atipi anuppannā atipi uppādinī itipi ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_3:76.1",
+        "original": "Sattarasa dhātuyo siyā atītā, siyā anāgatā, siyā paccuppannā.",
+        "analyzed": "sattarasa dhātuyaḥ siyā atītā siyā anāgatā siyā paccuppannā ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_vb_3:76.2",
+        "original": "Dhammadhātu siyā atītā, siyā anāgatā, siyā paccuppannā, siyā na vattabbā—“atītā”tipi, “anāgatā”tipi, “paccuppannā”tipi.",
+        "analyzed": "dhammadhātu siyā atītā siyā anāgatā siyā paccuppannā siyā na vattabbā atītā atipi anāgatā atipi paccuppannā atipi ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_vb_3:77.1",
+        "original": "Dasa dhātuyo anārammaṇā.",
+        "analyzed": "dasa dhātuyaḥ anārammaṇā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_3:77.2",
+        "original": "Cha dhātuyo paccuppannārammaṇā.",
+        "analyzed": "cha dhātuyaḥ paccuppanna ārammaṇā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_3:77.3",
+        "original": "Dve dhātuyo siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā, siyā na vattabbā—“atītārammaṇā”tipi, “anāgatārammaṇā”tipi, “paccuppannārammaṇā”tipi.",
+        "analyzed": "dve dhātuyo siyā atīta ārammaṇā siyā anāgata ārammaṇā siyā paccuppanna ārammaṇā siyā na vattabbā atīta ārammaṇā atipi anāgata ārammaṇā atipi paccuppanna ārammaṇā atipi ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_3:78.1",
+        "original": "Siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā.",
+        "analyzed": "siyā ajjhattā siyā bahiddhā siyā ajjhatta bahiddhā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_3:79.1",
+        "original": "Dasa dhātuyo anārammaṇā.",
+        "analyzed": "dasa dhātuyaḥ anārammaṇā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_3:79.2",
+        "original": "Cha dhātuyo siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā.",
+        "analyzed": "cha dhātuyaḥ siyā ajjhatta ārammaṇā siyā bahiddhā ārammaṇā siyā ajjhatta bahiddhā ārammaṇā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_3:79.3",
+        "original": "Dve dhātuyo siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā, siyā na vattabbā—“ajjhattārammaṇā”tipi, “bahiddhārammaṇā”tipi, “ajjhattabahiddhārammaṇā”tipi.",
+        "analyzed": "dve dhātuyaḥ siyā ajjhatta ārammaṇā siyā bahiddha ārammaṇā siyā ajjhatta bahiddha ārammaṇā siyā na vattabbā ajjhatta ārammaṇā atipi bahiddha ārammaṇā atipi ajjhatta bahiddha ārammaṇā atipi ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_3:80.1",
+        "original": "Rūpadhātu sanidassanasappaṭighā.",
+        "analyzed": "rūpa dhātu sani dassana sa paṭighā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_3:80.2",
+        "original": "Nava dhātuyo anidassanaappaṭighā.",
+        "analyzed": "nava dhātuyaḥ a nidassana appaṭighā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_3:80.3",
+        "original": "Aṭṭha dhātuyo anidassanaappaṭighā.",
+        "analyzed": "aṭṭha dhātuyaḥ a nidassana appaṭighā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.0.1",
+        "original": "3.2. 3.2 Duka",
+        "analyzed": "duka ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.0.2",
+        "original": "3.2.1. Hetugocchaka",
+        "analyzed": "hetu ga ucchaka ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.1",
+        "original": "Sattarasa dhātuyo na hetū.",
+        "analyzed": "sattarasa dhātuyaḥ na hetū ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.2",
+        "original": "Dhammadhātu siyā hetu, siyā na hetu.",
+        "analyzed": "dhammadhātu siyā hetu siyā na hetu ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.3",
+        "original": "Soḷasa dhātuyo ahetukā.",
+        "analyzed": "soḍasa dhātuyaḥ ahetukā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.4",
+        "original": "Dve dhātuyo siyā sahetukā, siyā ahetukā.",
+        "analyzed": "dve siyā sa hetukā siyā ahetukā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.5",
+        "original": "Soḷasa dhātuyo hetuvippayuttā.",
+        "analyzed": "soḷasa dhātuyaḥ hetu vippayuttā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.6",
+        "original": "Dve dhātuyo siyā hetusampayuttā, siyā hetuvippayuttā.",
+        "analyzed": "dve dhātuyaḥ siyā hetu sampayuttā siyā hetu vippayuttā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.7",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.8",
+        "original": "“hetu ceva sahetukā cā”tipi, “sahetukā ceva na ca hetū”tipi.",
+        "analyzed": "hetu ca iva sa hetukā ca atipi sa hetukā ca iva na ca ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.9",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.10",
+        "original": "“hetu ceva sahetukā cā”ti, siyā sahetukā ceva na ca hetu, siyā na vattabbā—“sahetukā ceva na ca hetū”ti.",
+        "analyzed": "hetu ca iva sa hetukā ca ati siyā sa hetukā ca iva na ca hetu siyā na vattabbā a sahetukā ca iva na ca hetu uti ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.11",
+        "original": "Dhammadhātu siyā hetu ceva sahetukā ca, siyā sahetukā ceva na ca hetu, siyā na vattabbā—“hetu ceva sahetukā cā”tipi, “sahetukā ceva na ca hetū”tipi.",
+        "analyzed": "dhammadhātu siyā hetu ca iva sa hetukā ca siyā sa hetukā ca iva na ca hetu siyā na vattabbā ahetu ca iva sa hetukā ca atipi sa hetukā ca iva na ca hetu ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.12",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.13",
+        "original": "“hetū ceva hetusampayuttā cā”tipi, “hetusampayuttā ceva na ca hetū”tipi.",
+        "analyzed": "hetū ca iva hetu sampayuttā ca atipi hetu sampayuttā ca iva na ca ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.14",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.15",
+        "original": "“hetu ceva hetusampayuttā cā”ti, siyā hetusampayuttā ceva na ca hetu, siyā na vattabbā—“hetusampayuttā ceva na ca hetū”ti.",
+        "analyzed": "hetu ca iva hetu sampayuttā ca ati siyā hetu sampayuttā ca iva na ca hetu siyā na vattabbā a hetu sampayuttā ca iva na ca hetu uti ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.16",
+        "original": "Dhammadhātu siyā hetu ceva hetusampayuttā ca, siyā hetusampayuttā ceva na ca hetu, siyā na vattabbā—“hetu ceva hetusampayuttā cā”tipi, “hetusampayuttā ceva na ca hetū”tipi.",
+        "analyzed": "dhammadhātu siyā hetu ca iva hetu sampayuttā ca siyā hetu sampayuttā ca iva na ca hetu siyā na vattabbā a hetu ca iva hetu sampayuttā ca atipi hetu sampayuttā ca iva na ca hetu ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.17",
+        "original": "Soḷasa dhātuyo na hetuahetukā.",
+        "analyzed": "soḍasa na hetu ahetukā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.18",
+        "original": "Manoviññāṇadhātu siyā na hetusahetukā, siyā na hetuahetukā.",
+        "analyzed": "manaḥ viññāṇa dhātu siyā na hetu sahetukā siyā na hetu ahetukā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:81.19",
+        "original": "Dhammadhātu siyā na hetusahetukā, siyā na hetuahetukā, siyā na vattabbā—“na hetusahetukā”tipi, “na hetuahetukā”tipi.",
+        "analyzed": "dhammadhātu siyā na hetu sahetukā siyā na hetu ahetukā siyā na vattabbā na hetu sahetukā atipi na hetu ahetukā atipi ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.0",
+        "original": "3.2.2. Cūḷantaraduka",
+        "analyzed": "cūḍantaraduka ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.1",
+        "original": "Sattarasa dhātuyo sappaccayā.",
+        "analyzed": "sattarasa dhātuyaḥ sa paccayā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.2",
+        "original": "Dhammadhātu siyā sappaccayā, siyā appaccayā.",
+        "analyzed": "dhammadhātu siyā sappaccayā siyā appaccayā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.3",
+        "original": "Sattarasa dhātuyo saṅkhatā.",
+        "analyzed": "sattarasa dhātuyaḥ saṅkhatā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.4",
+        "original": "Dhammadhātu siyā saṅkhatā, siyā asaṅkhatā.",
+        "analyzed": "dhammadhātu siyā saṅkhatā siyā asaṅkhatā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.5",
+        "original": "Rūpadhātu sanidassanā.",
+        "analyzed": "rūpa dhātu sani dassanā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.6",
+        "original": "Sattarasa dhātuyo anidassanā.",
+        "analyzed": "sattarasa dhātuyaḥ a nidassanā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.7",
+        "original": "Dasa dhātuyo sappaṭighā.",
+        "analyzed": "dasa dhātuyaḥ sa paṭighā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.8",
+        "original": "Aṭṭha dhātuyo appaṭighā.",
+        "analyzed": "aṭṭha dhātuyaḥ appaṭighā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.9",
+        "original": "Dasa dhātuyo rūpā.",
+        "analyzed": "dasa rūpā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.10",
+        "original": "Satta dhātuyo arūpā.",
+        "analyzed": "satta dhātuyaḥ arūpā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.11",
+        "original": "Dhammadhātu siyā rūpā, siyā arūpā.",
+        "analyzed": "dhammadhātu siyā rūpā siyā arūpā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.12",
+        "original": "Soḷasa dhātuyo lokiyā.",
+        "analyzed": "soḷasa dhātuyaḥ lokiyā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.13",
+        "original": "Dve dhātuyo siyā lokiyā, siyā lokuttarā;",
+        "analyzed": "dve siyā lokiyā siyā lokuttarā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:82.14",
+        "original": "kenaci viññeyyā, kenaci na viññeyyā.",
+        "analyzed": "kenacid viññeyyā kenacid na viññeyyā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.0",
+        "original": "3.2.3. Āsavagocchaka",
+        "analyzed": "āsavagocchaka ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.1",
+        "original": "Sattarasa dhātuyo no āsavā.",
+        "analyzed": "sattarasa dhātuyaḥ naḥ āsavā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.2",
+        "original": "Dhammadhātu siyā āsavā, siyā no āsavā.",
+        "analyzed": "dhammadhātu siyā āsavā siyā no āsavā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.3",
+        "original": "Soḷasa dhātuyo sāsavā.",
+        "analyzed": "soḷasa sāsavā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.4",
+        "original": "Dve dhātuyo siyā sāsavā, siyā anāsavā.",
+        "analyzed": "dve siyā sa āsavā siyā anāsavā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.5",
+        "original": "Soḷasa dhātuyo āsavavippayuttā.",
+        "analyzed": "soḷasa dhātuyaḥ āsava vippayuttā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.6",
+        "original": "Dve dhātuyo siyā āsavasampayuttā, siyā āsavavippayuttā.",
+        "analyzed": "dve dhātuyo siyā āsava sampayuttā siyā āsava vippayuttā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.7",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.8",
+        "original": "“āsavā ceva sāsavā cā”ti, sāsavā ceva no ca āsavā.",
+        "analyzed": "āsavā ca iva sāsavā ca ati sāsavā ca iva no ca āsavā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.9",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.10",
+        "original": "“āsavo ceva sāsavā cā”ti, siyā sāsavā ceva no ca āsavo, siyā na vattabbā—“sāsavā ceva no ca āsavo”ti.",
+        "analyzed": "āsavo ca iva sa āsavā ca ati siyā sa āsavā ca iva no ca āsavo siyā na vattabbā a sāsavā ca iva no ca āsavoti ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:83.11",
+        "original": "Dhammadhātu siyā āsavo ceva sāsavā ca, siyā sāsavā ceva no ca āsavo, siyā na vattabbā—“āsavo ceva sāsavā cā”tipi, “sāsavā ceva no ca āsavo”tipi.",
+        "analyzed": "dhammadhātu siyā āsavo ceva sāsavā ca siyā sāsavā ceva no ca āsavo siyā na vattabbā āsavo ceva sāsavā ca atipi sāsavā ceva no ca āsavo tipi ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.1",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.2",
+        "original": "“āsavā ceva āsavasampayuttā cā”tipi, “āsavasampayuttā ceva no ca āsavā”tipi.",
+        "analyzed": "āsavā ca iva āsava sampayuttā ca atipi āsava sampayuttā ca iva no ca āsavā atipi ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.3",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.4",
+        "original": "“āsavo ceva āsavasampayuttā cā”ti, siyā āsavasampayuttā ceva no ca āsavo, siyā na vattabbā—“āsavasampayuttā ceva no ca āsavo”ti.",
+        "analyzed": "āsavo ca iva āsava sampayuttā ca ati siyā āsava sampayuttā ca iva no ca āsavo siyā na vattabbā āsava sampayuttā ca iva no ca āsavoti ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.5",
+        "original": "Dhammadhātu siyā āsavo ceva āsavasampayuttā ca, siyā āsavasampayuttā ceva no ca āsavo, siyā na vattabbā—“āsavo ceva āsavasampayuttā cā”tipi, “āsavasampayuttā ceva no ca āsavo”tipi.",
+        "analyzed": "dhammadhātu siyā āsavo ca iva āsava sampayuttā ca siyā āsava sampayuttā ca iva no ca āsavo siyā na vattabbā āsavo ca iva āsava sampayuttā ca atipi āsava sampayuttā ca iva no ca āsavo tipi ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.6",
+        "original": "Soḷasa dhātuyo āsavavippayuttasāsavā.",
+        "analyzed": "soḷasa dhātuyaḥ ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:84.7",
+        "original": "Dve dhātuyo siyā āsavavippayuttasāsavā, siyā āsavavippayuttaanāsavā, siyā na vattabbā—“āsavavippayuttasāsavā”tipi, “āsavavippayuttaanāsavā”tipi.",
+        "analyzed": "dve dhātuyaḥ siyā āsava vippayutta sāsavā siyā āsava vippayutta anāsavā siyā na vattabbā āsava vippayutta sāsavā atipi āsava vippayutta anāsavā atipi ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.0",
+        "original": "3.2.4. Saṁyojanagocchaka",
+        "analyzed": "sayojana gocchaka ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.1",
+        "original": "Sattarasa dhātuyo no saṁyojanā.",
+        "analyzed": "sattarasa dhātuyaḥ no sayojanā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.2",
+        "original": "Dhammadhātu siyā saṁyojanaṁ, siyā no saṁyojanaṁ.",
+        "analyzed": "dhammadhātu siyā sayojana siyā no sayojana ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.3",
+        "original": "Soḷasa dhātuyo saṁyojaniyā.",
+        "analyzed": "soḍasa dhātuyo sayojaniyā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.4",
+        "original": "Dve dhātuyo siyā saṁyojaniyā, siyā asaṁyojaniyā.",
+        "analyzed": "dve dhātuyo siyā sayojaniyā siyā a sayojaniyā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.5",
+        "original": "Soḷasa dhātuyo saṁyojanavippayuttā.",
+        "analyzed": "soḷasa dhātuyo sayojana vippayuttā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.6",
+        "original": "Dve dhātuyo siyā saṁyojanasampayuttā, siyā saṁyojanavippayuttā.",
+        "analyzed": "dve dhātuyaḥ siyā sayojana sampayuttā siyā sayojana vippayuttā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.7",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.8",
+        "original": "“saṁyojanā ceva saṁyojaniyā cā”ti, saṁyojaniyā ceva no ca saṁyojanā.",
+        "analyzed": "sayojanā ca iva sayojaniyā ca ati sayojaniyā ca iva no ca sayojanā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.9",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.10",
+        "original": "“saṁyojanañceva saṁyojaniyā cā”ti, siyā saṁyojaniyā ceva no ca saṁyojanaṁ, siyā na vattabbā—“saṁyojaniyā ceva no ca saṁyojanan”ti.",
+        "analyzed": "sayojanam ca iva sayojaniyā ca ati siyā sayojaniyā ca iva no ca sayojana siyā na vattabbā a sayojaniyā ca iva no ca sayojananti ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.11_0",
+        "original": "Dhammadhātu siyā saṁyojanañceva saṁyojaniyā ca, siyā saṁyojaniyā ceva no ca saṁyojanaṁ,",
+        "analyzed": "dhammadhātu siyā sayojanañca iva sayojaniyā ca siyā sayojaniyā ca iva no ca sayojana ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.11_1",
+        "original": "siyā na vattabbā—“saṁyojanañceva saṁyojaniyā cā”tipi, “saṁyojaniyā ceva no ca saṁyojanan”tipi.",
+        "analyzed": "siyā na vattabbā a sayojanam ca iva sayojaniyā ca atipi sayojaniyā ca iva no ca ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.12",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.13",
+        "original": "“saṁyojanā ceva saṁyojanasampayuttā cā”tipi, “saṁyojanasampayuttā ceva no ca saṁyojanā”tipi.",
+        "analyzed": "sayojanā ca iva sayojana sampayuttā ca atipi sayojana sampayuttā ca iva no ca sayojanā atipi ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.14",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.15",
+        "original": "“saṁyojanañceva saṁyojanasampayuttā cā”ti, siyā saṁyojanasampayuttā ceva no ca saṁyojanaṁ, siyā na vattabbā—“saṁyojanasampayuttā ceva no ca saṁyojanan”ti.",
+        "analyzed": "sayojanam ca iva sayojana sampayuttā ca ati siyā sayojana sampayuttā ca iva no ca sayojana siyā na vattabbā a sayojana sampayuttā ca iva no ca sayojana ti ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.16_0",
+        "original": "Dhammadhātu siyā saṁyojanañceva saṁyojanasampayuttā ca, siyā saṁyojanasampayuttā",
+        "analyzed": "dhammadhātu siyā sayojanañca iva sayojana sampayuttā ca siyā sayojana sampayuttā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.16_1",
+        "original": "ceva no ca saṁyojanaṁ, siyā na vattabbā—“saṁyojanañceva saṁyojanasampayuttā cā”tipi,",
+        "analyzed": "ca iva no ca siyā na vattabbā a sayojanam ca iva sayojana sampayuttā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.16_2",
+        "original": "“saṁyojanasampayuttā ceva no ca saṁyojanan”tipi.",
+        "analyzed": "sayojana sampayuttā ca iva no ca ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.17",
+        "original": "Soḷasa dhātuyo saṁyojanavippayuttasaṁyojaniyā.",
+        "analyzed": "soḷasa dhātuyo sayojana vippayutta sayojaniyā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:85.18",
+        "original": "Dve dhātuyo siyā saṁyojanavippayuttasaṁyojaniyā, siyā saṁyojanavippayuttaasaṁyojaniyā, siyā na vattabbā—“saṁyojanavippayuttasaṁyojaniyā”tipi, “saṁyojanavippayuttaasaṁyojaniyā”tipi.",
+        "analyzed": "dve dhātuyaḥ siyā sayojana vippayutta sayojaniyā siyā sayojana vippayutta asayojaniyā siyā na vattabbā a sayojana vippayutta sayojaniyā atipi sayojana vippayutta asayojaniyā atipi ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.0",
+        "original": "3.2.5. Ganthagocchaka",
+        "analyzed": "gantha gocchaka ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.1",
+        "original": "Sattarasa dhātuyo no ganthā.",
+        "analyzed": "sattarasa dhātuyaḥ naḥ gantha ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.2",
+        "original": "Dhammadhātu siyā gantho, siyā no gantho.",
+        "analyzed": "dhammadhātu siyā gantho siyā no gantho ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.3",
+        "original": "Soḷasa dhātuyo ganthaniyā.",
+        "analyzed": "soḷasa dhātuyaḥ ganthaniyā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.4",
+        "original": "Dve dhātuyo siyā ganthaniyā, siyā aganthaniyā.",
+        "analyzed": "dve dhātuyo siyā ganthaniyā siyā a ganthaniyā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.5",
+        "original": "Soḷasa dhātuyo ganthavippayuttā.",
+        "analyzed": "soḷasa dhātuyaḥ gantha vippayuttā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.6",
+        "original": "Dve dhātuyo siyā ganthasampayuttā, siyā ganthavippayuttā.",
+        "analyzed": "dve dhātuyaḥ siyā gantha sampayuttā siyā gantha vippayuttā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.7",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.8",
+        "original": "“ganthā ceva ganthaniyā cā”ti, ganthaniyā ceva no ca ganthā.",
+        "analyzed": "ganthā ca iva ganthaniyā ca ati ganthaniyā ca iva no ca ganthā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.9",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.10",
+        "original": "“gantho ceva ganthaniyā cā”ti, siyā ganthaniyā ceva no ca gantho, siyā na vattabbā—“ganthaniyā ceva no ca gantho”ti.",
+        "analyzed": "gantho ca iva ganthaniyā ca ati siyā ganthaniyā ca iva no ca gantho siyā na vattabbā a ganthaniyā ca iva no ca ganthoti ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.11",
+        "original": "Dhammadhātu siyā gantho ceva ganthaniyā ca, siyā ganthaniyā ceva no ca gantho, siyā na vattabbā—“gantho ceva ganthaniyā cā”tipi, “ganthaniyā ceva no ca gantho”tipi.",
+        "analyzed": "dhammadhātu siyā gantho ca iva ganthaniyā ca siyā ganthaniyā ca iva no ca gantho siyā na vattabbā agantho ca iva ganthaniyā ca atipi ganthaniyā ca iva no ca ganthotipi ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.12",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.13",
+        "original": "“ganthā ceva ganthasampayuttā cā”tipi, “ganthasampayuttā ceva no ca ganthā”tipi.",
+        "analyzed": "ganthā ca iva gantha sampayuttā ca atipi gantha sampayuttā ca iva no ca ganthā atipi ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.14",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.15",
+        "original": "“gantho ceva ganthasampayuttā cā”ti, siyā ganthasampayuttā ceva no ca gantho, siyā na vattabbā—“ganthasampayuttā ceva no ca gantho”ti.",
+        "analyzed": "ganthaḥ ca iva gantha sampayuttā ca ati siyā gantha sampayuttā ca iva no ca gantho siyā na vattabbā a gantha sampayuttā ca iva no ca gantho ti ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.16_0",
+        "original": "Dhammadhātu siyā gantho ceva ganthasampayuttā ca, siyā ganthasampayuttā ceva no ca",
+        "analyzed": "dhammadhātu siyā gantho ca iva gantha sampayuttā ca siyā gantha sampayuttā ca iva no ca ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.16_1",
+        "original": "gantho, siyā na vattabbā—“gantho ceva ganthasampayuttā cā”tipi, “ganthasampayuttā",
+        "analyzed": "ganthaḥ siyā na vattabbā aganthaḥ ca iva gantha sampayuttā ca atipi gantha sampayuttā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.16_2",
+        "original": "ceva no ca gantho”tipi.",
+        "analyzed": "ca iva no ca gantha utipi ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.17",
+        "original": "Soḷasa dhātuyo ganthavippayuttaganthaniyā.",
+        "analyzed": "soḷasa dhātuyaḥ gantha vippayutta ganthaniyā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:86.18",
+        "original": "Dve dhātuyo siyā ganthavippayuttaganthaniyā, siyā ganthavippayuttaaganthaniyā, siyā na vattabbā—“ganthavippayuttaganthaniyā”tipi, “ganthavippayuttaaganthaniyā”tipi.",
+        "analyzed": "dve dhātuyaḥ siyā gantha vippayutta ganthaniyā siyā gantha vippayutta aganthaniyā siyā na vattabbā agantha vippayutta ganthaniyā atipi gantha vippayutta aganthaniyā atipi ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.0",
+        "original": "3.3.2.6. Oghayoganīvaraṇagocchaka",
+        "analyzed": "ogha yoga nīvaraṇa gocchaka ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.1",
+        "original": "Sattarasa dhātuyo no oghā …pe…",
+        "analyzed": "sattarasa dhātuyaḥ no oghā pe ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.2",
+        "original": "no yogā …pe…",
+        "analyzed": "naḥ yogā pe ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.3",
+        "original": "no nīvaraṇā.",
+        "analyzed": "naḥ nīvaraṇā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.4",
+        "original": "Dhammadhātu siyā nīvaraṇaṁ, siyā no nīvaraṇaṁ.",
+        "analyzed": "dhammadhātu siyā no nīvaraṇa ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.5",
+        "original": "Soḷasa dhātuyo nīvaraṇiyā.",
+        "analyzed": "soḷasa dhātuyaḥ nīvaraṇiyā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.6",
+        "original": "Dve dhātuyo siyā nīvaraṇiyā, siyā anīvaraṇiyā.",
+        "analyzed": "dve siyā nīvaraṇiyā siyā a nīvaraṇiyā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.7",
+        "original": "Soḷasa dhātuyo nīvaraṇavippayuttā.",
+        "analyzed": "soḷasa dhātuyaḥ nīvaraṇa vippayuttā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.8",
+        "original": "Dve dhātuyo siyā nīvaraṇasampayuttā, siyā nīvaraṇavippayuttā.",
+        "analyzed": "dve dhātuyaḥ siyā nīvaraṇa sampayuttā siyā nīvaraṇa vippayuttā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.9",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.10",
+        "original": "“nīvaraṇā ceva nīvaraṇiyā cā”ti, nīvaraṇiyā ceva no ca nīvaraṇā.",
+        "analyzed": "nīvaraṇā ca iva nīvaraṇiyā ca ati nīvaraṇiyā ca iva no ca nīvaraṇā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.11",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.12",
+        "original": "“nīvaraṇañceva nīvaraṇiyā cā”ti, siyā nīvaraṇiyā ceva no ca nīvaraṇaṁ, siyā na vattabbā—“nīvaraṇiyā ceva no ca nīvaraṇan”ti.",
+        "analyzed": "nīvaraṇam ca iva nīvaraṇiyā ca ati siyā nīvaraṇiyā ca iva no ca nīvaraṇa siyā na vattabbā a nīvaraṇiyā ca iva no ca nīvaraṇanti ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.13",
+        "original": "Dhammadhātu siyā nīvaraṇañceva nīvaraṇiyā ca, siyā nīvaraṇiyā ceva no ca nīvaraṇaṁ, siyā na vattabbā—“nīvaraṇañceva nīvaraṇiyā cā”tipi, “nīvaraṇiyā ceva no ca nīvaraṇan”tipi.",
+        "analyzed": "dhammadhātu siyā nīvaraṇam ca iva nīvaraṇiyā ca siyā nīvaraṇiyā ca iva no ca nīvaraṇa siyā na vattabbā nīvaraṇam ca iva nīvaraṇiyā ca atipi nīvaraṇiyā ca iva no ca nīvaraṇantipi ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.14",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.15",
+        "original": "“nīvaraṇā ceva nīvaraṇasampayuttā cā”tipi, “nīvaraṇasampayuttā ceva no ca nīvaraṇā”tipi.",
+        "analyzed": "nīvaraṇā ca iva nīvaraṇa sampayuttā ca atipi nīvaraṇa sampayuttā ca iva no ca nīvaraṇā atipi ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.16",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.17",
+        "original": "“nīvaraṇañceva nīvaraṇasampayuttā cā”ti, siyā nīvaraṇasampayuttā ceva no ca nīvaraṇaṁ, siyā na vattabbā—“nīvaraṇasampayuttā ceva no ca nīvaraṇan”ti.",
+        "analyzed": "nīvaraṇam ca iva nīvaraṇa sampayuttā ca ati siyā nīvaraṇa sampayuttā ca iva no ca nīvaraṇa siyā na vattabbā a nīvaraṇa sampayuttā ca iva no ca nīvaraṇanti ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.18_0",
+        "original": "Dhammadhātu siyā nīvaraṇañceva nīvaraṇasampayuttā ca, siyā nīvaraṇasampayuttā ceva",
+        "analyzed": "dhammadhātu siyā nīvaraṇam ca iva nīvaraṇa sampayuttā ca siyā nīvaraṇa sampayuttā ca iva ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.18_1",
+        "original": "no ca nīvaraṇaṁ, siyā na vattabbā—“nīvaraṇañceva nīvaraṇasampayuttā cā”tipi, “nīvaraṇasampayuttā",
+        "analyzed": "no ca siyā na vattabbā a nīvaraṇam ca iva nīvaraṇa sampayuttā ca atipi nīvaraṇa sampayuttā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.18_2",
+        "original": "ceva no ca nīvaraṇan”tipi.",
+        "analyzed": "ca iva naḥ ca nī va raṇ antipi ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.19",
+        "original": "Soḷasa dhātuyo nīvaraṇavippayuttanīvaraṇiyā.",
+        "analyzed": "soḷasa dhātuyaḥ nīvaraṇa vippayutta nīvaraṇiyā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:87.20",
+        "original": "Dve dhātuyo siyā nīvaraṇavippayuttanīvaraṇiyā, siyā nīvaraṇavippayuttaanīvaraṇiyā, siyā na vattabbā—“nīvaraṇavippayuttanīvaraṇiyā”tipi, “nīvaraṇavippayuttaanīvaraṇiyā”tipi.",
+        "analyzed": "dve dhātuyo siyā nīvaraṇa vippayutta nīvaraṇiyā siyā nīvaraṇa vippayutta anīvaraṇiyā siyā na vattabbā a nīvaraṇa vippayutta nīvaraṇiyā atipi nīvaraṇa vippayutta a nīvaraṇiyā atipi ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.0",
+        "original": "3.2.9. Parāmāsagocchaka",
+        "analyzed": "parā māsa gocchaka ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.1",
+        "original": "Sattarasa dhātuyo no parāmāsā.",
+        "analyzed": "sattarasa dhātuyaḥ no parāmāsā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.2",
+        "original": "Dhammadhātu siyā parāmāso, siyā no parāmāso.",
+        "analyzed": "dhammadhātu siyā parāmāsaḥ siyā no parāmāsaḥ ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.3",
+        "original": "Soḷasa dhātuyo parāmaṭṭhā.",
+        "analyzed": "soḷasa dhātuyo parāmaṭṭhā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.4",
+        "original": "Dve dhātuyo siyā parāmaṭṭhā, siyā aparāmaṭṭhā.",
+        "analyzed": "dve dhātuyo siyā parāmaṭṭhā siyā aparāmaṭṭhā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.5",
+        "original": "Soḷasa dhātuyo parāmāsavippayuttā.",
+        "analyzed": "soḷasa dhātuyo parāmāsa vippayuttā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.6",
+        "original": "Manoviññāṇadhātu siyā parāmāsasampayuttā, siyā parāmāsavippayuttā.",
+        "analyzed": "manaḥ viññāṇa dhātu siyā parāmāsa sampayuttā siyā parāmāsa vippayuttā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.7",
+        "original": "Dhammadhātu siyā parāmāsasampayuttā, siyā parāmāsavippayuttā, siyā na vattabbā—“parāmāsasampayuttā”tipi, “parāmāsavippayuttā”tipi.",
+        "analyzed": "dhammadhātu siyā parāmāsa sampayuttā siyā parāmāsa vippayuttā siyā na vattabbā a parāmāsa sampayuttā atipi parāmāsa vippayuttā atipi ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.8",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.9",
+        "original": "“parāmāsā ceva parāmaṭṭhā cā”ti parāmaṭṭhā ceva no ca parāmāsā.",
+        "analyzed": "parāmāsā ca iva parāmaṭṭhā ca ati parāmaṭṭhā ca iva no ca parāmāsā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.10",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.11",
+        "original": "“parāmāso ceva parāmaṭṭhā cā”ti, siyā parāmaṭṭhā ceva no ca parāmāso, siyā na vattabbā—“parāmaṭṭhā ceva no ca parāmāso”ti.",
+        "analyzed": "parāmāsaḥ ca iva parāmaṭṭhā ca ati siyā parāmaṭṭhā ca iva no ca parāmāso siyā na vattabbā aparāmaṭṭhā ca iva no ca parāmāso ti ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.12",
+        "original": "Dhammadhātu siyā parāmāso ceva parāmaṭṭhā ca, siyā parāmaṭṭhā ceva no ca parāmāso, siyā na vattabbā—“parāmāso ceva parāmaṭṭhā cā”tipi, “parāmaṭṭhā ceva no ca parāmāso”tipi.",
+        "analyzed": "dhammadhātu siyā parāmāsaḥ ca iva parāmaṭṭhā ca siyā parāmaṭṭhā ca iva no ca parāmāso siyā na vattabbā aparāmāsaḥ ca iva parāmaṭṭhā ca atipi parāmaṭṭhā ca iva no ca parāmāsaḥ itipi ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.13",
+        "original": "Soḷasa dhātuyo parāmāsavippayuttaparāmaṭṭhā.",
+        "analyzed": "soḷasa dhātuyo parāmāsa vippayutta parāmaṭṭhā ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:88.14",
+        "original": "Dve dhātuyo siyā parāmāsavippayuttaparāmaṭṭhā, siyā parāmāsavippayuttaaparāmaṭṭhā, siyā na vattabbā—“parāmāsavippayuttaparāmaṭṭhā”tipi, “parāmāsavippayuttaaparāmaṭṭhā”tipi.",
+        "analyzed": "dve dhātuyo siyā parāmāsa vippayutta parāmaṭṭhā siyā parāmāsa vippayutta aparāmaṭṭhā siyā na vattabbā a parāmāsa vippayutta parāmaṭṭhā atipi parāmāsa vippayutta aparāmaṭṭhā atipi ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.0",
+        "original": "3.2.10. Mahantaraduka",
+        "analyzed": "mahantaraduka ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.1",
+        "original": "Dasa dhātuyo anārammaṇā.",
+        "analyzed": "dasa dhātuyaḥ anārammaṇā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.2",
+        "original": "Satta dhātuyo sārammaṇā.",
+        "analyzed": "satta dhātuyaḥ sa ārammaṇā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.3",
+        "original": "Dhammadhātu siyā sārammaṇā, siyā anārammaṇā.",
+        "analyzed": "dhammadhātu siyā sa ārammaṇā siyā anārammaṇā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.4",
+        "original": "Satta dhātuyo cittā.",
+        "analyzed": "satta dhātuyaḥ cittā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.5",
+        "original": "Ekādasa dhātuyo no cittā.",
+        "analyzed": "ekādasa dhātuyaḥ naḥ cittā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.6",
+        "original": "Sattarasa dhātuyo acetasikā.",
+        "analyzed": "sattarasa dhātuyaḥ acetasikā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.7",
+        "original": "Dhammadhātu siyā cetasikā, siyā acetasikā.",
+        "analyzed": "dhammadhātu siyā cetasikā siyā acetasikā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.8",
+        "original": "Dasa dhātuyo cittavippayuttā.",
+        "analyzed": "dasa dhātuyaḥ citta vippayuttā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.9",
+        "original": "Dhammadhātu siyā cittasampayuttā, siyā cittavippayuttā.",
+        "analyzed": "dhammadhātu siyā citta sampayuttā siyā citta vippayuttā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.10",
+        "original": "Satta dhātuyo na vattabbā—",
+        "analyzed": "satta dhātuyaḥ na vattabbā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.11",
+        "original": "“cittena sampayuttā”tipi, “cittena vippayuttā”tipi.",
+        "analyzed": "cittena sampayuttā atipi cittena vippayuttā atipi ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.12",
+        "original": "Dasa dhātuyo cittavisaṁsaṭṭhā.",
+        "analyzed": "dasa dhātuyaḥ citta visasaṭṭhā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.13",
+        "original": "Dhammadhātu siyā cittasaṁsaṭṭhā, siyā cittavisaṁsaṭṭhā.",
+        "analyzed": "dhammadhātu siyā citta sasaṭṭhā siyā citta visasaṭṭhā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.14",
+        "original": "Satta dhātuyo na vattabbā—",
+        "analyzed": "satta dhātuyaḥ na vattabbā ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:89.15",
+        "original": "“cittena saṁsaṭṭhā”tipi, “cittena visaṁsaṭṭhā”tipi.",
+        "analyzed": "cittena sasaṭṭhā atipi cittena visasaṭṭhā atipi ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.1",
+        "original": "Dvādasa dhātuyo no cittasamuṭṭhānā.",
+        "analyzed": "dvādasa dhātuyaḥ no citta samuṭṭhānā ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.2",
+        "original": "Cha dhātuyo siyā cittasamuṭṭhānā, siyā no cittasamuṭṭhānā.",
+        "analyzed": "cha dhātuyo siyā citta samuṭṭhānā siyā no citta samuṭṭhānā ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.3",
+        "original": "Sattarasa dhātuyo no cittasahabhuno.",
+        "analyzed": "sattarasa dhātuyaḥ no ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.4",
+        "original": "Dhammadhātu siyā cittasahabhū, siyā no cittasahabhū.",
+        "analyzed": "dhammadhātu siyā citta sahabhū siyā no citta sahabhū ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.5",
+        "original": "Sattarasa dhātuyo no cittānuparivattino.",
+        "analyzed": "sattarasa dhātuyaḥ no citta anuparivattino ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.6",
+        "original": "Dhammadhātu siyā cittānuparivattī, siyā no cittānuparivattī.",
+        "analyzed": "dhammadhātu siyā citta anuparivattī siyā no citta anuparivattī ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.7",
+        "original": "Sattarasa dhātuyo no cittasaṁsaṭṭhasamuṭṭhānā.",
+        "analyzed": "sattarasa dhātuyaḥ no ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.8",
+        "original": "Dhammadhātu siyā cittasaṁsaṭṭhasamuṭṭhānā, siyā no cittasaṁsaṭṭhasamuṭṭhānā.",
+        "analyzed": "dhammadhātu siyā citta sasaṭṭha samuṭṭhānā siyā no citta sasaṭṭha samuṭṭhānā ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.9",
+        "original": "Sattarasa dhātuyo no cittasaṁsaṭṭhasamuṭṭhānasahabhuno.",
+        "analyzed": "sattarasa dhātuyaḥ no ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.10",
+        "original": "Dhammadhātu siyā cittasaṁsaṭṭhasamuṭṭhānasahabhū, siyā no cittasaṁsaṭṭhasamuṭṭhānasahabhū.",
+        "analyzed": "dhammadhātu siyā citta sasaṭṭha samuṭṭhāna sahabhū siyā no citta sasaṭṭha samuṭṭhāna sahabhū ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.11",
+        "original": "Sattarasa dhātuyo no cittasaṁsaṭṭhasamuṭṭhānānuparivattino.",
+        "analyzed": "sattarasa dhātuyaḥ no ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:90.12",
+        "original": "Dhammadhātu siyā cittasaṁsaṭṭhasamuṭṭhānānuparivattī, siyā no cittasaṁsaṭṭhasamuṭṭhānānuparivattī.",
+        "analyzed": "dhammadhātu siyā citta sasaṭṭha samuṭṭhāna anuparivattī siyā no citta sasaṭṭha samuṭṭhāna anuparivattī ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_vb_3:91.1",
+        "original": "Dvādasa dhātuyo ajjhattikā.",
+        "analyzed": "dvādasa dhātuyaḥ ajjhattikā ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_vb_3:91.2",
+        "original": "Cha dhātuyo bāhirā.",
+        "analyzed": "cha dhātuyaḥ bāhirā ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_vb_3:92.1",
+        "original": "Nava dhātuyo upādā.",
+        "analyzed": "nava ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_vb_3:92.2",
+        "original": "Aṭṭha dhātuyo no upādā.",
+        "analyzed": "aṭṭha dhātuyaḥ no upādā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_vb_3:92.3",
+        "original": "Dhammadhātu siyā upādā, siyā no upādā.",
+        "analyzed": "dhammadhātu siyā upādā siyā no upādā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_vb_3:92.4",
+        "original": "Dasa dhātuyo upādinnā.",
+        "analyzed": "dasa dhātuyaḥ upādinnā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_vb_3:92.5",
+        "original": "Saddadhātu anupādinnā.",
+        "analyzed": "saddadhātu anupādinnā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_vb_3:92.6",
+        "original": "Sattadhātuyo siyā upādinnā, siyā anupādinnā.",
+        "analyzed": "satta dhātuyaḥ siyā upādinnā siyā anupādinnā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.0",
+        "original": "3.2.11. Upādānagocchaka",
+        "analyzed": "upādānagocchaka ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.1",
+        "original": "Sattarasa dhātuyo no upādānā.",
+        "analyzed": "sattarasa dhātuyaḥ no upādānā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.2",
+        "original": "Dhammadhātu siyā upādānaṁ, siyā no upādānaṁ.",
+        "analyzed": "dhammadhātu siyā upādāna siyā no upādāna ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.3",
+        "original": "Soḷasa dhātuyo upādāniyā.",
+        "analyzed": "soḷasa dhātuyo upādāniyā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.4",
+        "original": "Dve dhātuyo siyā upādāniyā, siyā anupādāniyā.",
+        "analyzed": "dve dhātuyo siyā upādāniyā siyā anupādāniyā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.5",
+        "original": "Soḷasa dhātuyo upādānavippayuttā.",
+        "analyzed": "soḷasa dhātuyaḥ upādāna vippayuttā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.6",
+        "original": "Dve dhātuyo siyā upādānasampayuttā, siyā upādānavippayuttā.",
+        "analyzed": "dve dhātuyo siyā upādāna sampayuttā siyā upādāna vippayuttā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.7",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.8",
+        "original": "“upādānā ceva upādāniyā cā”ti, upādāniyā ceva no ca upādānā.",
+        "analyzed": "upādānā ca iva upādāniyā ca ati upādāniyā ca iva no ca upādānā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.9",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.10",
+        "original": "“upādānañceva upādāniyā cā”ti, siyā upādāniyā ceva no ca upādānaṁ, siyā na vattabbā—“upādāniyā ceva no ca upādānan”ti.",
+        "analyzed": "upādānam ca iva upādāniyā ca ati siyā upādāniyā ca iva no ca upādāna siyā na vattabbā aupādāniyā ca iva no ca upādānanti ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:93.11",
+        "original": "Dhammadhātu siyā upādānañceva upādāniyā ca, siyā upādāniyā ceva no ca upādānaṁ, siyā na vattabbā—“upādānañceva upādāniyā cā”tipi, “upādāniyā ceva no ca upādānan”tipi.",
+        "analyzed": "dhammadhātu siyā upādānañca iva upādāniyā ca siyā upādāniyā ca iva no ca upādāna siyā na vattabbā upādānañca iva upādāniyā ca atipi upādāniyā ca iva no ca upādānantipi ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.1",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.2",
+        "original": "“upādānā ceva upādānasampayuttā cā”tipi, “upādānasampayuttā ceva no ca upādānā”tipi.",
+        "analyzed": "upādānā ca iva upādāna sampayuttā ca atipi upādāna sampayuttā ca iva no ca upādānā atipi ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.3",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.4",
+        "original": "“upādānañceva upādānasampayuttā cā”ti, siyā upādānasampayuttā ceva no ca upādānaṁ, siyā na vattabbā—“upādānasampayuttā ceva no ca upādānan”ti.",
+        "analyzed": "upādānam ca iva upādāna sampayuttā ca ati siyā upādāna sampayuttā ca iva no ca upādāna siyā na vattabbā upādāna sampayuttā ca iva no ca upādānam ti ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.5_0",
+        "original": "Dhammadhātu siyā upādānañceva upādānasampayuttā ca, siyā upādānasampayuttā ceva no",
+        "analyzed": "dhammadhātu siyā upādānam ca iva upādāna sampayuttā ca siyā upādāna sampayuttā ca iva no ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.5_1",
+        "original": "ca upādānaṁ, siyā na vattabbā—“upādānañceva upādānasampayuttā cā”tipi, “upādānasampayuttā",
+        "analyzed": "ca upādāna siyā na vattabbā upādānam ca iva upādāna sampayuttā upādāna sampayuttā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.5_2",
+        "original": "ceva no ca upādānan”tipi.",
+        "analyzed": "ca iva naḥ ca upādāna ntipi ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.6",
+        "original": "Soḷasa dhātuyo upādānavippayuttaupādāniyā.",
+        "analyzed": "soḷasa dhātuyaḥ upādāna vippayutta aupādāniyā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:94.7",
+        "original": "Dve dhātuyo siyā upādānavippayuttaupādāniyā, siyā upādānavippayuttaanupādāniyā, siyā na vattabbā—“upādānavippayuttaupādāniyā”tipi, “upādānavippayuttaanupādāniyā”tipi.",
+        "analyzed": "dve dhātuyo siyā upādāna vippayutta aupādāniyā siyā upādāna vippayutta anupādāniyā siyā na vattabbā a upādāna vippayutta aupādāniyā atipi upādāna vippayutta anupādāniyā atipi ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.0",
+        "original": "3.2.12. Kilesagocchaka",
+        "analyzed": "kilesagocchaka ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.1",
+        "original": "Sattarasa dhātuyo no kilesā.",
+        "analyzed": "sattarasa dhātuyaḥ no kilesā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.2",
+        "original": "Dhammadhātu siyā kilesā, siyā no kilesā.",
+        "analyzed": "dhammadhātu siyā kilesā siyā no kilesā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.3",
+        "original": "Soḷasa dhātuyo saṅkilesikā.",
+        "analyzed": "soḷasa dhātuyo saṅkilesikā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.4",
+        "original": "Dve dhātuyo siyā saṅkilesikā, siyā asaṅkilesikā.",
+        "analyzed": "dve dhātuyaḥ siyā saṅkilesikā siyā asaṅkilesikā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.5",
+        "original": "Soḷasa dhātuyo asaṅkiliṭṭhā.",
+        "analyzed": "soḷasa dhātuyaḥ a saṅkiliṭṭhā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.6",
+        "original": "Dve dhātuyo siyā saṅkiliṭṭhā, siyā asaṅkiliṭṭhā.",
+        "analyzed": "dve dhātuyo siyā saṅkiliṭṭhā siyā a saṅkiliṭṭhā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.7",
+        "original": "Soḷasa dhātuyo kilesavippayuttā.",
+        "analyzed": "soḷasa dhātuyaḥ kilesa vippayuttā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.8",
+        "original": "Dve dhātuyo siyā kilesasampayuttā, siyā kilesavippayuttā.",
+        "analyzed": "dve dhātuyo siyā kilesa sampayuttā siyā kilesa vippayuttā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.9",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.10",
+        "original": "“kilesā ceva saṅkilesikā cā”ti, saṅkilesikā ceva no ca kilesā.",
+        "analyzed": "kilesā ca iva saṅkilesikā ca ati saṅkilesikā ca iva no ca kilesā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.11",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.12",
+        "original": "“kileso ceva saṅkilesikā cā”ti, siyā saṅkilesikā ceva no ca kileso, siyā na vattabbā—“saṅkilesikā ceva no ca kileso”ti.",
+        "analyzed": "kilesaḥ ca iva saṅkilesikā ca ati siyā saṅkilesikā ca iva no ca kileso siyā na vattabbā asaṅkilesikā ca iva no ca kileso ti ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:95.13",
+        "original": "Dhammadhātu siyā kileso ceva saṅkilesikā ca, siyā saṅkilesikā ceva no ca kileso, siyā na vattabbā—“kileso ceva saṅkilesikā cā”tipi, “saṅkilesikā ceva no ca kileso”tipi.",
+        "analyzed": "dhammadhātu siyā kileso ca iva saṅkilesikā ca siyā saṅkilesikā ca iva no ca kileso siyā na vattabbā akileso ca iva saṅkilesikā ca atipi saṅkilesikā ca iva no ca kileso tipi ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.1",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.2",
+        "original": "“kilesā ceva saṅkiliṭṭhā cā”tipi, “saṅkiliṭṭhā ceva no ca kilesā”tipi.",
+        "analyzed": "kilesā ca iva saṅkiliṭṭhā ca atipi saṅkiliṭṭhā ca iva no ca kilesā atipi ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.3",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.4",
+        "original": "“kileso ceva saṅkiliṭṭhā cā”ti, siyā saṅkiliṭṭhā ceva no ca kileso, siyā na vattabbā—“saṅkiliṭṭhā ceva no ca kileso”ti.",
+        "analyzed": "kileso ca iva saṅkiliṭṭhā ca ati siyā saṅkiliṭṭhā ca iva no ca kileso siyā na vattabbā asaṅkiliṭṭhā ca iva no ca kilesoti ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.5",
+        "original": "Dhammadhātu siyā kileso ceva saṅkiliṭṭhā ca, siyā saṅkiliṭṭhā ceva no ca kileso, siyā na vattabbā—“kileso ceva saṅkiliṭṭhā cā”tipi, “saṅkiliṭṭhā ceva no ca kileso”tipi.",
+        "analyzed": "dhammadhātu siyā kileso ceva saṅkiliṭṭhā ca siyā saṅkiliṭṭhā ca iva no ca kileso siyā na vattabbā akileso ceva saṅkiliṭṭhā ca atipi saṅkiliṭṭhā ca iva no ca kileso tipi ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.6",
+        "original": "Soḷasa dhātuyo na vattabbā—",
+        "analyzed": "soḷasa dhātuyaḥ na vattabbā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.7",
+        "original": "“kilesā ceva kilesasampayuttā cā”tipi, “kilesasampayuttā ceva no ca kilesā”tipi.",
+        "analyzed": "kilesā ca iva kilesa sampayuttā ca atipi kilesa sampayuttā ca iva no ca kilesā atipi ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.8",
+        "original": "Manoviññāṇadhātu na vattabbā—",
+        "analyzed": "manaḥ viññāṇa dhātu na vattabbā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.9",
+        "original": "“kileso ceva kilesasampayuttā cā”ti, siyā kilesasampayuttā ceva no ca kileso, siyā na vattabbā—“kilesasampayuttā ceva no ca kileso”ti.",
+        "analyzed": "kilesaḥ ca iva kilesa sampayuttā ca ati siyā kilesa sampayuttā ca iva no ca kileso siyā na vattabbā akilesa sampayuttā ca iva no ca kilesoti ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.10_0",
+        "original": "Dhammadhātu siyā kileso ceva kilesasampayuttā ca, siyā kilesasampayuttā ceva no ca",
+        "analyzed": "dhammadhātu siyā kilesaḥ ca iva kilesa sampayuttā ca siyā kilesa sampayuttā ca iva no ca ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.10_1",
+        "original": "kileso, siyā na vattabbā—“kileso ceva kilesasampayuttā cā”tipi, “kilesasampayuttā",
+        "analyzed": "kilesaḥ siyā na vattabba akilesaḥ ca iva kilesa sampayuttā kilesa sampayuttā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.10_2",
+        "original": "ceva no ca kileso”tipi.",
+        "analyzed": "ca iva no ca kilesa utipi ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.11",
+        "original": "Soḷasa dhātuyo kilesavippayuttasaṅkilesikā.",
+        "analyzed": "soḷasa dhātuyo kilesa vippayutta saṅkilesikā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:96.12",
+        "original": "Dve dhātuyo siyā kilesavippayuttasaṅkilesikā, siyā kilesavippayuttaasaṅkilesikā, siyā na vattabbā—“kilesavippayuttasaṅkilesikā”tipi, “kilesavippayuttaasaṅkilesikā”tipi.",
+        "analyzed": "dve dhātuyo siyā kilesa vippayutta saṅkilesikā siyā kilesa vippayutta asaṅkilesikā siyā na vattabbā a kilesa vippayutta saṅkilesikā atipi kilesa vippayutta asaṅkilesikā atipi ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.0",
+        "original": "3.2.13. Piṭṭhiduka",
+        "analyzed": "piṭṭhiduka ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.1",
+        "original": "Soḷasa dhātuyo na dassanena pahātabbā.",
+        "analyzed": "soḷasa dhātuyaḥ na dassanena pahātabbā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.2",
+        "original": "Dve dhātuyo siyā dassanena pahātabbā, siyā na dassanena pahātabbā.",
+        "analyzed": "dve dhātuyaḥ siyā dassanena pahātabbā siyā na dassanena pahātabbā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.3",
+        "original": "Soḷasa dhātuyo na bhāvanāya pahātabbā.",
+        "analyzed": "soḷasa dhātuyaḥ na bhāvanāya pahātabbā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.4",
+        "original": "Dve dhātuyo siyā bhāvanāya pahātabbā, siyā na bhāvanāya pahātabbā.",
+        "analyzed": "dve dhātuyaḥ siyā bhāvanāya pahātabbā siyā na bhāvanāya pahātabbā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.5",
+        "original": "Soḷasa dhātuyo na dassanena pahātabbahetukā.",
+        "analyzed": "soḷasa dhātuyaḥ na dassanena pahātabba hetukā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.6",
+        "original": "Dve dhātuyo siyā dassanena pahātabbahetukā, siyā na dassanena pahātabbahetukā.",
+        "analyzed": "dve dhātuyaḥ siyā dassanena pahātabba hetukā siyā na dassanena pahātabba hetukā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.7",
+        "original": "Soḷasa dhātuyo na bhāvanāya pahātabbahetukā.",
+        "analyzed": "soḷasa dhātuyaḥ na bhāvanāya pahātabba hetukā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:97.8",
+        "original": "Dve dhātuyo siyā bhāvanāya pahātabbahetukā, siyā na bhāvanāya pahātabbahetukā.",
+        "analyzed": "dve dhātuyaḥ siyā bhāvanāya pahātabba hetukā siyā na bhāvanāya pahātabba hetukā ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.1",
+        "original": "Pannarasa dhātuyo avitakkā.",
+        "analyzed": "pannarasa dhātuyaḥ a vitakkā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.2",
+        "original": "Manodhātu savitakkā.",
+        "analyzed": "manaḥ dhātu sa vitakkā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.3",
+        "original": "Dve dhātuyo siyā savitakkā, siyā avitakkā.",
+        "analyzed": "dve dhātuyaḥ siyā sa vitakkā siyā a vitakkā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.4",
+        "original": "Pannarasa dhātuyo avicārā.",
+        "analyzed": "pannarasa avicārā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.5",
+        "original": "Manodhātu savicārā.",
+        "analyzed": "manaḥ dhātu sa vicārā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.6",
+        "original": "Dve dhātuyo siyā savicārā, siyā avicārā.",
+        "analyzed": "dve siyā sa vicārā siyā avicārā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.7",
+        "original": "Soḷasa dhātuyo appītikā.",
+        "analyzed": "soḷasa dhātuyaḥ appītikā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.8",
+        "original": "Dve dhātuyo siyā sappītikā, siyā appītikā.",
+        "analyzed": "dve dhātuyaḥ siyā sappītikā siyā appītikā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.9",
+        "original": "Soḷasa dhātuyo na pītisahagatā.",
+        "analyzed": "na pīti sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.10",
+        "original": "Dve dhātuyo siyā pītisahagatā, siyā na pītisahagatā.",
+        "analyzed": "dve siyā pīti sahagatā siyā na pīti sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.11",
+        "original": "Pannarasa dhātuyo na sukhasahagatā.",
+        "analyzed": "na sukha sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.12",
+        "original": "Tisso dhātuyo siyā sukhasahagatā, siyā na sukhasahagatā.",
+        "analyzed": "tissaḥ dhātuyaḥ siyā sukha sahagatā siyā na sukha sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.13",
+        "original": "Ekādasa dhātuyo na upekkhāsahagatā.",
+        "analyzed": "ekādasa dhātuyaḥ na upekkhā sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.14",
+        "original": "Pañca dhātuyo upekkhāsahagatā.",
+        "analyzed": "pañca dhātuyaḥ upekkhā sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:98.15",
+        "original": "Dve dhātuyo siyā upekkhāsahagatā, siyā na upekkhāsahagatā.",
+        "analyzed": "dve dhātuyo siyā upekkhā sahagatā siyā na upekkhā sahagatā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.1",
+        "original": "Soḷasa dhātuyo kāmāvacarā.",
+        "analyzed": "soḍasa kāma avacarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.2",
+        "original": "Dve dhātuyo siyā kāmāvacarā, siyā na kāmāvacarā.",
+        "analyzed": "dve siyā kāmāvacarā siyā na kāmāvacarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.3",
+        "original": "Soḷasa dhātuyo na rūpāvacarā.",
+        "analyzed": "na rūpa avacarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.4",
+        "original": "Dve dhātuyo siyā rūpāvacarā, siyā na rūpāvacarā.",
+        "analyzed": "dve siyā rūpa avacarā siyā na rūpa avacarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.5",
+        "original": "Soḷasa dhātuyo na arūpāvacarā.",
+        "analyzed": "na a rūpa avacarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.6",
+        "original": "Dve dhātuyo siyā arūpāvacarā, siyā na arūpāvacarā.",
+        "analyzed": "dve siyā arūpāvacarā siyā na arūpāvacarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.7",
+        "original": "Soḷasa dhātuyo pariyāpannā.",
+        "analyzed": "soḷasa dhātuyaḥ pariyāpannā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.8",
+        "original": "Dve dhātuyo siyā pariyāpannā, siyā apariyāpannā.",
+        "analyzed": "dve dhātuyo siyā pariyāpannā siyā a pariyāpannā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.9",
+        "original": "Soḷasa dhātuyo aniyyānikā.",
+        "analyzed": "soḷasa dhātuyaḥ aniyyānikā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.10",
+        "original": "Dve dhātuyo siyā niyyānikā, siyā aniyyānikā.",
+        "analyzed": "dve dhātuyo siyā niyyānikā siyā a niyyānikā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.11",
+        "original": "Soḷasa dhātuyo aniyatā.",
+        "analyzed": "soḷasa aniyatā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.12",
+        "original": "Dve dhātuyo siyā niyatā, siyā aniyatā.",
+        "analyzed": "dve siyā niyatā siyā aniyatā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.13",
+        "original": "Soḷasa dhātuyo sauttarā.",
+        "analyzed": "soḍasa sā uttarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.14",
+        "original": "Dve dhātuyo siyā sauttarā, siyā anuttarā.",
+        "analyzed": "dve siyā sauttarā siyā anuttarā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.15",
+        "original": "Soḷasa dhātuyo araṇā.",
+        "analyzed": "soḷasa dhātuyaḥ araṇā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:99.16",
+        "original": "Dve dhātuyo siyā saraṇā, siyā araṇāti.",
+        "analyzed": "dve siyā saraṇā siyā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_vb_3:100.1",
+        "original": "Pañhāpucchakaṁ.",
+        "analyzed": "pañhāpucchaka ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_vb_3:101.1",
+        "original": "Dhātuvibhaṅgo niṭṭhito.",
+        "analyzed": "dhātu vibhaṅgaḥ niṭṭhitaḥ ",
+        "folio": "101"
+    }
+]

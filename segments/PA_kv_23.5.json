@@ -1,0 +1,404 @@
+[
+    {
+        "segmentnr": "PA_kv_23.5:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:0.3",
+        "original": "Tevīsatimavagga",
+        "analyzed": "tevīsatima vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:0.4",
+        "original": "Aparinipphannakathā",
+        "analyzed": "a parinipphanna kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.1",
+        "original": "Rūpaṁ aparinipphannanti?",
+        "analyzed": "rūpam a parinipphannanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.3",
+        "original": "Rūpaṁ na aniccaṁ na saṅkhataṁ na paṭiccasamuppannaṁ na khayadhammaṁ na vayadhammaṁ na virāgadhammaṁ na nirodhadhammaṁ na vipariṇāmadhammanti?",
+        "analyzed": "rūpam na aniccam na saṅkhatam na paṭicca samuppannam na khaya dhammam na vaya dhammam na virāga dhammam na nirodha dhammam na vipariṇāma dhammanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.5",
+        "original": "nanu rūpaṁ aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammaṁ vipariṇāmadhammanti?",
+        "analyzed": "nanu rūpam aniccam saṅkhatam paṭicca samuppannam khaya dhammam vaya dhammam virāga dhammam nirodha dhammam vipariṇāma dhamman ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.7",
+        "original": "Hañci rūpaṁ aniccaṁ saṅkhataṁ …pe…",
+        "analyzed": "rūpam aniccam saṅkhatam pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.8",
+        "original": "vipariṇāmadhammaṁ, no ca vata re vattabbe—",
+        "analyzed": "vipariṇāma dhamma no ca vata re vattabbe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:1.9",
+        "original": "“rūpaṁ aparinipphannan”ti.",
+        "analyzed": "rūpam a parinipphannanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.1",
+        "original": "Dukkhaññeva parinipphannanti?",
+        "analyzed": "dukkhaññā iva parinipphannanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.3",
+        "original": "Nanu yadaniccaṁ taṁ dukkhaṁ vuttaṁ bhagavatā—",
+        "analyzed": "nanu yat aniccam tam dukkham vuttam bhagavatā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.4",
+        "original": "“rūpaṁ aniccan”ti?",
+        "analyzed": "rūpam aniccanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.6",
+        "original": "Hañci yadaniccaṁ taṁ dukkhaṁ vuttaṁ bhagavatā—",
+        "analyzed": "hañci yat aniccam tam dukkham vuttam bhagavatā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.7",
+        "original": "“rūpaṁ aniccaṁ”, no ca vata re vattabbe—",
+        "analyzed": "rūpam anicca no ca vata re vattabbe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:2.8",
+        "original": "“dukkhaññeva parinipphannan”ti …pe….",
+        "analyzed": "dukkhaññā iva parinipphannanti pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.1",
+        "original": "Vedanā …pe…",
+        "analyzed": "vedanā pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.2",
+        "original": "saññā …",
+        "analyzed": "saññā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.3",
+        "original": "saṅkhārā …",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.4",
+        "original": "viññāṇaṁ …",
+        "analyzed": "viññāṇam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.5",
+        "original": "cakkhāyatanaṁ …pe…",
+        "analyzed": "cakkha āyatanam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.6",
+        "original": "dhammāyatanaṁ …",
+        "analyzed": "dhamma āyatanam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.7",
+        "original": "cakkhudhātu …",
+        "analyzed": "cakkhu dhātu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.8",
+        "original": "dhammadhātu …",
+        "analyzed": "dhammadhātu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.9",
+        "original": "cakkhundriyaṁ …pe…",
+        "analyzed": "cakkhu indriyam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.10",
+        "original": "aññātāvindriyaṁ aparinipphannanti?",
+        "analyzed": "aññātāvindriyam a parinipphannanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.11",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.12",
+        "original": "Aññātāvindriyaṁ na aniccaṁ …pe…",
+        "analyzed": "aññātāvindriyam na aniccam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.13",
+        "original": "na vipariṇāmadhammanti?",
+        "analyzed": "na vipariṇāma dhammanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.14",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.15",
+        "original": "nanu aññātāvindriyaṁ aniccaṁ saṅkhataṁ …pe… vipariṇāmadhammanti?",
+        "analyzed": "nanu aññātāvindriyam aniccam saṅkhatam pe vipariṇāma dhammanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.16",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.17",
+        "original": "Hañci aññātāvindriyaṁ aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammaṁ vipariṇāmadhammaṁ, no ca vata re vattabbe—",
+        "analyzed": "hañci aññātāvindriyam aniccam saṅkhatam paṭicca samuppannam khaya dhammam vaya dhammam virāga dhammam nirodha dhammam vipariṇāma dhamma no ca vata re vattabbe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:3.18",
+        "original": "“aññātāvindriyaṁ aparinipphannan”ti.",
+        "analyzed": "aññātāvindriyam a parinipphannanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.1",
+        "original": "Dukkhaññeva parinipphannanti?",
+        "analyzed": "dukkhaññā iva parinipphannanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.3",
+        "original": "Nanu yadaniccaṁ taṁ dukkhaṁ vuttaṁ bhagavatā—",
+        "analyzed": "nanu yat aniccam tam dukkham vuttam bhagavatā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.4",
+        "original": "“aññātāvindriyaṁ aniccan”ti?",
+        "analyzed": "aññātau indriyam aniccanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.6",
+        "original": "Hañci yadaniccaṁ taṁ dukkhaṁ vuttaṁ bhagavatā—",
+        "analyzed": "hañci yat aniccam tam dukkham vuttam bhagavatā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.7",
+        "original": "“aññātāvindriyaṁ aniccaṁ”, no ca vata re vattabbe—",
+        "analyzed": "aññātāvindriyam anicca no ca vata re vattabbe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.8",
+        "original": "“dukkhaññeva parinipphannan”ti.",
+        "analyzed": "dukkhaññā iva parinipphannanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.9",
+        "original": "Aparinipphannakathā niṭṭhitā.",
+        "analyzed": "aparinipphanna kathā niṭṭhitā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.10",
+        "original": "Tevīsatimo vaggo.",
+        "analyzed": "tevīsatimaḥ vaggo ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:4.11",
+        "original": "Tassuddānaṁ",
+        "analyzed": "tassa uddāna ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.1_0",
+        "original": "Ekādhippāyena methuno dhammo paṭisevitabbo, arahantānaṁ vaṇṇena amanussā methunaṁ",
+        "analyzed": "eka adhippāyena methunaḥ dhammo paṭisevitabbaḥ arahantānam vaṇṇena amanussāḥ methuna ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.1_1",
+        "original": "dhammaṁ paṭisevanti, bodhisatto issariyakāmakārikāhetu vinipātaṁ gacchati, gabbhaseyyaṁ",
+        "analyzed": "dhammam paṭisevanti bodhisatto issariya kāma kārikā hetu vinipātam gacchati gabbhaseyya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.1_2",
+        "original": "okkamati, dukkarakārikaṁ akāsi, aparantapaṁ akāsi, aññaṁ satthāraṁ uddisi, atthi",
+        "analyzed": "okkamati dukkara kārikam akāsi aparantapam akāsi aññam satthāram uddisi atthi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.1_3",
+        "original": "na rāgo rāgapatirūpako, atthi na doso dosapatirūpako, atthi na moho mohapatirūpako",
+        "analyzed": "na rāgaḥ rāga patirūpakaḥ atthi na dosaḥ dosa patirūpakaḥ atthi na mohaḥ moha patirūpakaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.1_4",
+        "original": "atthi na kileso kilesapatirūpako, rūpaṁ aparinipphannaṁ aññātāvindriyaṁ aparinipphannanti.",
+        "analyzed": "atthi na kilesaḥ kilesa patirūpakaḥ rūpam a parinipphannam aññātāvindriyam a parinipphannanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.2",
+        "original": "Khuddako aḍḍhapaṇṇāsako.",
+        "analyzed": "khuddako aḍḍhapaṇṇāsako ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:5.3",
+        "original": "Tassuddānaṁ",
+        "analyzed": "tassa uddāna ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:6.1",
+        "original": "Navaṁ, nibbuti, ekādhippāyoti.",
+        "analyzed": "nava nibbuti eka adhippāyaḥ ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:6.2",
+        "original": "Paṇṇāsakuddānaṁ",
+        "analyzed": "paṇṇāsakuddāna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.1",
+        "original": "Mahāniyāmo anusayā,",
+        "analyzed": "mahā niyāmaḥ anusayā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.2",
+        "original": "niggaho khuddakapañcamo;",
+        "analyzed": "niggahaḥ khuddaka pañcamaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.3",
+        "original": "Parappavādamaddanā,",
+        "analyzed": "parappavāda maddanā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.4",
+        "original": "suttamūlasamāhitā;",
+        "analyzed": "sutta mūla samāhitā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.5",
+        "original": "Ujjotanā satthusamaye,",
+        "analyzed": "ujjotanā satthu samaye ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.6",
+        "original": "kathāvatthupakaraṇeti.",
+        "analyzed": "kathā vatthu upakaraṇā iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.7",
+        "original": "Pañcattiṁsabhāṇavāraṁ",
+        "analyzed": "pañcattisabhāṇavāra ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_23.5:7.8",
+        "original": "kathāvatthupakaraṇaṁ niṭṭhitaṁ.",
+        "analyzed": "kathā vatthu upakaraṇam niṭṭhita ",
+        "folio": "7"
+    }
+]

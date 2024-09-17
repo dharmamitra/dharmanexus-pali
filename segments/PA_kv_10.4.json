@@ -1,0 +1,464 @@
+[
+    {
+        "segmentnr": "PA_kv_10.4:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:0.3",
+        "original": "Dasamavagga",
+        "analyzed": "dasama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:0.4",
+        "original": "Pañcaviññāṇākusalāpiakusalāpītikathā",
+        "analyzed": "pañca viññāṇa akusala api akusalā api iti kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.1",
+        "original": "Pañcaviññāṇā kusalāpi akusalāpīti?",
+        "analyzed": "pañca viññāṇā kusalā api akusalā api iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.3",
+        "original": "Nanu pañcaviññāṇā uppannavatthukā uppannārammaṇāti?",
+        "analyzed": "nanu pañca viññāṇā uppanna vatthukā uppanna ārammaṇā ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.4",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.5",
+        "original": "Hañci pañcaviññāṇā uppannavatthukā uppannārammaṇā, no ca vata re vattabbe—",
+        "analyzed": "hañci pañca viññāṇāḥ uppanna vatthukāḥ uppanna ārammaṇāḥ no ca vata re vattabbe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.6",
+        "original": "“pañcaviññāṇā kusalāpi akusalāpī”ti.",
+        "analyzed": "pañca viññāṇā kusalā api akusalā api iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.7_0",
+        "original": "Nanu pañcaviññāṇā purejātavatthukā purejātārammaṇā ajjhattikavatthukā bāhirārammaṇā",
+        "analyzed": "nanu pañca viññāṇā purejāta vatthukā purejāta ārammaṇā ajjhattika vatthukā bāhira ārammaṇā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.7_1",
+        "original": "asambhinnavatthukā asambhinnārammaṇā nānāvatthukā nānārammaṇā na aññamaññassa gocaravisayaṁ",
+        "analyzed": "asambhinna vatthukāḥ asambhinna ārammaṇāḥ nānā vatthukāḥ nānā ārammaṇāḥ na aññamaññassa gocara visaya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.7_2",
+        "original": "paccanubhonti, na asamannāhārā uppajjanti, na amanasikārā uppajjanti, na abbokiṇṇā",
+        "analyzed": "paccanubhonti na a samannāhārāḥ uppajjanti na amanasikārāḥ uppajjanti na abbokiṇṇā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.7_3",
+        "original": "uppajjanti, na apubbaṁ acarimaṁ uppajjanti, na aññamaññassa samanantarā uppajjanti,",
+        "analyzed": "uppajjanti na apubbam acarimam uppajjanti na aññamaññassa samanantarāḥ uppajjanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.7_4",
+        "original": "nanu pañcaviññāṇā anābhogāti?",
+        "analyzed": "nanu pañca viññāṇāḥ anābhogā ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.9",
+        "original": "Hañci pañcaviññāṇā anābhogā, no ca vata re vattabbe—",
+        "analyzed": "hañci pañca viññāṇāḥ anābhogāḥ no ca vata re vattabbe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:1.10",
+        "original": "“pañcaviññāṇā kusalāpi akusalāpī”ti.",
+        "analyzed": "pañca viññāṇā kusalā api akusalā api iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.1",
+        "original": "Cakkhuviññāṇaṁ kusalanti?",
+        "analyzed": "cakkhu viññāṇam kusalanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.3",
+        "original": "Cakkhuviññāṇaṁ suññataṁ ārabbha uppajjatīti?",
+        "analyzed": "cakkhu viññāṇam suññatam ārabbha uppajjati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.5",
+        "original": "cakkhuviññāṇaṁ suññataṁ ārabbha uppajjatīti?",
+        "analyzed": "cakkhu viññāṇam suññatam ārabbha uppajjati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.7",
+        "original": "Cakkhuñca paṭicca suññatañca uppajjati cakkhuviññāṇanti?",
+        "analyzed": "cakkhuñca paṭicca suññatañca uppajjati cakkhu viññāṇanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.8",
+        "original": "Na hevaṁ vattabbe.",
+        "analyzed": "na ha ivam vattabbe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.9",
+        "original": "Cakkhuñca paṭicca suññatañca uppajjati cakkhuviññāṇanti?",
+        "analyzed": "cakkhuñca paṭicca suññatañca uppajjati cakkhu viññāṇanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.10",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.11",
+        "original": "“Cakkhuñca paṭicca suññatañca uppajjati cakkhuviññāṇan”ti—",
+        "analyzed": "cakkhuñca paṭicca suññatañca uppajjati cakkhu viññāṇanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.12",
+        "original": "attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.13",
+        "original": "Natthi.",
+        "analyzed": "natthi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.14",
+        "original": "“Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇan”ti—",
+        "analyzed": "cakkhuñca paṭicca rūpe ca uppajjati cakkhu viññāṇam ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.15",
+        "original": "attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.16",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.17",
+        "original": "Hañci “cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇan”ti—",
+        "analyzed": "hañci cakkhuñca paṭicca rūpe ca uppajjati cakkhu viññāṇanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.18",
+        "original": "attheva suttanto, no ca vata re vattabbe—",
+        "analyzed": "attha iva suttantaḥ no ca vata re vattabbe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:2.19",
+        "original": "“cakkhuñca paṭicca suññatañca uppajjati cakkhuviññāṇan”ti.",
+        "analyzed": "cakkhuñca paṭicca suññatañca uppajjati cakkhu viññāṇanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.1",
+        "original": "Cakkhuviññāṇaṁ kusalampi akusalampīti?",
+        "analyzed": "cakkhu viññāṇam kusalam pi akusalam pi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.3",
+        "original": "Cakkhuviññāṇaṁ atītānāgataṁ ārabbha uppajjatīti?",
+        "analyzed": "cakkhu viññāṇam atīta anāgatam ārabbha uppajjati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.5",
+        "original": "Cakkhuviññāṇaṁ kusalampi akusalampīti?",
+        "analyzed": "cakkhu viññāṇam kusalam pi akusalam pi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.7",
+        "original": "Cakkhuviññāṇaṁ phassaṁ ārabbha …pe…",
+        "analyzed": "cakkhu viññāṇam phassam ārabbha pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.8",
+        "original": "cittaṁ ārabbha … cakkhuṁ ārabbha …pe…",
+        "analyzed": "cittam ārabbha cakkhum ārabbha pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.9",
+        "original": "kāyaṁ ārabbha … saddaṁ ārabbha …pe…",
+        "analyzed": "kāyam ārabbha saddam ārabbha pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.10",
+        "original": "phoṭṭhabbaṁ ārabbha uppajjatīti?",
+        "analyzed": "phoṭṭhabbam ārabbha uppajjati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:3.11",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.1",
+        "original": "Manoviññāṇaṁ kusalampi akusalampi, manoviññāṇaṁ suññataṁ ārabbha uppajjatīti?",
+        "analyzed": "manaḥ viññāṇam kusalam pi akusalam pi manaḥ viññāṇam suññatam ārabbha uppajjati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.3",
+        "original": "Cakkhuviññāṇaṁ kusalampi akusalampi, cakkhuviññāṇaṁ suññataṁ ārabbha uppajjatīti?",
+        "analyzed": "cakkhu viññāṇam kusalam pi akusalam pi cakkhu viññāṇam suññatam ārabbha uppajjati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.5",
+        "original": "manoviññāṇaṁ kusalampi akusalampi, manoviññāṇaṁ atītānāgataṁ ārabbha uppajjatīti?",
+        "analyzed": "manaḥ viññāṇam kusalam pi akusalam pi manaḥ viññāṇam atīta anāgatam ārabbha uppajjati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.7",
+        "original": "Cakkhuviññāṇaṁ kusalampi akusalampi, cakkhuviññāṇaṁ atītānāgataṁ ārabbha uppajjatīti?",
+        "analyzed": "cakkhu viññāṇam kusalam pi akusalam pi cakkhu viññāṇam atīta anāgatam ārabbha uppajjati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.8",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.9",
+        "original": "manoviññāṇaṁ kusalampi akusalampi, manoviññāṇaṁ phassaṁ ārabbha …pe…",
+        "analyzed": "manaḥ viññāṇam kusalam api akusalam pi manaḥ viññāṇam phassam ārabbha pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.10",
+        "original": "cittaṁ ārabbha …pe…",
+        "analyzed": "cittam ārabbha pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.11",
+        "original": "kāyaṁ ārabbha … saddaṁ ārabbha …pe…",
+        "analyzed": "kāyam ārabbha saddam ārabbha pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.12",
+        "original": "phoṭṭhabbaṁ ārabbha uppajjatīti?",
+        "analyzed": "phoṭṭhabbam ārabbha uppajjati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.13",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.14",
+        "original": "Cakkhuviññāṇaṁ kusalampi akusalampi, cakkhuviññāṇaṁ phassaṁ ārabbha …pe…",
+        "analyzed": "cakkhu viññāṇam kusalam pi akusalam pi cakkhu viññāṇam phassam ārabbha pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.15",
+        "original": "phoṭṭhabbaṁ ārabbha uppajjatīti?",
+        "analyzed": "phoṭṭhabbam ārabbha uppajjati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:4.16",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.2",
+        "original": "“pañcaviññāṇā kusalāpi akusalāpī”ti?",
+        "analyzed": "pañca viññāṇā kusalā api akusalā api iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.4",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.5",
+        "original": "“idha, bhikkhave, bhikkhu cakkhunā rūpaṁ disvā nimittaggāhī hoti …pe…",
+        "analyzed": "idha bhikkhave bhikkhu cakkhunā rūpam disvā nimitta ggāhī hoti pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.6",
+        "original": "na nimittaggāhī hoti …pe…",
+        "analyzed": "na nimitta ggāhī hoti pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.7",
+        "original": "sotena saddaṁ sutvā …pe…",
+        "analyzed": "sotena saddam sutvā pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.8",
+        "original": "kāyena phoṭṭhabbaṁ phusitvā nimittaggāhī hoti …pe…",
+        "analyzed": "kāyena phoṭṭhabbam phusitvā nimitta ggāhī hoti pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.9",
+        "original": "na nimittaggāhī hotī”ti.",
+        "analyzed": "na nimitta ggāhī hoti iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.10",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.11",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.12",
+        "original": "Tena hi pañcaviññāṇā kusalāpi akusalāpīti.",
+        "analyzed": "tena hi pañca viññāṇā kusalā api akusalā api iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_10.4:5.13",
+        "original": "Pañcaviññāṇā kusalāpi akusalāpītikathā niṭṭhitā.",
+        "analyzed": "pañca viññāṇā kusalā api akusalā api iti kathā niṭṭhitā ",
+        "folio": "5"
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "segmentnr": "PA_ya_6.1.2:0.1",
+        "original": "6 Saṅkhārayamaka",
+        "analyzed": "saṅkhārayamaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:0.2",
+        "original": "6.1 Paṇṇattivāra",
+        "analyzed": "paṇṇattivāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:0.3",
+        "original": "6.1.2. Paṇṇattivāraniddesa",
+        "analyzed": "paṇṇatti vāra niddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:1.0.1",
+        "original": "6.1.2.1. Padasodhanavāra",
+        "analyzed": "    ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:1.0.2",
+        "original": "6.1.2.1.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:1.1",
+        "original": "Kāyo kāyasaṅkhāroti? No.",
+        "analyzed": "kāyaḥ kāya saṅkhāraḥ iti no ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:2.1",
+        "original": "Kāyasaṅkhāro kāyoti? No.",
+        "analyzed": "no ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:3.1",
+        "original": "Vacī vacīsaṅkhāroti? No.",
+        "analyzed": "vacī vacīsaṅkhārā iti no ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:4.1",
+        "original": "Vacīsaṅkhāro vacīti? No.",
+        "analyzed": "vacī saṅkhāraḥ vacī iti no ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:5.1",
+        "original": "Cittaṁ cittasaṅkhāroti? No.",
+        "analyzed": "cittam citta saṅkhāraḥ iti no ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:6.1",
+        "original": "Cittasaṅkhāro cittanti? No.",
+        "analyzed": "citta saṅkhāraḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:7.0",
+        "original": "6.1.2.1.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:7.1",
+        "original": "Na kāyo na kāyasaṅkhāroti?",
+        "analyzed": "na kāyaḥ na kāya saṅkhārā iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:8.1",
+        "original": "Kāyasaṅkhāro na kāyo, kāyasaṅkhāro. Kāyañca kāyasaṅkhārañca ṭhapetvā avasesā na ceva kāyo na ca kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāraḥ na kāyaḥ kāya saṅkhāro kāyam ca kāya saṅkhāram ca ṭhapetvā avasesāḥ na ca iva kāyaḥ na ca kāya saṅkhāro ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:9.1",
+        "original": "Na kāyasaṅkhāro na kāyoti?",
+        "analyzed": "na kāya saṅkhāraḥ na ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:10.1",
+        "original": "Kāyo na kāyasaṅkhāro, kāyo. Kāyañca kāyasaṅkhārañca ṭhapetvā avasesā na ceva kāyo na ca kāyasaṅkhāro.",
+        "analyzed": "kāyaḥ na kāya saṅkhāro kāyaḥ kāyam ca kāya saṅkhāram ca ṭhapetvā avasesāḥ na ca iva kāyaḥ na ca kāya saṅkhāro ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:11.1",
+        "original": "Na vacī na vacīsaṅkhāroti?",
+        "analyzed": "na vacī na vacī saṅkhārā uti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:12.1",
+        "original": "Vacīsaṅkhāro na vacī, vacīsaṅkhāro. Vaciñca vacīsaṅkhārañca ṭhapetvā avasesā na ceva vacī na ca vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāraḥ na vacī vacī saṅkhāraḥ vacim ca vacī saṅkhāram ca ṭhapetvā avasesā na ca iva vacī na ca vacī saṅkhāraḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:13.1",
+        "original": "Na vacīsaṅkhāro na vacīti?",
+        "analyzed": "na vacī saṅkhāraḥ na vaci iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:14.1",
+        "original": "Vacī na vacīsaṅkhāro, vacī. Vaciñca vacīsaṅkhārañca ṭhapetvā avasesā na ceva vacī na ca vacīsaṅkhāro.",
+        "analyzed": "vacī na vacī saṅkhāraḥ vacī vacim ca vacī saṅkhāram ca ṭhapetvā avasesā na ca iva vacī na ca vacī saṅkhāraḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:15.1",
+        "original": "Na cittaṁ na cittasaṅkhāroti?",
+        "analyzed": "na cittam na citta saṅkhārā uti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:16.1",
+        "original": "Cittasaṅkhāro na cittaṁ, cittasaṅkhāro. Cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṁ na ca cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāraḥ citta saṅkhāraḥ cittam ca citta saṅkhāram ca ṭhapetvā avasesāḥ na ca iva cittam na ca citta saṅkhāraḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:17.1",
+        "original": "Na cittasaṅkhāro na cittanti?",
+        "analyzed": "na citta saṅkhāraḥ na cittam ti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:18.1",
+        "original": "Cittaṁ na cittasaṅkhāro, cittaṁ. Cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṁ na ca cittasaṅkhāro.",
+        "analyzed": "cittam na citta saṅkhāro citta cittam ca citta saṅkhāram ca ṭhapetvā avasesāḥ na ca iva cittam na ca citta saṅkhāro ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:19.0.1",
+        "original": "6.1.2.2. Padasodhanamūlacakkavāra",
+        "analyzed": "      ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:19.0.2",
+        "original": "6.1.2.2.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:19.1",
+        "original": "Kāyo kāyasaṅkhāroti? No.",
+        "analyzed": "kāyaḥ kāya saṅkhāraḥ iti no ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:20.1",
+        "original": "Saṅkhārā vacīsaṅkhāroti?",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:21.1",
+        "original": "Vacīsaṅkhāro saṅkhāro ceva vacīsaṅkhāro ca. Avasesā saṅkhārā na vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāro saṅkhāro ca iva vacī saṅkhāro ca avasesāḥ saṅkhārāḥ na vacī saṅkhāraḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:22.1",
+        "original": "Kāyo kāyasaṅkhāroti? No.",
+        "analyzed": "kāyaḥ kāya saṅkhāraḥ iti no ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:23.1",
+        "original": "Saṅkhārā cittasaṅkhāroti?",
+        "analyzed": "saṅkhārāḥ citta saṅkhārāḥ iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:24.1",
+        "original": "Cittasaṅkhāro saṅkhāro ceva cittasaṅkhāro ca. Avasesā saṅkhārā na cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāro saṅkhāraḥ ca iva citta saṅkhāraḥ ca avasesāḥ saṅkhārāḥ na citta saṅkhāraḥ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:25.1",
+        "original": "Vacī vacīsaṅkhāroti? No.",
+        "analyzed": "vacī vacīsaṅkhārā iti no ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:26.1",
+        "original": "Saṅkhārā kāyasaṅkhāroti?",
+        "analyzed": "saṅkhārā ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:27.1",
+        "original": "Kāyasaṅkhāro saṅkhāro ceva kāyasaṅkhāro ca. Avasesā saṅkhārā na kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāro saṅkhāro ca iva kāya saṅkhāro ca avasesāḥ saṅkhārāḥ na kāya saṅkhāro ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:28.1",
+        "original": "Vacī vacīsaṅkhāroti? No.",
+        "analyzed": "vacī vacīsaṅkhārā iti no ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:29.1",
+        "original": "Saṅkhārā cittasaṅkhāroti?",
+        "analyzed": "saṅkhārāḥ citta saṅkhārāḥ iti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:30.1",
+        "original": "Cittasaṅkhāro saṅkhāro ceva cittasaṅkhāro ca. Avasesā saṅkhārā na cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāro saṅkhāraḥ ca iva citta saṅkhāraḥ ca avasesāḥ saṅkhārāḥ na citta saṅkhāraḥ ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:31.1",
+        "original": "Cittaṁ cittasaṅkhāroti? No.",
+        "analyzed": "cittam citta saṅkhāraḥ iti no ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:32.1",
+        "original": "Saṅkhārā kāyasaṅkhāroti?",
+        "analyzed": "saṅkhārā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:33.1",
+        "original": "Kāyasaṅkhāro saṅkhāro ceva kāyasaṅkhāro ca. Avasesā saṅkhārā na kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāro saṅkhāro ca iva kāya saṅkhāro ca avasesāḥ saṅkhārāḥ na kāya saṅkhāro ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:34.1",
+        "original": "Cittaṁ cittasaṅkhāroti? No.",
+        "analyzed": "cittam citta saṅkhāraḥ iti no ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:35.1",
+        "original": "Saṅkhārā vacīsaṅkhāroti?",
+        "analyzed": "saṅkhārāḥ ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:36.1",
+        "original": "Vacīsaṅkhāro saṅkhāro ceva vacīsaṅkhāro ca. Avasesā saṅkhārā na vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāro saṅkhāro ca iva vacī saṅkhāro ca avasesāḥ saṅkhārāḥ na vacī saṅkhāraḥ ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:37.0",
+        "original": "6.1.2.2.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:37.1",
+        "original": "Na kāyo na kāyasaṅkhāroti?",
+        "analyzed": "na kāyaḥ na kāya saṅkhārā iti ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:38.1",
+        "original": "Kāyasaṅkhāro na kāyo, kāyasaṅkhāro. Kāyañca kāyasaṅkhārañca ṭhapetvā avasesā na ceva kāyo na ca kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāraḥ na kāyaḥ kāya saṅkhāro kāyam ca kāya saṅkhāram ca ṭhapetvā avasesāḥ na ca iva kāyaḥ na ca kāya saṅkhāro ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:39.1",
+        "original": "Na saṅkhārā na vacīsaṅkhāroti? Āmantā.",
+        "analyzed": "na saṅkhārāḥ na āmantā ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:40.1",
+        "original": "Na kāyo na kāyasaṅkhāroti?",
+        "analyzed": "na kāyaḥ na kāya saṅkhārā iti ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:41.1",
+        "original": "Kāyasaṅkhāro na kāyo, kāyasaṅkhāro. Kāyañca kāyasaṅkhārañca ṭhapetvā avasesā na ceva kāyo na ca kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāraḥ na kāyaḥ kāya saṅkhāro kāyam ca kāya saṅkhāram ca ṭhapetvā avasesāḥ na ca iva kāyaḥ na ca kāya saṅkhāro ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:42.1",
+        "original": "Na saṅkhārā na cittasaṅkhāroti? Āmantā.",
+        "analyzed": "na saṅkhārāḥ na citta saṅkhārāḥ iti āmantā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:43.1",
+        "original": "Na vacī na vacīsaṅkhāroti?",
+        "analyzed": "na vacī na vacī saṅkhārā uti ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:44.1",
+        "original": "Vacīsaṅkhāro na vacī, vacīsaṅkhāro. Vaciñca vacīsaṅkhārañca ṭhapetvā avasesā na ceva vacī na ca vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāraḥ na vacī vacī saṅkhāraḥ vacim ca vacī saṅkhāram ca ṭhapetvā avasesā na ca iva vacī na ca vacī saṅkhāraḥ ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:45.1",
+        "original": "Na saṅkhārā na kāyasaṅkhāroti? Āmantā.",
+        "analyzed": "na saṅkhārāḥ na āmantā ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:46.1",
+        "original": "Na vacī na vacīsaṅkhāroti?",
+        "analyzed": "na vacī na vacī saṅkhārā uti ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:47.1",
+        "original": "Vacīsaṅkhāro na vacī, vacīsaṅkhāro. Vaciñca vacīsaṅkhārañca ṭhapetvā avasesā na ceva vacī na ca vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāraḥ na vacī vacī saṅkhāraḥ vacim ca vacī saṅkhāram ca ṭhapetvā avasesā na ca iva vacī na ca vacī saṅkhāraḥ ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:48.1",
+        "original": "Na saṅkhārā na cittasaṅkhāroti? Āmantā.",
+        "analyzed": "na saṅkhārāḥ na citta saṅkhārāḥ iti āmantā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:49.1",
+        "original": "Na cittaṁ na cittasaṅkhāroti?",
+        "analyzed": "na cittam na citta saṅkhārā uti ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:50.1",
+        "original": "Cittasaṅkhāro na cittaṁ, cittasaṅkhāro. Cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṁ na ca cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāraḥ citta saṅkhāraḥ cittam ca citta saṅkhāram ca ṭhapetvā avasesāḥ na ca iva cittam na ca citta saṅkhāraḥ ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:51.1",
+        "original": "Na saṅkhārā na kāyasaṅkhāroti? Āmantā.",
+        "analyzed": "na saṅkhārāḥ na āmantā ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:52.1",
+        "original": "Na cittaṁ na cittasaṅkhāroti?",
+        "analyzed": "na cittam na citta saṅkhārā uti ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:53.1",
+        "original": "Cittasaṅkhāro na cittaṁ, cittasaṅkhāro. Cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṁ na ca cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāraḥ citta saṅkhāraḥ cittam ca citta saṅkhāram ca ṭhapetvā avasesāḥ na ca iva cittam na ca citta saṅkhāraḥ ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:54.1",
+        "original": "Na saṅkhārā na vacīsaṅkhāroti? Āmantā.",
+        "analyzed": "na saṅkhārāḥ na āmantā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:55.0.1",
+        "original": "6.1.2.3. Suddhasaṅkhāravāra",
+        "analyzed": "     ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:55.0.2",
+        "original": "6.1.2.3.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:55.1",
+        "original": "Kāyasaṅkhāro vacīsaṅkhāroti? No.",
+        "analyzed": "kāya saṅkhāraḥ vacī saṅkhāraḥ iti no ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:56.1",
+        "original": "Vacīsaṅkhāro kāyasaṅkhāroti? No.",
+        "analyzed": "vacī saṅkhāro kāya saṅkhāraḥ iti no ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:57.1",
+        "original": "Kāyasaṅkhāro cittasaṅkhāroti? No.",
+        "analyzed": "kāya saṅkhāro citta saṅkhāro ti no ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:58.1",
+        "original": "Cittasaṅkhāro kāyasaṅkhāroti? No.",
+        "analyzed": "citta saṅkhāraḥ kāya saṅkhāraḥ iti no ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:59.1",
+        "original": "Vacīsaṅkhāro cittasaṅkhāroti? No.",
+        "analyzed": "vacī saṅkhāro citta saṅkhāraḥ iti no ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:60.1",
+        "original": "Cittasaṅkhāro vacīsaṅkhāroti? No.",
+        "analyzed": "citta saṅkhāraḥ vacī saṅkhāraḥ iti no ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:61.0",
+        "original": "6.1.2.3.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:61.1",
+        "original": "Na kāyasaṅkhāro na vacīsaṅkhāroti?",
+        "analyzed": "na kāya saṅkhāraḥ na vacī saṅkhāraḥ iti ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:62.1",
+        "original": "Vacīsaṅkhāro na kāyasaṅkhāro, vacīsaṅkhāro. Kāyasaṅkhārañca vacīsaṅkhārañca ṭhapetvā avasesā na ceva kāyasaṅkhāro na ca vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāraḥ na kāya saṅkhāraḥ vacī saṅkhāraḥ kāya saṅkhāram ca vacī saṅkhāram ca ṭhapetvā avasesāḥ na ca iva kāya saṅkhāraḥ na ca vacī saṅkhāraḥ ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:63.1",
+        "original": "Na vacīsaṅkhāro na kāyasaṅkhāroti?",
+        "analyzed": "na vacī saṅkhāraḥ na kāya saṅkhāraḥ iti ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:64.1",
+        "original": "Kāyasaṅkhāro na vacīsaṅkhāro, kāyasaṅkhāro. Vacīsaṅkhārañca kāyasaṅkhārañca ṭhapetvā avasesā na ceva vacīsaṅkhāro na ca kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāraḥ na vacī saṅkhāraḥ kāya saṅkhāraḥ vacī saṅkhāram ca kāya saṅkhāram ca ṭhapetvā avasesāḥ na ca iva vacī saṅkhāraḥ na ca kāya saṅkhāraḥ ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:65.1",
+        "original": "Na kāyasaṅkhāro na cittasaṅkhāroti?",
+        "analyzed": "na kāya saṅkhāraḥ na citta saṅkhāraḥ iti ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:66.1",
+        "original": "Cittasaṅkhāro na kāyasaṅkhāro, cittasaṅkhāro. Kāyasaṅkhārañca cittasaṅkhārañca ṭhapetvā avasesā na ceva kāyasaṅkhāro na ca cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāraḥ na kāya saṅkhāraḥ citta saṅkhāraḥ kāya saṅkhāram ca citta saṅkhāram ca ṭhapetvā avasesāḥ na ca iva kāya saṅkhāraḥ na ca citta saṅkhāraḥ ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:67.1",
+        "original": "Na cittasaṅkhāro na kāyasaṅkhāroti?",
+        "analyzed": "na citta saṅkhāraḥ na kāya saṅkhāraḥ iti ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:68.1",
+        "original": "Kāyasaṅkhāro na cittasaṅkhāro, kāyasaṅkhāro. Cittasaṅkhārañca kāyasaṅkhārañca ṭhapetvā avasesā na ceva cittasaṅkhāro na ca kāyasaṅkhāro.",
+        "analyzed": "kāya saṅkhāraḥ na citta saṅkhāro kāya saṅkhāro citta saṅkhāram ca kāya saṅkhāram ca ṭhapetvā avasesāḥ na ca iva citta saṅkhāraḥ na ca kāya saṅkhāro ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:69.1",
+        "original": "Na vacīsaṅkhāro na cittasaṅkhāroti?",
+        "analyzed": "na vacī saṅkhāraḥ na citta saṅkhāraḥ iti ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:70.1",
+        "original": "Cittasaṅkhāro na vacīsaṅkhāro, cittasaṅkhāro. Vacīsaṅkhārañca cittasaṅkhārañca ṭhapetvā avasesā na ceva vacīsaṅkhāro na ca cittasaṅkhāro.",
+        "analyzed": "citta saṅkhāraḥ na vacī saṅkhāraḥ citta saṅkhāraḥ vacī saṅkhāram ca citta saṅkhāram ca ṭhapetvā avasesāḥ na ca iva vacī saṅkhāraḥ na ca citta saṅkhāraḥ ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:71.1",
+        "original": "Na cittasaṅkhāro na vacīsaṅkhāroti?",
+        "analyzed": "na citta saṅkhāraḥ na vacī saṅkhāraḥ iti ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:72.1",
+        "original": "Vacīsaṅkhāro na cittasaṅkhāro, vacīsaṅkhāro. Cittasaṅkhārañca vacīsaṅkhārañca ṭhapetvā avasesā na ceva cittasaṅkhāro na ca vacīsaṅkhāro.",
+        "analyzed": "vacī saṅkhāraḥ na citta saṅkhāraḥ vacī saṅkhāraḥ citta saṅkhāram ca vacī saṅkhāram ca ṭhapetvā avasesāḥ na ca iva citta saṅkhāraḥ na ca vacī saṅkhāraḥ ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ya_6.1.2:73.1",
+        "original": "Paṇṇattiniddesavāro.",
+        "analyzed": "      ",
+        "folio": "73"
+    }
+]

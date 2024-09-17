@@ -1,0 +1,530 @@
+[
+    {
+        "segmentnr": "PA_mil_5.4.7:0.1",
+        "original": "Milindapañha",
+        "analyzed": "milindapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:0.2",
+        "original": "Meṇḍakapañha",
+        "analyzed": "meṇḍakapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:0.3",
+        "original": "Sabbaññutañāṇavagga",
+        "analyzed": "sabbaññuta ñāṇa vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:0.4",
+        "original": "7 Kusalākusalasamavisamapañha",
+        "analyzed": "kusala akusala sama visama pañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:1.1",
+        "original": "“Bhante nāgasena kusalakārissapi akusalakārissapi vipāko samasamo, udāhu koci viseso atthī”ti?",
+        "analyzed": "bhante nāgasena kusala kārissa api akusala kārissa api vipākaḥ samasamaḥ udāhu koci visesaḥ atthi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:1.2",
+        "original": "“Atthi, mahārāja, kusalassa ca akusalassa ca viseso, kusalaṁ, mahārāja, sukhavipākaṁ saggasaṁvattanikaṁ, akusalaṁ dukkhavipākaṁ nirayasaṁvattanikan”ti.",
+        "analyzed": "atthi mahārāja kusalassa ca akusalassa ca visesaḥ kusala mahārāja sukha vipākam sagga savattanika akusalam dukkha vipākam niraya savattanika nti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:2.1",
+        "original": "“Bhante nāgasena, tumhe bhaṇatha—",
+        "analyzed": "bhante nāgasena tumhe bhaṇatha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:2.2",
+        "original": "‘devadatto ekantakaṇho, ekantakaṇhehi dhammehi samannāgato, bodhisatto ekantasukko, ekantasukkehi dhammehi samannāgato’ti.",
+        "analyzed": "devadattaḥ ekanta kaṇhaḥ ekanta kaṇhehi dhammehi samannāgataḥ bodhisatto ekanta sukkaḥ ekanta sukkehi dhammehi samannāgato ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:2.3",
+        "original": "Puna ca devadatto bhave bhave yasena ca pakkhena ca bodhisattena samasamo hoti, kadāci adhikataro vā.",
+        "analyzed": "puna ca devadattaḥ bhave bhave yasena ca pakkhena ca bodhisattena samasamaḥ hoti kadāci adhikataraḥ vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:2.4_0",
+        "original": "Yadā devadatto nagare bārāṇasiyaṁ brahmadattassa rañño purohitaputto ahosi, tadā",
+        "analyzed": "yadā devadattaḥ nagare bārāṇasiyam brahmadattassa rañño purohita putto ahosi tadā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:2.4_1",
+        "original": "bodhisatto chavakacaṇḍālo ahosi vijjādharo, vijjaṁ parijappitvā akāle ambaphalāni",
+        "analyzed": "bodhisatto chavaka caṇḍālaḥ ahosi vijjādharaḥ vijjam parijappitvā akāle amba phalāni ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:2.4_2",
+        "original": "nibbattesi, ettha tāva bodhisatto devadattato jātiyā nihīno yasena ca nihīno.",
+        "analyzed": "nibbattesi ettha tāva bodhisatto devadattataḥ jātiyā nihīnaḥ yasena ca nihīnaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:3.1_0",
+        "original": "Puna caparaṁ yadā devadatto rājā ahosi mahā mahīpati sabbakāmasamaṅgī, tadā bodhisatto",
+        "analyzed": "puna ca param yadā devadattaḥ rājā ahosi mahā mahīpati sabba kāma samaṅgī tadā bodhisatto ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:3.1_1",
+        "original": "tassūpabhogo ahosi hatthināgo sabbalakkhaṇasampanno, tassa cārugativilāsaṁ asahamāno",
+        "analyzed": "tassa upabhogaḥ ahosi hatthi nāgaḥ sabba lakkhaṇa sampanno tassa cāru gati vilāsam a sahamāno ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:3.1_2",
+        "original": "rājā vadhamicchanto hatthācariyaṁ evamavoca ‘asikkhito te, ācariya, hatthināgo, tassa",
+        "analyzed": "rājā vadham icchantaḥ hatthācariyam evam avoca a sikkhitaḥ te ācariya hatthi nāgaḥ tassa ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:3.1_3",
+        "original": "ākāsagamanaṁ nāma kāraṇaṁ karohī’ti, tatthapi tāva bodhisatto devadattato jātiyā",
+        "analyzed": "ākāsagamanam nāma kāraṇam karohi iti tattha api tāva bodhisattaḥ devadattataḥ jātiyā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:3.1_4",
+        "original": "nihīno lāmako tiracchānagato.",
+        "analyzed": "nihīnaḥ lāmakaḥ tiracchāna gataḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:4.1_0",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi pavane naṭṭhāyiko, tadā bodhisatto mahāpathavī",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi pavane tadā bodhisattaḥ mahā pathavī ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:4.1_1",
+        "original": "nāma makkaṭo ahosi, etthapi tāva dissati viseso manussassa ca tiracchānagatassa ca,",
+        "analyzed": "nāma makkaṭaḥ ahosi ettha api tāva dissati visesaḥ manussassa ca tiracchāna gatassa ca ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:4.1_2",
+        "original": "tatthapi tāva bodhisatto devadattato jātiyā nihīno.",
+        "analyzed": "tattha api tāva bodhisattaḥ devadattataḥ jātiyā nihīnaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:5.1_0",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi soṇuttaro nāma nesādo balavā balavataro",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi soṇuttaraḥ nāma nesādaḥ balavā balavataraḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:5.1_1",
+        "original": "nāgabalo, tadā bodhisatto chaddanto nāma nāgarājā ahosi, tadā so luddako taṁ hatthināgaṁ",
+        "analyzed": "nāgabalaḥ tadā bodhisatto chaddantaḥ nāma nāga rājā ahosi tadā saḥ luddakaḥ tam hatthi nāga ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:5.1_2",
+        "original": "ghātesi, tatthapi tāva devadattova adhikataro.",
+        "analyzed": "tattha pi tāva devadatto uva adhikataraḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:6.1_0",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi vanacarako aniketavāsī, tadā bodhisatto",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi vana carakaḥ aniketa vāsī tadā bodhisatto ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:6.1_1",
+        "original": "sakuṇo ahosi tittiro mantajjhāyī, tadāpi so vanacarako taṁ sakuṇaṁ ghātesi, tatthapi",
+        "analyzed": "sakuṇaḥ ahosi tittiraḥ manta jjhāyī tadā api saḥ vana carako tam sakuṇam ghātesi tattha api ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:6.1_2",
+        "original": "tāva devadattova jātiyā adhikataro.",
+        "analyzed": "tāva devadattaḥ uva jātiyāḥ adhikataraḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:7.1_0",
+        "original": "Puna caparaṁ yadā devadatto (…) kalābu nāma kāsirājā ahosi, tadā bodhisatto tāpaso",
+        "analyzed": "punar ca param yadā devadattaḥ kalābu nāma kāsi rājā ahosi tadā bodhisatto tāpasaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:7.1_1",
+        "original": "ahosi khantivādī, tadā so rājā tassa tāpasassa kuddho hatthapāde vaṁsakaḷīre viya",
+        "analyzed": "ahosi khanti vādī tadā saḥ rājā tassa tāpasassa kuddhaḥ hattha pāde vasa kaḷīre viya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:7.1_2",
+        "original": "chedāpesi, tatthapi tāva devadattoyeva adhikataro jātiyā ca yasena ca.",
+        "analyzed": "tattha api tāva adhikataraḥ jātiyā ca yasena ca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:8.1_0",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi vanacaro, tadā bodhisatto nandiyo nāma",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi vana caraḥ tadā bodhisattaḥ nandiyaḥ nāma ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:8.1_1",
+        "original": "vānarindo ahosi, tadāpi so vanacaro taṁ vānarindaṁ ghātesi saddhiṁ mātarā kaniṭṭhabhātikena",
+        "analyzed": "vānara indo ahosi tadā api saḥ vana caraḥ tam vānara indam ghātesi saddhim mātarā kaniṭṭha bhātikena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:8.1_2",
+        "original": "ca, tatthapi tāva devadattoyeva adhikataro jātiyā.",
+        "analyzed": "ca tāva adhikataraḥ jātiyā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:9.1",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi acelako kārambhiyo nāma, tadā bodhisatto paṇḍarako nāma nāgarājā ahosi, tatthapi tāva devadattoyeva adhikataro jātiyā.",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi acelakaḥ kārambhiyaḥ nāma tadā bodhisatto paṇḍarakaḥ nāma nāga rājā ahosi tattha api tāva adhikataraḥ jātiyā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:10.1",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi pavane jaṭilako, tadā bodhisatto tacchako nāma mahāsūkaro ahosi, tatthapi tāva devadattoyeva jātiyā adhikataro.",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi pavane jaṭilako tadā bodhisatto nāma mahā sūkaraḥ ahosi tattha api tāva devadattaḥ yā iva jātiyāḥ adhikataraḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:11.1_0",
+        "original": "Puna caparaṁ yadā devadatto cetīsu sūraparicaro nāma rājā ahosi upari purisamatte",
+        "analyzed": "puna ca param yadā devadattaḥ cetīsu sūraparicaraḥ nāma rājā ahosi upari purisa matte ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:11.1_1",
+        "original": "gagane vehāsaṅgamo, tadā bodhisatto kapilo nāma brāhmaṇo ahosi, tatthapi tāva devadattoyeva",
+        "analyzed": "gagane vehāsaṅgamaḥ tadā bodhisatto kapilaḥ nāma brāhmaṇaḥ tattha api tāva ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:11.1_2",
+        "original": "adhikataro jātiyā ca yasena ca.",
+        "analyzed": "adhikataraḥ ca yasena ca ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:12.1",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi sāmo nāma, tadā bodhisatto ruru nāma migarājā ahosi, tatthapi tāva devadatto yeva jātiyā adhikataro.",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi sāmaḥ nāma tadā bodhisatto ruru nāma miga rājā ahosi tattha api tāva devadattaḥ yā iva jātiyā adhikataraḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:13.1_0",
+        "original": "Puna caparaṁ yadā devadatto manusso ahosi luddako pavanacaro, tadā bodhisatto hatthināgo",
+        "analyzed": "puna ca param yadā devadattaḥ manussaḥ ahosi luddakaḥ pavana caraḥ tadā bodhisattaḥ hatthi nāgo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:13.1_1",
+        "original": "ahosi, so luddako tassa hatthināgassa sattakkhattuṁ dante chinditvā hari, tatthapi",
+        "analyzed": "ahosi so luddako tassa hatthi nāgassa satta kkhattum dante chinditvā hari ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:13.1_2",
+        "original": "tāva devadatto yeva yoniyā adhikataro.",
+        "analyzed": "tāva devadattaḥ yā iva yoniyāḥ adhikataraḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:14.1_0",
+        "original": "Puna caparaṁ yadā devadatto siṅgālo ahosi khattiyadhammo, so yāvatā jambudīpe padesarājāno",
+        "analyzed": "puna ca param yadā devadattaḥ siṅgālaḥ ahosi khattiya dhammo saḥ yāvatā jambudīpe padesa rājāno ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:14.1_1",
+        "original": "te sabbe anuyutte akāsi, tadā bodhisatto vidhuro nāma paṇḍito ahosi, tatthapi tāva",
+        "analyzed": "te sabbe anuyutte akāsi tadā bodhisattaḥ vidhuraḥ nāma paṇḍitaḥ ahosi tattha api tāva ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:14.1_2",
+        "original": "devadattoyeva yasena adhikataro.",
+        "analyzed": "devadattā uyā iva yasena adhikataraḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:15.1",
+        "original": "Puna caparaṁ yadā devadatto hatthināgo hutvā laṭukikāya sakuṇikāya puttake ghātesi, tadā bodhisattopi hatthināgo ahosi yūthapati, tattha tāva ubhopi te samasamā ahesuṁ.",
+        "analyzed": "puna ca param yadā devadattaḥ hatthi nāgaḥ hutvā laṭukikāya sakuṇikāya puttake ghātesi tadā bodhisattaḥ api hatthi nāgaḥ ahosi yūtha pati tattha tāva ubho pi te sama samāḥ ahesu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:16.1",
+        "original": "Puna caparaṁ yadā devadatto yakkho ahosi adhammo nāma, tadā bodhisattopi yakkho ahosi dhammo nāma, tatthapi tāva ubhopi samasamā ahesuṁ.",
+        "analyzed": "puna ca param yadā devadattaḥ yakkhaḥ ahosi adhammaḥ nāma tadā bodhisatto pi yakkhaḥ ahosi dhammaḥ nāma tattha api tāva ubho pi sama samāḥ ahesu ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:17.1",
+        "original": "Puna caparaṁ yadā devadatto nāviko ahosi pañcannaṁ kulasatānaṁ issaro, tadā bodhisattopi nāviko ahosi pañcannaṁ kulasatānaṁ issaro, tatthapi tāva ubhopi samasamā ahesuṁ.",
+        "analyzed": "puna ca param yadā devadattaḥ nāvikaḥ ahosi pañcannam kula satānam issaro tadā bodhisatto api nāvikaḥ ahosi pañcannam kula satānam issaro tattha api tāva ubho pi sama samāḥ ahesu ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:18.1_0",
+        "original": "Puna caparaṁ yadā devadatto satthavāho ahosi pañcannaṁ sakaṭasatānaṁ issaro, tadā",
+        "analyzed": "puna ca param yadā devadatto satthavāhaḥ ahosi pañcannam sakaṭa satānam issaraḥ tadā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:18.1_1",
+        "original": "bodhisattopi satthavāho ahosi pañcannaṁ sakaṭasatānaṁ issaro, tatthapi tāva ubhopi samasamā ahesuṁ.",
+        "analyzed": "bodhisattaḥ api satthavāhaḥ ahosi pañcannam sakaṭa satānam issaro tattha api tāva ubho pi sama samāḥ ahesu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:19.1",
+        "original": "Puna caparaṁ yadā devadatto sākho nāma migarājā ahosi, tadā bodhisattopi nigrodho nāma migarājā ahosi, tatthapi tāva ubhopi samasamā ahesuṁ.",
+        "analyzed": "puna ca param yadā devadattaḥ sākhaḥ nāma miga rājā ahosi tadā bodhisattaḥ api nigrodhaḥ nāma miga rājā ahosi tattha api tāva ubhaḥ pi sama samāḥ ahesu ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:20.1",
+        "original": "Puna caparaṁ yadā devadatto sākho nāma senāpati ahosi, tadā bodhisattopi nigrodho nāma rājā ahosi, tatthapi tāva ubhopi samasamā ahesuṁ.",
+        "analyzed": "puna ca param yadā devadattaḥ sākhaḥ nāma senāpati ahosi tadā bodhisattaḥ api nigrodhaḥ nāma rājā ahosi tattha api tāva ubho pi sama samāḥ ahesu ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:21.1",
+        "original": "Puna caparaṁ yadā devadatto khaṇḍahālo nāma brāhmaṇo ahosi, tadā bodhisatto cando nāma rājakumāro ahosi, tadā so khaṇḍahāloyeva adhikataro.",
+        "analyzed": "punar ca param yadā devadattaḥ khaṇḍahālaḥ nāma brāhmaṇaḥ ahosi tadā bodhisatto candaḥ nāma rāja kumāraḥ ahosi tadā saḥ adhikataraḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:22.1_0",
+        "original": "Puna caparaṁ yadā devadatto brahmadatto nāma rājā ahosi, tadā bodhisatto tassa putto",
+        "analyzed": "puna ca param yadā devadattaḥ brahmadattaḥ nāma rājā ahosi tadā bodhisatto tassa putto ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:22.1_1",
+        "original": "mahāpadumo nāma kumāro ahosi, tadā so rājā sakaputtaṁ corapapāte khipāpesi, yato",
+        "analyzed": "mahāpadumaḥ nāma kumāraḥ ahosi tadā saḥ rājā saka puttam cora papāte khipāpesi yatas ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:22.1_2",
+        "original": "kutoci pitāva puttānaṁ adhikataro hoti visiṭṭhoti, tatthapi tāva devadattoyeva adhikataro.",
+        "analyzed": "kutoci pitā āva puttānam adhikataraḥ hoti visiṭṭhaḥ ti tattha api tāva adhikataraḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:23.1_0",
+        "original": "Puna caparaṁ yadā devadatto mahāpatāpo nāma rājā ahosi, tadā bodhisatto tassa putto",
+        "analyzed": "puna ca param yadā devadattaḥ mahāpatāpaḥ nāma rājā ahosi tadā bodhisatto tassa putto ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:23.1_1",
+        "original": "dhammapālo nāma kumāro ahosi, tadā so rājā sakaputtassa hatthapāde sīsañca chedāpesi,",
+        "analyzed": "dhammapālaḥ nāma kumāraḥ ahosi tadā saḥ rājā saka puttassa hattha pāde sīsam ca chedāpesi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:23.1_2",
+        "original": "tatthapi tāva devadattoyeva uttaro adhikataro.",
+        "analyzed": "tattha api tāva uttaraḥ adhikataraḥ ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:24.1",
+        "original": "Ajjetarahi ubhopi sakyakule jāyiṁsu.",
+        "analyzed": "ajja itarahi ubhopi sakya kule ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:24.2",
+        "original": "Bodhisatto buddho ahosi sabbaññū lokanāyako, devadatto tassa devātidevassa sāsane pabbajitvā iddhiṁ nibbattetvā buddhālayaṁ akāsi.",
+        "analyzed": "bodhisattaḥ buddhaḥ ahosi sabbaññū loka nāyakaḥ devadatto tassa devātidevassa sāsane pabbajitvā iddhim nibbattetvā buddha ālayam akāsi ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:24.3",
+        "original": "Kiṁ nu kho, bhante nāgasena, yaṁ mayā bhaṇitaṁ, taṁ sabbaṁ tathaṁ udāhu vitathan”ti?",
+        "analyzed": "kim nu kho bhante nāgasena yam mayā bhaṇita tam sabbam tatham udāhu vitathanti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.1",
+        "original": "“Yaṁ tvaṁ, mahārāja, bahuvidhaṁ kāraṇaṁ osāresi, sabbaṁ taṁ tatheva, no aññathā”ti.",
+        "analyzed": "yam tva mahā rāja bahuvidham kāraṇam osāresi sabbam tam tathā iva no aññathā ti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.2",
+        "original": "“Yadi, bhante nāgasena, kaṇhopi sukkopi samasamagatikā honti, tena hi kusalampi akusalampi samasamavipākaṁ hotī”ti?",
+        "analyzed": "yadi bhante nāgasena kaṇhaḥ upi sukkaḥ upi sama sama gatikāḥ honti tena hi kusalam pi akusalam pi sama sama vipākam hoti iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.3",
+        "original": "“Na hi, mahārāja, kusalampi akusalampi samasamavipākaṁ hoti, na hi, mahārāja, devadatto sabbajanehi paṭiviruddho, bodhisatteneva paṭiviruddho.",
+        "analyzed": "na hi mahā rāja kusalam pi akusalam pi sama sama vipākam hoti na hi mahā rāja devadattaḥ sabba janehi paṭiviruddhaḥ bodhisattena iva paṭiviruddhaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.4",
+        "original": "Yo tassa bodhisattena paṭiviruddho, so tasmiṁ tasmiṁyeva bhave paccati phalaṁ deti.",
+        "analyzed": "yaḥ tassa bodhisattena paṭiviruddhaḥ saḥ tasmin tasmin eva bhave paccati phalam deti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.5",
+        "original": "Devadattopi, mahārāja, issariye ṭhito janapadesu ārakkhaṁ deti, setuṁ sabhaṁ puññasālaṁ kāreti, samaṇabrāhmaṇānaṁ kapaṇaddhikavaṇibbakānaṁ nāthānāthānaṁ yathāpaṇihitaṁ dānaṁ deti.",
+        "analyzed": "devadattaḥ api mahā rāja issariye ṭhitaḥ janapadesu ārakkham deti setum sabham puñña sālam kāreti samaṇa brāhmaṇānam kapaṇaddhika vaṇibbakānam nātha anāthānam yathāpaṇihitam dānam deti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.6",
+        "original": "Tassa so vipākena bhave bhave sampattiyo paṭilabhati.",
+        "analyzed": "tassa saḥ vipākena bhave bhave sampattiyaḥ paṭilabhati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:25.7",
+        "original": "Kassetaṁ, mahārāja, sakkā vattuṁ vinā dānena damena saṁyamena uposathakammena sampattiṁ anubhavissatīti?",
+        "analyzed": "kassa ita mahā rāja sakkā vattum vinā dānena damena sayamena uposatha kammena sampattim anubhavissati iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:26.1_0",
+        "original": "Yaṁ pana tvaṁ, mahārāja, evaṁ vadesi ‘devadatto ca bodhisatto ca ekato anuparivattantī’ti,",
+        "analyzed": "yam pana tva mahā rāja evam vadesi devadatto ca bodhisatto ca ekatas anuparivattanti iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:26.1_1",
+        "original": "so na jātisatassa accayena samāgamo ahosi, na jātisahassassa accayena, na jātisatasahassassa",
+        "analyzed": "saḥ na jāti satassa accayena samāgamaḥ ahosi na jāti sahassassa accayena na jāti sata sahassassa ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:26.1_2",
+        "original": "accayena, kadāci karahaci bahūnaṁ ahorattānaṁ accayena samāgamo ahosi.",
+        "analyzed": "accayena kadāci karahaci bahūnam ahorattānam accayena samāgamaḥ ahosi ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:26.2",
+        "original": "Yaṁ panetaṁ, mahārāja, bhagavatā kāṇakacchapopamaṁ upadassitaṁ manussattappaṭilābhāya, tathūpamaṁ, mahārāja, imesaṁ samāgamaṁ dhārehi.",
+        "analyzed": "yam pana ita mahā rāja bhagavatā kāṇa kacchapa upamam upadassitam manus satta paṭilābhāya tathā upama mahā rāja imesam samāgamam dhārehi ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:27.1_0",
+        "original": "Na, mahārāja, bodhisattassa devadatteneva saddhiṁ samāgamo ahosi, theropi, mahārāja,",
+        "analyzed": "na mahā rāja bodhisattassa devadattena iva saddhim samāgamaḥ ahosi theraḥ api mahā rāja ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:27.1_1",
+        "original": "sāriputto anekesu jātisatasahassesu bodhisattassa pitā ahosi, mahāpitā ahosi, cūḷapitā",
+        "analyzed": "sāriputto anekesu jāti sata sahassesu bodhisattassa pitā ahosi mahā pitā ahosi cūḷa pitā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:27.1_2",
+        "original": "ahosi, bhātā ahosi, putto ahosi, bhāgineyyo ahosi, mitto ahosi.",
+        "analyzed": "ahosi bhātā ahosi puttaḥ ahosi bhāgineyyaḥ ahosi mittaḥ ahosi ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.1_0",
+        "original": "Bodhisattopi, mahārāja, anekesu jātisatasahassesu therassa sāriputtassa pitā ahosi,",
+        "analyzed": "bodhisattaḥ api mahā rāja anekesu jāti sata sahassesu therassa sāriputtassa pitā ahosi ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.1_1",
+        "original": "mahāpitā ahosi, cūḷapitā ahosi, bhātā ahosi, putto ahosi, bhāgineyyo ahosi, mitto",
+        "analyzed": "mahā pitā ahosi cūḷa pitā ahosi bhātā ahosi puttaḥ ahosi bhāgineyyaḥ ahosi mittaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.1_2",
+        "original": "ahosi, sabbepi, mahārāja, sattanikāyapariyāpannā saṁsārasotamanugatā saṁsārasotena",
+        "analyzed": "ahosi sabbe api mahā rāja satta nikāya pariyāpannā sa sārasotam anugatā sa sārasotena ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.1_3",
+        "original": "vuyhantā appiyehipi piyehipi samāgacchanti.",
+        "analyzed": "vuyhantāḥ appiyehipi piyehipi samāgacchanti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.2",
+        "original": "Yathā, mahārāja, udakaṁ sotena vuyhamānaṁ suciasucikalyāṇapāpakena samāgacchati;",
+        "analyzed": "yathā mahā rāja udakam sotena vuyhamānam suci a suci kalyāṇa pāpakena samāgacchati ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.3",
+        "original": "evameva kho, mahārāja, sabbepi sattanikāyapariyāpannā saṁsārasotamanugatā saṁsārasotena vuyhantā appiyehipi piyehipi samāgacchanti.",
+        "analyzed": "evam eva kho mahā rāja sabbe pi satta nikāya pariyāpannā sa sārasa utam anugatā sa sārasa utena vuyhantā appiyehi pi piyehi pi samāgacchanti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.4_0",
+        "original": "Devadatto, mahārāja, yakkho samāno attanā adhammo pare adhamme niyojetvā sattapaññāsavassakoṭiyo",
+        "analyzed": "devadattaḥ mahā rāja yakkho samānaḥ attanā adhammo pare adhamme niyojetvā satta paññāsa vassa koṭiyaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.4_1",
+        "original": "saṭṭhi ca vassasatasahassāni mahāniraye pacci, bodhisattopi, mahārāja, yakkho samāno",
+        "analyzed": "saṭṭhi ca vassa sata sahassāni mahāniraye bodhisatto api mahā rāja yakkho samāno ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.4_2",
+        "original": "attanā dhammo pare dhamme niyojetvā sattapaññāsavassakoṭiyo saṭṭhi ca vassasatasahassāni",
+        "analyzed": "attanā dhammo pare dhamme niyojetvā satta paññāsa vassa koṭiyaḥ ca vassa sata sahassāni ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.4_3",
+        "original": "sagge modi sabbakāmasamaṅgī, api ca, mahārāja, devadatto imasmiṁ bhave buddhaṁ anāsādanīyamāsādayitvā",
+        "analyzed": "sagge modi sabba kāma samaṅgī api ca mahā rāja devadattaḥ imasmin bhave buddham an āsādanīyam āsādayitvā ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.4_4",
+        "original": "samaggañca saṅghaṁ bhinditvā pathaviṁ pāvisi, tathāgato bujjhitvā sabbadhamme parinibbuto upadhisaṅkhaye”ti.",
+        "analyzed": "samaggam ca saṅgham bhinditvā pathavim pāvisi tathāgataḥ bujjhitvā sabba dhamme parinibbutaḥ upadhi saṅkhayā iti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:28.5",
+        "original": "“Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti.",
+        "analyzed": "sādhu bhante nāgasena evam etam tathā sampaṭicchāmi iti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_5.4.7:29.1",
+        "original": "Kusalākusalasamavisamapañho sattamo.",
+        "analyzed": "kusala akusala sama visama pañhaḥ sattamaḥ ",
+        "folio": "29"
+    }
+]

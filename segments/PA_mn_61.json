@@ -1,0 +1,932 @@
+[
+    {
+        "segmentnr": "PA_mn_61:0.1",
+        "original": "Majjhima Nikāya 61",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_61:0.2",
+        "original": "Ambalaṭṭhikarāhulovādasutta",
+        "analyzed": "        ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_61:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_61:1.2",
+        "original": "ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+        "analyzed": "ekam samayam bhagavā rājagahe viharati veḷuvane kalandakanivāpe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.1",
+        "original": "Tena kho pana samayena āyasmā rāhulo ambalaṭṭhikāyaṁ viharati.",
+        "analyzed": "tena kho pana samayena āyasmā rāhulaḥ ambalaṭṭhikāyam viharati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.2",
+        "original": "Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yena ambalaṭṭhikā yenāyasmā rāhulo tenupasaṅkami.",
+        "analyzed": "atha kho bhagavā sāyanha samayam paṭisallānā vuṭṭhitaḥ yena ambalaṭṭhikā yena ayasmā rāhulo tena upasaṅkami ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.3",
+        "original": "Addasā kho āyasmā rāhulo bhagavantaṁ dūratova āgacchantaṁ.",
+        "analyzed": "addasā khalu āyasmā rāhulaḥ bhagavantam āgacchanta ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.4",
+        "original": "Disvāna āsanaṁ paññāpesi, udakañca pādānaṁ.",
+        "analyzed": "disvāna āsanam paññāpesi udakam ca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.5",
+        "original": "Nisīdi bhagavā paññatte āsane.",
+        "analyzed": "nisīdi bhagavā paññatte āsane ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.6",
+        "original": "Nisajja pāde pakkhālesi.",
+        "analyzed": "nisajja pāde pakkhālesi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:2.7",
+        "original": "Āyasmāpi kho rāhulo bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.",
+        "analyzed": "āyasmā api khalu rāhulaḥ bhagavantam abhivādetvā ekamantam nisīdi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_61:3.1",
+        "original": "Atha kho bhagavā parittaṁ udakāvasesaṁ udakādhāne ṭhapetvā āyasmantaṁ rāhulaṁ āmantesi:",
+        "analyzed": "atha khalu bhagavā parittam udaka avasesam udakādhāne ṭhapetvā āyasmantam rāhulam āmantesi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_61:3.2",
+        "original": "“passasi no tvaṁ, rāhula, imaṁ parittaṁ udakāvasesaṁ udakādhāne ṭhapitan”ti?",
+        "analyzed": "passasi no tva rāhula imam parittam udaka avasesam udaka ādhāne ṭhapitanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_61:3.3",
+        "original": "“Evaṁ, bhante”.",
+        "analyzed": "eva bhante ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_61:3.4",
+        "original": "“Evaṁ parittakaṁ kho, rāhula, tesaṁ sāmaññaṁ yesaṁ natthi sampajānamusāvāde lajjā”ti.",
+        "analyzed": "evam parittakam kho rāhula tesam sāmaññam yesam na atthi sampajāna musāvāde lajjāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_61:4.1",
+        "original": "Atha kho bhagavā parittaṁ udakāvasesaṁ chaḍḍetvā āyasmantaṁ rāhulaṁ āmantesi:",
+        "analyzed": "atha khalu bhagavā parittam udaka avasesam chaḍḍetvā āyasmantam rāhulam āmantesi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_61:4.2",
+        "original": "“passasi no tvaṁ, rāhula, parittaṁ udakāvasesaṁ chaḍḍitan”ti?",
+        "analyzed": "passasi no tva rāhula parittam udaka avasesam chaḍḍitanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_61:4.3",
+        "original": "“Evaṁ, bhante”.",
+        "analyzed": "eva bhante ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_61:4.4",
+        "original": "“Evaṁ chaḍḍitaṁ kho, rāhula, tesaṁ sāmaññaṁ yesaṁ natthi sampajānamusāvāde lajjā”ti.",
+        "analyzed": "evam chaḍḍitam kho rāhula tesam sāmaññam yesam na atthi sampajāna musāvāde lajjāti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_61:5.1",
+        "original": "Atha kho bhagavā taṁ udakādhānaṁ nikkujjitvā āyasmantaṁ rāhulaṁ āmantesi:",
+        "analyzed": "atha khalu bhagavā tam udakādhānam nikkujjitvā āyasmantam rāhulam āmantesi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_61:5.2",
+        "original": "“passasi no tvaṁ, rāhula, imaṁ udakādhānaṁ nikkujjitan”ti?",
+        "analyzed": "passasi no tva rāhula imam udakādhānam nikkujjitanti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_61:5.3",
+        "original": "“Evaṁ, bhante”.",
+        "analyzed": "eva bhante ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_61:5.4",
+        "original": "“Evaṁ nikkujjitaṁ kho, rāhula, tesaṁ sāmaññaṁ yesaṁ natthi sampajānamusāvāde lajjā”ti.",
+        "analyzed": "evam nikkujjitam kho rāhula tesam sāmaññam yesam na atthi sampajāna musāvāde lajjāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_61:6.1",
+        "original": "Atha kho bhagavā taṁ udakādhānaṁ ukkujjitvā āyasmantaṁ rāhulaṁ āmantesi:",
+        "analyzed": "atha khalu bhagavā tam udakādhānam ukkujjitvā āyasmantam rāhulam āmantesi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_61:6.2",
+        "original": "“passasi no tvaṁ, rāhula, imaṁ udakādhānaṁ rittaṁ tucchan”ti?",
+        "analyzed": "passasi no tva rāhula imam udakādhānam rittam tucchanti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_61:6.3",
+        "original": "“Evaṁ, bhante”.",
+        "analyzed": "eva bhante ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_61:6.4",
+        "original": "“Evaṁ rittaṁ tucchaṁ kho, rāhula, tesaṁ sāmaññaṁ yesaṁ natthi sampajānamusāvāde lajjāti.",
+        "analyzed": "evam rittam tuccham kho rāhula tesam sāmaññam yesam na atthi sampajāna musāvāde lajjāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.1_0",
+        "original": "Seyyathāpi, rāhula, rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro saṅgāmagato",
+        "analyzed": "seyyathā api rāhula raññaḥ nāgaḥ īsādantaḥ urūḍhavā abhijātaḥ saṅgāma avacaraḥ saṅgāma gataḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.1_1",
+        "original": "purimehipi pādehi kammaṁ karoti, pacchimehipi pādehi kammaṁ karoti, purimenapi kāyena",
+        "analyzed": "purimehi pi pādehi kammam karoti pacchimehi pi pādehi kammam karoti purimena api kāyena ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.1_2",
+        "original": "kammaṁ karoti, pacchimenapi kāyena kammaṁ karoti, sīsenapi kammaṁ karoti, kaṇṇehipi",
+        "analyzed": "kammam karoti pacchimena api kāyena kammam karoti sīsena api kammam karoti kaṇṇehi pi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.1_3",
+        "original": "kammaṁ karoti, dantehipi kammaṁ karoti, naṅguṭṭhenapi kammaṁ karoti; rakkhateva soṇḍaṁ.",
+        "analyzed": "kammam karoti dantehi pi kammam karoti naṅguṭṭhena pi kammam karoti rakkhatā iva soṇḍa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.2",
+        "original": "Tattha hatthārohassa evaṁ hoti:",
+        "analyzed": "tattha hattha ārohassa evam hoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.3_0",
+        "original": "‘ayaṁ kho rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro saṅgāmagato purimehipi",
+        "analyzed": "ayam kho raññaḥ nāgaḥ īsādantaḥ urūḷhavā abhijātaḥ saṅgāma avacaraḥ saṅgāma gataḥ purimehi pi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.3_1",
+        "original": "pādehi kammaṁ karoti, pacchimehipi pādehi kammaṁ karoti …pe… naṅguṭṭhenapi kammaṁ",
+        "analyzed": "pādehi kammam karoti pacchimehi pi pādehi kammam karoti pe naṅguṭṭhena pi kamma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.3_2",
+        "original": "karoti; rakkhateva soṇḍaṁ.",
+        "analyzed": "karoti rakkhatā iva soṇḍa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.4",
+        "original": "Apariccattaṁ kho rañño nāgassa jīvitan’ti.",
+        "analyzed": "a pariccattam kho raññaḥ nāgassa jīvitanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.5_0",
+        "original": "Yato kho, rāhula, rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro saṅgāmagato",
+        "analyzed": "yatas kho rāhula raññaḥ nāgaḥ īsādantaḥ urūḍhavā abhijātaḥ saṅgāma avacaraḥ saṅgāma gataḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.5_1",
+        "original": "purimehipi pādehi kammaṁ karoti, pacchimehipi pādehi kammaṁ karoti …pe… naṅguṭṭhenapi",
+        "analyzed": "purimehi pi pādehi kammam karoti pacchimehi pi pādehi kammam karoti pe naṅguṭṭhena pi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.5_2",
+        "original": "kammaṁ karoti, soṇḍāyapi kammaṁ karoti, tattha hatthārohassa evaṁ hoti:",
+        "analyzed": "kammam karoti kammam karoti tattha hattha ārohassa evam hoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.6_0",
+        "original": "‘ayaṁ kho rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro saṅgāmagato purimehipi",
+        "analyzed": "ayam kho raññaḥ nāgaḥ īsādantaḥ urūḷhavā abhijātaḥ saṅgāma avacaraḥ saṅgāma gataḥ purimehi pi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.6_1",
+        "original": "pādehi kammaṁ karoti, pacchimehipi pādehi kammaṁ karoti, purimenapi kāyena kammaṁ",
+        "analyzed": "pādehi kammam karoti pacchimehi pi pādehi kammam karoti purimena api kāyena kamma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.6_2",
+        "original": "karoti, pacchimenapi kāyena kammaṁ karoti, sīsenapi kammaṁ karoti, kaṇṇehipi kammaṁ",
+        "analyzed": "karoti pacchimena api kāyena kammam karoti sīsena api kammam karoti kaṇṇehi pi kamma ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.6_3",
+        "original": "karoti, dantehipi kammaṁ karoti, naṅguṭṭhenapi kammaṁ karoti, soṇḍāyapi kammaṁ karoti.",
+        "analyzed": "karoti dantehi pi kammam karoti naṅguṭṭhena api kammam karoti kammam karoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.7",
+        "original": "Pariccattaṁ kho rañño nāgassa jīvitaṁ.",
+        "analyzed": "pariccattam kho raññaḥ nāgassa jīvita ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.8",
+        "original": "Natthi dāni kiñci rañño nāgassa akaraṇīyan’ti.",
+        "analyzed": "natthi dāni kiñci raññaḥ nāgassa a karaṇīyanti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.9",
+        "original": "Evameva kho, rāhula, yassa kassaci sampajānamusāvāde natthi lajjā, nāhaṁ tassa kiñci pāpaṁ akaraṇīyanti vadāmi.",
+        "analyzed": "evam eva kho rāhula yassa kassaci sampajāna musāvāde natthi lajjā na aham tassa kiñci pāpam a karaṇīyanti vadāmi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.10",
+        "original": "Tasmātiha te, rāhula, ‘hassāpi na musā bhaṇissāmī’ti—",
+        "analyzed": "tasmā ati ha te rāhula hassā api na musā bhaṇissāmi iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:7.11",
+        "original": "evañhi te, rāhula, sikkhitabbaṁ.",
+        "analyzed": "evam hi te rāhula sikkhitabba ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_61:8.1",
+        "original": "Taṁ kiṁ maññasi, rāhula,",
+        "analyzed": "tam kim maññasi rāhula ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_61:8.2",
+        "original": "kimatthiyo ādāso”ti?",
+        "analyzed": "kimatthiyaḥ ādāsi iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_61:8.3",
+        "original": "“Paccavekkhaṇattho, bhante”ti.",
+        "analyzed": "paccavekkhaṇa atthaḥ bhante ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_61:8.4_0",
+        "original": "“Evameva kho, rāhula, paccavekkhitvā paccavekkhitvā kāyena kammaṁ kattabbaṁ, paccavekkhitvā",
+        "analyzed": "evam eva kho rāhula paccavekkhitvā paccavekkhitvā kāyena kammam kattabba paccavekkhitvā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_61:8.4_1",
+        "original": "paccavekkhitvā vācāya kammaṁ kattabbaṁ, paccavekkhitvā paccavekkhitvā manasā kammaṁ kattabbaṁ.",
+        "analyzed": "paccavekkhitvā vācāya kammaṃ kattabba paccavekkhitvā paccavekkhitvā manasā kammaṃ kattabba ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.1",
+        "original": "Yadeva tvaṁ, rāhula, kāyena kammaṁ kattukāmo ahosi, tadeva te kāyakammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "yat eva tva rāhula kāyena kammam kattu kāmo ahosi tat eva te kāya kammam paccavekkhitabba ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.2",
+        "original": "‘yannu kho ahaṁ idaṁ kāyena kammaṁ kattukāmo idaṁ me kāyakammaṁ attabyābādhāyapi saṁvatteyya, parabyābādhāyapi saṁvatteyya, ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yat nu khalu aham idam kāyena kammam kattu kāmaḥ idam me kāya kammam atta byābādhāya api savatteyya para byābādhāya api savatteyya ubhaya byābādhāya api savatteyya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.3",
+        "original": "akusalaṁ idaṁ kāyakammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam kāya kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.4",
+        "original": "Sace tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ kāyena kammaṁ kattukāmo idaṁ me kāyakammaṁ attabyābādhāyapi saṁvatteyya, parabyābādhāyapi saṁvatteyya, ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yam kho aham idam kāyena kammam kattu kāmaḥ idam me kāya kammam atta byābādhāya api savatteyya para byābādhāya api savatteyya ubhaya byābādhāya api savatteyya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.6",
+        "original": "akusalaṁ idaṁ kāyakammaṁ dukkhudrayaṁ dukkhavipākan’ti, evarūpaṁ te, rāhula, kāyena kammaṁ sasakkaṁ na karaṇīyaṁ.",
+        "analyzed": "akusalam idam kāya kammam dukkhudrayam dukkha vipākam ti evarūpam te rāhula kāyena kammam sa sakkam na karaṇīya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.7",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.8",
+        "original": "‘yaṁ kho ahaṁ idaṁ kāyena kammaṁ kattukāmo idaṁ me kāyakammaṁ nevattabyābādhāyapi saṁvatteyya, na parabyābādhāyapi saṁvatteyya, na ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yam kho aham idam kāyena kammam kattu kāmaḥ idam me kāya kammam nevatta byābādhāya api savatteyya na para byābādhāya api savatteyya na ubhaya byābādhāya api savatteyya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:9.9",
+        "original": "kusalaṁ idaṁ kāyakammaṁ sukhudrayaṁ sukhavipākan’ti, evarūpaṁ te, rāhula, kāyena kammaṁ karaṇīyaṁ.",
+        "analyzed": "kusalam idam kāya kammam sukha vipākam ti evarūpam te rāhula kāyena kammam karaṇīya ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.1",
+        "original": "Karontenapi te, rāhula, kāyena kammaṁ tadeva te kāyakammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "karontena api te rāhula kāyena kammam tat eva te kāya kammam paccavekkhitabba ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.2",
+        "original": "‘yannu kho ahaṁ idaṁ kāyena kammaṁ karomi idaṁ me kāyakammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yat nu kho aham idam kāyena kammam karomi idam me kāya kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.3",
+        "original": "akusalaṁ idaṁ kāyakammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam kāya kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.4",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ kāyena kammaṁ karomi idaṁ me kāyakammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam kāyena kammam karomi idam me kāya kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.6",
+        "original": "akusalaṁ idaṁ kāyakammaṁ dukkhudrayaṁ dukkhavipākan’ti, paṭisaṁhareyyāsi tvaṁ, rāhula, evarūpaṁ kāyakammaṁ.",
+        "analyzed": "akusalam idam kāya kammam dukkhudrayam dukkha vipākam ti paṭisahareyyāsi tva rāhula evarūpam kāya kamma ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.7",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.8",
+        "original": "‘yaṁ kho ahaṁ idaṁ kāyena kammaṁ karomi idaṁ me kāyakammaṁ nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam kāyena kammam karomi idam me kāya kammam savattati na para byābādhāya api savattati na ubhaya byābādhāya api savattati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:10.9",
+        "original": "kusalaṁ idaṁ kāyakammaṁ sukhudrayaṁ sukhavipākan’ti, anupadajjeyyāsi tvaṁ, rāhula, evarūpaṁ kāyakammaṁ.",
+        "analyzed": "kusalam idam kāya kammam su khudrayam sukha vipākam ti anupadajjeyyāsi tva rāhulaḥ evarūpam kāya kamma ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.1",
+        "original": "Katvāpi te, rāhula, kāyena kammaṁ tadeva te kāyakammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "katvā api te rāhula kāyena kammam tat eva te kāya kammam paccavekkhitabba ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.2",
+        "original": "‘yannu kho ahaṁ idaṁ kāyena kammaṁ akāsiṁ idaṁ me kāyakammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yat nu kho aham idam kāyena kammam akāsim idam me kāya kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.3",
+        "original": "akusalaṁ idaṁ kāyakammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam kāya kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.4",
+        "original": "Sace kho tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace kho tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ kāyena kammaṁ akāsiṁ, idaṁ me kāyakammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam kāyena kammam akāsi idam me kāya kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.6",
+        "original": "akusalaṁ idaṁ kāyakammaṁ dukkhudrayaṁ dukkhavipākan’ti, evarūpaṁ te, rāhula, kāyakammaṁ satthari vā viññūsu vā sabrahmacārīsu desetabbaṁ, vivaritabbaṁ, uttānīkātabbaṁ;",
+        "analyzed": "akusalam idam kāya kammam dukkhudrayam dukkha vipākan ti evarūpam te rāhula kāya kammam satthari vā viññūsu vā sabrahmacārīsu desetabba vivaritabba uttānīkātabba ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.7",
+        "original": "desetvā vivaritvā uttānīkatvā āyatiṁ saṁvaraṁ āpajjitabbaṁ.",
+        "analyzed": "desetvā vivaritvā uttānīkatvā āyatim savaram āpajjitabba ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.8",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.9",
+        "original": "‘yaṁ kho ahaṁ idaṁ kāyena kammaṁ akāsiṁ idaṁ me kāyakammaṁ nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam kāyena kammam akāsim idam me kāya kammam savattati na para byābādhāya api savattati na ubhaya byābādhāya api savattati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:11.10",
+        "original": "kusalaṁ idaṁ kāyakammaṁ sukhudrayaṁ sukhavipākan’ti, teneva tvaṁ, rāhula, pītipāmojjena vihareyyāsi ahorattānusikkhī kusalesu dhammesu.",
+        "analyzed": "kusalam idam kāya kammam sukha vipākam ti tena iva tva rāhula pīti pāmojjena vihareyyāsi ahoratta anusikkhī kusalesu dhammesu ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.1",
+        "original": "“Yadeva tvaṁ, rāhula, vācāya kammaṁ kattukāmo ahosi, tadeva te vacīkammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "yat eva tva rāhula vācāya kammam kattu kāmo ahosi tat eva te vacī kammam paccavekkhitabba ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.2",
+        "original": "‘yannu kho ahaṁ idaṁ vācāya kammaṁ kattukāmo idaṁ me vacīkammaṁ attabyābādhāyapi saṁvatteyya, parabyābādhāyapi saṁvatteyya, ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yat nu khalu aham idam vācāya kammam kattu kāmaḥ idam me vacī kammam atta byābādhāya api savatteyya para byābādhāya api savatteyya ubhaya byābādhāya api savatteyya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.3",
+        "original": "akusalaṁ idaṁ vacīkammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam vacī kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.4",
+        "original": "Sace tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ vācāya kammaṁ kattukāmo idaṁ me vacīkammaṁ attabyābādhāyapi saṁvatteyya, parabyābādhāyapi saṁvatteyya, ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yam kho aham idam vācāya kammam kattu kāmaḥ idam me vacī kammam atta byābādhāya api savatteyya para byābādhāya api savatteyya ubhaya byābādhāya api savatteyya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.6",
+        "original": "akusalaṁ idaṁ vacīkammaṁ dukkhudrayaṁ dukkhavipākan’ti, evarūpaṁ te, rāhula, vācāya kammaṁ sasakkaṁ na karaṇīyaṁ.",
+        "analyzed": "akusalam idam vacī kammam dukkhudrayam dukkha vipākam ti evarūpam te rāhula vācāya kammam sa sakkam na karaṇīya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.7",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.8",
+        "original": "‘yaṁ kho ahaṁ idaṁ vācāya kammaṁ kattukāmo idaṁ me vacīkammaṁ nevattabyābādhāyapi saṁvatteyya, na parabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yam kho aham idam vācāya kammam kattu kāmaḥ idam me vacī kammam na ivatta byābādhāya api savatteyya na para byābādhāya api savatteyya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:12.9",
+        "original": "kusalaṁ idaṁ vacīkammaṁ sukhudrayaṁ sukhavipākan’ti, evarūpaṁ te, rāhula, vācāya kammaṁ karaṇīyaṁ.",
+        "analyzed": "kusalam idam vacī kammam sukha vipākam ti evarūpam te rāhula vācāya kammam karaṇīya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.1",
+        "original": "Karontenapi te, rāhula, vācāya kammaṁ tadeva te vacīkammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "karontena api te rāhula vācāya kammam tat eva te vacī kammam paccavekkhitabba ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.2",
+        "original": "‘yannu kho ahaṁ idaṁ vācāya kammaṁ karomi idaṁ me vacīkammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yat nu khalu aham idam vācāya kammam karomi idam me vacī kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.3",
+        "original": "akusalaṁ idaṁ vacīkammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam vacī kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.4",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ vācāya kammaṁ karomi idaṁ me vacīkammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam vācāya kammam karomi idam me vacī kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.6",
+        "original": "akusalaṁ idaṁ vacīkammaṁ dukkhudrayaṁ dukkhavipākan’ti, paṭisaṁhareyyāsi tvaṁ, rāhula, evarūpaṁ vacīkammaṁ.",
+        "analyzed": "akusalam idam vacī kammam dukkhudrayam dukkha vipākam ti paṭisahareyyāsi tva rāhula evarūpam vacī kamma ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.7",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.8",
+        "original": "‘yaṁ kho ahaṁ idaṁ vācāya kammaṁ karomi idaṁ me vacīkammaṁ nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam vācāya kammam karomi idam me vacī kammam na ivatta byābādhāya api savattati na para byābādhāya api savattati na ubhaya byābādhāya api savattati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:13.9",
+        "original": "kusalaṁ idaṁ vacīkammaṁ sukhudrayaṁ sukhavipākan’ti, anupadajjeyyāsi tvaṁ, rāhula, evarūpaṁ vacīkammaṁ.",
+        "analyzed": "kusalam idam vacī kammam su khudrayam sukha vipākam ti anupadajjeyyāsi tva rāhulaḥ evarūpam vacī kamma ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.1",
+        "original": "Katvāpi te, rāhula, vācāya kammaṁ tadeva te vacīkammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "katvā api te rāhula vācāya kammam tat eva te vacī kammam paccavekkhitabba ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.2",
+        "original": "‘yannu kho ahaṁ idaṁ vācāya kammaṁ akāsiṁ idaṁ me vacīkammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yat nu kho aham idam vācāya kammam akāsim idam me vacī kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.3",
+        "original": "akusalaṁ idaṁ vacīkammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam vacī kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.4",
+        "original": "Sace kho tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace kho tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ vācāya kammaṁ akāsiṁ idaṁ me vacīkammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam vācāya kammam akāsim idam me vacī kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.6",
+        "original": "akusalaṁ idaṁ vacīkammaṁ dukkhudrayaṁ dukkhavipākan’ti, evarūpaṁ te, rāhula, vacīkammaṁ satthari vā viññūsu vā sabrahmacārīsu desetabbaṁ, vivaritabbaṁ, uttānīkattabbaṁ;",
+        "analyzed": "akusalam idam vacī kammam dukkhudrayam dukkha vipākan ti evarūpam te rāhula vacī kammam satthari vā viññūsu vā sabrahmacārīsu desetabba vivaritabba uttānīkattabba ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.7",
+        "original": "desetvā vivaritvā uttānīkatvā āyatiṁ saṁvaraṁ āpajjitabbaṁ.",
+        "analyzed": "desetvā vivaritvā uttānīkatvā āyatim savaram āpajjitabba ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.8",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.9",
+        "original": "‘yaṁ kho ahaṁ idaṁ vācāya kammaṁ akāsiṁ idaṁ me vacīkammaṁ nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam vācāya kammam akāsim idam me vacī kammam na ivatta byābādhāya api savattati na para byābādhāya api savattati na ubhaya byābādhāya api savattati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:14.10",
+        "original": "kusalaṁ idaṁ vacīkammaṁ sukhudrayaṁ sukhavipākan’ti, teneva tvaṁ, rāhula, pītipāmojjena vihareyyāsi ahorattānusikkhī kusalesu dhammesu.",
+        "analyzed": "kusalam idam vacī kammam sukhudrayam sukha vipākam ti tena iva tva rāhula pīti pāmojjena vihareyyāsi ahoratta anusikkhī kusalesu dhammesu ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.1",
+        "original": "Yadeva tvaṁ, rāhula, manasā kammaṁ kattukāmo ahosi, tadeva te manokammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "yat eva tva rāhula manasā kammam kattu kāmo ahosi tat eva te manaḥ kammam paccavekkhitabba ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.2",
+        "original": "‘yannu kho ahaṁ idaṁ manasā kammaṁ kattukāmo idaṁ me manokammaṁ attabyābādhāyapi saṁvatteyya, parabyābādhāyapi saṁvatteyya, ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yat nu khalu aham idam manasā kammam kattu kāmaḥ idam me manaḥ kammam atta byābādhāya api savatteyya para byābādhāya api savatteyya ubhaya byābādhāya api savatteyya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.3",
+        "original": "akusalaṁ idaṁ manokammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam manaḥ kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.4",
+        "original": "Sace tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ manasā kammaṁ kattukāmo idaṁ me manokammaṁ attabyābādhāyapi saṁvatteyya, parabyābādhāyapi saṁvatteyya, ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yam kho aham idam manasā kammam kattu kāmaḥ idam me manaḥ kammam atta byābādhāya api savatteyya para byābādhāya api savatteyya ubhaya byābādhāya api savatteyya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.6",
+        "original": "akusalaṁ idaṁ manokammaṁ dukkhudrayaṁ dukkhavipākan’ti, evarūpaṁ te, rāhula, manasā kammaṁ sasakkaṁ na karaṇīyaṁ.",
+        "analyzed": "akusalam idam manaḥ kammam dukkhudrayam dukkha vipākam ti evarūpam te rāhula manasā kammam sa sakkam na karaṇīya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.7",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.8",
+        "original": "‘yaṁ kho ahaṁ idaṁ manasā kammaṁ kattukāmo idaṁ me manokammaṁ nevattabyābādhāyapi saṁvatteyya, na parabyābādhāyapi saṁvatteyya, na ubhayabyābādhāyapi saṁvatteyya—",
+        "analyzed": "yam kho aham idam manasā kammam kattu kāmaḥ idam me manaḥ kammam na ivatta byābādhāya api savatteyya na para byābādhāya api savatteyya na ubhaya byābādhāya api savatteyya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:15.9",
+        "original": "kusalaṁ idaṁ manokammaṁ sukhudrayaṁ sukhavipākan’ti, evarūpaṁ te, rāhula, manasā kammaṁ karaṇīyaṁ.",
+        "analyzed": "kusalam idam manaḥ kammam sukha vipākam ti evarūpam te rāhula manasā kammam karaṇīya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.1",
+        "original": "Karontenapi te, rāhula, manasā kammaṁ tadeva te manokammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "karontena api te rāhula manasā kammam tat eva te manaḥ kammam paccavekkhitabba ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.2",
+        "original": "‘yannu kho ahaṁ idaṁ manasā kammaṁ karomi idaṁ me manokammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yat nu kho aham idam manasā kammam karomi idam me manaḥ kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.3",
+        "original": "akusalaṁ idaṁ manokammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam manaḥ kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.4",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ manasā kammaṁ karomi idaṁ me manokammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam manasā kammam karomi idam me manaḥ kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.6",
+        "original": "akusalaṁ idaṁ manokammaṁ dukkhudrayaṁ dukkhavipākan’ti, paṭisaṁhareyyāsi tvaṁ, rāhula, evarūpaṁ manokammaṁ.",
+        "analyzed": "akusalam idam manaḥ kammam dukkhudrayam dukkha vipākam ti paṭisahareyyāsi tva rāhula evarūpam manaḥ kamma ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.7",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.8",
+        "original": "‘yaṁ kho ahaṁ idaṁ manasā kammaṁ karomi idaṁ me manokammaṁ nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam manasā kammam karomi idam me manaḥ kammam na ivatta byābādhāya api savattati na para byābādhāya api savattati na ubhaya byābādhāya api savattati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:16.9",
+        "original": "kusalaṁ idaṁ manokammaṁ sukhudrayaṁ sukhavipākan’ti, anupadajjeyyāsi tvaṁ, rāhula, evarūpaṁ manokammaṁ.",
+        "analyzed": "kusalam idam manaḥ kammam su khudrayam sukha vipākam ti anupadajjeyyāsi tva rāhulaḥ evarūpam manaḥ kamma ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.1",
+        "original": "Katvāpi te, rāhula, manasā kammaṁ tadeva te manokammaṁ paccavekkhitabbaṁ:",
+        "analyzed": "katvā api te rāhula manasā kammam tat eva te manaḥ kammam paccavekkhitabba ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.2",
+        "original": "‘yannu kho ahaṁ idaṁ manasā kammaṁ akāsiṁ idaṁ me manokammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yat nu kho aham idam manasā kammam akāsim idam me manaḥ kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.3",
+        "original": "akusalaṁ idaṁ manokammaṁ dukkhudrayaṁ dukkhavipākan’ti?",
+        "analyzed": "akusalam idam manaḥ kammam dukkhudrayam dukkha vipākam ti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.4",
+        "original": "Sace kho tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace kho tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.5",
+        "original": "‘yaṁ kho ahaṁ idaṁ manasā kammaṁ akāsiṁ idaṁ me manokammaṁ attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam manasā kammam akāsim idam me manaḥ kammam atta byābādhāya api savattati para byābādhāya api savattati ubhaya byābādhāya api savattati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.6",
+        "original": "akusalaṁ idaṁ manokammaṁ dukkhudrayaṁ dukkhavipākan’ti, evarūpaṁ pana te, rāhula, manokammaṁ aṭṭīyitabbaṁ harāyitabbaṁ jigucchitabbaṁ;",
+        "analyzed": "akusalam idam manaḥ kammam dukkhudrayam dukkha vipākan ti evarūpam pana te rāhula manaḥ kammam aṭṭīyitabbam harāyitabbam jigucchitabba ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.7",
+        "original": "aṭṭīyitvā harāyitvā jigucchitvā āyatiṁ saṁvaraṁ āpajjitabbaṁ.",
+        "analyzed": "aṭṭīyitvā harāyitvā jigucchitvā āyatim savaram ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.8",
+        "original": "Sace pana tvaṁ, rāhula, paccavekkhamāno evaṁ jāneyyāsi:",
+        "analyzed": "sace pana tva rāhula paccavekkhamānaḥ evam jāneyyāsi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.9",
+        "original": "‘yaṁ kho ahaṁ idaṁ manasā kammaṁ akāsiṁ idaṁ me manokammaṁ nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati—",
+        "analyzed": "yam kho aham idam manasā kammam akāsim idam me manaḥ kammam na ivatta byābādhāya api savattati na para byābādhāya api savattati na ubhaya byābādhāya api savattati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:17.10",
+        "original": "kusalaṁ idaṁ manokammaṁ sukhudrayaṁ sukhavipākan’ti, teneva tvaṁ, rāhula, pītipāmojjena vihareyyāsi ahorattānusikkhī kusalesu dhammesu.",
+        "analyzed": "kusalam idam manaḥ kammam sukha vipākam ti tena iva tva rāhula pīti pāmojjena vihareyyāsi ahoratta anusikkhī kusalesu dhammesu ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.1_0",
+        "original": "Ye hi keci, rāhula, atītamaddhānaṁ samaṇā vā brāhmaṇā vā kāyakammaṁ parisodhesuṁ,",
+        "analyzed": "ye hi samaṇāḥ vā brāhmaṇāḥ vā kāya kammam ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.1_1",
+        "original": "vacīkammaṁ parisodhesuṁ, manokammaṁ parisodhesuṁ, sabbe te evamevaṁ paccavekkhitvā",
+        "analyzed": "vacī kammam parisodhesu manaḥ kammam parisodhesu sabbe te evam evam paccavekkhitvā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.1_2",
+        "original": "paccavekkhitvā kāyakammaṁ parisodhesuṁ, paccavekkhitvā paccavekkhitvā vacīkammaṁ",
+        "analyzed": "paccavekkhitvā kāya kammam parisodhesu paccavekkhitvā paccavekkhitvā vacī kamma ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.1_3",
+        "original": "parisodhesuṁ, paccavekkhitvā paccavekkhitvā manokammaṁ parisodhesuṁ.",
+        "analyzed": "parisodhesu paccavekkhitvā paccavekkhitvā manaḥ kammam parisodhesu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.2_0",
+        "original": "Yepi hi keci, rāhula, anāgatamaddhānaṁ samaṇā vā brāhmaṇā vā kāyakammaṁ parisodhessanti,",
+        "analyzed": "ye api hi rāhula anāgata maddhānam samaṇāḥ vā brāhmaṇāḥ vā kāya kammam parisodhessanti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.2_1",
+        "original": "vacīkammaṁ parisodhessanti, manokammaṁ parisodhessanti, sabbe te evamevaṁ paccavekkhitvā",
+        "analyzed": "vacī kammam parisodhessanti manaḥ kammam parisodhessanti sabbe te evam evam paccavekkhitvā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.2_2",
+        "original": "paccavekkhitvā kāyakammaṁ parisodhessanti, paccavekkhitvā paccavekkhitvā vacīkammaṁ",
+        "analyzed": "paccavekkhitvā kāya kammam parisodhessanti paccavekkhitvā paccavekkhitvā vacī kamma ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.2_3",
+        "original": "parisodhessanti, paccavekkhitvā paccavekkhitvā manokammaṁ parisodhessan”ti.",
+        "analyzed": "parisodhessanti paccavekkhitvā paccavekkhitvā manaḥ kammam parisodhessanti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.3_0",
+        "original": "Yepi hi keci, rāhula, etarahi samaṇā vā brāhmaṇā vā kāyakammaṁ parisodhenti, vacīkammaṁ",
+        "analyzed": "ye api hi keci rāhule etarahi samaṇāḥ vā brāhmaṇāḥ vā kāya kammam parisodhenti vacī kamma ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.3_1",
+        "original": "parisodhenti, manokammaṁ parisodhenti, sabbe te evamevaṁ paccavekkhitvā paccavekkhitvā",
+        "analyzed": "parisodhenti manaḥ kammam parisodhenti sabbe te evam evam paccavekkhitvā paccavekkhitvā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.3_2",
+        "original": "kāyakammaṁ parisodhenti, paccavekkhitvā paccavekkhitvā vacīkammaṁ parisodhenti, paccavekkhitvā",
+        "analyzed": "kāya kammam parisodhenti paccavekkhitvā paccavekkhitvā vacī kammam parisodhenti paccavekkhitvā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.3_3",
+        "original": "paccavekkhitvā manokammaṁ parisodhenti.",
+        "analyzed": "paccavekkhitvā mano kammam parisodhenti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.4_0",
+        "original": "Tasmātiha, rāhula, ‘paccavekkhitvā paccavekkhitvā kāyakammaṁ parisodhessāmi, paccavekkhitvā",
+        "analyzed": "tasmā ati ha rāhula paccavekkhitvā paccavekkhitvā kāya kammam parisodhessāmi paccavekkhitvā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.4_1",
+        "original": "paccavekkhitvā vacīkammaṁ parisodhessāmi, paccavekkhitvā paccavekkhitvā manokammaṁ parisodhessāmī’ti—",
+        "analyzed": "paccavekkhitvā vacī kammam parisodhessāmi paccavekkhitvā paccavekkhitvā manaḥ kammam parisodhessāmi iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.5",
+        "original": "evañhi te, rāhula, sikkhitabban”ti.",
+        "analyzed": "evam hi te rāhula sikkhitabbanti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.6",
+        "original": "Idamavoca bhagavā.",
+        "analyzed": "idam avoca bhagavān ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.7",
+        "original": "Attamano āyasmā rāhulo bhagavato bhāsitaṁ abhinandīti.",
+        "analyzed": "atta manaḥ āyasmā rāhulaḥ bhagavataḥ bhāsitam abhinandi iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_61:18.8",
+        "original": "Ambalaṭṭhikarāhulovādasuttaṁ niṭṭhitaṁ paṭhamaṁ.",
+        "analyzed": "ambalaṭṭhika rāhulovāda suttam niṭṭhitam paṭhama ",
+        "folio": "18"
+    }
+]

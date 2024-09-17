@@ -1,0 +1,596 @@
+[
+    {
+        "segmentnr": "PA_bu-vb_np1:0.1",
+        "original": "Theravāda Vinaya",
+        "analyzed": "thera vāda vinaya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:0.2",
+        "original": "Mahāvibhaṅga",
+        "analyzed": "mahāvibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:0.3",
+        "original": "Nissaggiyakaṇḍa",
+        "analyzed": "nissaggiya kaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:0.4",
+        "original": "Cīvaravagga",
+        "analyzed": "cīvara vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:0.5",
+        "original": "1. Kathinasikkhāpada",
+        "analyzed": "kathinasikkhāpada ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:0.6",
+        "original": "Ime kho panāyasmanto tiṁsa nissaggiyā pācittiyā dhammā uddesaṁ āgacchanti.",
+        "analyzed": "ime kho pana āyasmanto tisa nissaggiyāḥ pācittiyāḥ dhammāḥ uddesam āgacchanti ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.1",
+        "original": "Tena samayena buddho bhagavā vesāliyaṁ viharati gotamake cetiye.",
+        "analyzed": "tena samayena buddhaḥ bhagavā vesāliyam viharati gotamake cetiye ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.2",
+        "original": "Tena kho pana samayena bhagavatā bhikkhūnaṁ ticīvaraṁ anuññātaṁ hoti.",
+        "analyzed": "tena kho pana samayena bhagavatā bhikkhūnam ti cīvaram anuññātam hoti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.3",
+        "original": "Chabbaggiyā bhikkhū—“bhagavatā ticīvaraṁ anuññātan”ti aññeneva ticīvarena gāmaṁ pavisanti, aññena ticīvarena ārāme acchanti, aññena ticīvarena nahānaṁ otaranti.",
+        "analyzed": "chabbaggiyāḥ bhikkhū bhagavatā ti cīvaram anuññātanti aññena iva ti cīvarena gāmam pavisanti aññena ti cīvarena ārāme acchanti aññena ti cīvarena nahānam otaranti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.4",
+        "original": "Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "ye te bhikkhū appicchā pe te ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.5",
+        "original": "“kathañhi nāma chabbaggiyā bhikkhū atirekacīvaraṁ dhāressantī”ti.",
+        "analyzed": "katham hi nāma chabbaggiyāḥ bhikkhū atireka cīvaram dhāressanti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.6",
+        "original": "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "atha kho te bhikkhū chabbaggiye bhikkhū aneka pariyāyena vigarahitvā bhagavato etam attham ārocesuṃ pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.7",
+        "original": "“saccaṁ kira tumhe, bhikkhave, atirekacīvaraṁ dhārethā”ti?",
+        "analyzed": "saccam kira tumhe bhikkhave atireka cīvaram dhāretha ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.8",
+        "original": "“Saccaṁ, bhagavā”ti.",
+        "analyzed": "sat ca bhagavān ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.9",
+        "original": "Vigarahi buddho bhagavā …pe…",
+        "analyzed": "vigarahi buddhaḥ bhagavān pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.10",
+        "original": "kathañhi nāma tumhe, moghapurisā, atirekacīvaraṁ dhāressatha.",
+        "analyzed": "katham hi nāma tumhe mogha purisāḥ atireka cīvaram dhāressatha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.11",
+        "original": "Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe…",
+        "analyzed": "neta moghapurisāḥ appasannānam vā pasādāya pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.12",
+        "original": "evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.13.1",
+        "original": "“Yo pana bhikkhu atirekacīvaraṁ dhāreyya, nissaggiyaṁ pācittiyan”ti.",
+        "analyzed": "yaḥ pana bhikkhu atireka cīvaram dhāreyya nissaggiyam pācittiyam ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:1.14",
+        "original": "Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.",
+        "analyzed": "evañca idam bhagavatā bhikkhūnam sikkhāpadam paññattam hoti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.1.1",
+        "original": "Tena kho pana samayena āyasmato ānandassa atirekacīvaraṁ uppannaṁ hoti.",
+        "analyzed": "tena kho pana samayena āyasmataḥ ānandassa atireka cīvaram uppannam hoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.2",
+        "original": "Āyasmā ca ānando taṁ cīvaraṁ āyasmato sāriputtassa dātukāmo hoti.",
+        "analyzed": "āyasmā ca ānandaḥ tam cīvaram āyasmataḥ sāriputtassa dātu kāmo hoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.3",
+        "original": "Āyasmā ca sāriputto sākete viharati.",
+        "analyzed": "āyasmā ca sāriputto sākete viharati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.4",
+        "original": "Atha kho āyasmato ānandassa etadahosi—",
+        "analyzed": "atha kho āyasmataḥ ānandassa etat ahosi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.5",
+        "original": "“bhagavatā sikkhāpadaṁ paññattaṁ—",
+        "analyzed": "bhagavatā sikkhāpadam paññatta ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.6",
+        "original": "‘na atirekacīvaraṁ dhāretabban’ti.",
+        "analyzed": "na atireka cīvaram dhāretabbanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.7",
+        "original": "Idañca me atirekacīvaraṁ uppannaṁ.",
+        "analyzed": "idam ca me atireka cīvaram ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.8",
+        "original": "Ahañcimaṁ cīvaraṁ āyasmato sāriputtassa dātukāmo.",
+        "analyzed": "ahañca imam cīvaram āyasmataḥ sāriputtassa dātu kāmaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.9",
+        "original": "Āyasmā ca sāriputto sākete viharati.",
+        "analyzed": "āyasmā ca sāriputto sākete viharati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.10",
+        "original": "Kathaṁ nu kho mayā paṭipajjitabban”ti?",
+        "analyzed": "katham nu kho mayā paṭipajjitabbanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.11",
+        "original": "Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi.",
+        "analyzed": "atha kho āyasmai ānandaḥ bhagavataḥ etam attham ārocesi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.12",
+        "original": "“Kīvaciraṁ panānanda, sāriputto āgacchissatī”ti?",
+        "analyzed": "kīvaciram pana ānanda sāriputto āgacchissati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.13",
+        "original": "“Navamaṁ vā, bhagavā, divasaṁ dasamaṁ vā”ti.",
+        "analyzed": "navamam vā bhagavān divasam dasamam vāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.14",
+        "original": "Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—",
+        "analyzed": "atha kho bhagavā etasmim nidāne etasmim pakaraṇe dhammim katham katvā bhikkhū āmantesi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.15",
+        "original": "“anujānāmi, bhikkhave, dasāhaparamaṁ atirekacīvaraṁ dhāretuṁ.",
+        "analyzed": "anujānāmi bhikkhave dasa aha paramam atireka cīvaram dhāretu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.16",
+        "original": "Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:2.17.1",
+        "original": "“Niṭṭhitacīvarasmiṁ bhikkhunā ubbhatasmiṁ kathine dasāhaparamaṁ atirekacīvaraṁ dhāretabbaṁ. Taṁ atikkāmayato nissaggiyaṁ pācittiyan”ti.",
+        "analyzed": "niṭṭhita cīvarasmim bhikkhunā ubbhatasmim kathine dasa aha paramam atireka cīvaram dhāretabba tam atikkāmayataḥ nissaggiyam pācittiyanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.1",
+        "original": "Niṭṭhitacīvarasminti",
+        "analyzed": "niṭṭhita cīvarasmin ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.2",
+        "original": "bhikkhuno cīvaraṁ kataṁ vā hoti naṭṭhaṁ vā vinaṭṭhaṁ vā daḍḍhaṁ vā cīvarāsā vā upacchinnā.",
+        "analyzed": "bhikkhuno cīvaram katam vā hoti naṭṭham vā vinaṭṭham vā daḍḍham vā cīvara āsā vā upacchinnā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.3",
+        "original": "Ubbhatasmiṁ kathineti",
+        "analyzed": "ubbhatasmin kathinā iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.4",
+        "original": "aṭṭhannaṁ mātikānaṁ aññatarāya mātikāya ubbhataṁ hoti, saṅghena vā antarā ubbhataṁ hoti.",
+        "analyzed": "aṭṭhannam mātikānam aññatarāya mātikāya ubbhatam hoti saṅghena vā antarā ubbhatam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.5",
+        "original": "Dasāhaparamanti",
+        "analyzed": "dasa aha paramanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.6",
+        "original": "dasāhaparamatā dhāretabbaṁ.",
+        "analyzed": "dasa aha parama tā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.7",
+        "original": "Atirekacīvaraṁ nāma",
+        "analyzed": "atireka cīvaram nāma ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.8",
+        "original": "anadhiṭṭhitaṁ avikappitaṁ.",
+        "analyzed": "an adhiṭṭhitam a vikappita ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.9",
+        "original": "Cīvaraṁ nāma",
+        "analyzed": "cīvaram nāma ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.1.10",
+        "original": "channaṁ cīvarānaṁ aññataraṁ cīvaraṁ, vikappanupagaṁ pacchimaṁ.",
+        "analyzed": "channam cīvarānam aññataram cīvara vikappana upagam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.1",
+        "original": "Taṁ atikkāmayato nissaggiyaṁ hotīti",
+        "analyzed": "tam atikkāmayataḥ nissaggiyam hoti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.2",
+        "original": "ekādase aruṇuggamane nissaggiyaṁ hoti.",
+        "analyzed": "ekādase aruṇuggamane nissaggiyam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.3",
+        "original": "Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā.",
+        "analyzed": "nissajjitabbam saṅghassa vā gaṇassa vā puggalassa vā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.4",
+        "original": "Evañca pana, bhikkhave, nissajjitabbaṁ.",
+        "analyzed": "evam ca pana bhikkhave ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.5",
+        "original": "Tena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo—",
+        "analyzed": "tena bhikkhunā saṅgham upasaṅkamitvā ekasam uttarāsaṅgam karitvā vuḍḍhānam bhikkhūnam pāde vanditvā ukkuṭikam nisīditvā añjalim paggahetvā evam assa vacanīyaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.6",
+        "original": "“idaṁ me, bhante, cīvaraṁ dasāhātikkantaṁ nissaggiyaṁ,",
+        "analyzed": "idam me bhante cīvaram dasa aha atikkantam nissaggiya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.7",
+        "original": "imāhaṁ saṅghassa nissajjāmī”ti.",
+        "analyzed": "imā aham saṅghassa nissajjāmi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.8",
+        "original": "Nissajjitvā āpatti desetabbā.",
+        "analyzed": "nissajjitvā āpatti desetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.9",
+        "original": "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā.",
+        "analyzed": "byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.10",
+        "original": "Nissaṭṭhacīvaraṁ dātabbaṁ—",
+        "analyzed": "nissaṭṭha cīvaram ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.11",
+        "original": "“Suṇātu me, bhante, saṅgho.",
+        "analyzed": "suṇātu me bhante saṅghaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.12",
+        "original": "Idaṁ cīvaraṁ itthannāmassa bhikkhuno nissaggiyaṁ saṅghassa nissaṭṭhaṁ.",
+        "analyzed": "idam cīvaram itthannāmassa bhikkhuno nissaggiyam saṅghassa nissaṭṭha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.13",
+        "original": "Yadi saṅghassa pattakallaṁ, saṅgho imaṁ cīvaraṁ itthannāmassa bhikkhuno dadeyyā”ti.",
+        "analyzed": "yadi saṅghassa pattakalla saṅghaḥ imam cīvaram itthannāmassa bhikkhunaḥ dadeyya ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.14",
+        "original": "Tena bhikkhunā sambahule bhikkhū upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassu vacanīyā—",
+        "analyzed": "tena bhikkhunā sambahule bhikkhū upasaṅkamitvā ekasam uttarāsaṅgam karitvā vuḍḍhānam bhikkhūnam pāde vanditvā ukkuṭikam nisīditvā añjalim paggahetvā evam assu vacanīyā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.15",
+        "original": "“idaṁ me, bhante, cīvaraṁ dasāhātikkantaṁ nissaggiyaṁ.",
+        "analyzed": "idam me bhante cīvaram dasa aha atikkantam nissaggiya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.16",
+        "original": "Imāhaṁ āyasmantānaṁ nissajjāmī”ti.",
+        "analyzed": "imā aham āyasmantānam nissajjāmi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.17",
+        "original": "Nissajjitvā āpatti desetabbā.",
+        "analyzed": "nissajjitvā āpatti desetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.18",
+        "original": "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā.",
+        "analyzed": "byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.19",
+        "original": "Nissaṭṭhacīvaraṁ dātabbaṁ—",
+        "analyzed": "nissaṭṭha cīvaram ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.20",
+        "original": "“Suṇantu me āyasmantā.",
+        "analyzed": "suṇantu me āyasmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.21",
+        "original": "Idaṁ cīvaraṁ itthannāmassa bhikkhuno nissaggiyaṁ āyasmantānaṁ nissaṭṭhaṁ.",
+        "analyzed": "idam cīvaram itthannāmassa bhikkhuno nissaggiyam āyasmantānam nissaṭṭha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.22",
+        "original": "Yadāyasmantānaṁ pattakallaṁ, āyasmantā imaṁ cīvaraṁ itthannāmassa bhikkhuno dadeyyun”ti.",
+        "analyzed": "yadā ayasmantānam patta kalle āyasmantāḥ imam cīvaram itthannāmassa bhikkhunaḥ dadeyyun ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.23",
+        "original": "Tena bhikkhunā ekaṁ bhikkhuṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo—",
+        "analyzed": "tena bhikkhunā ekam bhikkhum upasaṅkamitvā ekasam uttarāsaṅgam karitvā ukkuṭikam nisīditvā añjalim paggahetvā evam assa vacanīyaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.24",
+        "original": "“idaṁ me, āvuso, cīvaraṁ dasāhātikkantaṁ nissaggiyaṁ.",
+        "analyzed": "idam me āvuso cīvaram dasa aha atikkantam nissaggiya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.25",
+        "original": "Imāhaṁ āyasmato nissajjāmī”ti.",
+        "analyzed": "imā aham āyasmataḥ nissajjāmi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.26",
+        "original": "Nissajjitvā āpatti desetabbā.",
+        "analyzed": "nissajjitvā āpatti desetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.27",
+        "original": "Tena bhikkhunā āpatti paṭiggahetabbā.",
+        "analyzed": "tena bhikkhunā āpatti paṭiggahetabbā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.28",
+        "original": "Nissaṭṭhacīvaraṁ dātabbaṁ—",
+        "analyzed": "nissaṭṭha cīvaram ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:3.2.29",
+        "original": "“imaṁ cīvaraṁ āyasmato dammī”ti.",
+        "analyzed": "imam cīvaram āyasmataḥ dammi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.1",
+        "original": "Dasāhātikkante atikkantasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "dasa aha atikkante atikkanta saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.2",
+        "original": "Dasāhātikkante vematiko, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "dasa aha atikkante vematikaḥ nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.3",
+        "original": "Dasāhātikkante anatikkantasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "dasa aha atikkante an atikkanta saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.4",
+        "original": "Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "an adhiṭṭhite adhiṭṭhita saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.5",
+        "original": "Avikappite vikappitasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "a vikappite vikappita saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.6",
+        "original": "Avissajjite vissajjitasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "a vissajjite vissajjita saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.7",
+        "original": "Anaṭṭhe naṭṭhasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "an aṭṭhe naṭṭha saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.8",
+        "original": "Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "a vinaṭṭhe vinaṭṭha saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.9",
+        "original": "Adaḍḍhe daḍḍhasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "a daḍḍhe daḍḍha saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.10",
+        "original": "Avilutte viluttasaññī, nissaggiyaṁ pācittiyaṁ.",
+        "analyzed": "a vilutte vilutta saññī nissaggiyam pācittiya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.11",
+        "original": "Nissaggiyaṁ cīvaraṁ anissajjitvā paribhuñjati, āpatti dukkaṭassa.",
+        "analyzed": "nissaggiyam cīvaram a nissajjitvā paribhuñjati āpatti dukkaṭassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.12",
+        "original": "Dasāhānatikkante atikkantasaññī, āpatti dukkaṭassa.",
+        "analyzed": "dasa aha anatikkante atikkanta saññī āpatti dukkaṭassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.13",
+        "original": "Dasāhānatikkante vematiko, āpatti dukkaṭassa.",
+        "analyzed": "dasa aha an atikkante vematikaḥ āpatti dukkaṭassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.14",
+        "original": "Dasāhānatikkante anatikkantasaññī, anāpatti.",
+        "analyzed": "dasa aha an atikkante an atikkanta saññī anāpatti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.15.1",
+        "original": "Anāpatti—",
+        "analyzed": "anāpatti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.16",
+        "original": "antodasāhaṁ adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti,",
+        "analyzed": "antodasāham adhiṭṭheti vikappeti vissajjeti nassati vinassati ḍayhati a chinditvā gaṇhanti vissāsam gaṇhanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.17",
+        "original": "ummattakassa,",
+        "analyzed": "ummattakassa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:4.18",
+        "original": "ādikammikassāti.",
+        "analyzed": "ādikammikassa ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:5.1",
+        "original": "Tena kho pana samayena chabbaggiyā bhikkhū nissaṭṭhacīvaraṁ na denti.",
+        "analyzed": "tena kho pana samayena chabbaggiyāḥ bhikkhū nissaṭṭha cīvaram na denti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:5.2",
+        "original": "Bhagavato etamatthaṁ ārocesuṁ.",
+        "analyzed": "bhagavato etam attham ārocesu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:5.3",
+        "original": "(…) “Na, bhikkhave, nissaṭṭhacīvaraṁ na dātabbaṁ.",
+        "analyzed": "na bhikkhave nissaṭṭha cīvaram na dātabba ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:5.4",
+        "original": "Yo na dadeyya, āpatti dukkaṭassā”ti.",
+        "analyzed": "yaḥ na dadeyya āpatti dukkaṭassa ati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_bu-vb_np1:5.5",
+        "original": "Kathinasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.",
+        "analyzed": "kathina sikkhāpadam niṭṭhitam paṭhama ",
+        "folio": "5"
+    }
+]

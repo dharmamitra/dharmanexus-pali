@@ -1,0 +1,914 @@
+[
+    {
+        "segmentnr": "PA_bu-vb_ay2:0.1",
+        "original": "Theravāda Vinaya",
+        "analyzed": "thera vāda vinaya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:0.2",
+        "original": "Mahāvibhaṅga",
+        "analyzed": "mahāvibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:0.3",
+        "original": "Aniyatakaṇḍa",
+        "analyzed": "aniyata kaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:0.4",
+        "original": "2. Dutiyaaniyatasikkhāpada",
+        "analyzed": "dutiya aniyata sikkhāpada ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.1",
+        "original": "Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "tena samayena buddhaḥ bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.2_0",
+        "original": "Tena kho pana samayena āyasmā udāyī—“bhagavatā paṭikkhittaṁ mātugāmena saddhiṁ eko",
+        "analyzed": "tena kho pana samayena āyasmai udāyī bhagavatā paṭikkhittam mātugāmena saddhim ekaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.2_1",
+        "original": "ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappetun”ti tassāyeva kumārikāya",
+        "analyzed": "ekāya raho paṭicchanne āsane alaṅkammaniye nisajjam kappetunti tassāya iva kumārikāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.2_2",
+        "original": "saddhiṁ eko ekāya raho nisajjaṁ kappesi kālayuttaṁ samullapanto kālayuttaṁ dhammaṁ bhaṇanto.",
+        "analyzed": "saddhim ekaḥ ekāya rahaḥ nisajjam kappesi kāla yuttam samullapantaḥ kāla yuttam dhammam bhaṇantaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.3",
+        "original": "Dutiyampi kho visākhā migāramātā nimantitā taṁ kulaṁ agamāsi.",
+        "analyzed": "dutiyam pi kho visākhā migāra mātā nimantitā tam kulam agamāsi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.4",
+        "original": "Addasā kho visākhā migāramātā āyasmantaṁ udāyiṁ tassāyeva kumārikāya saddhiṁ ekaṁ ekāya raho nisinnaṁ.",
+        "analyzed": "addasā kho visākhā migāra mātā āyasmantam udāyim tassāya iva kumārikāya saddhim ekam ekāya rahaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.5",
+        "original": "Disvāna āyasmantaṁ udāyiṁ etadavoca—",
+        "analyzed": "disvānaḥ āyasmantam udāyim etat avoca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.6",
+        "original": "“idaṁ, bhante, nacchannaṁ nappatirūpaṁ yaṁ ayyo mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeti.",
+        "analyzed": "idam bhante na channam na patirūpam yam ayyaḥ mātu gāmena saddhim ekaḥ ekāya rahaḥ nisajjam kappeti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.7",
+        "original": "Kiñcāpi, bhante, ayyo anatthiko tena dhammena, api ca dussaddhāpayā appasannā manussā”ti.",
+        "analyzed": "kiñca api bhante ayyaḥ anatthiko tena dhammena api ca dussaddha apayāḥ appasannāḥ manussā ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.8",
+        "original": "Evampi kho āyasmā udāyī visākhāya migāramātuyā vuccamāno nādiyi.",
+        "analyzed": "evam pi kho āyasmai udāyī visākhāya migāra mātuyā vuccamānaḥ na adiyi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.9",
+        "original": "Atha kho visākhā migāramātā nikkhamitvā bhikkhūnaṁ etamatthaṁ ārocesi.",
+        "analyzed": "atha kho visākhā migāra mātā nikkhamitvā bhikkhūnam etam attham ārocesi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.10",
+        "original": "Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti—",
+        "analyzed": "ye te bhikkhū appicchā pe te ujjhāyanti khiyyanti vipācenti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.11",
+        "original": "“kathañhi nāma āyasmā udāyī mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappessatī”ti.",
+        "analyzed": "katham hi nāma āyasmai udāyī mātugāmena saddhim ekaḥ ekāya rahaḥ nisajjam kappessati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.12",
+        "original": "Atha kho te bhikkhū āyasmantaṁ udāyiṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe…",
+        "analyzed": "atha kho te bhikkhū āyasmantam udāyim aneka pariyāyena vigarahitvā bhagavataḥ etam attham ārocesuṃ pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.13",
+        "original": "“saccaṁ kira tvaṁ, udāyi, mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappesī”ti?",
+        "analyzed": "saccam kira tvam udāyi mātugāmena saddhim ekaḥ ekāya rahaḥ nisajjam kappesi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.14",
+        "original": "“Saccaṁ, bhagavā”ti.",
+        "analyzed": "sat ca bhagavān ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.15",
+        "original": "Vigarahi buddho bhagavā …pe…",
+        "analyzed": "vigarahi buddhaḥ bhagavān pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.16",
+        "original": "kathañhi nāma tvaṁ, moghapurisa, mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappessasi.",
+        "analyzed": "katham hi nāma tva mogha purisa mātu gāmena saddhim ekaḥ ekāya rahaḥ nisajjam kappessasi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.17",
+        "original": "Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe…",
+        "analyzed": "neta moghapurisa appasannānam vā pasādāya pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.18",
+        "original": "evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—",
+        "analyzed": "evam ca pana bhikkhave imam sikkhāpadam uddiseyyātha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.19.1",
+        "original": "“Na heva kho pana paṭicchannaṁ āsanaṁ hoti nālaṅkammaniyaṁ, alañca kho hoti mātugāmaṁ duṭṭhullāhi vācāhi obhāsituṁ.",
+        "analyzed": "na ha iva kho pana paṭicchannam āsanam hoti alam ca kho hoti mātugāmam duṭṭhullāhi vācāhi obhāsitu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.20",
+        "original": "Yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeyya, tamenaṁ saddheyyavacasā upāsikā disvā",
+        "analyzed": "yaḥ pana bhikkhu tathārūpe āsane mātugāmena saddhim ekaḥ ekāya rahaḥ nisajjam kappeyya tam enam saddheyya vacasā upāsikā disvā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.21",
+        "original": "dvinnaṁ dhammānaṁ aññatarena vadeyya—saṅghādisesena vā pācittiyena vā.",
+        "analyzed": "dvinnam dhammānam aññatarena vadeyya saṅgha ādisesena vā pācittiyena vā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.22",
+        "original": "Nisajjaṁ bhikkhu paṭijānamāno dvinnaṁ dhammānaṁ aññatarena kāretabbo— saṅghādisesena vā pācittiyena vā.",
+        "analyzed": "nisajjam bhikkhu paṭijānamānaḥ dvinnam dhammānam aññatarena kāretabbo saṅgha ādisesena vā pācittiyena vā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.23",
+        "original": "Yena vā sā saddheyyavacasā upāsikā vadeyya tena so bhikkhu kāretabbo.",
+        "analyzed": "yena vā sā saddheyya vacasā upāsikā vadeyya tena saḥ bhikkhu kāretabbo ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:1.24",
+        "original": "Ayampi dhammo aniyato”ti.",
+        "analyzed": "ayam pi dhammaḥ aniyato ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.1",
+        "original": "Na heva kho pana paṭicchannaṁ āsanaṁ hotīti",
+        "analyzed": "na ha iva kho pana paṭicchannam āsanam hoti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.2",
+        "original": "appaṭicchannaṁ hoti kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā yena kenaci appaṭicchannaṁ hoti.",
+        "analyzed": "appaṭicchannam hoti kuṭṭena vā kavāṭena vā kilañjena vā sāṇi pākārena vā rukkhena vā thambhena vā kotthaḷiyā vā yena kenaci appaṭicchannam hoti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.3",
+        "original": "Nālaṅkammaniyanti",
+        "analyzed": "na alaṅkammaniyanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.4",
+        "original": "na sakkā hoti methunaṁ dhammaṁ paṭisevituṁ.",
+        "analyzed": "na sakkā hoti methunam dhammam paṭisevitu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.5",
+        "original": "Alañca kho hoti mātugāmaṁ duṭṭhullāhi vācāhi obhāsitunti",
+        "analyzed": "alam ca kho hoti mātugāmam duṭṭhullāhi vācāhi obhāsitunti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.6",
+        "original": "sakkā hoti mātugāmaṁ duṭṭhullāhi vācāhi obhāsituṁ.",
+        "analyzed": "sakkā hoti mātugāmam duṭṭhullāhi vācāhi obhāsitu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.7",
+        "original": "Yo panāti",
+        "analyzed": "yaḥ panāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.8",
+        "original": "yo yādiso …pe…",
+        "analyzed": "yaḥ ya ādisaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.9",
+        "original": "bhikkhūti",
+        "analyzed": "bhikkhū ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.10",
+        "original": "…pe… ayaṁ imasmiṁ atthe adhippeto bhikkhūti.",
+        "analyzed": "pe ayam imasmin atthe adhippetaḥ bhikkhu iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.11",
+        "original": "Tathārūpe āsaneti",
+        "analyzed": "tathārūpe āsana iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.12",
+        "original": "evarūpe āsane.",
+        "analyzed": "evarūpe āsane ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.13",
+        "original": "Mātugāmo nāma",
+        "analyzed": "mātugāmaḥ nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.14",
+        "original": "manussitthī, na yakkhī na petī na tiracchānagatā, viññū paṭibalā subhāsitadubbhāsitaṁ duṭṭhullāduṭṭhullaṁ ājānituṁ.",
+        "analyzed": "manussitthī na yakkhī na petī na tiracchānagatā viññū paṭibalā subhāsita dubbhāsitam duṭṭhulla aduṭṭhullam ājānitu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.15",
+        "original": "Saddhinti",
+        "analyzed": "sat hinti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.16",
+        "original": "ekato.",
+        "analyzed": "ekatas ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.17",
+        "original": "Eko ekāyāti",
+        "analyzed": "ekaḥ ekāyāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.18",
+        "original": "bhikkhu ceva hoti mātugāmo ca.",
+        "analyzed": "bhikkhu ca iva hoti mātugāmo ca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.19",
+        "original": "Raho nāma",
+        "analyzed": "rahaḥ nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.20",
+        "original": "cakkhussa raho, sotassa raho.",
+        "analyzed": "cakkhussa raho sotassa raho ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.21",
+        "original": "Cakkhussa raho nāma",
+        "analyzed": "cakkhussa rahaḥ nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.22",
+        "original": "na sakkā hoti akkhiṁ vā nikhaṇīyamāne bhamukaṁ vā ukkhipīyamāne sīsaṁ vā ukkhipīyamāne passituṁ.",
+        "analyzed": "na sakkā hoti akkhim vā nikhaṇīyamāne bhamukam vā ukkhipīyamāne sīsam vā ukkhipīyamāne passitu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.23",
+        "original": "Sotassa raho nāma",
+        "analyzed": "sotassa rahaḥ nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.24",
+        "original": "na sakkā hoti pakatikathā sotuṁ.",
+        "analyzed": "na sakkā hoti pakatikathā sotu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.25",
+        "original": "Nisajjaṁ kappeyyāti",
+        "analyzed": "nisajjam kappeyya ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.26",
+        "original": "mātugāme nisinne bhikkhu upanisinno vā hoti upanipanno vā.",
+        "analyzed": "mātugāme nisinne bhikkhu upanisinnaḥ vā hoti upanipannaḥ vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.27",
+        "original": "Bhikkhu nisinne mātugāmo upanisinno vā hoti upanipanno vā.",
+        "analyzed": "bhikkhu nisinne mātugāmaḥ upanisinnaḥ vā hoti upanipannaḥ vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.28",
+        "original": "Ubho vā nisinnā honti ubho vā nipannā.",
+        "analyzed": "ubhaḥ vā nisinnāḥ honti ubhaḥ vā nipannā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.29",
+        "original": "Saddheyyavacasā nāma",
+        "analyzed": "saddheyyavacasā nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.30",
+        "original": "āgataphalā abhisametāvinī viññātasāsanā.",
+        "analyzed": "āgata phalā abhisametāvinī viññāta sāsanā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.31",
+        "original": "Upāsikā nāma",
+        "analyzed": "upāsikā nāma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.32",
+        "original": "buddhaṁ saraṇaṁ gatā, dhammaṁ saraṇaṁ gatā, saṅghaṁ saraṇaṁ gatā.",
+        "analyzed": "buddham saraṇam gatā dhammam saraṇam gatā saṅgham saraṇam gatā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.33",
+        "original": "Disvāti",
+        "analyzed": "disvā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.1.34",
+        "original": "passitvā.",
+        "analyzed": "passitvā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.1",
+        "original": "Dvinnaṁ dhammānaṁ aññatarena vadeyya saṅghādisesena vā pācittiyena vā.",
+        "analyzed": "dvinnam dhammānam aññatarena vadeyya saṅgha ādisesena vā pācittiyena vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.2",
+        "original": "Nisajjaṁ bhikkhu paṭijānamāno dvinnaṁ dhammānaṁ aññatarena kāretabbo— saṅghādisesena vā pācittiyena vā.",
+        "analyzed": "nisajjam bhikkhu paṭijānamānaḥ dvinnam dhammānam aññatarena kāretabbo saṅgha ādisesena vā pācittiyena vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.3",
+        "original": "Yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo.",
+        "analyzed": "yena vā sā saddheyya vacasā upāsikā vadeyya tena saḥ bhikkhu kāretabbo ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.4",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.5",
+        "original": "“ayyo mayā diṭṭho nisinno mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjanto”ti,",
+        "analyzed": "ayyaḥ mayā diṭṭhaḥ nisinnaḥ mātugāmena saddhim kāyasasaggam samāpajjanto ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.6",
+        "original": "so ca taṁ paṭijānāti, āpattiyā kāretabbo.",
+        "analyzed": "saḥ ca tam paṭijānāti āpattiyā kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.7",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.8",
+        "original": "“ayyo mayā diṭṭho nisinno mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjanto”ti,",
+        "analyzed": "ayyaḥ mayā diṭṭhaḥ nisinnaḥ mātugāmena saddhim kāyasasaggam samāpajjanto ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.9",
+        "original": "so ce evaṁ vadeyya—",
+        "analyzed": "sā u ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.10",
+        "original": "“saccāhaṁ nisinno, no ca kho kāyasaṁsaggaṁ samāpajjin”ti,",
+        "analyzed": "sacca aham nisinnaḥ no ca kho kāyasasaggam samāpajjinti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.11",
+        "original": "nisajjāya kāretabbo …pe…",
+        "analyzed": "nisajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.12",
+        "original": "“nāhaṁ nisinno, api ca kho nipanno”ti,",
+        "analyzed": "na aham nisinnaḥ api ca khalu nipannaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.13",
+        "original": "nipajjāya kāretabbo …pe…",
+        "analyzed": "nipajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.14",
+        "original": "“nāhaṁ nisinno, api ca kho ṭhito”ti,",
+        "analyzed": "na aham nisinnaḥ api ca kho ṭhitaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.15",
+        "original": "na kāretabbo.",
+        "analyzed": "na kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.16",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.17",
+        "original": "“ayyo mayā diṭṭho nipanno mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjanto”ti,",
+        "analyzed": "ayyaḥ mayā diṭṭhaḥ nipannaḥ mātugāmena saddhim kāyasasaggam samāpajjanto ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.18",
+        "original": "so ca taṁ paṭijānāti, āpattiyā kāretabbo …pe…",
+        "analyzed": "saḥ ca tam paṭijānāti āpattiyā kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.19",
+        "original": "“saccāhaṁ nipanno, no ca kho kāyasaṁsaggaṁ samāpajjin”ti,",
+        "analyzed": "sacca aham nipannaḥ no ca kho kāyasasaggam samāpajjinti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.20",
+        "original": "nipajjāya kāretabbo …pe…",
+        "analyzed": "nipajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.21",
+        "original": "“nāhaṁ nipanno, api ca kho nisinno”ti,",
+        "analyzed": "na aham nipannaḥ api ca khalu nisinnaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.22",
+        "original": "nisajjāya kāretabbo …pe…",
+        "analyzed": "nisajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.23",
+        "original": "“nāhaṁ nipanno, api ca kho ṭhito”ti,",
+        "analyzed": "na aham nipannaḥ api ca khalu ṭhitaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.24",
+        "original": "na kāretabbo.",
+        "analyzed": "na kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.25",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.26",
+        "original": "“ayyassa mayā sutaṁ nisinnassa mātugāmaṁ duṭṭhullāhi vācāhi obhāsantassā”ti,",
+        "analyzed": "ayyassa mayā sutam nisinnassa mātugāmam duṭṭhullāhi vācāhi obhāsantassa ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.27",
+        "original": "so ca taṁ paṭijānāti, āpattiyā kāretabbo.",
+        "analyzed": "saḥ ca tam paṭijānāti āpattiyā kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.28",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.29",
+        "original": "“ayyassa mayā sutaṁ nisinnassa mātugāmaṁ duṭṭhullāhi vācāhi obhāsantassā”ti,",
+        "analyzed": "ayyassa mayā sutam nisinnassa mātugāmam duṭṭhullāhi vācāhi obhāsantassa ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.30",
+        "original": "so ce evaṁ vadeyya—",
+        "analyzed": "sā u ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.31",
+        "original": "“saccāhaṁ nisinno, no ca kho duṭṭhullāhi vācāhi obhāsin”ti,",
+        "analyzed": "sacca aham nisinnaḥ no ca kho duṭṭhullāhi vācāhi obhāsinti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.32",
+        "original": "nisajjāya kāretabbo …pe…",
+        "analyzed": "nisajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.33",
+        "original": "“nāhaṁ nisinno, api ca kho nipanno”ti,",
+        "analyzed": "na aham nisinnaḥ api ca khalu nipannaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.34",
+        "original": "nipajjāya kāretabbo …pe…",
+        "analyzed": "nipajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.35",
+        "original": "“nāhaṁ nisinno, api ca kho ṭhito”ti,",
+        "analyzed": "na aham nisinnaḥ api ca kho ṭhitaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.36",
+        "original": "na kāretabbo.",
+        "analyzed": "na kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.37",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.38",
+        "original": "“ayyassa mayā sutaṁ nipannassa mātugāmaṁ duṭṭhullāhi vācāhi obhāsantassā”ti,",
+        "analyzed": "ayyassa mayā sutam nipannassa mātugāmam duṭṭhullāhi vācāhi obhāsantassa ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.39",
+        "original": "so ca taṁ paṭijānāti, āpattiyā kāretabbo …pe…",
+        "analyzed": "saḥ ca tam paṭijānāti āpattiyā kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.40",
+        "original": "saccāhaṁ nipanno, no ca kho duṭṭhullāhi vācāhi obhāsinti,",
+        "analyzed": "sacca aham nipannaḥ no ca kho duṭṭhullāhi vācāhi obhāsinti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.41",
+        "original": "nipajjāya kāretabbo …pe…",
+        "analyzed": "nipajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.42",
+        "original": "“nāhaṁ nipanno, api ca kho nisinno”ti,",
+        "analyzed": "na aham nipannaḥ api ca khalu nisinnaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.43",
+        "original": "nisajjāya kāretabbo …pe…",
+        "analyzed": "nisajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.44",
+        "original": "“nāhaṁ nipanno, api ca kho ṭhito”ti,",
+        "analyzed": "na aham nipannaḥ api ca khalu ṭhitaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.45",
+        "original": "na kāretabbo.",
+        "analyzed": "na kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.46",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.47",
+        "original": "“ayyo mayā diṭṭho mātugāmena saddhiṁ eko ekāya raho nisinno”ti,",
+        "analyzed": "ayyaḥ mayā diṭṭhaḥ mātu gāmena saddhim ekaḥ ekāya rahaḥ nisinnaḥ ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.48",
+        "original": "so ca taṁ paṭijānāti, nisajjāya kāretabbo …pe…",
+        "analyzed": "saḥ ca tam paṭijānāti nisajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.49",
+        "original": "“nāhaṁ nisinno, api ca kho nipanno”ti,",
+        "analyzed": "na aham nisinnaḥ api ca khalu nipannaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.50",
+        "original": "nipajjāya kāretabbo …pe…",
+        "analyzed": "nipajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.51",
+        "original": "“nāhaṁ nisinno, api ca kho ṭhito”ti,",
+        "analyzed": "na aham nisinnaḥ api ca kho ṭhitaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.52",
+        "original": "na kāretabbo.",
+        "analyzed": "na kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.53",
+        "original": "Sā ce evaṁ vadeyya—",
+        "analyzed": "sā ced evam vadeyya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.54",
+        "original": "“ayyo mayā diṭṭho mātugāmena saddhiṁ eko ekāya raho nipanno”ti,",
+        "analyzed": "ayyaḥ mayā diṭṭhaḥ mātu gāmena saddhim ekaḥ ekāya rahaḥ nipannaḥ ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.55",
+        "original": "so ca taṁ paṭijānāti, nipajjāya kāretabbo …pe…",
+        "analyzed": "saḥ ca tam paṭijānāti nipajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.56",
+        "original": "nāhaṁ nipanno, api ca kho nisinnoti,",
+        "analyzed": "na aham nipannaḥ api ca khalu nisinnaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.57",
+        "original": "nisajjāya kāretabbo …pe…",
+        "analyzed": "nisajjāya kāretabbaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.58",
+        "original": "nāhaṁ nipanno, api ca kho ṭhitoti,",
+        "analyzed": "na aham nipannaḥ api ca khalu ṭhitaḥ iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.59",
+        "original": "na kāretabbo.",
+        "analyzed": "na kāretabbaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.60",
+        "original": "Ayampīti",
+        "analyzed": "ayam pi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.61",
+        "original": "purimaṁ upādāya vuccati.",
+        "analyzed": "purimam upādāya vuccati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.62",
+        "original": "Aniyatoti",
+        "analyzed": "aniyatā iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:2.2.63",
+        "original": "na niyato, saṅghādiseso vā pācittiyaṁ vā.",
+        "analyzed": "na niyataḥ saṅgha ādisesaḥ vā pācittiyam vā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.1",
+        "original": "Gamanaṁ paṭijānāti nisajjaṁ paṭijānāti āpattiṁ paṭijānāti, āpattiyā kāretabbo.",
+        "analyzed": "gamanam paṭijānāti nisajjam paṭijānāti āpattim paṭijānāti āpattiyāḥ kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.2",
+        "original": "Gamanaṁ paṭijānāti nisajjaṁ na paṭijānāti āpattiṁ paṭijānāti, āpattiyā kāretabbo.",
+        "analyzed": "gamanam paṭijānāti nisajjam na paṭijānāti āpattim paṭijānāti āpattiyāḥ kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.3",
+        "original": "Gamanaṁ paṭijānāti nisajjaṁ paṭijānāti āpattiṁ na paṭijānāti, nisajjāya kāretabbo.",
+        "analyzed": "gamanam paṭijānāti nisajjam paṭijānāti āpattim na paṭijānāti nisajjāya kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.4",
+        "original": "Gamanaṁ paṭijānāti nisajjaṁ na paṭijānāti āpattiṁ na paṭijānāti, na kāretabbo.",
+        "analyzed": "gamanam paṭijānāti nisajjam na paṭijānāti āpattim na paṭijānāti na kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.5",
+        "original": "Gamanaṁ na paṭijānāti nisajjaṁ paṭijānāti āpattiṁ paṭijānāti, āpattiyā kāretabbo.",
+        "analyzed": "gamanam na paṭijānāti nisajjam paṭijānāti āpattim paṭijānāti āpattiyā kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.6",
+        "original": "Gamanaṁ na paṭijānāti nisajjaṁ na paṭijānāti āpattiṁ paṭijānāti, āpattiyā kāretabbo.",
+        "analyzed": "gamanam na paṭijānāti nisajjam na paṭijānāti āpattim paṭijānāti āpattiyā kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.7",
+        "original": "Gamanaṁ na paṭijānāti nisajjaṁ paṭijānāti āpattiṁ na paṭijānāti, nisajjāya kāretabbo.",
+        "analyzed": "gamanam na paṭijānāti nisajjam paṭijānāti āpattim na paṭijānāti nisajjāya kāretabbaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.8",
+        "original": "Gamanaṁ na paṭijānāti nisajjaṁ na paṭijānāti āpattiṁ na paṭijānāti, na kāretabboti.",
+        "analyzed": "gamanam na paṭijānāti nisajjam na paṭijānāti āpattim na paṭijānāti na kāretabbā ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.9",
+        "original": "Dutiyo aniyato niṭṭhito.",
+        "analyzed": "dutiyaḥ aniyataḥ niṭṭhito ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.10",
+        "original": "Uddiṭṭhā kho āyasmanto dve aniyatā dhammā.",
+        "analyzed": "uddiṭṭhā kho āyasmanto dve aniyatā dhammā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.11",
+        "original": "Tatthāyasmante pucchāmi—",
+        "analyzed": "tat thā ayasmante pucchāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.12",
+        "original": "“kaccittha parisuddhā”?",
+        "analyzed": "kaccit tha parisuddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.13",
+        "original": "Dutiyampi pucchāmi—",
+        "analyzed": "dutiyam pi pucchāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.14",
+        "original": "“kaccittha parisuddhā”?",
+        "analyzed": "kaccit tha parisuddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.15",
+        "original": "Tatiyampi pucchāmi—",
+        "analyzed": "tatiyam pi pucchāmi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.16",
+        "original": "“kaccittha parisuddhā”?",
+        "analyzed": "kaccit tha parisuddhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.17",
+        "original": "Parisuddhetthāyasmanto;",
+        "analyzed": "parisuddhā itthā ayasmantaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.18",
+        "original": "tasmā tuṇhī,",
+        "analyzed": "tasmāt tuṇhī ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.19",
+        "original": "evametaṁ dhārayāmīti.",
+        "analyzed": "evam etam dhārayāmi iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.20",
+        "original": "Tassuddānaṁ",
+        "analyzed": "tassa uddāna ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.21",
+        "original": "Alaṁ kammaniyañceva,",
+        "analyzed": "alam ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.22",
+        "original": "tatheva ca naheva kho;",
+        "analyzed": "tathā iva ca nahā iva kho ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.23",
+        "original": "Aniyatā supaññattā,",
+        "analyzed": "aniyatā su paññattā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.24",
+        "original": "buddhaseṭṭhena tādināti.",
+        "analyzed": "buddhaseṭṭhena tādinā ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_bu-vb_ay2:3.25",
+        "original": "Aniyatakaṇḍaṁ niṭṭhitaṁ.",
+        "analyzed": "aniyata kaṇḍam niṭṭhita ",
+        "folio": "3"
+    }
+]

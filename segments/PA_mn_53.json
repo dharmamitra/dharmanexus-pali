@@ -1,0 +1,806 @@
+[
+    {
+        "segmentnr": "PA_mn_53:0.1",
+        "original": "Majjhima Nikāya 53",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_53:0.2",
+        "original": "Sekhasutta",
+        "analyzed": "sekhasutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_53:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_53:1.2",
+        "original": "ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme.",
+        "analyzed": "ekam samayam bhagavā sakkesu viharati kapilavatthusmin nigrodha ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_53:2.1",
+        "original": "Tena kho pana samayena kāpilavatthavānaṁ sakyānaṁ navaṁ santhāgāraṁ acirakāritaṁ hoti anajjhāvuṭṭhaṁ samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena.",
+        "analyzed": "tena khalu pana samayena kāpilavatthavānam sakyānam navam santhāgāram acira kāritam hoti an ajjhāvuṭṭham samaṇena vā brāhmaṇena vā kenacid vā manussa bhūtena ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_53:2.2_0",
+        "original": "Atha kho kāpilavatthavā sakyā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ",
+        "analyzed": "atha khalu kāpilavatthavāḥ sakyāḥ yena bhagavā tena upasaṅkamiṣu upasaṅkamitvā bhagavanta ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_53:2.2_1",
+        "original": "abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho kāpilavatthavā sakyā bhagavantaṁ etadavocuṁ:",
+        "analyzed": "abhivādetvā ekamantam ekamantam nisīdisu ekamantam nisinnāḥ kho kāpilavatthavāḥ sakyāḥ bhagavantam etat avocuḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_53:2.3",
+        "original": "“idha, bhante, kāpilavatthavānaṁ sakyānaṁ navaṁ santhāgāraṁ acirakāritaṁ anajjhāvuṭṭhaṁ samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena.",
+        "analyzed": "idha bhante kāpilavatthavānam sakyānam navam santhāgāram acira kāritam an ajjhāvuṭṭham samaṇena vā brāhmaṇena vā kenacid vā manussa bhūtena ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_53:2.4",
+        "original": "Taṁ, bhante, bhagavā paṭhamaṁ paribhuñjatu. Bhagavatā paṭhamaṁ paribhuttaṁ pacchā kāpilavatthavā sakyā paribhuñjissanti.",
+        "analyzed": "ta bhante bhagavā paṭhamam paribhuñjatu bhagavatā paṭhamam paribhuttam pacchā kāpilavatthavā sakyā paribhuñjissanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_53:2.5",
+        "original": "Tadassa kāpilavatthavānaṁ sakyānaṁ dīgharattaṁ hitāya sukhāyā”ti.",
+        "analyzed": "tat assa kāpilavatthavānam sakyānam dīgharattam hitāya sukhāya ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.1",
+        "original": "Adhivāsesi bhagavā tuṇhībhāvena.",
+        "analyzed": "adhivāsesi bhagavā tuṇhībhāvena ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.2_0",
+        "original": "Atha kho kāpilavatthavā sakyā bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ",
+        "analyzed": "atha khalu kāpilavatthavāḥ sakyāḥ bhagavataḥ adhivāsanam viditvā uṭṭhāya āsanā bhagavanta ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.2_1",
+        "original": "abhivādetvā padakkhiṇaṁ katvā yena navaṁ santhāgāraṁ tenupasaṅkamiṁsu; upasaṅkamitvā",
+        "analyzed": "abhivādetvā padakkhiṇam katvā yena navam santhāgāram tena upasaṅkamisu upasaṅkamitvā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.2_2",
+        "original": "sabbasanthariṁ santhāgāraṁ santharitvā āsanāni paññapetvā udakamaṇikaṁ upaṭṭhapetvā",
+        "analyzed": "sabba santharim santhāgāram santharitvā āsanāni paññapetvā udaka maṇikam upaṭṭhapetvā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.2_3",
+        "original": "telappadīpaṁ āropetvā yena bhagavā tenupasaṅkamiṁsu;",
+        "analyzed": "telappadīpam āropetvā yena bhagavā tena upasaṅkamisu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.3",
+        "original": "upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu.",
+        "analyzed": "upasaṅkamitvā bhagavantam abhivādetvā ekamantam aṭṭhasu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.4",
+        "original": "Ekamantaṁ ṭhitā kho kāpilavatthavā sakyā bhagavantaṁ etadavocuṁ:",
+        "analyzed": "eka mantam ṭhitāḥ kho kāpilavatthavāḥ sakyāḥ bhagavantam etat avocuḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.5",
+        "original": "“sabbasanthariṁ santhataṁ, bhante, santhāgāraṁ, āsanāni paññattāni, udakamaṇiko upaṭṭhāpito, telappadīpo āropito.",
+        "analyzed": "sabbasantharim santhata bhante santhāgāre āsanāni paññattāni udaka maṇikaḥ upaṭṭhāpito tela ppadīpaḥ āropito ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:3.6",
+        "original": "Yassadāni, bhante, bhagavā kālaṁ maññatī”ti.",
+        "analyzed": "yaḥ sadāni bhante bhagavā kālam maññati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_53:4.1_0",
+        "original": "Atha kho bhagavā nivāsetvā pattacīvaramādāya saddhiṁ bhikkhusaṅghena yena santhāgāraṁ",
+        "analyzed": "atha kho bhagavā nivāsetvā patta cīvaram ādāya saddhim bhikkhu saṅghena yena santhāgāra ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_53:4.1_1",
+        "original": "tenupasaṅkami; upasaṅkamitvā pāde pakkhāletvā santhāgāraṁ pavisitvā majjhimaṁ thambhaṁ",
+        "analyzed": "tena upasaṅkami upasaṅkamitvā pāde pakkhāletvā santhāgāram pavisitvā majjhimam thambha ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_53:4.1_2",
+        "original": "nissāya puratthābhimukho nisīdi.",
+        "analyzed": "nissāya purattha abhimukhaḥ nisīdi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_53:4.2",
+        "original": "Bhikkhusaṅghopi kho pāde pakkhāletvā santhāgāraṁ pavisitvā pacchimaṁ bhittiṁ nissāya puratthābhimukho nisīdi, bhagavantaṁyeva purakkhatvā.",
+        "analyzed": "bhikkhu saṅghaḥ api kho pāde pakkhāletvā santhāgāram pavisitvā pacchimam bhittim nissāya purattha abhimukhaḥ nisīdi bhagavantayā iva purakkhatvā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_53:4.3",
+        "original": "Kāpilavatthavāpi kho sakyā pāde pakkhāletvā santhāgāraṁ pavisitvā puratthimaṁ bhittiṁ nissāya pacchimābhimukhā nisīdiṁsu, bhagavantaṁyeva purakkhatvā.",
+        "analyzed": "kāpilavatthavāpi kho sakyā pāde pakkhāletvā santhāgāram pavisitvā puratthimam bhittim nissāya pacchima abhimukhāḥ nisīdisu bhagavantayā iva purakkhatvā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_53:5.1",
+        "original": "Atha kho bhagavā kāpilavatthave sakye bahudeva rattiṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā āyasmantaṁ ānandaṁ āmantesi:",
+        "analyzed": "atha khalu bhagavā kāpilavatthave sakye bahudeva rattim dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahasetvā āyasmantam ānandam āmantesi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_53:5.2",
+        "original": "“paṭibhātu taṁ, ānanda, kāpilavatthavānaṁ sakyānaṁ sekho pāṭipado.",
+        "analyzed": "paṭibhātu te ānanda kāpilavatthavānam sakyānam sekhaḥ pāṭipadaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_53:5.3",
+        "original": "Piṭṭhi me āgilāyati;",
+        "analyzed": "piṭṭhi me āgilāyati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_53:5.4",
+        "original": "tamahaṁ āyamissāmī”ti.",
+        "analyzed": "tam aham āyamissāmi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_53:5.5",
+        "original": "“Evaṁ, bhante”ti kho āyasmā ānando bhagavato paccassosi.",
+        "analyzed": "eva bhante iti kho āyasmai ānandaḥ bhagavataḥ paccassosi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_53:5.6",
+        "original": "Atha kho bhagavā catugguṇaṁ saṅghāṭiṁ paññāpetvā dakkhiṇena passena sīhaseyyaṁ kappesi, pāde pādaṁ accādhāya, sato sampajāno, uṭṭhānasaññaṁ manasi karitvā.",
+        "analyzed": "atha kho bhagavā catugguṇam saṅghāṭim paññāpetvā dakkhiṇena passena sīha seyyam kappesi pāde pādam accādhāya sataḥ sampajānaḥ uṭṭhāna saññam manasi karitvā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_53:6.1",
+        "original": "Atha kho āyasmā ānando mahānāmaṁ sakkaṁ āmantesi:",
+        "analyzed": "atha kho āyasmai ānandaḥ mahānāmam sakkam āmantesi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_53:6.2_0",
+        "original": "“idha, mahānāma, ariyasāvako sīlasampanno hoti, indriyesu guttadvāro hoti, bhojane",
+        "analyzed": "idha mahānāma ariya sāvako sīla sampanno hoti indriyesu gutta dvāraḥ hoti bhojane ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_53:6.2_1",
+        "original": "mattaññū hoti, jāgariyaṁ anuyutto hoti, sattahi saddhammehi samannāgato hoti, catunnaṁ",
+        "analyzed": "mattaññū hoti jāgariyam anuyuttaḥ hoti sattahi saddhammehi samannāgataḥ hoti catunna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_53:6.2_2",
+        "original": "jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī.",
+        "analyzed": "jhānānam ābhicetasikānam diṭṭhadhamma sukha vihārānam nikāma lābhī hoti a kiccha lābhī a kasira lābhī ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_53:7.1",
+        "original": "Kathañca, mahānāma, ariyasāvako sīlasampanno hoti?",
+        "analyzed": "kathañca mahānāma ariya sāvakaḥ sīla sampannaḥ hoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_53:7.2",
+        "original": "Idha, mahānāma, ariyasāvako sīlavā hoti, pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
+        "analyzed": "idha mahānāma ariya sāvako sīlavā hoti pātimokkha savara savutaḥ viharati ācāra gocara sampannaḥ aṇumattesu vajjesu bhaya dassāvī samādāya sikkhati sikkhāpadesu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_53:7.3",
+        "original": "Evaṁ kho, mahānāma, ariyasāvako sīlasampanno hoti.",
+        "analyzed": "evam kho mahānāma ariya sāvako sīla sampannaḥ hoti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.1",
+        "original": "Kathañca, mahānāma, ariyasāvako indriyesu guttadvāro hoti?",
+        "analyzed": "kathañca mahānāma ariya sāvakaḥ indriyesu gutta dvāraḥ hoti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.2",
+        "original": "Idha, mahānāma, ariyasāvako cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī.",
+        "analyzed": "idha mahānāma ariya sāvako cakkhunā rūpam disvā na nimitta ggāhī hoti na anubyañjana ggāhī ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.3_0",
+        "original": "Yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā",
+        "analyzed": "yatvā adhikaraṇam enam cakkhu indriyam asavutam viharantam abhijjhā domanassā pāpakāḥ akusalāḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.3_1",
+        "original": "dhammā anvāssaveyyuṁ tassa saṁvarāya paṭipajjati, rakkhati cakkhundriyaṁ, cakkhundriye saṁvaraṁ āpajjati.",
+        "analyzed": "dhammāḥ anvāssaveyyum tassa savarāya paṭipajjati rakkhati cakkhu indriya cakkhu indriye savaram āpajjati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.4",
+        "original": "Sotena saddaṁ sutvā …pe…",
+        "analyzed": "sotena saddam sutvā pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.5",
+        "original": "ghānena gandhaṁ ghāyitvā …pe…",
+        "analyzed": "ghānena gandham ghāyitvā pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.6",
+        "original": "jivhāya rasaṁ sāyitvā …pe…",
+        "analyzed": "jivhāya rasam sāyitvā pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.7",
+        "original": "kāyena phoṭṭhabbaṁ phusitvā …pe…",
+        "analyzed": "kāyena phoṭṭhabbam phusitvā pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.8",
+        "original": "manasā dhammaṁ viññāya na nimittaggāhī hoti nānubyañjanaggāhī.",
+        "analyzed": "manasā dhammam viññāya na nimitta ggāhī hoti na anubyañjana ggāhī ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.9_0",
+        "original": "Yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā",
+        "analyzed": "yatvā adhikaraṇam enam man indriyam viharantam abhijjhā domanassā pāpakāḥ akusalāḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.9_1",
+        "original": "dhammā anvāssaveyyuṁ tassa saṁvarāya paṭipajjati, rakkhati manindriyaṁ, manindriye saṁvaraṁ āpajjati.",
+        "analyzed": "dhammāḥ anvāssaveyyum tassa savarāya paṭipajjati rakkhati manindriya manindriye savaram āpajjati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:8.10",
+        "original": "Evaṁ kho, mahānāma, ariyasāvako indriyesu guttadvāro hoti.",
+        "analyzed": "evam kho mahānāma ariya sāvakaḥ indriyesu gutta dvāraḥ hoti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_53:9.1",
+        "original": "Kathañca, mahānāma, ariyasāvako bhojane mattaññū hoti?",
+        "analyzed": "kathañca mahānāma ariya sāvakaḥ bhojane mattaññū hoti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_53:9.2",
+        "original": "Idha, mahānāma, ariyasāvako paṭisaṅkhā yoniso āhāraṁ āhāreti:",
+        "analyzed": "idha mahānāma ariya sāvako āhāram āhāra iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_53:9.3_0",
+        "original": "‘neva davāya na madāya na maṇḍanāya na vibhūsanāya; yāvadeva imassa kāyassa ṭhitiyā",
+        "analyzed": "na iva davāya na madāya na maṇḍanāya na vibhūsanāya yāvat eva imassa kāyassa ṭhitiyā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_53:9.3_1",
+        "original": "yāpanāya vihiṁsūparatiyā brahmacariyānuggahāya. Iti purāṇañca vedanaṁ paṭihaṅkhāmi,",
+        "analyzed": "yāpanāya brahmacariya anuggahāya iti purāṇam ca vedanam paṭihaṅkhāmi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_53:9.3_2",
+        "original": "navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti.",
+        "analyzed": "navam ca vedanam na uppādessāmi yātrā ca me bhavissati anavajja tā ca phāsu vihāraḥ ca ati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_53:9.4",
+        "original": "Evaṁ kho, mahānāma, ariyasāvako bhojane mattaññū hoti.",
+        "analyzed": "evam kho mahānāma ariya sāvakaḥ bhojane mattaññū hoti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_53:10.1",
+        "original": "Kathañca, mahānāma, ariyasāvako jāgariyaṁ anuyutto hoti?",
+        "analyzed": "kathañca mahānāma ariya sāvakaḥ jāgariyam anuyuttaḥ hoti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_53:10.2",
+        "original": "Idha, mahānāma, ariyasāvako divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti,",
+        "analyzed": "idha mahānāma ariya sāvakaḥ divasam caṅkamena nisajjāya āvaraṇīyehi dhammehi cittam parisodheti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_53:10.3",
+        "original": "rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti,",
+        "analyzed": "rattiyā paṭhamam yāmam caṅkamena nisajjāya āvaraṇīyehi dhammehi cittam parisodheti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_53:10.4",
+        "original": "rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappeti, pāde pādaṁ accādhāya, sato sampajāno, uṭṭhānasaññaṁ manasi karitvā,",
+        "analyzed": "rattiyāḥ majjhimam yāmam dakkhiṇena passena sīhaseyyam kappeti pāde pādam accādhāya sataḥ sampajānaḥ uṭṭhāna saññam manasi karitvā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_53:10.5",
+        "original": "rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti.",
+        "analyzed": "rattiyā pacchimam yāmam paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittam parisodheti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_53:10.6",
+        "original": "Evaṁ kho, mahānāma, ariyasāvako jāgariyaṁ anuyutto hoti.",
+        "analyzed": "evam kho mahānāma ariya sāvakaḥ jāgariyam anuyuttaḥ hoti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_53:11.1",
+        "original": "Kathañca, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti?",
+        "analyzed": "kathañca mahānāma ariya sāvakaḥ sattahi saddhammehi samannāgataḥ hoti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_53:11.2",
+        "original": "Idha, mahānāma, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṁ:",
+        "analyzed": "idha mahānāma ariya sāvako saddhaḥ hoti saddahati tathāgatassa bodhi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_53:11.3",
+        "original": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti.",
+        "analyzed": "iti pi saḥ bhagavā araham sammāsambuddhaḥ vijjā caraṇa sampanno sugataḥ loka vidū anuttaraḥ purisa damma sārathi satthā deva manussānam buddhaḥ bhagavā ati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_53:12.1",
+        "original": "Hirimā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.",
+        "analyzed": "hirimā hoti hirīyati kāya duccaritena vacī duccaritena manaḥ duccaritena hirīyati pāpakānam akusalānam dhammānam samāpattiyā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_53:13.1",
+        "original": "Ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.",
+        "analyzed": "ottappī hoti ottappati kāya duccaritena vacī duccaritena manaḥ duccaritena ottappati pāpakānam akusalānam dhammānam samāpattiyā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_53:14.1_0",
+        "original": "Bahussuto hoti sutadharo sutasannicayo. Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā",
+        "analyzed": "bahu sutaḥ hoti suta dharaḥ suta sannicayaḥ ye te dhammā ādi kalyāṇā majjhe kalyāṇā pariyosāna kalyāṇā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_53:14.1_1",
+        "original": "sātthā sabyañjanā kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ abhivadanti tathārūpāssa",
+        "analyzed": "sātthā sa byañjanā kevala paripuṇṇam parisuddham brahmacariyam abhivadanti tathārūpā sa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_53:14.1_2",
+        "original": "dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.",
+        "analyzed": "dhammāḥ bahu ssutāḥ honti dhātā vacasā paricitāḥ manasā anupekkhitāḥ diṭṭhiyā suppaṭividdhā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_53:15.1",
+        "original": "Āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.",
+        "analyzed": "āraddha vīriyaḥ viharati akusalānam dhammānam pahānāya kusalānam dhammānam upasampadāya thāmavā daḷha parakkamaḥ a nikkhitta dhuraḥ kusalesu dhammesu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_53:16.1",
+        "original": "Satimā hoti, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā.",
+        "analyzed": "satimā hoti paramena sati nepakkena samannāgato cirakatam pi cira bhāsitam pi saritā anussaritā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_53:17.1",
+        "original": "Paññavā hoti, udayatthagāminiyā paññāya samannāgato, ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā.",
+        "analyzed": "paññavā hoti udaya ttha gāminiyā paññāya samannāgataḥ ariyāya nibbedhikāya sammā dukkha kkhaya gāminiyā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_53:17.2",
+        "original": "Evaṁ kho, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti.",
+        "analyzed": "evam kho mahā nāma ariya sāvakaḥ sattahi saddhammehi samannāgataḥ hoti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_53:18.1",
+        "original": "Kathañca, mahānāma, ariyasāvako catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī?",
+        "analyzed": "kathañca mahānāma ariya sāvakaḥ catunnam jhānānam ābhicetasikānam diṭṭhadhamma sukha vihārānam nikāma lābhī hoti a kiccha lābhī a kasira lābhī ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_53:18.2",
+        "original": "Idha, mahānāma, ariyasāvako vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati;",
+        "analyzed": "idha mahānāma ariya sāvakaḥ vivicca iva kāmehi pe paṭhamam jhānam upasampajja viharati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_53:18.3",
+        "original": "vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ …pe… dutiyaṁ jhānaṁ upasampajja viharati;",
+        "analyzed": "vitakka vicārānam vūpasamāḥ ajjhattam sampasādanam pe dutiyam jhānam upasampajja viharati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_53:18.4",
+        "original": "pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati;",
+        "analyzed": "pītiyā ca virāgā pe tatiyam jhānam upasampajja viharati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_53:18.5",
+        "original": "sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā …pe… catutthaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "sukhassa ca pahānā dukkhassa ca pahānā pubbā iva somanassa domanassānaṃ atthaṅgamā pe catuttham jhānam upasampajja viharati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_53:18.6",
+        "original": "Evaṁ kho, mahānāma, ariyasāvako catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī.",
+        "analyzed": "evam kho mahānāma ariya sāvakaḥ catunnam jhānānam ābhicetasikānam diṭṭhadhamma sukha vihārānam nikāma lābhī hoti a kiccha lābhī a kasira lābhī ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.1_0",
+        "original": "Yato kho, mahānāma, ariyasāvako evaṁ sīlasampanno hoti, evaṁ indriyesu guttadvāro",
+        "analyzed": "yatas kho mahānāma ariya sāvakaḥ evam sīla sampannaḥ hoti evam indriyesu gutta dvāro ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.1_1",
+        "original": "hoti, evaṁ bhojane mattaññū hoti, evaṁ jāgariyaṁ anuyutto hoti, evaṁ sattahi saddhammehi",
+        "analyzed": "hoti evam bhojane mattaññū hoti evam jāgariyam anuyuttaḥ hoti evam sattahi saddhammehi ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.1_2",
+        "original": "samannāgato hoti, evaṁ catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ",
+        "analyzed": "samannāgataḥ hoti evam catunnam jhānānam ābhicetasikānam diṭṭhadhamma sukha vihārānaṃ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.1_3",
+        "original": "nikāmalābhī hoti akicchalābhī akasiralābhī, ayaṁ vuccati, mahānāma, ariyasāvako sekho",
+        "analyzed": "nikāma lābhī hoti akiccha lābhī akasira lābhī ayam vuccati mahā nāma ariya sāvakaḥ sekho ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.1_4",
+        "original": "pāṭipado apuccaṇḍatāya samāpanno, bhabbo abhinibbhidāya, bhabbo sambodhāya, bhabbo",
+        "analyzed": "pāṭipadaḥ a puccaṇḍa tāya samāpannaḥ bhabbaḥ abhinibbhidāya bhabbaḥ sambodhāya bhabbaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.1_5",
+        "original": "anuttarassa yogakkhemassa adhigamāya.",
+        "analyzed": "anuttarassa yogakkhemassa adhigamāya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.2_0",
+        "original": "Seyyathāpi, mahānāma, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā tānāssu kukkuṭiyā",
+        "analyzed": "sā iyyathā api mahānāma kukkuṭiyāḥ aṇḍāni aṭṭha vā dasa vā dvādasa vā kukkuṭiyā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.2_1",
+        "original": "sammā adhisayitāni sammā pariseditāni sammā paribhāvitāni, kiñcāpi tassā kukkuṭiyā",
+        "analyzed": "sammā adhisayitāni sammā pariseditāni sammā paribhāvitāni kiñca api tassā kukkuṭiyā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.2_2",
+        "original": "na evaṁ icchā uppajjeyya:",
+        "analyzed": "na evam icchā uppajjeyya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.3",
+        "original": "‘aho vatime kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṁ padāletvā sotthinā abhinibbhijjeyyun’ti,",
+        "analyzed": "aho vati me kukkuṭa potakā pāda nakha sikhāya vā mukha tuṇḍakena vā aṇḍa kosam padāletvā sotthinā abhinibbhijjeyyunti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.4",
+        "original": "atha kho bhabbāva te kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṁ padāletvā sotthinā abhinibbhijjituṁ.",
+        "analyzed": "atha kho bhabbāva te kukkuṭa potakā pāda nakha sikhāya vā mukha tuṇḍakena vā aṇḍa kosam padāletvā sotthinā abhinibbhijjitu ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.5_0",
+        "original": "Evameva kho, mahānāma, yato ariyasāvako evaṁ sīlasampanno hoti, evaṁ indriyesu guttadvāro",
+        "analyzed": "evam eva kho mahānāma yatas ariya sāvakaḥ evam sīla sampannaḥ hoti evam indriyesu gutta dvāro ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.5_1",
+        "original": "hoti, evaṁ bhojane mattaññū hoti, evaṁ jāgariyaṁ anuyutto hoti, evaṁ sattahi saddhammehi",
+        "analyzed": "hoti evam bhojane mattaññū hoti evam jāgariyam anuyuttaḥ hoti evam sattahi saddhammehi ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.5_2",
+        "original": "samannāgato hoti, evaṁ catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ",
+        "analyzed": "samannāgataḥ hoti evam catunnam jhānānam ābhicetasikānam diṭṭhadhamma sukha vihārānaṃ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.5_3",
+        "original": "nikāmalābhī hoti akicchalābhī akasiralābhī, ayaṁ vuccati, mahānāma, ariyasāvako sekho",
+        "analyzed": "nikāma lābhī hoti akiccha lābhī akasira lābhī ayam vuccati mahā nāma ariya sāvakaḥ sekho ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.5_4",
+        "original": "pāṭipado apuccaṇḍatāya samāpanno, bhabbo abhinibbhidāya, bhabbo sambodhāya, bhabbo",
+        "analyzed": "pāṭipadaḥ a puccaṇḍa tāya samāpannaḥ bhabbaḥ abhinibbhidāya bhabbaḥ sambodhāya bhabbaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:19.5_5",
+        "original": "anuttarassa yogakkhemassa adhigamāya.",
+        "analyzed": "anuttarassa yogakkhemassa adhigamāya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_53:20.1",
+        "original": "Sa kho so, mahānāma, ariyasāvako imaṁyeva anuttaraṁ upekkhāsatipārisuddhiṁ āgamma anekavihitaṁ pubbenivāsaṁ anussarati,",
+        "analyzed": "sa kho saḥ mahānāma ariya sāvakaḥ imayā iva anuttaram upekkhā sati pārisuddhim āgamma aneka vihitam pubbenivāsam anussarati ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_53:20.2",
+        "original": "seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati,",
+        "analyzed": "sā iyyathidam ekam pi jātim dve pi jātiyaḥ pe iti sa ākāram sa uddesam aneka vihitam pubbenivāsam anussarati ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_53:20.3",
+        "original": "ayamassa paṭhamābhinibbhidā hoti kukkuṭacchāpakasseva aṇḍakosamhā.",
+        "analyzed": "ayam assa paṭhamā abhinibbhidā hoti kukkuṭa chāpakassa iva aṇḍakosamhā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_53:21.1_0",
+        "original": "Sa kho so, mahānāma, ariyasāvako imaṁyeva anuttaraṁ upekkhāsatipārisuddhiṁ āgamma",
+        "analyzed": "sa kho saḥ mahānāma ariya sāvakaḥ imayā iva anuttaram upekkhā sati pārisuddhim āgamma ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_53:21.1_1",
+        "original": "dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne",
+        "analyzed": "dibbena cakkhunā visuddhena atikkanta mānusakena satte passati cavamāne upapajjamāne ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_53:21.1_2",
+        "original": "hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate …pe… yathākammūpage satte pajānāti,",
+        "analyzed": "hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate pe yathā kammūpage satte pajānāti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_53:21.2",
+        "original": "ayamassa dutiyābhinibbhidā hoti kukkuṭacchāpakasseva aṇḍakosamhā.",
+        "analyzed": "ayam assa dutiyā abhinibbhidā hoti kukkuṭa chāpakassa iva aṇḍakosamhā ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_53:22.1_0",
+        "original": "Sa kho so, mahānāma, ariyasāvako imaṁyeva anuttaraṁ upekkhāsatipārisuddhiṁ āgamma",
+        "analyzed": "sa kho saḥ mahānāma ariya sāvakaḥ imayā iva anuttaram upekkhā sati pārisuddhim āgamma ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_53:22.1_1",
+        "original": "āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā",
+        "analyzed": "āsavānam khayā anāsavam cetaḥ vimuttim paññā vimuttim diṭṭhe iva dhamme sayam abhiññā ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_53:22.1_2",
+        "original": "sacchikatvā upasampajja viharati,",
+        "analyzed": "sacchikatvā upasampajja viharati ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_53:22.2",
+        "original": "ayamassa tatiyābhinibbhidā hoti kukkuṭacchāpakasseva aṇḍakosamhā.",
+        "analyzed": "ayam assa tatiyā abhinibbhidā hoti kukkuṭa chāpakassa iva aṇḍakosamhā ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_53:23.1",
+        "original": "Yampi, mahānāma, ariyasāvako sīlasampanno hoti, idampissa hoti caraṇasmiṁ;",
+        "analyzed": "yam pi mahānāma ariya sāvako sīla sampanno hoti idam pissa hoti caraṇasmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_53:23.2",
+        "original": "yampi, mahānāma, ariyasāvako indriyesu guttadvāro hoti, idampissa hoti caraṇasmiṁ;",
+        "analyzed": "yampi mahānāma ariya sāvakaḥ indriyesu gutta dvāraḥ hoti idam pissa hoti caraṇasmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_53:23.3",
+        "original": "yampi, mahānāma, ariyasāvako bhojane mattaññū hoti, idampissa hoti caraṇasmiṁ;",
+        "analyzed": "yam pi mahānāma ariya sāvakaḥ bhojane mattaññū hoti idam pissa hoti caraṇasmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_53:23.4",
+        "original": "yampi, mahānāma, ariyasāvako jāgariyaṁ anuyutto hoti, idampissa hoti caraṇasmiṁ;",
+        "analyzed": "yam pi mahānāma ariya sāvakaḥ jāgariyam anuyuttaḥ hoti idam pissa hoti caraṇasmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_53:23.5",
+        "original": "yampi, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti, idampissa hoti caraṇasmiṁ;",
+        "analyzed": "yam pi mahānāma ariyasāvakaḥ sattahi saddhammehi samannāgataḥ hoti idam pissa hoti caraṇasmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_53:23.6",
+        "original": "yampi, mahānāma, ariyasāvako catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, idampissa hoti caraṇasmiṁ.",
+        "analyzed": "yam pi mahānāma ariyasāvakaḥ catunnam jhānānam ābhicetasikānam diṭṭhadhamma sukha vihārānam nikāma lābhī hoti akiccha lābhī akasira lābhī idam pissa hoti caraṇasmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.1_0",
+        "original": "Yañca kho, mahānāma, ariyasāvako anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ—ekampi",
+        "analyzed": "yat ca kho mahānāma ariya sāvakaḥ aneka vihitam pubbenivāsam anussarati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.1_1",
+        "original": "jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati,",
+        "analyzed": "jātim dve api jātiyaḥ pe iti sa ākāram sa uddesam aneka vihitam pubbenivāsam anussarati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.1_2",
+        "original": "idampissa hoti vijjāya;",
+        "analyzed": "idam pissa hoti vijjāya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.2_0",
+        "original": "yampi, mahānāma, ariyasāvako dibbena cakkhunā visuddhena atikkantamānusakena satte",
+        "analyzed": "yam pi mahānāma ariya sāvakaḥ dibbena cakkhunā visuddhena atikkanta mānusakena satte ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.2_1",
+        "original": "passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate …pe… yathākammūpage",
+        "analyzed": "passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate pe yathākammūpage ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.2_2",
+        "original": "satte pajānāti, idampissa hoti vijjāya.",
+        "analyzed": "satte pajānāti idam pissa hoti vijjāya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:24.3",
+        "original": "Yampi, mahānāma, ariyasāvako āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati, idampissa hoti vijjāya.",
+        "analyzed": "yam pi mahānāma ariya sāvakaḥ āsavānam khayā anāsavam cetaḥ vimuttim paññā vimuttim diṭṭhe iva dhamme sayam abhiññā sacchikatvā upasampajja viharati idam pissa hoti vijjāya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.1",
+        "original": "Ayaṁ vuccati, mahānāma, ariyasāvako vijjāsampanno itipi caraṇasampanno itipi vijjācaraṇasampanno itipi.",
+        "analyzed": "ayam vuccati mahānāma ariya sāvako vijjā sampannaḥ iti pi caraṇa sampannaḥ iti pi vijjā caraṇa sampannaḥ iti pi ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.2",
+        "original": "Brahmunāpesā, mahānāma, sanaṅkumārena gāthā bhāsitā:",
+        "analyzed": "brahmunāpesā mahā nāma sanaṅkumārena gāthā bhāsitā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.3",
+        "original": "‘Khattiyo seṭṭho janetasmiṁ,",
+        "analyzed": "khattiyaḥ seṭṭhaḥ janetasmi ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.4",
+        "original": "ye gottapaṭisārino;",
+        "analyzed": "ye gotta paṭisārino ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.5",
+        "original": "Vijjācaraṇasampanno,",
+        "analyzed": "vijjā ācaraṇa sampannaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.6",
+        "original": "so seṭṭho devamānuse’ti.",
+        "analyzed": "so seṭṭhaḥ deva mānusa iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:25.7",
+        "original": "Sā kho panesā, mahānāma, brahmunā sanaṅkumārena gāthā sugītā no duggītā, subhāsitā no dubbhāsitā, atthasaṁhitā no anatthasaṁhitā, anumatā bhagavatā”ti.",
+        "analyzed": "sā kho pana isā mahānāma brahmunā sanaṅkumārena gāthā su gītā no duggītā su bhāsitā no dubbhāsitā attha sahitā no anattha sahitā anumatā bhagavatā ati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.1",
+        "original": "Atha kho bhagavā uṭṭhahitvā āyasmantaṁ ānandaṁ āmantesi:",
+        "analyzed": "atha kho bhagavā uṭṭhahitvā āyasmantam ānandam āmantesi ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.2",
+        "original": "“sādhu sādhu, ānanda,",
+        "analyzed": "sādhu sādhu ānanda ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.3",
+        "original": "sādhu kho tvaṁ, ānanda, kāpilavatthavānaṁ sakyānaṁ sekhaṁ pāṭipadaṁ abhāsī”ti.",
+        "analyzed": "sādhu khalu tvaḥ ānanda kāpilavatthavānam sakyānam sekham pāṭipadam abhāsi iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.4",
+        "original": "Idamavocāyasmā ānando.",
+        "analyzed": "idam avoca ayasmai ānandaḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.5",
+        "original": "Samanuñño satthā ahosi.",
+        "analyzed": "samanuññaḥ satthā ahosi ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.6",
+        "original": "Attamanā kāpilavatthavā sakyā āyasmato ānandassa bhāsitaṁ abhinandunti.",
+        "analyzed": "attamanāḥ kāpilavatthavāḥ sakyāḥ āyasmataḥ ānandassa bhāsitam abhinandunti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_53:26.7",
+        "original": "Sekhasuttaṁ niṭṭhitaṁ tatiyaṁ.",
+        "analyzed": "sekha suttam niṭṭhitam tatiya ",
+        "folio": "26"
+    }
+]

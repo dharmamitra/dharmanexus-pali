@@ -1,0 +1,944 @@
+[
+    {
+        "segmentnr": "PA_mil_6.3.10:0.1",
+        "original": "Milindapañha",
+        "analyzed": "milindapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:0.2",
+        "original": "Anumānapañha",
+        "analyzed": "anumāna pañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:0.3",
+        "original": "Vessantaravagga",
+        "analyzed": "vessantara vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:0.4",
+        "original": "10. Nibbānarūpasaṇṭhānapañha",
+        "analyzed": "       ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.1_0",
+        "original": "“Bhante nāgasena, ‘nibbānaṁ nibbānan’ti yaṁ vadesi, sakkā pana tassa nibbānassa rūpaṁ",
+        "analyzed": "bhante nāgasena nibbānam nibbānanti yam vadesi sakkā pana tassa nibbānassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.1_1",
+        "original": "vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitun”ti?",
+        "analyzed": "vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.2",
+        "original": "“Appaṭibhāgaṁ, mahārāja, nibbānaṁ, na sakkā nibbānassa rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitun”ti.",
+        "analyzed": "appaṭibhāga mahā rāja nibbāna na sakkā nibbānassa rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.3_0",
+        "original": "“Etampāhaṁ, bhante nāgasena, na sampaṭicchāmi, yaṁ atthidhammassa nibbānassa rūpaṁ",
+        "analyzed": "etam pāha bhante nāgasena na sampaṭicchāmi yam atthi dhammassa nibbānassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.3_1",
+        "original": "vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā apaññāpanaṁ,",
+        "analyzed": "vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā apaññāpana ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.3_2",
+        "original": "kāraṇena maṁ saññāpehī”ti.",
+        "analyzed": "kāraṇena mama saññāpehi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.4",
+        "original": "“Hotu, mahārāja, kāraṇena taṁ saññāpessāmi.",
+        "analyzed": "hotu mahā rāja kāraṇena tam saññāpessāmi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.5",
+        "original": "Atthi, mahārāja, mahāsamuddo nāmā”ti?",
+        "analyzed": "atthi mahā rāja mahā samuddaḥ nāma ati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.6",
+        "original": "“Āma, bhante, attheso mahāsamuddo”ti.",
+        "analyzed": "āma bhante attha iso mahā samuddaḥ ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.7_0",
+        "original": "“Sace taṁ, mahārāja, koci evaṁ puccheyya ‘kittakaṁ, mahārāja, mahāsamudde udakaṁ,",
+        "analyzed": "sace mahā rāja koci evam puccheyya kittaka mahā rāja mahā samudde udaka ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.7_1",
+        "original": "kati pana te sattā, ye mahāsamudde paṭivasantī’ti, evaṁ puṭṭho tvaṁ, mahārāja, kinti",
+        "analyzed": "kati pana te sattāḥ ye mahā samudde paṭivasanti iti evam mahā rāja kinti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.7_2",
+        "original": "tassa byākareyyāsī”ti?",
+        "analyzed": "tassa byākareyyāsi iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.8_0",
+        "original": "“Sace maṁ, bhante, koci evaṁ puccheyya ‘kittakaṁ, mahārāja, mahāsamudde udakaṁ, kati",
+        "analyzed": "sace ma bhante koci evam puccheyya kittaka mahā rāja mahā samudde udaka kati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.8_1",
+        "original": "pana te sattā, ye mahāsamudde paṭivasantī’ti, tamahaṁ, bhante, evaṁ vadeyyaṁ ‘apucchitabbaṁ",
+        "analyzed": "pana te sattāḥ ye mahā samudde paṭivasanti iti tam aha bhante evam vadeyyam a pucchitabba ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.8_2",
+        "original": "maṁ tvaṁ, ambho purisa, pucchasi, nesā pucchā kenaci pucchitabbā, ṭhapanīyo eso pañho.",
+        "analyzed": "mam tva ambho purisa pucchasi na isā pucchā kenacid pucchitabbā ṭhapanīyaḥ eso pañho ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:1.9",
+        "original": "Avibhatto lokakkhāyikehi mahāsamuddo, na sakkā mahāsamudde udakaṁ pariminituṁ sattā vā ye tattha vāsamupagatāti evāhaṁ, bhante tassa paṭivacanaṁ dadeyyan’”ti.",
+        "analyzed": "a vibhattaḥ lokakkhāyikehi mahā samuddaḥ na sakkā mahā samudde udakam pariminitum sattāḥ vā ye tattha vāsam upagatāḥ ati eva āha bhante tassa paṭivacanam dadeyyanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:2.1_0",
+        "original": "“Kissa pana tvaṁ, mahārāja, atthidhamme mahāsamudde evaṁ paṭivacanaṁ dadeyyāsi, nanu",
+        "analyzed": "kissa pana tva mahā rāja atthi dhamme mahā samudde evam paṭivacanam dadeyyāsi nanu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:2.1_1",
+        "original": "vigaṇetvā tassa ācikkhitabbaṁ ‘ettakaṁ mahāsamudde udakaṁ, ettakā ca sattā mahāsamudde paṭivasantī’”ti?",
+        "analyzed": "vigaṇetvā tassa ācikkhitabbaṃ ettakam mahā samudde udake ettakā ca sattā mahā samudde paṭivasanti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:2.2",
+        "original": "“Na sakkā, bhante, avisayo eso pañho”ti.",
+        "analyzed": "na sakkā bhante avisayaḥ eso pañho ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:3.1",
+        "original": "“Yathā, mahārāja, atthidhammeyeva mahāsamudde na sakkā udakaṁ parigaṇetuṁ sattā vā ye tattha vāsamupagatā;",
+        "analyzed": "yathā mahā rāja mahā samudde na sakkā udakam parigaṇetum sattāḥ vā ye tattha vāsam upagatā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:3.2_0",
+        "original": "evameva kho, mahārāja, atthidhammasseva nibbānassa na sakkā rūpaṁ vā saṇṭhānaṁ vā",
+        "analyzed": "evam eva kho mahā rāja atthi dhammassa iva nibbānassa na sakkā rūpam vā saṇṭhānam vā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:3.2_1",
+        "original": "vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayituṁ, vigaṇeyya,",
+        "analyzed": "vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitu vigaṇeyya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:3.2_2",
+        "original": "mahārāja, iddhimā cetovasippatto mahāsamudde udakaṁ tatrāsaye ca satte, na tveva",
+        "analyzed": "mahā rājaḥ iddhimā mahā samudde udakam ca satte na tu eva ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:3.2_3",
+        "original": "so iddhimā cetovasippatto sakkuṇeyya nibbānassa rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ",
+        "analyzed": "saḥ iddhimā cetaḥ vasi pattaḥ sakkuṇeyya nibbānassa rūpam vā saṇṭhānam vā vayam vā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:3.2_4",
+        "original": "vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayituṁ.",
+        "analyzed": "vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.1_0",
+        "original": "Aparampi, mahārāja, uttariṁ kāraṇaṁ suṇohi, atthidhammasseva nibbānassa na sakkā",
+        "analyzed": "aparam pi mahā rāja uttarim kāraṇam suṇohi atthi dhammassa iva nibbānassa na sakkā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.1_1",
+        "original": "rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti.",
+        "analyzed": "rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.2",
+        "original": "Atthi, mahārāja, devesu arūpakāyikā nāma devā”ti.",
+        "analyzed": "atthi mahā rāja devesu arūpa kāyikā nāma deva ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.3",
+        "original": "“Āma, bhante, suyyati ‘atthi devesu arūpakāyikā nāma devā’”ti.",
+        "analyzed": "āma bhante suyyati atthi devesu arūpakāyikā nāma deva ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.4",
+        "original": "“Sakkā pana, mahārāja, tesaṁ arūpakāyikānaṁ devānaṁ rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitun”ti?",
+        "analyzed": "sakkā pana mahā rāja tesam arūpa kāyikānam devānam rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.5",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.6",
+        "original": "“Tena hi, mahārāja, natthi arūpakāyikā devā”ti?",
+        "analyzed": "tena hi mahā rāja natthi arūpa kāyikā deva ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.7",
+        "original": "“Atthi, bhante, arūpakāyikā devā, na ca sakkā tesaṁ rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitun”ti.",
+        "analyzed": "atthi bhante arūpa kāyikāḥ devāḥ na ca sakkā tesam rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.8",
+        "original": "“Yathā, mahārāja, atthisattānaṁyeva arūpakāyikānaṁ devānaṁ na sakkā rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayituṁ;",
+        "analyzed": "yathā mahā rāja atthi sattā anayā iva arūpa kāyikānam devānam na sakkā rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:4.9",
+        "original": "evameva kho, mahārāja, atthidhammasseva nibbānassa na sakkā rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitun”ti.",
+        "analyzed": "evam eva kho mahā rāja atthi dhammassa iva nibbānassa na sakkā rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitunti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:5.1",
+        "original": "“Bhante nāgasena, hotu ekantasukhaṁ nibbānaṁ, na ca sakkā tassa rūpaṁ vā saṇṭhānaṁ vā vayaṁ vā pamāṇaṁ vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayituṁ.",
+        "analyzed": "bhante nāgasena hotu ekanta sukham nibbāna na ca sakkā tassa rūpam vā saṇṭhānam vā vayam vā pamāṇam vā opammena vā kāraṇena vā hetunā vā nayena vā upadassayitu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:5.2",
+        "original": "Atthi pana, bhante, nibbānassa guṇaṁ aññehi anupaviṭṭhaṁ kiñci opammanidassanamattan”ti?",
+        "analyzed": "atthi pana bhante nibbānassa guṇam aññehi an upaviṭṭham kiñci opamma nidassana mattam ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:5.3",
+        "original": "“Sarūpato, mahārāja, natthi, guṇato pana sakkā kiñci opammanidassanamattaṁ upadassayitun”ti.",
+        "analyzed": "sarūpataḥ mahā rāja natthi guṇataḥ pana sakkā kiñci opamma nidassana mattam upadassayitun ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:5.4",
+        "original": "“Sādhu, bhante nāgasena, yathāhaṁ labhāmi nibbānassa guṇatopi ekadesaparidīpanamattaṁ, tathā sīghaṁ brūhi, nibbāpehi me hadayapariḷāhaṁ vinaya sītalamadhuravacanamālutenā”ti.",
+        "analyzed": "sādhu bhante nāgasena yathā aham labhāmi nibbānassa guṇataḥ pi tathā sīgham brūhi nibbāpehi me hadaya pariḷāham vinaya sītala madhura vacana mālutena ati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:6.1_0",
+        "original": "“Padumassa, mahārāja, eko guṇo nibbānaṁ anupaviṭṭho, udakassa dve guṇā, agadassa",
+        "analyzed": "padumassa mahā rāja ekaḥ guṇaḥ nibbānam anupaviṭṭhaḥ udakassa dve guṇāḥ agadassa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:6.1_1",
+        "original": "tayo guṇā, mahāsamuddassa cattāro guṇā, bhojanassa pañca guṇā, ākāsassa dasa guṇā,",
+        "analyzed": "tayaḥ guṇā mahā samuddassa cattāro guṇā bhojanassa pañca guṇāḥ ākāsassa dasa guṇā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:6.1_2",
+        "original": "maṇiratanassa tayo guṇā, lohitacandanassa tayo guṇā, sappimaṇḍassa tayo guṇā, girisikharassa",
+        "analyzed": "maṇi ratanassa tayaḥ guṇā lohitacandanassa tayaḥ guṇā sappimaṇḍassa tayaḥ guṇā giri sikharassa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:6.1_3",
+        "original": "pañca guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "pañca guṇāḥ nibbānam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:7.1",
+        "original": "“Bhante nāgasena, ‘padumassa eko guṇo nibbānaṁ anupaviṭṭho’ti yaṁ vadesi, katamo padumassa eko guṇo nibbānaṁ anupaviṭṭho”ti?",
+        "analyzed": "bhante nāgasena padumassa ekaḥ guṇo nibbānam anupaviṭṭho ti yam vadesi katamaḥ padumassa ekaḥ guṇo nibbānam anupaviṭṭho ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:7.2",
+        "original": "“Yathā, mahārāja, padumaṁ anupalittaṁ udakena;",
+        "analyzed": "yathā mahā rāja padumam an upalittam udakena ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:7.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ sabbakilesehi anupalittaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sabba kilesehi anupalitta ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:7.4",
+        "original": "Ayaṁ, mahārāja, padumassa eko guṇo nibbānaṁ anupaviṭṭho”ti.",
+        "analyzed": "aya mahā rāja padumassa ekaḥ guṇo nibbānam anupaviṭṭhaḥ ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.1",
+        "original": "“Bhante nāgasena, ‘udakassa dve guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame udakassa dve guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena udakassa dve guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame udakassa dve guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.2",
+        "original": "“Yathā, mahārāja, udakaṁ sītalaṁ pariḷāhanibbāpanaṁ;",
+        "analyzed": "yathā mahā rāja udakam sītalam pariḷāha nibbāpana ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ sītalaṁ sabbakilesapariḷāhanibbāpanaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sītalam sabba kilesa pariḷāha nibbāpana ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.4",
+        "original": "Ayaṁ, mahārāja, udakassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja udakassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.5",
+        "original": "Puna caparaṁ, mahārāja, udakaṁ kilantatasitapipāsitaghammābhitattānaṁ janapasupajānaṁ pipāsāvinayanaṁ;",
+        "analyzed": "punar capara mahā rāja udakam kilantata sita pipāsita ghamma abhitattānam janapas upajānam ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ kāmataṇhābhavataṇhāvibhavataṇhāpipāsāvinayanaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam kāma taṇhā bhava taṇhā vibhava taṇhā pipāsā vinayana ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.7",
+        "original": "Ayaṁ, mahārāja, udakassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja udakassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:8.8",
+        "original": "Ime kho, mahārāja, udakassa dve guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja udakassa dve guṇā nibbānam ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.1",
+        "original": "“Bhante nāgasena, ‘agadassa tayo guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame agadassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena agadassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame agadassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.2",
+        "original": "“Yathā, mahārāja, agado visapīḷitānaṁ sattānaṁ paṭisaraṇaṁ;",
+        "analyzed": "yathā mahā rāja agadaḥ visa pīḍitānam sattānam ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ kilesavisapīḷitānaṁ sattānaṁ paṭisaraṇaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam kilesa visapīḍitānam sattānam paṭisaraṇa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.4",
+        "original": "Ayaṁ, mahārāja, agadassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja agadassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.5",
+        "original": "Puna caparaṁ, mahārāja, agado rogānaṁ antakaro;",
+        "analyzed": "puna capara mahā rāja agadaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ sabbadukkhānaṁ antakaraṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sabba dukkhānam anta kara ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.7",
+        "original": "Ayaṁ, mahārāja, agadassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja agadassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.8",
+        "original": "Puna caparaṁ, mahārāja, agado amataṁ;",
+        "analyzed": "puna capara mahā rāja agadaḥ amata ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ amataṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam amata ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.10",
+        "original": "Ayaṁ, mahārāja, agadassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja agadassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:9.11",
+        "original": "Ime kho, mahārāja, agadassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja agadassa tayaḥ guṇāḥ nibbānam ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.1",
+        "original": "“Bhante nāgasena, ‘mahāsamuddassa cattāro guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame mahāsamuddassa cattāro guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena mahā samuddassa cattāro guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame mahā samuddassa cattāro guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.2",
+        "original": "“Yathā, mahārāja, mahāsamuddo suñño sabbakuṇapehi;",
+        "analyzed": "yathā mahā rāja mahā samuddaḥ suññaḥ sabba kuṇapehi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ suññaṁ sabbakilesakuṇapehi.",
+        "analyzed": "evam eva kho mahā rāja nibbānam suññam sabba kilesa kuṇapehi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.4",
+        "original": "Ayaṁ, mahārāja, mahāsamuddassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja mahā samuddassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.5",
+        "original": "Puna caparaṁ, mahārāja, mahāsamuddo mahanto anorapāro, na paripūrati sabbasavantīhi;",
+        "analyzed": "puna capara mahā rāja mahā samuddaḥ mahantaḥ anorapāraḥ na paripūrati sabba savantīhi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ mahantaṁ anorapāraṁ, na pūrati sabbasattehi.",
+        "analyzed": "evam eva kho mahā rāja nibbānam mahantam anorapāra na pūrati sabba sattehi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.7",
+        "original": "Ayaṁ, mahārāja, mahāsamuddassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja mahā samuddassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.8",
+        "original": "Puna caparaṁ, mahārāja, mahāsamuddo mahantānaṁ bhūtānaṁ āvāso;",
+        "analyzed": "puna capara mahā rāja mahā samuddaḥ mahantānam bhūtānam āvāsaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ mahantānaṁ arahantānaṁ vimalakhīṇāsavabalappattavasībhūtamahābhūtānaṁ āvāso.",
+        "analyzed": "evam eva kho mahā rāja nibbānam mahantānam arahantānam vimala khīṇa āsava bala patta vasībhūta mahābhūtānam āvāsaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.10",
+        "original": "Ayaṁ, mahārāja, mahāsamuddassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja mahā samuddassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.11",
+        "original": "Puna caparaṁ, mahārāja, mahāsamuddo aparimitavividhavipulavīcipupphasaṅkusumito;",
+        "analyzed": "puna capara mahā rāja mahā samuddaḥ aparimita vividha vipula vīci puppha saṅkusumitaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.12",
+        "original": "evameva kho, mahārāja, nibbānaṁ aparimitavividhavipulaparisuddhavijjāvimuttipupphasaṅkusumitaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam aparimita vividha vipula parisuddha vijjā vimutti puppha saṅkusumita ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.13",
+        "original": "Ayaṁ, mahārāja, mahāsamuddassa catuttho guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja mahā samuddassa catutthaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:10.14",
+        "original": "Ime kho, mahārāja, mahāsamuddassa cattāro guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja mahā samuddassa cattāro guṇāḥ nibbānam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.1",
+        "original": "“Bhante nāgasena, ‘bhojanassa pañca guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame bhojanassa pañca guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena bhojanassa pañca guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame bhojanassa pañca guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.2",
+        "original": "“Yathā, mahārāja, bhojanaṁ sabbasattānaṁ āyudhāraṇaṁ;",
+        "analyzed": "yathā mahā rāja bhojanam sabba sattānam āyudha araṇa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ sacchikataṁ jarāmaraṇanāsanato āyudhāraṇaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sacchikatam jarā maraṇanā asanataḥ āyudha araṇa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.4",
+        "original": "Ayaṁ, mahārāja, bhojanassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja bhojanassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.5",
+        "original": "Puna caparaṁ, mahārāja, bhojanaṁ sabbasattānaṁ balavaḍḍhanaṁ;",
+        "analyzed": "puna capara mahā rāja bhojanam sabba sattānam bala vaḍḍhana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ sacchikataṁ sabbasattānaṁ iddhibalavaḍḍhanaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sacchikatam sabba sattānam iddhi bala vaḍḍhana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.7",
+        "original": "Ayaṁ, mahārāja, bhojanassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja bhojanassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.8",
+        "original": "Puna caparaṁ, mahārāja, bhojanaṁ sabbasattānaṁ vaṇṇajananaṁ;",
+        "analyzed": "puna capara mahā rāja bhojanam sabba sattānam vaṇṇa janana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ sacchikataṁ sabbasattānaṁ guṇavaṇṇajananaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sacchikatam sabba sattānam guṇa vaṇṇa janana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.10",
+        "original": "Ayaṁ, mahārāja, bhojanassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja bhojanassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.11",
+        "original": "Puna caparaṁ, mahārāja, bhojanaṁ sabbasattānaṁ darathavūpasamanaṁ;",
+        "analyzed": "puna capara mahā rāja bhojanam sabba sattānam daratha vūpasamana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.12",
+        "original": "evameva kho, mahārāja, nibbānaṁ sacchikataṁ sabbasattānaṁ sabbakilesadarathavūpasamanaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sacchikatam sabba sattānam sabba kilesa da ratha vūpasamana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.13",
+        "original": "Ayaṁ, mahārāja, bhojanassa catuttho guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja bhojanassa catutthaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.14",
+        "original": "Puna caparaṁ, mahārāja, bhojanaṁ sabbasattānaṁ jighacchādubbalyapaṭivinodanaṁ;",
+        "analyzed": "puna capara mahā rāja bhojanam sabba sattānam jighacchā dubbalya paṭivinodana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.15",
+        "original": "evameva kho, mahārāja, nibbānaṁ sacchikataṁ sabbasattānaṁ sabbadukkhajighacchādubbalyapaṭivinodanaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sacchikatam sabba sattānam sabba dukkha jighacchā dubbalya paṭivinodana ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.16",
+        "original": "Ayaṁ, mahārāja, bhojanassa pañcamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja bhojanassa pañcamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:11.17",
+        "original": "Ime kho, mahārāja, bhojanassa pañca guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja bhojanassa pañca guṇāḥ nibbānam ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:12.1",
+        "original": "“Bhante nāgasena, ‘ākāsassa dasa guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame ākāsassa dasa guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena ākāsassa dasa guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame ākāsassa dasa guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:12.2",
+        "original": "“Yathā, mahārāja, ākāso na jāyati, na jīyati, na mīyati, na cavati, na uppajjati, duppasaho, acorāharaṇo, anissito, vihagagamano, nirāvaraṇo, ananto.",
+        "analyzed": "yathā mahā rāja ākāsaḥ na jāyati na jīyati na mīyati na cavati na uppajjati duppasahaḥ a cora āharaṇaḥ a nissitaḥ vihaga gamanaḥ nirāvaraṇaḥ anantaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:12.3",
+        "original": "Evameva kho, mahārāja, nibbānaṁ na jāyati, na jīyati, na mīyati, na cavati, na uppajjati, duppasahaṁ, acorāharaṇaṁ, anissitaṁ, ariyagamanaṁ, nirāvaraṇaṁ, anantaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam na jāyati na jīyati na mīyati na cavati na uppajjati duppasaha a cora āharaṇa a nissita ariya gamana nirāvaraṇa ananta ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:12.4",
+        "original": "Ime kho, mahārāja, ākāsassa dasa guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja ākāsassa dasa guṇāḥ nibbānam ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.1",
+        "original": "“Bhante nāgasena, ‘maṇiratanassa tayo guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame maṇiratanassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena maṇi ratanassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame maṇi ratanassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.2",
+        "original": "“Yathā, mahārāja, maṇiratanaṁ kāmadadaṁ;",
+        "analyzed": "yathā mahā rāja maṇi ratanam kām adada ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ kāmadadaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam kām adada ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.4",
+        "original": "Ayaṁ, mahārāja, maṇiratanassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja maṇi ratanassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.5",
+        "original": "Puna caparaṁ, mahārāja, maṇiratanaṁ hāsakaraṁ;",
+        "analyzed": "punar capara mahā rāja maṇi ratanam hāsa kara ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ hāsakaraṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam hāsa kara ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.7",
+        "original": "Ayaṁ, mahārāja, maṇiratanassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja maṇi ratanassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.8",
+        "original": "Puna caparaṁ, mahārāja, maṇiratanaṁ ujjotattakaraṁ;",
+        "analyzed": "punar capara mahā rāja maṇi ratanam ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ ujjotattakaraṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam ujjotattakara ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.10",
+        "original": "Ayaṁ, mahārāja, maṇiratanassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja maṇi ratanassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:13.11",
+        "original": "Ime kho, mahārāja, maṇiratanassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja maṇi ratanassa tayaḥ guṇāḥ nibbānam ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.1",
+        "original": "“Bhante nāgasena, ‘lohitacandanassa tayo guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame lohitacandanassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena lohitacandanassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame lohitacandanassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.2",
+        "original": "“Yathā, mahārāja, lohitacandanaṁ dullabhaṁ;",
+        "analyzed": "yathā mahā rāja lohitacandanam dullabha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ dullabhaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam dullabha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.4",
+        "original": "Ayaṁ, mahārāja, lohitacandanassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja lohitacandanassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.5",
+        "original": "Puna caparaṁ, mahārāja, lohitacandanaṁ asamasugandhaṁ;",
+        "analyzed": "puna capara mahā rāja lohitacandanam asama sugandha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ asamasugandhaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam asamasugandha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.7",
+        "original": "Ayaṁ, mahārāja, lohitacandanassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja lohitacandanassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.8",
+        "original": "Puna caparaṁ, mahārāja, lohitacandanaṁ sajjanapasatthaṁ;",
+        "analyzed": "punar capara mahā rāja lohitacandanam ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ ariyasajjanapasatthaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam ariya sajjana pasattha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.10",
+        "original": "Ayaṁ, mahārāja, lohitacandanassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja lohitacandanassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:14.11",
+        "original": "Ime kho, mahārāja, lohitacandanassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja lohitacandanassa tayo guṇāḥ nibbānam ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.1",
+        "original": "“Bhante nāgasena, ‘sappimaṇḍassa tayo guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame sappimaṇḍassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena sappi maṇḍassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame sappi maṇḍassa tayaḥ guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.2",
+        "original": "“Yathā, mahārāja, sappimaṇḍo vaṇṇasampanno;",
+        "analyzed": "yathā mahā rāja sappimaṇḍaḥ vaṇṇa sampannaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ guṇavaṇṇasampannaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam guṇa vaṇṇa sampanna ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.4",
+        "original": "Ayaṁ, mahārāja, sappimaṇḍassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja sappimaṇḍassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.5",
+        "original": "Puna caparaṁ, mahārāja, sappimaṇḍo gandhasampanno;",
+        "analyzed": "puna capara mahā rāja sappimaṇḍaḥ gandha sampannaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ sīlagandhasampannaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sīla gandha sampanna ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.7",
+        "original": "Ayaṁ, mahārāja, sappimaṇḍassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja sappimaṇḍassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.8",
+        "original": "Puna caparaṁ, mahārāja, sappimaṇḍo rasasampanno;",
+        "analyzed": "puna capara mahā rāja sappimaṇḍaḥ rasa sampannaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ rasasampannaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam rasa sampanna ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.10",
+        "original": "Ayaṁ, mahārāja, sappimaṇḍassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja sappimaṇḍassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:15.11",
+        "original": "Ime kho, mahārāja, sappimaṇḍassa tayo guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja sappimaṇḍassa tayaḥ guṇāḥ nibbānam ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.1",
+        "original": "“Bhante nāgasena, ‘girisikharassa pañca guṇā nibbānaṁ anupaviṭṭhā’ti yaṁ vadesi, katame girisikharassa pañca guṇā nibbānaṁ anupaviṭṭhā”ti?",
+        "analyzed": "bhante nāgasena giri sikharassa pañca guṇāḥ nibbānam anupaviṭṭhāti yam vadesi katame giri sikharassa pañca guṇāḥ nibbānam anupaviṭṭhāti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.2",
+        "original": "“Yathā, mahārāja, girisikharaṁ accuggataṁ;",
+        "analyzed": "yathā mahā rāja giri sikharam accuggata ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.3",
+        "original": "evameva kho, mahārāja, nibbānaṁ accuggataṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam accuggata ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.4",
+        "original": "Ayaṁ, mahārāja, girisikharassa paṭhamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja giri sikharassa paṭhamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.5",
+        "original": "Puna caparaṁ, mahārāja, girisikharaṁ acalaṁ;",
+        "analyzed": "punar capara mahā rāja giri sikharam acala ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.6",
+        "original": "evameva kho, mahārāja, nibbānaṁ acalaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam acala ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.7",
+        "original": "Ayaṁ, mahārāja, girisikharassa dutiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja giri sikharassa dutiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.8",
+        "original": "Puna caparaṁ, mahārāja, girisikharaṁ duradhirohaṁ;",
+        "analyzed": "punar capara mahā rāja giri sikharam duradhiroha ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.9",
+        "original": "evameva kho, mahārāja, nibbānaṁ duradhirohaṁ sabbakilesānaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam duradhiroham sabba kilesāna ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.10",
+        "original": "Ayaṁ, mahārāja, girisikharassa tatiyo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja giri sikharassa tatiyaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.11",
+        "original": "Puna caparaṁ, mahārāja, girisikharaṁ sabbabījānaṁ avirūhanaṁ;",
+        "analyzed": "puna capara mahā rāja giri sikharam sabba bījānam a virūhana ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.12",
+        "original": "evameva kho, mahārāja, nibbānaṁ sabbakilesānaṁ avirūhanaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam sabba kilesānam a virūhana ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.13",
+        "original": "Ayaṁ, mahārāja, girisikharassa catuttho guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja giri sikharassa catutthaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.14",
+        "original": "Puna caparaṁ, mahārāja, girisikharaṁ anunayappaṭighavippamuttaṁ;",
+        "analyzed": "puna capara mahā rāja giri sikharam anunaya ppaṭigha vippamutta ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.15",
+        "original": "evameva kho, mahārāja, nibbānaṁ anunayappaṭighavippamuttaṁ.",
+        "analyzed": "evam eva kho mahā rāja nibbānam anunaya ppaṭigha vippamutta ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.16",
+        "original": "Ayaṁ, mahārāja, girisikharassa pañcamo guṇo nibbānaṁ anupaviṭṭho.",
+        "analyzed": "aya mahā rāja giri sikharassa pañcamaḥ guṇaḥ nibbānam anupaviṭṭhaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.17",
+        "original": "Ime kho, mahārāja, girisikharassa pañca guṇā nibbānaṁ anupaviṭṭhā”ti.",
+        "analyzed": "ime kho mahā rāja giri sikharassa pañca guṇāḥ nibbānam ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:16.18",
+        "original": "“Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti.",
+        "analyzed": "sādhu bhante nāgasena evam etam tathā sampaṭicchāmi iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.10:17.1",
+        "original": "Nibbānarūpasaṇṭhānapañho dasamo.",
+        "analyzed": "nibbāna rūpa saṇṭhāna pañhaḥ dasamaḥ ",
+        "folio": "17"
+    }
+]

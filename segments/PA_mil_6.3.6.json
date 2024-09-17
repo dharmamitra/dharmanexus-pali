@@ -1,0 +1,950 @@
+[
+    {
+        "segmentnr": "PA_mil_6.3.6:0.1",
+        "original": "Milindapañha",
+        "analyzed": "milindapañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:0.2",
+        "original": "Anumānapañha",
+        "analyzed": "anumāna pañha ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:0.3",
+        "original": "Vessantaravagga",
+        "analyzed": "vessantara vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:0.4",
+        "original": "6. Akālamaraṇapañha",
+        "analyzed": "     ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:1.1",
+        "original": "“Bhante nāgasena, ye te sattā maranti, sabbe te kāleyeva maranti, udāhu akālepi marantī”ti?",
+        "analyzed": "bhante nāgasena ye te sattāḥ maranti sabbe te kāleya iva maranti udāhu akāle pi maranti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:1.2",
+        "original": "“Atthi, mahārāja, kālepi maraṇaṁ, atthi akālepi maraṇan”ti.",
+        "analyzed": "atthi mahā rāja kālepi maraṇa atthi akālepi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.1",
+        "original": "“Bhante nāgasena, ke kāle maranti, ke akāle marantī”ti?",
+        "analyzed": "bhante nāgasena ke kāle maranti ke akāle maranti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.2",
+        "original": "“Diṭṭhapubbā pana, mahārāja, tayā ambarukkhā vā jamburukkhā vā, aññasmā vā pana phalarukkhā phalāni patantāni āmāni ca pakkāni cā”ti?",
+        "analyzed": "diṭṭha pubbā pana mahā rāja tayā amba rukkhā vā jambu rukkhā vā aññasma vā pana phala rukkhā phalāni patantāni āmāni ca pakkāni ca ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.3",
+        "original": "“Āma, bhante”ti.",
+        "analyzed": "āma bhanta iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.4",
+        "original": "“Yāni tāni, mahārāja, phalāni rukkhato patanti, sabbāni tāni kāleyeva patanti, udāhu akālepī”ti?",
+        "analyzed": "yāni tāni mahā rāja phalāni rukkhataḥ patanti sabbāni tāni kāleya iva patanti udāhu akāle pi iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.5",
+        "original": "“Yāni tāni, bhante nāgasena, phalāni paripakkāni vilīnāni patanti, sabbāni tāni kāle patanti.",
+        "analyzed": "yāni tāni bhante nāgasena phalāni paripakkāni vilīnāni patanti sabbāni tāni kāle patanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.6_0",
+        "original": "Yāni pana tāni avasesāni phalāni tesu kānici kimividdhāni patanti, kānici laguḷahatāni",
+        "analyzed": "yāni pana tāni avasesāni phalāni tesu kānici kimividdhāni patanti kānici laguḷa hatāni ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.6_1",
+        "original": "patanti, kānici vātappahatāni patanti, kānici antopūtikāni hutvā patanti, sabbāni",
+        "analyzed": "patanti kānici vāta ppahatāni patanti kānici antopūtikāni hutvā patanti sabbāni ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.6_2",
+        "original": "tāni akāle patantī”ti.",
+        "analyzed": "tāni akāle patanti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:2.7",
+        "original": "“Evameva kho, mahārāja, ye te jarāvegahatā maranti, teyeva kāle maranti, avasesā keci kammappaṭibāḷhā maranti, keci gatippaṭibāḷhā maranti, keci kiriyappaṭibāḷhā marantī”ti.",
+        "analyzed": "evam eva kho mahā rāja ye te jarā vega hatāḥ maranti te yeva kāle maranti avasesā keci kamma ppaṭibāḷhā maranti keci gati ppaṭibāḷhāḥ maranti keci kiriya ppaṭibāḷhāḥ maranti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:3.1_0",
+        "original": "“Bhante nāgasena, ye te kammappaṭibāḷhā maranti, yepi te gatippaṭibāḷhā maranti,",
+        "analyzed": "bhante nāgasena ye te kamma ppaṭibāḷhāḥ maranti ye pi te gati ppaṭibāḷhāḥ maranti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:3.1_1",
+        "original": "yepi te kiriyappaṭibāḷhā maranti, yepi te jarāvegappaṭibāḷhā maranti, sabbe te kāleyeva",
+        "analyzed": "ye api te kiriya paṭibāḷhāḥ maranti ye api te jarā vega paṭibāḷhāḥ maranti sabbe te kāleya iva ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:3.1_2",
+        "original": "maranti, yopi mātukucchigato marati, so tassa kālo, kāleyeva so marati.",
+        "analyzed": "maranti yaḥ api mātukucchi gataḥ marati saḥ tassa kālaḥ kāleya iva saḥ marati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:3.2",
+        "original": "Yopi vijātaghare marati, so tassa kālo, sopi kāleyeva marati.",
+        "analyzed": "yaḥ api vijāta ghare marati saḥ tassa kālo saḥ api kāleya iva marati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:3.3",
+        "original": "Yopi māsiko marati …pe…",
+        "analyzed": "yaḥ pi māsikaḥ marati pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:3.4",
+        "original": "yopi vassasatiko marati, so tassa kālo, kāleyeva so marati, tena hi, bhante nāgasena, akāle maraṇaṁ nāma na hoti, ye keci maranti, sabbe te kāleyeva marantī”ti.",
+        "analyzed": "yaḥ api vassa satikaḥ marati saḥ tassa kālaḥ kāleya iva saḥ marati tena hi bhante nāgasena akāle maraṇam nāma na hoti ye keci maranti sabbe te kāleya iva maranti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.1",
+        "original": "“Sattime, mahārāja, vijjamānepi uttariṁ āyusmiṁ akāle maranti.",
+        "analyzed": "mahā rāja vijjamāne api uttarim āyusmin akāle maranti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.2",
+        "original": "Katame satta?",
+        "analyzed": "katame satta ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.3",
+        "original": "Jighacchito, mahārāja, bhojanaṁ alabhamāno upahatabbhantaro vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "jighacchitaḥ mahā rāja bhojanam a labhamānaḥ upahatabbhantaraḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.4",
+        "original": "pipāsito, mahārāja, pānīyaṁ alabhamāno parisukkhahadayo vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "pipāsitaḥ mahā rāja pānīyam a labhamānaḥ parisukkha hadayaḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.5",
+        "original": "ahinā daṭṭho, mahārāja, visavegābhihato tikicchakaṁ alabhamāno vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "ahinā daṭṭhaḥ mahā rāja visavega abhihato tikicchakam a labhamānaḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.6",
+        "original": "visamāsito, mahārāja, ḍayhantesu aṅgapaccaṅgesu agadaṁ alabhamāno vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "visamāsitaḥ mahā rāja ḍayhantesu aṅga paccaṅgesu agadam a labhamānaḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.7",
+        "original": "aggigato, mahārāja, jhāyamāno nibbāpanaṁ alabhamāno vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "aggi gataḥ mahā rāja jhāyamānaḥ nibbāpanam a labhamānaḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.8",
+        "original": "udakagato, mahārāja, patiṭṭhaṁ alabhamāno vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "udaka gataḥ mahā rāja patiṭṭham a labhamānaḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.9",
+        "original": "sattihato, mahārāja, ābādhiko bhisakkaṁ alabhamāno vijjamānepi uttariṁ āyusmiṁ akāle marati;",
+        "analyzed": "satti hataḥ mahā rāja ābādhikaḥ bhisakkam a labhamānaḥ vijjamāne api uttarim āyusmin akāle marati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.10",
+        "original": "ime kho, mahārāja, satta vijjamānepi uttariṁ āyusmiṁ akāle maranti.",
+        "analyzed": "ime kho mahā rāja satta vijjamāne api uttarim āyusmin akāle maranti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:4.11",
+        "original": "Tatrāpāhaṁ, mahārāja, ekaṁsena vadāmi.",
+        "analyzed": "tatra apāha mahā rājaḥ ekasena vadāmi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:5.1_0",
+        "original": "Aṭṭhavidhena, mahārāja, sattānaṁ kālaṅkiriyā hoti, vātasamuṭṭhānena pittasamuṭṭhānena",
+        "analyzed": "aṭṭhavidhena mahā rāja sattānam kālaṅkiriyā hoti vāta samuṭṭhānena pitta samuṭṭhānena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:5.1_1",
+        "original": "semhasamuṭṭhānena sannipātikena utuvipariṇāmena visamaparihārena opakkamikena kammavipākena,",
+        "analyzed": "semha samuṭṭhānena sannipātikena utu vipariṇāmena visama parihārena opakkamikena kamma vipākena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:5.1_2",
+        "original": "mahārāja, sattānaṁ kālaṅkiriyā hoti.",
+        "analyzed": "mahā rāja sattānam kālaṅkiriyā hoti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:5.2",
+        "original": "Tatra, mahārāja, yadidaṁ kammavipākena kālaṅkiriyā, sāyeva tattha sāmayikā kālaṅkiriyā, avasesā asāmayikā kālaṅkiriyāti.",
+        "analyzed": "tatra mahā rāja yat idam kamma vipākena kālaṅkiriyā sā āyā iva tattha sāmayikā kālaṅkiriyā avasesā asāmayikā kālaṅkiriyā ati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:5.3",
+        "original": "Bhavati ca—",
+        "analyzed": "bhavati ca ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.1",
+        "original": "‘Jighacchāya pipāsāya,",
+        "analyzed": "jighacchāya pipāsāya ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.2",
+        "original": "ahidaṭṭhā visena ca;",
+        "analyzed": "ahidaṭṭhā visena ca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.3",
+        "original": "Aggiudakasattīhi,",
+        "analyzed": "aggi udaka sattīhi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.4",
+        "original": "akāle tattha mīyati;",
+        "analyzed": "akāle mīyati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.5",
+        "original": "Vātapittena semhena,",
+        "analyzed": "vāta pittena semhena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.6",
+        "original": "sannipātenutūhi ca;",
+        "analyzed": "sannipāta inu tūhi ca ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.7",
+        "original": "Visamopakkamakammehi,",
+        "analyzed": "visama upakkama kammehi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:6.8",
+        "original": "akāle tattha mīyatī’ti.",
+        "analyzed": "akāle tattha mīyati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:7.1",
+        "original": "Keci, mahārāja, sattā pubbe katena tena tena akusalakammavipākena maranti.",
+        "analyzed": "keci mahā rāja sattā pubbe katena tena tena akusala kamma vipākena maranti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:7.2_0",
+        "original": "Idha, mahārāja, yo pubbe pare jighacchāya māreti, so bahūni vassasatasahassāni jighacchāya",
+        "analyzed": "idha mahā rāja yaḥ pubbe pare jighacchāya māreti saḥ bahūni vassa sata sahassāni jighacchāya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:7.2_1",
+        "original": "paripīḷito chāto parikilanto sukkhamilātahadayo bubhukkhito visukkhito jhāyanto abbhantaraṁ",
+        "analyzed": "paripīḷitaḥ chātaḥ parikilantaḥ sukkha milāta hadayaḥ bubhukkhitaḥ visukkhitaḥ jhāyantaḥ abbhantara ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:7.2_2",
+        "original": "pariḍayhanto jighacchāyayeva marati daharopi majjhimopi mahallakopi, idampi tassa sāmayikamaraṇaṁ.",
+        "analyzed": "pariḍayhantaḥ marati daharaḥ pi majjhimaḥ pi mahallakaḥ pi idam pi tassa sāmayika maraṇa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:8.1_0",
+        "original": "Yo pubbe pare pipāsāya māreti, so bahūni vassasatasahassāni peto hutvā nijjhāmataṇhiko",
+        "analyzed": "yaḥ pubbe pare pipāsāya māreti saḥ bahūni vassa sata sahassāni petaḥ hutvā nijjhāma taṇhikaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:8.1_1",
+        "original": "samāno lūkho kiso parisukkhitahadayo pipāsāyayeva marati daharopi majjhimopi mahallakopi,",
+        "analyzed": "samānaḥ lūkhaḥ kisaḥ parisukkhita hadayaḥ marati daharaḥ api majjhimaḥ api mahallakaḥ api ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:8.1_2",
+        "original": "idampi tassa sāmayikamaraṇaṁ.",
+        "analyzed": "idam pi tassa sāmayika maraṇa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:9.1_0",
+        "original": "Yo pubbe pare ahinā ḍaṁsāpetvā māreti, so bahūni vassasatasahassāni ajagaramukheneva",
+        "analyzed": "yaḥ pubbe pare ahinā māreti saḥ bahūni vassa sata sahassāni ajagara mukhena iva ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:9.1_1",
+        "original": "ajagaramukhaṁ kaṇhasappamukheneva kaṇhasappamukhaṁ parivattitvā tehi khāyitakhāyito",
+        "analyzed": "ajagara mukham kaṇha sappa mukhena iva kaṇha sappa mukham parivattitvā tehi khāyita khāyitaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:9.1_2",
+        "original": "ahīhi daṭṭhoyeva marati daharopi majjhimopi mahallakopi, idampi tassa sāmayikamaraṇaṁ.",
+        "analyzed": "ahīhi daṭṭhaḥ yā iva marati daharaḥ api majjhimaḥ api mahallakaḥ api idam pi tassa sāmayika maraṇa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:10.1_0",
+        "original": "Yo pubbe pare visaṁ datvā māreti, so bahūni vassasatasahassāni ḍayhantehi aṅgapaccaṅgehi",
+        "analyzed": "yaḥ pubbe pare visam da tvā māreti saḥ bahūni vassa sata sahassāni ḍayhantehi aṅga paccaṅgehi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:10.1_1",
+        "original": "bhijjamānena sarīrena kuṇapagandhaṁ vāyanto viseneva marati daharopi majjhimopi mahallakopi,",
+        "analyzed": "bhijjamānena sarīrena kuṇapa gandham vāyantaḥ visena iva marati daharaḥ api majjhimaḥ pi mahallakaḥ api ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:10.1_2",
+        "original": "idampi tassa sāmayikamaraṇaṁ.",
+        "analyzed": "idam pi tassa sāmayika maraṇa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:11.1_0",
+        "original": "Yo pubbe pare agginā māreti, so bahūni vassasatasahassāni aṅgārapabbateneva aṅgārapabbataṁ",
+        "analyzed": "yaḥ pubbe pare agginā māreti saḥ bahūni vassa sata sahassāni aṅgārapabbatena iva aṅgārapabbata ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:11.1_1",
+        "original": "yamavisayeneva yamavisayaṁ parivattitvā daḍḍhavidaḍḍhagatto aggināyeva marati daharopi",
+        "analyzed": "yama visayena iva yama visayam daḍḍha vidaḍḍha gattaḥ marati daharaḥ api ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:11.1_2",
+        "original": "majjhimopi mahallakopi, idampi tassa sāmayikamaraṇaṁ.",
+        "analyzed": "majjhimaḥ api mahallakaḥ api idam pi tassa sāmayika maraṇa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:12.1_0",
+        "original": "Yo pubbe pare udakena māreti, so bahūni vassasatasahassāni hataviluttabhaggadubbalagatto",
+        "analyzed": "yaḥ pubbe pare udakena māreti saḥ bahūni vassa sata sahassāni hata vilutta bhagga dubbala gattaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:12.1_1",
+        "original": "khubbhitacitto udakeneva marati daharopi majjhimopi mahallakopi, idampi tassa sāmayikamaraṇaṁ.",
+        "analyzed": "khubbhita cittaḥ udakena iva marati daharaḥ pi majjhimaḥ pi mahallakaḥ pi idam pi tassa sāmayika maraṇa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:13.1_0",
+        "original": "Yo pubbe pare sattiyā māreti, so bahūni vassasatasahassāni chinnabhinnakoṭṭitavikoṭṭito",
+        "analyzed": "yaḥ pubbe pare sattiyā māreti so bahūni vassa sata sahassāni chinna bhinna koṭṭita vikoṭṭitaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:13.1_1",
+        "original": "sattimukhasamāhato sattiyāyeva marati daharopi majjhimopi mahallakopi, idampi tassa sāmayikamaraṇaṁ”.",
+        "analyzed": "satti mukha samāhato marati daharaḥ pi majjhimaḥ pi mahallakaḥ pi idam pi tassa sāmayika maraṇa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:14.1",
+        "original": "“Bhante nāgasena, akāle maraṇaṁ atthīti yaṁ vadesi, iṅgha me tvaṁ tattha kāraṇaṁ atidisāti”.",
+        "analyzed": "bhante nāgasena akāle maraṇam atthi iti yam vadesi me tvam tattha kāraṇam atidisāti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:14.2",
+        "original": "“Yathā, mahārāja, mahatimahāaggikkhandho ādinnatiṇakaṭṭhasākhāpalāso pariyādinnabhakkho upādānasaṅkhayā nibbāyati, so aggi vuccati ‘anītiko anupaddavo samaye nibbuto nāmā’ti;",
+        "analyzed": "yathā mahā rāja mahati mahā aggi khandhaḥ ādinna tiṇa kaṭṭha sākhā palāsaḥ pariyādinna bhakkhaḥ upādāna saṅkhayā nibbāyati saḥ aggi vuccati anītikaḥ an upaddavaḥ samaye nibbutaḥ nāma ati ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:14.3",
+        "original": "evameva kho, mahārāja, yo koci bahūni divasasahassāni jīvitvā jarājiṇṇo āyukkhayā anītiko anupaddavo marati, so vuccati ‘samaye maraṇamupagato’ti.",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci bahūni divasa sahassāni jīvitvā jarā jiṇṇaḥ āyu kkhayā anītikaḥ anupaddavaḥ marati saḥ vuccati samaye maraṇam upagataḥ ti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.1_0",
+        "original": "Yathā vā pana, mahārāja, mahatimahāaggikkhandho ādinnatiṇakaṭṭhasākhāpalāso assa,",
+        "analyzed": "yathā vā pana mahā rāja mahati mahā aggi khandhaḥ ādinna tiṇa kaṭṭha sākhā palāsaḥ assa ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.1_1",
+        "original": "taṁ apariyādinneyeva tiṇakaṭṭhasākhāpalāse mahatimahāmegho abhippavassitvā nibbāpeyya,",
+        "analyzed": "tam tiṇa kaṭṭha sākhā palāse mahati mahā meghaḥ abhippavassitvā nibbāpeyya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.1_2",
+        "original": "api nu kho, mahārāja, mahāaggikkhandho samaye nibbuto nāma hotī”ti?",
+        "analyzed": "api nu kho mahā rāja mahā aggi khandhaḥ samaye nibbutaḥ nāma hoti iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.3",
+        "original": "“Kissa pana so, mahārāja, pacchimo aggikkhandho purimakena aggikkhandhena samasamagatiko nāhosī”ti?",
+        "analyzed": "kissa pana so mahā rāja pacchimaḥ aggi kkhandho purimakena aggi kkhandhena sama sama gatikaḥ na ahosi iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.4",
+        "original": "“Āgantukena, bhante, meghena paṭipīḷito so aggikkhandho asamaye nibbuto”ti.",
+        "analyzed": "āgantukena bhante meghena paṭipīḷitaḥ saḥ aggi kkhandho asamaye nibbuto ti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.5_0",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vāta samuṭṭhānena ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.5_1",
+        "original": "vā pittasamuṭṭhānena vā semhasamuṭṭhānena vā sannipātikena vā utupariṇāmajena vā",
+        "analyzed": "vā pitta samuṭṭhānena vā semha samuṭṭhānena vā sannipātikena vā utu pariṇāma jena vā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.5_2",
+        "original": "visamaparihārajena vā opakkamikena vā jighacchāya vā pipāsāya vā sappadaṭṭhena vā",
+        "analyzed": "visama parihāra jena vā opakkamikena vā jighacchāya vā pipāsāya vā sa padaṭṭhena vā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.5_3",
+        "original": "visamāsitena vā agginā vā udakena vā sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "visamāsitena vā agginā vā udakena vā satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:15.6",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthi.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:16.1",
+        "original": "Yathā vā pana, mahārāja, gagane mahatimahāvalāhako uṭṭhahitvā ninnañca thalañca paripūrayanto abhivassati, so vuccati ‘megho anītiko anupaddavo vassatī’ti;",
+        "analyzed": "yathā vā pana mahā rāja gagane mahati mahā valāhakaḥ uṭṭhahitvā ninnam ca thalam ca paripūrayantaḥ abhivassati saḥ vuccati meghaḥ anītikaḥ anupaddavaḥ vassati iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:16.2",
+        "original": "evameva kho, mahārāja, yo koci ciraṁ jīvitvā jarājiṇṇo āyukkhayā anītiko anupaddavo marati, so vuccati ‘samaye maraṇamupagato’ti.",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci ciram jīvitvā jarā jiṇṇaḥ āyu khayā anītikaḥ anupaddavaḥ marati saḥ vuccati samaye maraṇam upagataḥ ti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.1",
+        "original": "Yathā vā pana, mahārāja, gagane mahatimahāvalāhako uṭṭhahitvā antarāyeva mahatā vātena abbhatthaṁ gaccheyya, api nu kho so, mahārāja, mahāvalāhako samaye vigato nāma hotī”ti?",
+        "analyzed": "yathā vā pana mahā rāja gagane mahati mahā valāhakaḥ uṭṭhahitvā antarāya iva mahatā vātena abbhattham gaccheyya api nu kho saḥ mahā rāja mahā valāhakaḥ samaye vigataḥ nāma hoti iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.3",
+        "original": "“Kissa pana so, mahārāja, pacchimo valāhako purimena valāhakena samasamagatiko nāhosī”ti?",
+        "analyzed": "kissa pana saḥ mahā rāja pacchimaḥ valāhako purimena valāhakena sama sama gatikaḥ na ahosi iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.4",
+        "original": "“Āgantukena, bhante, vātena paṭipīḷito so valāhako asamayappattoyeva vigato”ti.",
+        "analyzed": "āgantukena bhante vātena paṭipīḍitaḥ saḥ valāhakaḥ a samaya ppattaḥ yā iva vigataḥ ti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.5",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena vā …pe…",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vātasamuṭṭhānena vā pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.6",
+        "original": "sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:17.7",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthīti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:18.1_0",
+        "original": "Yathā vā pana, mahārāja, balavā āsīviso kupito kiñcideva purisaṁ ḍaṁseyya, tassa",
+        "analyzed": "yathā vā pana mahā rāja balavā āsīvisaḥ kupitaḥ kiñcid eva purisam tassa ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:18.1_1",
+        "original": "taṁ visaṁ anītikaṁ anupaddavaṁ maraṇaṁ pāpeyya, taṁ visaṁ vuccati ‘anītikamanupaddavaṁ koṭigatan’ti;",
+        "analyzed": "tam visam anītikam anupaddavam maraṇam pāpeyya tam visam vuccati anītikam anupaddavam koṭi gatam ti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:18.2",
+        "original": "evameva kho, mahārāja, yo koci ciraṁ jīvitvā jarājiṇṇo āyukkhayā anītiko anupaddavo marati, so vuccati ‘anītiko anupaddavo jīvitakoṭigato sāmayikaṁ maraṇamupagato’ti.",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci ciram jīvitvā jarā jiṇṇaḥ āyu kkhayā anītikaḥ anupaddavaḥ marati so vuccati anītikaḥ anupaddavaḥ jīvita koṭi gato sāmayikam maraṇam upagato ti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.1",
+        "original": "Yathā vā pana, mahārāja, balavatā āsīvisena daṭṭhassa antarāyeva āhituṇḍiko agadaṁ datvā avisaṁ kareyya, api nu kho taṁ, mahārāja, visaṁ samaye vigataṁ nāma hotī”ti?",
+        "analyzed": "yathā vā pana mahā rāja balavatā āsīvisena daṭṭhassa antarāya iva āhituṇḍikaḥ agadam da tvā a visam kareyya api nu kho te mahā rāja visam samaye vigatam nāma hoti iti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.3",
+        "original": "“Kissa pana taṁ, mahārāja, pacchimaṁ visaṁ purimakena visena samasamagatikaṁ nāhosī”ti?",
+        "analyzed": "kissa pana ta mahā rāja pacchimam visam purimakena visena sama sama gatikam na ahosi iti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.4",
+        "original": "“Āgantukena, bhante, agadena paṭipīḷitaṁ visaṁ akoṭigataṁyeva vigatan”ti.",
+        "analyzed": "āgantukena bhante agadena paṭipīḍitam visam a koṭi gatayā iva vigatanti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.5",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena vā …pe…",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vātasamuṭṭhānena vā pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.6",
+        "original": "sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:19.7",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthīti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:20.1",
+        "original": "Yathā vā pana, mahārāja, issāso saraṁ pāteyya, sace so saro yathāgatigamanapathamatthakaṁ gacchati, so saro vuccati ‘anītiko anupaddavo yathāgatigamanapathamatthakaṁ gato nāmā’ti;",
+        "analyzed": "yathā vā pana mahā rāja issāsaḥ saram pāteyya sace saḥ saraḥ yathāgati gamana patham atthakam gacchati so saraḥ vuccati anītikaḥ anupaddavaḥ yathāgati gamana patham atthakam gataḥ nāma ati ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:20.2",
+        "original": "evameva kho, mahārāja, yo koci ciraṁ jīvitvā jarājiṇṇo āyukkhayā anītiko anupaddavo marati, so vuccati ‘anītiko anupaddavo samaye maraṇamupagato’ti.",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci ciram jīvitvā jarā jiṇṇaḥ āyu kkhayā anītikaḥ anupaddavaḥ marati saḥ vuccati anītikaḥ anupaddavaḥ samaye maraṇam upagataḥ ti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.1",
+        "original": "Yathā vā pana, mahārāja, issāso saraṁ pāteyya, tassa taṁ saraṁ tasmiṁyeva khaṇe koci gaṇheyya, api nu kho so, mahārāja, saro yathāgatigamanapathamatthakaṁ gato nāma hotī”ti?",
+        "analyzed": "yathā vā pana mahā rāja issāsaḥ saram pāteyya tassa tam saram tasmiyā iva khaṇe koci gaṇheyya api nu kho saḥ mahā rāja saraḥ yathāgati gamana patha matthakam gataḥ nāma hoti iti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.3",
+        "original": "“Kissa pana so, mahārāja, pacchimo saro purimakena sarena samasamagatiko nāhosī”ti?",
+        "analyzed": "kissa pana so mahā rāja pacchimo saro purimakena sarena sama sama gatikaḥ na ahosi iti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.4",
+        "original": "“Āgantukena, bhante, gahaṇena tassa sarassa gamanaṁ upacchinnan”ti.",
+        "analyzed": "āgantukena bhante gahaṇena tassa sarassa gamanam upacchinnanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.5",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena vā …pe…",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vātasamuṭṭhānena vā pe ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.6",
+        "original": "sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:21.7",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthīti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:22.1_0",
+        "original": "Yathā vā pana, mahārāja, yo koci lohamayaṁ bhājanaṁ ākoṭeyya, tassa ākoṭanena saddo",
+        "analyzed": "yathā vā pana mahā rāja yaḥ koci loha mayam bhājanam ākoṭeyya tassa ākoṭanena saddaḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:22.1_1",
+        "original": "nibbattitvā yathāgatigamanapathamatthakaṁ gacchati, so saddo vuccati ‘anītiko anupaddavo",
+        "analyzed": "nibbattitvā yathāgati gamana patham atthakam gacchati saḥ saddaḥ vuccati anītikaḥ anupaddavaḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:22.1_2",
+        "original": "yathāgatigamanapathamatthakaṁ gato nāmā’ti;",
+        "analyzed": "yathāgati gamana patham atthakam gataḥ nāma ati ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:22.2",
+        "original": "evameva kho, mahārāja, yo koci bahūni divasasahassāni jīvitvā jarājiṇṇo āyukkhayā anītiko anupaddavo marati, so vuccati ‘anītiko anupaddavo samaye maraṇamupagato’ti.",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci bahūni divasa sahassāni jīvitvā jarā jiṇṇaḥ āyu kkhayā anītikaḥ anupaddavaḥ marati saḥ vuccati anītikaḥ anupaddavaḥ samaye maraṇam upagataḥ ti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.1_0",
+        "original": "Yathā vā pana, mahārāja, yo koci lohamayaṁ bhājanaṁ ākoṭeyya, tassa ākoṭanena saddo",
+        "analyzed": "yathā vā pana mahā rāja yaḥ koci loha mayam bhājanam ākoṭeyya tassa ākoṭanena saddaḥ ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.1_1",
+        "original": "nibbatteyya, nibbatte sadde adūragate koci āmaseyya, saha āmasanena saddo nirujjheyya,",
+        "analyzed": "nibbatteyya nibbatte sadde adūra gate koci āmaseyya saha āmasanena saddaḥ nirujjheyya ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.1_2",
+        "original": "api nu kho so, mahārāja, saddo yathāgatigamanapathamatthakaṁ gato nāma hotī”ti?",
+        "analyzed": "api nu kho saḥ mahā rāja saddaḥ yathāgati gamana patha matthakam gataḥ nāma hoti iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.3",
+        "original": "“Kissa pana, mahārāja, pacchimo saddo purimakena saddena samasamagatiko nāhosī”ti?",
+        "analyzed": "kissa pana mahā rāja pacchimo saddo purimakena saddena sama sama gatikaḥ na ahosi iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.4",
+        "original": "“Āgantukena, bhante, āmasanena so saddo uparato”ti.",
+        "analyzed": "āgantukena bhante āmasanena so saddo uparato ti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.5",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena vā …pe…",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vātasamuṭṭhānena vā pe ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.6",
+        "original": "sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:23.7",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthīti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:24.1_0",
+        "original": "Yathā vā pana, mahārāja, khette suvirūḷhaṁ dhaññabījaṁ sammā pavattamānena vassena",
+        "analyzed": "yathā vā pana mahā rāja khette su virūḍham dhañña bījam sammā pavattamānena vassena ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:24.1_1",
+        "original": "otatavitataākiṇṇabahuphalaṁ hutvā sassuṭṭhānasamayaṁ pāpuṇāti, taṁ dhaññaṁ vuccati",
+        "analyzed": "otata vitata ākiṇṇa bahu phalam hutvā sassuṭṭhāna samayam pāpuṇāti tam dhaññam vuccati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:24.1_2",
+        "original": "‘anītikamanupaddavaṁ samayasampattaṁ nāma hotī’ti;",
+        "analyzed": "anītikam anupaddavam samayasampattam nāma hoti iti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:24.2",
+        "original": "evameva kho, mahārāja, yo koci bahūni divasasahassāni jīvitvā jarājiṇṇo āyukkhayā anītiko anupaddavo marati, so vuccati ‘anītiko anupaddavo samaye maraṇamupagato’ti.",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci bahūni divasa sahassāni jīvitvā jarā jiṇṇaḥ āyu kkhayā anītikaḥ anupaddavaḥ marati saḥ vuccati anītikaḥ anupaddavaḥ samaye maraṇam upagataḥ ti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.1",
+        "original": "Yathā vā pana, mahārāja, khette suvirūḷhaṁ dhaññabījaṁ udakena vikalaṁ mareyya, api nu kho taṁ, mahārāja, dhaññaṁ samayasampattaṁ nāma hotī”ti?",
+        "analyzed": "yathā vā pana mahā rāja khette su virūḍham dhañña bījam udakena vikalam mareyya api nu khalu te mahā rāja dhaññam samaya sampattam nāma hoti iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.2",
+        "original": "“Na hi, bhante”ti.",
+        "analyzed": "na hi bhantā iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.3",
+        "original": "“Kissa pana taṁ, mahārāja, pacchimaṁ dhaññaṁ purimakena dhaññena samasamagatikaṁ nāhosī”ti?",
+        "analyzed": "kissa pana ta mahā rāja pacchimam dhaññam purimakena dhaññena sama sama gatikam na ahosi iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.4",
+        "original": "“Āgantukena, bhante, uṇhena paṭipīḷitaṁ taṁ dhaññaṁ matan”ti.",
+        "analyzed": "āgantukena bhante uṇhena paṭipīḷitam tam dhaññam matanti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.5",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena vā …pe…",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vātasamuṭṭhānena vā pe ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.6",
+        "original": "sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:25.7",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthīti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.1",
+        "original": "Sutapubbaṁ pana tayā, mahārāja, ‘sampannataruṇasassaṁ kimayo uṭṭhahitvā samūlaṁ nāsentī’”ti?",
+        "analyzed": "suta pubbam pana tayā mahā rāja sampanna taruṇa sassam kim ayaḥ uṭṭhahitvā sa mūlam nāsenti iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.2",
+        "original": "“Sutapubbañceva taṁ, bhante, amhehi diṭṭhapubbañcā”ti.",
+        "analyzed": "suta pubbam ca iva ta bhante amhehi diṭṭha pubbam ca ati ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.3",
+        "original": "“Kiṁ nu kho taṁ, mahārāja, sassaṁ kāle naṭṭhaṁ, udāhu akāle naṭṭhan”ti?",
+        "analyzed": "kim nu kho ta mahā rāja sassam kāle naṭṭhe udāhu akāle naṭṭhanti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.4",
+        "original": "“Akāle, bhante, yadi kho taṁ, bhante, sassaṁ kimayo na khādeyyuṁ, sassuddharaṇasamayaṁ pāpuṇeyyā”ti.",
+        "analyzed": "akāle bhante yadi kho te bhante sassam na khādeyyu sassuddharaṇa samayam pāpuṇeyya ati ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.5",
+        "original": "“Kiṁ pana, mahārāja, āgantukena upaghātena sassaṁ vinassati, nirupaghātaṁ sassaṁ sassuddharaṇasamayaṁ pāpuṇātī”ti?",
+        "analyzed": "kim pana mahā rāja āgantukena upaghātena sassam vinassati nirupaghātam sassam sassa uddharaṇa samayam pāpuṇāti iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.6",
+        "original": "“Āma, bhante”ti.",
+        "analyzed": "āma bhanta iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.7",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena vā …pe…",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vātasamuṭṭhānena vā pe ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.8",
+        "original": "sattivegappaṭipīḷito vā marati.",
+        "analyzed": "satti vega paṭipīḍitaḥ vā marati ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:26.9",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthīti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.1",
+        "original": "Sutapubbaṁ pana tayā, mahārāja, ‘sampanne sasse phalabhāranamite mañjaritapatte karakavassaṁ nāma vassajāti nipatitvā vināseti aphalaṁ karotī’”ti?",
+        "analyzed": "suta pubbam pana tayā mahā rāja sampanne sasse phala bhāra namite mañjarita patte karaka vassam nāma vassa jāti nipatitvā vināseti aphalam karoti iti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.2",
+        "original": "“Sutapubbañceva taṁ, bhante, amhehi diṭṭhapubbañcā”ti.",
+        "analyzed": "suta pubbam ca iva ta bhante amhehi diṭṭha pubbam ca ati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.3",
+        "original": "“Api nu kho taṁ, mahārāja, sassaṁ kāle naṭṭhaṁ, udāhu akāle naṭṭhan”ti?",
+        "analyzed": "api nu kho ta mahā rāja sassam kāle naṭṭhe udāhu akāle naṭṭhanti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.4",
+        "original": "“Akāle, bhante, yadi kho taṁ, bhante, sassaṁ karakavassaṁ na vasseyya sassuddharaṇasamayaṁ pāpuṇeyyā”ti.",
+        "analyzed": "akāle bhante yadi kho te bhante sassam karaka vassam na vasseyya sassa uddharaṇa samayam pāpuṇeyya ati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.5",
+        "original": "“Kiṁ pana, mahārāja, āgantukena upaghātena sassaṁ vinassati, nirupaghātaṁ sassaṁ sassuddharaṇasamayaṁ pāpuṇātī”ti?",
+        "analyzed": "kim pana mahā rāja āgantukena upaghātena sassam vinassati nirupaghātam sassam sassa uddharaṇa samayam pāpuṇāti iti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.6",
+        "original": "“Āma, bhante”ti.",
+        "analyzed": "āma bhanta iti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.7_0",
+        "original": "“Evameva kho, mahārāja, yo koci akāle marati, so āgantukena rogena paṭipīḷito vātasamuṭṭhānena",
+        "analyzed": "evam eva kho mahā rāja yaḥ koci akāle marati saḥ āgantukena rogena paṭipīḍitaḥ vāta samuṭṭhānena ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.7_1",
+        "original": "vā pittasamuṭṭhānena vā semhasamuṭṭhānena vā sannipātikena vā utupariṇāmajena vā",
+        "analyzed": "vā pitta samuṭṭhānena vā semha samuṭṭhānena vā sannipātikena vā utu pariṇāma jena vā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.7_2",
+        "original": "visamaparihārajena vā opakkamikena vā jighacchāya vā pipāsāya vā sappadaṭṭhena vā",
+        "analyzed": "visama parihāra jena vā opakkamikena vā jighacchāya vā pipāsāya vā sa padaṭṭhena vā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.7_3",
+        "original": "visamāsitena vā agginā vā udakena vā sattivegappaṭipīḷito vā akāle marati.",
+        "analyzed": "visamāsitena vā agginā vā udakena vā satti vega paṭipīḍitaḥ vā akāle marati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.8",
+        "original": "Yadi pana āgantukena rogena paṭipīḷito na bhaveyya, samayeva maraṇaṁ pāpuṇeyya.",
+        "analyzed": "yadi pana āgantukena rogena paṭipīḍitaḥ na bhaveyya samayā iva maraṇam pāpuṇeyya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:27.9",
+        "original": "Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthī”ti.",
+        "analyzed": "idam ettha mahā rāja kāraṇa yena kāraṇena akāle maraṇam atthi iti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:28.1_0",
+        "original": "“Acchariyaṁ, bhante nāgasena, abbhutaṁ, bhante nāgasena, sudassitaṁ kāraṇaṁ, sudassitaṁ",
+        "analyzed": "acchariya bhante nāgasena abbhuta bhante nāgasena sudassitam kāraṇa sudassita ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:28.1_1",
+        "original": "opammaṁ akāle maraṇassa paridīpanāya, ‘atthi akāle maraṇan’ti uttānīkataṁ pākaṭaṁ",
+        "analyzed": "opammam akāle maraṇassa paridīpanāya atthi akāle maraṇanti uttānīkatam pākaṭa ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:28.1_2",
+        "original": "kataṁ vibhūtaṁ kataṁ, acittavikkhittakopi, bhante nāgasena, manujo ekamekenapi tāva",
+        "analyzed": "katam vibhūtam acittavikkhittakaḥ api bhante nāgasena manujaḥ ekam ekena api tāva ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:28.1_3",
+        "original": "opammena niṭṭhaṁ gaccheyya ‘atthi akāle maraṇan’ti, kiṁ pana manujo sacetano?",
+        "analyzed": "opammena niṭṭham gaccheyya atthi akāle maraṇan ti kim pana manujaḥ sa cetanaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:28.2",
+        "original": "Paṭhamopammenevāhaṁ, bhante, saññatto ‘atthi akāle maraṇan’ti, api ca aparāparaṁ nibbāhanaṁ sotukāmo na sampaṭicchin”ti.",
+        "analyzed": "paṭhama upammena iva āha bhante saññattaḥ atthi akāle maraṇam ti api ca apara aparam nibbāhanam sotu kāmo na sampaṭicchinti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mil_6.3.6:29.1",
+        "original": "Akālamaraṇapañho chaṭṭho.",
+        "analyzed": "akālamaraṇapañho chaṭṭho ",
+        "folio": "29"
+    }
+]

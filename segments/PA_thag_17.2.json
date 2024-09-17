@@ -1,0 +1,938 @@
+[
+    {
+        "segmentnr": "PA_thag_17.2:0.1",
+        "original": "Theragāthā 17.2",
+        "analyzed": "theragāthā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:0.2",
+        "original": "Tiṁsanipāta",
+        "analyzed": "ti sa nipāta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:0.3",
+        "original": "Paṭhamavagga",
+        "analyzed": "paṭhama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:0.4",
+        "original": "Sāriputtattheragāthā",
+        "analyzed": "sāriputta thera gāthā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:1.1",
+        "original": "“Yathācārī yathāsato satīmā,",
+        "analyzed": "yathā cārī ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:1.2",
+        "original": "Yatasaṅkappajjhāyi appamatto;",
+        "analyzed": "yata saṅkappa jhāyī appamattaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:1.3",
+        "original": "Ajjhattarato samāhitatto,",
+        "analyzed": "ajjhattarataḥ samāhitattaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:1.4",
+        "original": "Eko santusito tamāhu bhikkhuṁ.",
+        "analyzed": "ekaḥ tam āhu bhikkhu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:2.1",
+        "original": "Allaṁ sukkhaṁ vā bhuñjanto,",
+        "analyzed": "allam sukkham vā bhuñjantaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:2.2",
+        "original": "Na bāḷhaṁ suhito siyā;",
+        "analyzed": "na bāḷham su hitaḥ siyā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:2.3",
+        "original": "Ūnūdaro mitāhāro,",
+        "analyzed": "ūnūdaraḥ mita āhāraḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:2.4",
+        "original": "Sato bhikkhu paribbaje.",
+        "analyzed": "sataḥ bhikkhu paribbaje ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:3.1",
+        "original": "Cattāro pañca ālope,",
+        "analyzed": "cattāraḥ pañca ālope ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:3.2",
+        "original": "abhutvā udakaṁ pive;",
+        "analyzed": "a bhutvā udakam pive ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:3.3",
+        "original": "Alaṁ phāsuvihārāya,",
+        "analyzed": "alam phāsu vihārāya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:3.4",
+        "original": "pahitattassa bhikkhuno.",
+        "analyzed": "pahitattassa bhikkhuno ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:4.1",
+        "original": "Kappiyaṁ tañce chādeti,",
+        "analyzed": "kappiyam tat ce chāda iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:4.2",
+        "original": "cīvaraṁ idamatthikaṁ;",
+        "analyzed": "cīvaram ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:4.3",
+        "original": "Alaṁ phāsuvihārāya,",
+        "analyzed": "alam phāsu vihārāya ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:4.4",
+        "original": "pahitattassa bhikkhuno.",
+        "analyzed": "pahitattassa bhikkhuno ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:5.1",
+        "original": "Pallaṅkena nisinnassa,",
+        "analyzed": "pallaṅkena nisinnassa ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:5.2",
+        "original": "jaṇṇuke nābhivassati;",
+        "analyzed": "jaṇṇuke na abhivassati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:5.3",
+        "original": "Alaṁ phāsuvihārāya,",
+        "analyzed": "alam phāsu vihārāya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:5.4",
+        "original": "pahitattassa bhikkhuno.",
+        "analyzed": "pahitattassa bhikkhuno ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:6.1",
+        "original": "Yo sukhaṁ dukkhato adda,",
+        "analyzed": "yaḥ sukham dukkhataḥ adda ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:6.2",
+        "original": "dukkhamaddakkhi sallato;",
+        "analyzed": "sallataḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:6.3",
+        "original": "Ubhayantarena nāhosi,",
+        "analyzed": "ubhayantarena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:6.4",
+        "original": "kena lokasmi kiṁ siyā.",
+        "analyzed": "kena kim siyā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:7.1",
+        "original": "Mā me kadāci pāpiccho,",
+        "analyzed": "mā me kadācid pāpiccho ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:7.2",
+        "original": "kusīto hīnavīriyo;",
+        "analyzed": "kusītaḥ hīna vīriyaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:7.3",
+        "original": "Appassuto anādaro,",
+        "analyzed": "appassutaḥ anādaro ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:7.4",
+        "original": "kena lokasmi kiṁ siyā.",
+        "analyzed": "kena kim siyā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:8.1",
+        "original": "Bahussuto ca medhāvī,",
+        "analyzed": "bahussutaḥ ca medhāvī ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:8.2",
+        "original": "sīlesu susamāhito;",
+        "analyzed": "sīlesu su samāhitaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:8.3",
+        "original": "Cetosamathamanuyutto,",
+        "analyzed": "cetaḥ samatha manuyuttaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:8.4",
+        "original": "api muddhani tiṭṭhatu.",
+        "analyzed": "api muddhani tiṭṭhatu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:9.1",
+        "original": "Yo papañcamanuyutto,",
+        "analyzed": "yaḥ papañca manuyuttaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:9.2",
+        "original": "papañcābhirato mago;",
+        "analyzed": "papañca abhirataḥ mago ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:9.3",
+        "original": "Virādhayī so nibbānaṁ,",
+        "analyzed": "virādhayī saḥ nibbāna ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:9.4",
+        "original": "yogakkhemaṁ anuttaraṁ.",
+        "analyzed": "yogakkhemam anuttara ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:10.1",
+        "original": "Yo ca papañcaṁ hitvāna,",
+        "analyzed": "yaḥ ca papañcam hitvāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:10.2",
+        "original": "nippapañcapathe rato;",
+        "analyzed": "nip pa pañca pathe ra taḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:10.3",
+        "original": "Ārādhayī so nibbānaṁ,",
+        "analyzed": "ārādhayī saḥ nibbāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:10.4",
+        "original": "yogakkhemaṁ anuttaraṁ.",
+        "analyzed": "yogakkhemam anuttara ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:11.1",
+        "original": "Gāme vā yadi vāraññe,",
+        "analyzed": "gāme vā yadi vā araññe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:11.2",
+        "original": "Ninne vā yadi vā thale;",
+        "analyzed": "ninne vā yadi vā thale ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:11.3",
+        "original": "Yattha arahanto viharanti,",
+        "analyzed": "yattha arahantaḥ viharanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:11.4",
+        "original": "Taṁ bhūmirāmaṇeyyakaṁ.",
+        "analyzed": "tam bhūmirāmaṇeyyaka ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:12.1",
+        "original": "Ramaṇīyāni araññāni,",
+        "analyzed": "ramaṇīyāni araññāni ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:12.2",
+        "original": "yattha na ramatī jano;",
+        "analyzed": "yattha na ramatī jano ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:12.3",
+        "original": "Vītarāgā ramissanti,",
+        "analyzed": "vīta rāgāḥ ramissanti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:12.4",
+        "original": "na te kāmagavesino.",
+        "analyzed": "na te kāma gavesinaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:13.1",
+        "original": "Nidhīnaṁva pavattāraṁ,",
+        "analyzed": "nidhīnava pavattāra ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:13.2",
+        "original": "yaṁ passe vajjadassinaṁ;",
+        "analyzed": "yam passe vajja dassina ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:13.3",
+        "original": "Niggayhavādiṁ medhāviṁ,",
+        "analyzed": "niggayha vādim medhāvi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:13.4",
+        "original": "tādisaṁ paṇḍitaṁ bhaje;",
+        "analyzed": "tādisam paṇḍitam bhaje ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:13.5",
+        "original": "Tādisaṁ bhajamānassa,",
+        "analyzed": "tādisam bhajamānassa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:13.6",
+        "original": "seyyo hoti na pāpiyo.",
+        "analyzed": "seyyaḥ hoti na pāpiyaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:14.1",
+        "original": "Ovadeyyānusāseyya,",
+        "analyzed": "ovadeyya anusāseyya ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:14.2",
+        "original": "asabbhā ca nivāraye;",
+        "analyzed": "ca nivāraye ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:14.3",
+        "original": "Satañhi so piyo hoti,",
+        "analyzed": "satañhi saḥ piyaḥ hoti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:14.4",
+        "original": "asataṁ hoti appiyo.",
+        "analyzed": "asatam hoti appiyaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:15.1",
+        "original": "Aññassa bhagavā buddho,",
+        "analyzed": "aññassa bhagavā buddhaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:15.2",
+        "original": "dhammaṁ desesi cakkhumā;",
+        "analyzed": "dhammaṃ desesi cakkhumā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:15.3",
+        "original": "Dhamme desiyamānamhi,",
+        "analyzed": "dhamme desiyamānamhi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:15.4",
+        "original": "sotamodhesimatthiko.",
+        "analyzed": "sota modhesimatthiko ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:16.1",
+        "original": "Taṁ me amoghaṁ savanaṁ,",
+        "analyzed": "tam me amogham savana ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:16.2",
+        "original": "vimuttomhi anāsavo.",
+        "analyzed": "vimuttaḥ amhi anāsavaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:17.1",
+        "original": "Neva pubbenivāsāya,",
+        "analyzed": "na iva pubbenivāsāya ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:17.2",
+        "original": "napi dibbassa cakkhuno;",
+        "analyzed": "na pi dibbassa cakkhuno ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:17.3",
+        "original": "Cetopariyāya iddhiyā,",
+        "analyzed": "id dhiyā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:17.4",
+        "original": "cutiyā upapattiyā;",
+        "analyzed": "cutiyāḥ upapattiyāḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:17.5",
+        "original": "Sotadhātuvisuddhiyā,",
+        "analyzed": "sota dhātu visuddhiyā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:17.6",
+        "original": "paṇidhī me na vijjati”.",
+        "analyzed": "paṇidhī me na vijjati ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:18.1",
+        "original": "“Rukkhamūlaṁva nissāya,",
+        "analyzed": "nissāya ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:18.2",
+        "original": "muṇḍo saṅghāṭipāruto;",
+        "analyzed": "muṇḍaḥ saṅghāṭi pārutaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:18.3",
+        "original": "Paññāya uttamo thero,",
+        "analyzed": "paññāyaḥ uttamaḥ thero ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:18.4",
+        "original": "upatissova jhāyati.",
+        "analyzed": "upatissā uva jhāyati ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:19.1",
+        "original": "Avitakkaṁ samāpanno,",
+        "analyzed": "a vitakkam samāpannaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:19.2",
+        "original": "sammāsambuddhasāvako;",
+        "analyzed": "sammāsambuddha sāvakaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:19.3",
+        "original": "Ariyena tuṇhībhāvena,",
+        "analyzed": "ariyena tuṇhībhāvena ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:19.4",
+        "original": "upeto hoti tāvade.",
+        "analyzed": "upetaḥ tāvade ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:20.1",
+        "original": "Yathāpi pabbato selo,",
+        "analyzed": "yathā api pabbataḥ selo ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:20.2",
+        "original": "acalo suppatiṭṭhito;",
+        "analyzed": "acalaḥ suppatiṭṭhitaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:20.3",
+        "original": "Evaṁ mohakkhayā bhikkhu,",
+        "analyzed": "evam moha kkhayā bhikkhu ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:20.4",
+        "original": "pabbatova na vedhati”.",
+        "analyzed": "pabbataḥ uva na vedhati ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:21.1",
+        "original": "“Anaṅgaṇassa posassa,",
+        "analyzed": "anaṅgaṇassa posassa ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:21.2",
+        "original": "niccaṁ sucigavesino;",
+        "analyzed": "niccam suci gavesino ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:21.3",
+        "original": "Vālaggamattaṁ pāpassa,",
+        "analyzed": "vālagga mattam pāpassa ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:21.4",
+        "original": "abbhamattaṁva khāyati.",
+        "analyzed": "khāyati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:22.1",
+        "original": "Nābhinandāmi maraṇaṁ,",
+        "analyzed": "na abhinandāmi maraṇa ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:22.2",
+        "original": "nābhinandāmi jīvitaṁ;",
+        "analyzed": "na abhinandāmi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:22.3",
+        "original": "Nikkhipissaṁ imaṁ kāyaṁ,",
+        "analyzed": "nikkhipissam imam kāya ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:22.4",
+        "original": "sampajāno patissato.",
+        "analyzed": "sampajānaḥ patissataḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:23.1",
+        "original": "Nābhinandāmi maraṇaṁ,",
+        "analyzed": "na abhinandāmi maraṇa ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:23.2",
+        "original": "nābhinandāmi jīvitaṁ;",
+        "analyzed": "na abhinandāmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:23.3",
+        "original": "Kālañca paṭikaṅkhāmi,",
+        "analyzed": "kālañca paṭikaṅkhāmi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:23.4",
+        "original": "nibbisaṁ bhatako yathā”.",
+        "analyzed": "nibbisam bhatakaḥ yathā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:24.1",
+        "original": "“Ubhayena midaṁ maraṇameva,",
+        "analyzed": "ubhayena m idam maraṇam eva ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:24.2",
+        "original": "Nāmaraṇaṁ pacchā vā pure vā;",
+        "analyzed": "na amaraṇam pacchā vā pure vā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:24.3",
+        "original": "Paṭipajjatha mā vinassatha,",
+        "analyzed": "paṭipajjatha mā vinassatha ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:24.4",
+        "original": "Khaṇo vo mā upaccagā.",
+        "analyzed": "khaṇaḥ vaḥ māḥ upaccagā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:25.1",
+        "original": "Nagaraṁ yathā paccantaṁ,",
+        "analyzed": "nagaram yathā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:25.2",
+        "original": "guttaṁ santarabāhiraṁ;",
+        "analyzed": "guttam santarabāhira ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:25.3",
+        "original": "Evaṁ gopetha attānaṁ,",
+        "analyzed": "evam gopetha attāna ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:25.4",
+        "original": "khaṇo vo mā upaccagā;",
+        "analyzed": "khaṇaḥ vaḥ māḥ upaccagā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:25.5",
+        "original": "Khaṇātītā hi socanti,",
+        "analyzed": "khaṇātītāḥ hi socanti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:25.6",
+        "original": "nirayamhi samappitā”.",
+        "analyzed": "nirayamhi samappitā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:26.1",
+        "original": "“Upasanto uparato,",
+        "analyzed": "upasantaḥ uparataḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:26.2",
+        "original": "mantabhāṇī anuddhato;",
+        "analyzed": "manta bhāṇī anuddhataḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:26.3",
+        "original": "Dhunāti pāpake dhamme,",
+        "analyzed": "dhunāti pāpake dhamme ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:26.4",
+        "original": "dumapattaṁva māluto.",
+        "analyzed": "mālutaḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:27.1",
+        "original": "Upasanto uparato,",
+        "analyzed": "upasantaḥ uparataḥ ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:27.2",
+        "original": "mantabhāṇī anuddhato;",
+        "analyzed": "manta bhāṇī anuddhataḥ ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:27.3",
+        "original": "Appāsi pāpake dhamme,",
+        "analyzed": "appāsi pāpake dhamme ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:27.4",
+        "original": "dumapattaṁva māluto.",
+        "analyzed": "mālutaḥ ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:28.1",
+        "original": "Upasanto anāyāso,",
+        "analyzed": "upasantaḥ anāyāsaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:28.2",
+        "original": "vippasanno anāvilo;",
+        "analyzed": "vippasannaḥ anāvilaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:28.3",
+        "original": "Kalyāṇasīlo medhāvī,",
+        "analyzed": "kalyāṇa sīlaḥ medhāvī ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:28.4",
+        "original": "dukkhassantakaro siyā”.",
+        "analyzed": "siyā ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:29.1",
+        "original": "“Na vissase ekatiyesu evaṁ,",
+        "analyzed": "na vissase ekatiyesu eva ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:29.2",
+        "original": "Agārisu pabbajitesu cāpi;",
+        "analyzed": "agārisu pabbajitesu ca api ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:29.3",
+        "original": "Sādhūpi hutvā na asādhu honti,",
+        "analyzed": "sādhu upi hutvā na asādhu honti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:29.4",
+        "original": "Asādhu hutvā puna sādhu honti.",
+        "analyzed": "asādhu hutvā punar sādhu honti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:30.1",
+        "original": "Kāmacchando ca byāpādo,",
+        "analyzed": "kāmacchandaḥ ca byāpādaḥ ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:30.2",
+        "original": "thinamiddhañca bhikkhuno;",
+        "analyzed": "thinam iddham ca bhikkhuno ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:30.3",
+        "original": "Uddhaccaṁ vicikicchā ca,",
+        "analyzed": "uddhaccam vicikicchā ca ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:30.4",
+        "original": "pañcete cittakelisā.",
+        "analyzed": "pañca ete citta keli sā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:31.1",
+        "original": "Yassa sakkariyamānassa,",
+        "analyzed": "yassa sakkariyamānassa ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:31.2",
+        "original": "asakkārena cūbhayaṁ;",
+        "analyzed": "asakkārena ca ubhaya ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:31.3",
+        "original": "Samādhi na vikampati,",
+        "analyzed": "na vikampati ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:31.4",
+        "original": "appamādavihārino.",
+        "analyzed": "appamāda vihārino ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:32.1",
+        "original": "Taṁ jhāyinaṁ sātatikaṁ,",
+        "analyzed": "tam jhāyinam sātatika ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:32.2",
+        "original": "sukhumadiṭṭhivipassakaṁ;",
+        "analyzed": "sukhuma diṭṭhi vipassaka ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:32.3",
+        "original": "Upādānakkhayārāmaṁ,",
+        "analyzed": "upādāna khaya ārāma ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:32.4",
+        "original": "āhu sappuriso iti.",
+        "analyzed": "āhu sappurisaḥ iti ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:33.1",
+        "original": "Mahāsamuddo pathavī,",
+        "analyzed": "mahā samuddaḥ pathavī ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:33.2",
+        "original": "pabbato anilopi ca;",
+        "analyzed": "pabbataḥ anilaḥ upi ca ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:33.3",
+        "original": "Upamāya na yujjanti,",
+        "analyzed": "upamāya na yujjanti ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:33.4",
+        "original": "satthu varavimuttiyā.",
+        "analyzed": "satthu vara vimuttiyā ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:34.1",
+        "original": "Cakkānuvattako thero,",
+        "analyzed": "cakkānuvattako thero ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:34.2",
+        "original": "mahāñāṇī samāhito;",
+        "analyzed": "samāhito ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:34.3",
+        "original": "Pathavāpaggisamāno,",
+        "analyzed": "pathavā apaggi samānaḥ ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:34.4",
+        "original": "na rajjati na dussati.",
+        "analyzed": "na rajjati na dussati ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:35.1",
+        "original": "Paññāpāramitaṁ patto,",
+        "analyzed": "paññāpāramitam patto ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:35.2",
+        "original": "mahābuddhi mahāmati;",
+        "analyzed": "mahābuddhi mahāmati ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:35.3",
+        "original": "Ajaḷo jaḷasamāno,",
+        "analyzed": "ajaḷaḥ jaḷa samānaḥ ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:35.4",
+        "original": "sadā carati nibbuto.",
+        "analyzed": "sadā carati nibbutaḥ ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:36.1",
+        "original": "Pariciṇṇo mayā satthā,",
+        "analyzed": "pariciṇṇaḥ mayā satthā ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:36.2",
+        "original": "… pe",
+        "analyzed": "pe ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:36.4",
+        "original": "bhavanetti samūhatā.",
+        "analyzed": "samūha tā ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:37.1",
+        "original": "Sampādethappamādena,",
+        "analyzed": "sampādetha appamādena ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:37.2",
+        "original": "esā me anusāsanī;",
+        "analyzed": "esā me anusāsanī ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:37.3",
+        "original": "Handāhaṁ parinibbissaṁ,",
+        "analyzed": "handa aham parinibbissa ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:37.4",
+        "original": "vippamuttomhi sabbadhī”ti.",
+        "analyzed": "vippamuttaḥ mhi sabbadhi iti ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_thag_17.2:37.5",
+        "original": "… Sāriputto thero …",
+        "analyzed": "sāriputto thero ",
+        "folio": "37"
+    }
+]

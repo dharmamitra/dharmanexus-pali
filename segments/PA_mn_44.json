@@ -1,0 +1,872 @@
+[
+    {
+        "segmentnr": "PA_mn_44:0.1",
+        "original": "Majjhima Nikāya 44",
+        "analyzed": "majjhima nikāya ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_44:0.2",
+        "original": "Cūḷavedallasutta",
+        "analyzed": "cūḷa vedalla sutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mn_44:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_44:1.2",
+        "original": "ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+        "analyzed": "ekam samayam bhagavā rājagahe viharati veḷuvane kalandakanivāpe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_44:1.3_0",
+        "original": "Atha kho visākho upāsako yena dhammadinnā bhikkhunī tenupasaṅkami; upasaṅkamitvā",
+        "analyzed": "atha kho visākhaḥ upāsakaḥ yena dhammadinnā bhikkhunī tena upasaṅkami upasaṅkamitvā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_44:1.3_1",
+        "original": "dhammadinnaṁ bhikkhuniṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho visākho",
+        "analyzed": "dhammadinnam bhikkhunim abhivādetvā ekamantam nisīdi ekamantam nisinnaḥ kho visākhaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_44:1.3_2",
+        "original": "upāsako dhammadinnaṁ bhikkhuniṁ etadavoca:",
+        "analyzed": "upāsakaḥ dhammadinnam bhikkhunim etat avoca ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mn_44:2.1",
+        "original": "“‘sakkāyo sakkāyo’ti, ayye, vuccati.",
+        "analyzed": "sakkāyo sakkāyo ti ayye vuccati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_44:2.2",
+        "original": "Katamo nu kho, ayye, sakkāyo vutto bhagavatā”ti?",
+        "analyzed": "katamaḥ nu kho ayye sakkāyaḥ vuttaḥ bhagavatā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_44:2.3",
+        "original": "“Pañca kho ime, āvuso visākha, upādānakkhandhā sakkāyo vutto bhagavatā,",
+        "analyzed": "pañca kho ime āvuso visākha upādāna khandhāḥ sakkāyaḥ vuttaḥ bhagavatā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_44:2.4",
+        "original": "seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.",
+        "analyzed": "seyyathidaṃ rūpa upādānakkhandhaḥ vedanupādānakkhandhaḥ saññu pādānakkhandhaḥ saṅkhāru pādānakkhandhaḥ viññāṇupādānakkhandhaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_44:2.5",
+        "original": "Ime kho, āvuso visākha, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.",
+        "analyzed": "ime kho āvuso visākha pañca upādāna khandhāḥ sakkāyaḥ vuttaḥ bhagavatā ati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_44:2.6",
+        "original": "“Sādhayye”ti kho visākho upāsako dhammadinnāya bhikkhuniyā bhāsitaṁ abhinanditvā anumoditvā dhammadinnaṁ bhikkhuniṁ uttariṁ pañhaṁ apucchi:",
+        "analyzed": "sādhayya iti kho visākhaḥ upāsakaḥ dhammadinnāya bhikkhuniyā bhāsitam abhinanditvā anumoditvā dhammadinnam bhikkhunim uttarim pañham apucchi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mn_44:3.1",
+        "original": "“‘sakkāyasamudayo sakkāyasamudayo’ti, ayye, vuccati.",
+        "analyzed": "sakkāya samudayo sakkāya samudayo ti ayye vuccati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_44:3.2",
+        "original": "Katamo nu kho, ayye, sakkāyasamudayo vutto bhagavatā”ti?",
+        "analyzed": "katamaḥ nu kho ayye sa kāya samudayaḥ vuttaḥ bhagavatā ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_44:3.3",
+        "original": "“Yāyaṁ, āvuso visākha, taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ—",
+        "analyzed": "āvusaḥ visākha taṇhā ponobbhavikā nandī rāga sahagatā tatra tatra abhinandinī sā iyyathida ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_44:3.4",
+        "original": "kāmataṇhā bhavataṇhā vibhavataṇhā;",
+        "analyzed": "kāma taṇhā bhava taṇhā vibhava taṇhā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_44:3.5",
+        "original": "ayaṁ kho, āvuso visākha, sakkāyasamudayo vutto bhagavatā”ti.",
+        "analyzed": "ayam kho āvuso visākha sakkāya samudayaḥ vuttaḥ bhagavatā ati ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mn_44:4.1",
+        "original": "“‘Sakkāyanirodho sakkāyanirodho’ti, ayye, vuccati.",
+        "analyzed": "sakkāya nirodho sakkāya nirodho ti ayye vuccati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_44:4.2",
+        "original": "Katamo nu kho, ayye, sakkāyanirodho vutto bhagavatā”ti?",
+        "analyzed": "katamaḥ nu kho ayye sakkāya nirodhaḥ vuttaḥ bhagavatā ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_44:4.3",
+        "original": "“Yo kho, āvuso visākha, tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo;",
+        "analyzed": "yaḥ kho āvuso visākha tassāya eva taṇhāya asesa virāga nirodho cāgaḥ paṭinissaggo mutti anālayo ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_44:4.4",
+        "original": "ayaṁ kho, āvuso visākha, sakkāyanirodho vutto bhagavatā”ti.",
+        "analyzed": "ayam kho āvuso visākha sakkāya nirodhaḥ vuttaḥ bhagavatā ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mn_44:5.1",
+        "original": "“‘Sakkāyanirodhagāminī paṭipadā sakkāyanirodhagāminī paṭipadā’ti, ayye, vuccati.",
+        "analyzed": "sakkāya nirodha gāminī paṭipadā sakkāya nirodha gāminī paṭipadā ati ayye vuccati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_44:5.2",
+        "original": "Katamā nu kho, ayye, sakkāyanirodhagāminī paṭipadā vuttā bhagavatā”ti?",
+        "analyzed": "katamā nu kho ayye sakkāya nirodha gāminī paṭipadā vuttā bhagavatā ati ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_44:5.3",
+        "original": "“Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo sakkāyanirodhagāminī paṭipadā vuttā bhagavatā, seyyathidaṁ—",
+        "analyzed": "ayam eva kho āvuso visākha ariyaḥ aṭṭhaṅgikaḥ maggo sa kāya nirodha gāminī paṭipadā vuttā bhagavatā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_44:5.4",
+        "original": "sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī”ti.",
+        "analyzed": "sammā diṭṭhi sammā saṅkappo sammā vācā sammā kammanto sammā ājīvaḥ sammā vāyāmaḥ sammā sati sammā samādhi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mn_44:6.1",
+        "original": "“Taññeva nu kho, ayye, upādānaṁ te pañcupādānakkhandhā udāhu aññatra pañcahupādānakkhandhehi upādānan”ti?",
+        "analyzed": "tat na eva nu kho ayye upādānam te pañca upādāna khandhāḥ udāhu aññatra pañcah upādāna khandhehi upādānam ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_44:6.2",
+        "original": "“Na kho, āvuso visākha, taññeva upādānaṁ te pañcupādānakkhandhā, nāpi aññatra pañcahupādānakkhandhehi upādānaṁ.",
+        "analyzed": "na kho āvuso visākha tat na eva upādānam te pañca upādāna khandhāḥ na api aññatra pañcah upādāna kkhandhehi upādāna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_44:6.3",
+        "original": "Yo kho, āvuso visākha, pañcasu upādānakkhandhesu chandarāgo taṁ tattha upādānan”ti.",
+        "analyzed": "yaḥ kho āvuso visākha pañcasu upādānakkhandhesu chanda rāgaḥ tam tattha upādānam ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.1",
+        "original": "“Kathaṁ panāyye, sakkāyadiṭṭhi hotī”ti?",
+        "analyzed": "katham panāyye sakkāya diṭṭhi hoti iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.2",
+        "original": "“Idhāvuso visākha, assutavā puthujjano, ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto,",
+        "analyzed": "idha āvuso visākha assutavā puthujjanaḥ ariyānam a dassāvī ariya dhammassa a kovidaḥ ariya dhamme a vinītaḥ sappurisānam a dassāvī sappurisa dhammassa a kovidaḥ sappurisa dhamme a vinītaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.3",
+        "original": "rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ, attani vā rūpaṁ, rūpasmiṁ vā attānaṁ.",
+        "analyzed": "rūpam attataḥ samanupassati rūpavantam vā attāna attani vā rūpa rūpasmin vā attāna ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.4",
+        "original": "Vedanaṁ …pe…",
+        "analyzed": "vedanam pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.5",
+        "original": "saññaṁ …",
+        "analyzed": "saññam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.6",
+        "original": "saṅkhāre …",
+        "analyzed": "saṅkhāre ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.7",
+        "original": "viññāṇaṁ attato samanupassati, viññāṇavantaṁ vā attānaṁ, attani vā viññāṇaṁ, viññāṇasmiṁ vā attānaṁ.",
+        "analyzed": "viññāṇam attataḥ samanupassati viññāṇavantam vā attāna attani vā viññāṇa viññāṇasmin vā attāna ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:7.8",
+        "original": "Evaṁ kho, āvuso visākha, sakkāyadiṭṭhi hotī”ti.",
+        "analyzed": "evam kho āvuso visākha sakkāya diṭṭhi hoti iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.1",
+        "original": "“Kathaṁ panāyye, sakkāyadiṭṭhi na hotī”ti?",
+        "analyzed": "katham panāyye sakkāyadiṭṭhi na hoti iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.2",
+        "original": "“Idhāvuso visākha, sutavā ariyasāvako, ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto,",
+        "analyzed": "idha āvuso visākha sutavā ariya sāvakaḥ ariyānam dassāvī ariya dhammassa kovidaḥ ariya dhamme su vinītaḥ sappurisānam dassāvī sappurisa dhammassa kovidaḥ sappurisa dhamme su vinītaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.3",
+        "original": "na rūpaṁ attato samanupassati, na rūpavantaṁ vā attānaṁ, na attani vā rūpaṁ, na rūpasmiṁ vā attānaṁ.",
+        "analyzed": "na rūpam attataḥ samanupassati na rūpavantam vā attāna na attani vā rūpa na rūpasmin vā attāna ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.4",
+        "original": "Na vedanaṁ …pe…",
+        "analyzed": "na vedanam pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.5",
+        "original": "na saññaṁ …",
+        "analyzed": "na saññam ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.6",
+        "original": "na saṅkhāre …pe…",
+        "analyzed": "na saṅkhāre pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.7",
+        "original": "na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ, na attani vā viññāṇaṁ, na viññāṇasmiṁ vā attānaṁ.",
+        "analyzed": "na viññāṇam attataḥ samanupassati na viññāṇavantam vā attāna na attani vā viññāṇa na viññāṇasmin vā attāna ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:8.8",
+        "original": "Evaṁ kho, āvuso visākha, sakkāyadiṭṭhi na hotī”ti.",
+        "analyzed": "evam kho āvuso visākha sakkāyadiṭṭhi na hoti iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mn_44:9.1",
+        "original": "“Katamo panāyye, ariyo aṭṭhaṅgiko maggo”ti?",
+        "analyzed": "katamo panāyye ariyaḥ aṭṭhaṅgikaḥ maggo ti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_44:9.2",
+        "original": "“Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+        "analyzed": "ayam eva kho āvuso visākha ariyaḥ aṭṭhaṅgikaḥ maggo ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_44:9.3",
+        "original": "sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī”ti.",
+        "analyzed": "sammā diṭṭhi sammā saṅkappo sammā vācā sammā kammanto sammā ājīvaḥ sammā vāyāmaḥ sammā sati sammā samādhi iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mn_44:10.1",
+        "original": "“Ariyo panāyye, aṭṭhaṅgiko maggo saṅkhato udāhu asaṅkhato”ti?",
+        "analyzed": "ariyaḥ panāyye aṭṭhaṅgikaḥ maggo saṅkhataḥ udāhu a saṅkhataḥ ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_44:10.2",
+        "original": "“Ariyo kho, āvuso visākha, aṭṭhaṅgiko maggo saṅkhato”ti.",
+        "analyzed": "ariyaḥ kho āvuso visākha aṭṭhaṅgikaḥ maggo saṅkhato ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mn_44:11.1",
+        "original": "“Ariyena nu kho, ayye, aṭṭhaṅgikena maggena tayo khandhā saṅgahitā udāhu tīhi khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito”ti?",
+        "analyzed": "ariyena nu kho ayye aṭṭhaṅgikena maggena tayaḥ khandhā saṅgahitāḥ udāhu tīhi khandhehi ariyaḥ aṭṭhaṅgikaḥ maggo saṅgahito ti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_44:11.2",
+        "original": "“Na kho, āvuso visākha, ariyena aṭṭhaṅgikena maggena tayo khandhā saṅgahitā; tīhi ca kho, āvuso visākha, khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito.",
+        "analyzed": "na kho āvuso visākha ariyena aṭṭhaṅgikena maggena tayaḥ khandhā saṅgahitā tīhi ca kho āvuso visākha khandhehi ariyaḥ aṭṭhaṅgikaḥ maggo saṅgahito ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_44:11.3",
+        "original": "Yā cāvuso visākha, sammāvācā yo ca sammākammanto yo ca sammāājīvo ime dhammā sīlakkhandhe saṅgahitā.",
+        "analyzed": "yā ca āvuso visākha sammā vācā yā ca sammā kammanto yā ca sammā ājīvo ime dhammā sīla kkhandhe saṅgahitā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_44:11.4",
+        "original": "Yo ca sammāvāyāmo yā ca sammāsati yo ca sammāsamādhi ime dhammā samādhikkhandhe saṅgahitā.",
+        "analyzed": "yā ca sammā vāyāmaḥ yā ca sammā sati yaḥ ca sammā samādhi ime dhammā samādhi khandhe saṅgahitā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_44:11.5",
+        "original": "Yā ca sammādiṭṭhi yo ca sammāsaṅkappo, ime dhammā paññākkhandhe saṅgahitā”ti.",
+        "analyzed": "yā ca sammādiṭṭhi yaḥ ca sammāsaṅkappo ime dhammā paññā kkhandhe saṅgahitā ati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mn_44:12.1",
+        "original": "“Katamo panāyye, samādhi, katame dhammā samādhinimittā, katame dhammā samādhiparikkhārā, katamā samādhibhāvanā”ti?",
+        "analyzed": "katamaḥ panāyye samādhi katame dhammā samādhi nimittā katame dhammā samādhi parikkhārā katamā samādhi bhāvanā ati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_44:12.2",
+        "original": "“Yā kho, āvuso visākha, cittassa ekaggatā ayaṁ samādhi;",
+        "analyzed": "yā kho āvuso visākha cittassa ekagga tā ayam samādhi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_44:12.3",
+        "original": "cattāro satipaṭṭhānā samādhinimittā;",
+        "analyzed": "cattāro sati paṭṭhānā samādhi nimittā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_44:12.4",
+        "original": "cattāro sammappadhānā samādhiparikkhārā.",
+        "analyzed": "cattāro sammappadhānā samādhi parikkhārā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_44:12.5",
+        "original": "Yā tesaṁyeva dhammānaṁ āsevanā bhāvanā bahulīkammaṁ, ayaṁ ettha samādhibhāvanā”ti.",
+        "analyzed": "yā dhammānaṃ āsevanā bhāvanā bahulīkamma ayaṃ ettha samādhi bhāvanā ati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mn_44:13.1",
+        "original": "“Kati panāyye, saṅkhārā”ti?",
+        "analyzed": "kati panāyye saṅkhārā ati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_44:13.2",
+        "original": "“Tayome, āvuso visākha, saṅkhārā—",
+        "analyzed": "tayā ume āvusaḥ visākha saṅkhārā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_44:13.3",
+        "original": "kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.",
+        "analyzed": "kāya saṅkhāraḥ vacī saṅkhāraḥ citta saṅkhāraḥ iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mn_44:14.1",
+        "original": "“Katamo panāyye, kāyasaṅkhāro, katamo vacīsaṅkhāro, katamo cittasaṅkhāro”ti?",
+        "analyzed": "katamaḥ panāyye kāya saṅkhāro katamaḥ vacī saṅkhāro katamaḥ citta saṅkhāraḥ iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_44:14.2",
+        "original": "“Assāsapassāsā kho, āvuso visākha, kāyasaṅkhāro, vitakkavicārā vacīsaṅkhāro, saññā ca vedanā ca cittasaṅkhāro”ti.",
+        "analyzed": "assāsa passāsā kho āvuso visākha kāya saṅkhāro vitakka vicārāḥ vacī saṅkhāro saññā ca vedanā ca citta saṅkhāro ti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mn_44:15.1",
+        "original": "“Kasmā panāyye, assāsapassāsā kāyasaṅkhāro, kasmā vitakkavicārā vacīsaṅkhāro, kasmā saññā ca vedanā ca cittasaṅkhāro”ti?",
+        "analyzed": "kasmā panāyye assāsa passāsā kāya saṅkhāro kasmā vitakka vicārā vacī saṅkhāro kasmā saññā ca vedanā ca citta saṅkhāro ti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_44:15.2",
+        "original": "“Assāsapassāsā kho, āvuso visākha, kāyikā ete dhammā kāyappaṭibaddhā, tasmā assāsapassāsā kāyasaṅkhāro.",
+        "analyzed": "assāsa passāsā kho āvuso visākha kāyikāḥ ete dhammāḥ kāya ppaṭibaddhā tasmai assāsa passāsā kāya saṅkhāro ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_44:15.3",
+        "original": "Pubbe kho, āvuso visākha, vitakketvā vicāretvā pacchā vācaṁ bhindati, tasmā vitakkavicārā vacīsaṅkhāro.",
+        "analyzed": "pubbe kho āvuso visākha vitakketvā vicāretvā pacchā vācam bhindati tasmā vitakka vicārā vacī saṅkhāro ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_44:15.4",
+        "original": "Saññā ca vedanā ca cetasikā ete dhammā cittappaṭibaddhā, tasmā saññā ca vedanā ca cittasaṅkhāro”ti.",
+        "analyzed": "saññā ca vedanā ca cetasikāḥ ete dhammāḥ citta paṭibaddhā tasmā saññā ca vedanā ca citta saṅkhāro ti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mn_44:16.1",
+        "original": "“Kathaṁ panāyye, saññāvedayitanirodhasamāpatti hotī”ti?",
+        "analyzed": "katham panāyye saññā vedayita nirodha samāpatti hoti iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_44:16.2",
+        "original": "“Na kho, āvuso visākha, saññāvedayitanirodhaṁ samāpajjantassa bhikkhuno evaṁ hoti:",
+        "analyzed": "na kho āvuso visākha saññā vedayita nirodham samāpajjantassa bhikkhuno evam hoti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_44:16.3",
+        "original": "‘ahaṁ saññāvedayitanirodhaṁ samāpajjissan’ti vā, ‘ahaṁ saññāvedayitanirodhaṁ samāpajjāmī’ti vā, ‘ahaṁ saññāvedayitanirodhaṁ samāpanno’ti vā.",
+        "analyzed": "aham saññā vedayita nirodham samāpajjissanti vā aham saññā vedayita nirodham samāpajjāmi iti vā aham saññā vedayita nirodham samāpanno ti vā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_44:16.4",
+        "original": "Atha khvāssa pubbeva tathā cittaṁ bhāvitaṁ hoti yaṁ taṁ tathattāya upanetī”ti.",
+        "analyzed": "atha khvā assa pubbā iva tathā cittam bhāvitam hoti yam tam tathattāya upaneti iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mn_44:17.1",
+        "original": "“Saññāvedayitanirodhaṁ samāpajjantassa panāyye, bhikkhuno katame dhammā paṭhamaṁ nirujjhanti—yadi vā kāyasaṅkhāro, yadi vā vacīsaṅkhāro, yadi vā cittasaṅkhāro”ti?",
+        "analyzed": "saññā vedayita nirodham samāpajjantassa panāyye bhikkhuno katame dhammā paṭhamam nirujjhanti yadi vā kāya saṅkhāraḥ yadi vā vacī saṅkhāraḥ yadi vā citta saṅkhāraḥ iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_44:17.2",
+        "original": "“Saññāvedayitanirodhaṁ samāpajjantassa kho, āvuso visākha, bhikkhuno paṭhamaṁ nirujjhati vacīsaṅkhāro, tato kāyasaṅkhāro, tato cittasaṅkhāro”ti.",
+        "analyzed": "saññā vedayita nirodham samāpajjantassa kho āvuso visākha bhikkhuno paṭhamam nirujjhati vacī saṅkhāro tatas kāya saṅkhāro tatas citta saṅkhāro ti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mn_44:18.1",
+        "original": "“Kathaṁ panāyye, saññāvedayitanirodhasamāpattiyā vuṭṭhānaṁ hotī”ti?",
+        "analyzed": "katham panāyye saññā vedayita nirodha samāpattiyāḥ vuṭṭhānam hoti iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_44:18.2",
+        "original": "“Na kho, āvuso visākha, saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa bhikkhuno evaṁ hoti:",
+        "analyzed": "na kho āvuso visākha saññā vedayita nirodha samāpattiyāḥ vuṭṭhahantassa bhikkhuno evam hoti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_44:18.3",
+        "original": "‘ahaṁ saññāvedayitanirodhasamāpattiyā vuṭṭhahissan’ti vā, ‘ahaṁ saññāvedayitanirodhasamāpattiyā vuṭṭhahāmī’ti vā, ‘ahaṁ saññāvedayitanirodhasamāpattiyā vuṭṭhito’ti vā.",
+        "analyzed": "aham saññā vedayita nirodha samāpattiyā vuṭṭhahissanti vā aham saññā vedayita nirodha samāpattiyā vuṭṭhahāmi iti vā aham saññā vedayita nirodha samāpattiyā vuṭṭhitaḥ iti vā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_44:18.4",
+        "original": "Atha khvāssa pubbeva tathā cittaṁ bhāvitaṁ hoti yaṁ taṁ tathattāya upanetī”ti.",
+        "analyzed": "atha khvā assa pubbā iva tathā cittam bhāvitam hoti yam tam tathattāya upaneti iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mn_44:19.1",
+        "original": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa panāyye, bhikkhuno katame dhammā paṭhamaṁ uppajjanti—yadi vā kāyasaṅkhāro, yadi vā vacīsaṅkhāro, yadi vā cittasaṅkhāro”ti?",
+        "analyzed": "saññā vedayita nirodha samāpattiyā vuṭṭhahantassa panāyye bhikkhuno katame dhammā paṭhamam uppajjanti yadi vā kāya saṅkhāraḥ yadi vā vacī saṅkhāraḥ yadi vā citta saṅkhāraḥ ti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_44:19.2",
+        "original": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa kho, āvuso visākha, bhikkhuno paṭhamaṁ uppajjati cittasaṅkhāro, tato kāyasaṅkhāro, tato vacīsaṅkhāro”ti.",
+        "analyzed": "saññā vedayita nirodha samāpattiyā vuṭṭhahantassa kho āvuso visākha bhikkhuno paṭhamam uppajjati citta saṅkhāro tatas kāya saṅkhāro tatas vacī saṅkhāro ti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mn_44:20.1",
+        "original": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ panāyye, bhikkhuṁ kati phassā phusantī”ti?",
+        "analyzed": "saññā vedayita nirodha samāpattiyā vuṭṭhitam panāyye bhikkhum kati phassā phusanti iti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_44:20.2",
+        "original": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ kho, āvuso visākha, bhikkhuṁ tayo phassā phusanti—suññato phasso, animitto phasso, appaṇihito phasso”ti.",
+        "analyzed": "saññā vedayita nirodha samāpattiyā vuṭṭhitam kho āvuso visākha bhikkhum tayo phassā phusanti suññataḥ phasso animitto phasso appaṇihito phassoti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mn_44:21.1",
+        "original": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa panāyye, bhikkhuno kiṁninnaṁ cittaṁ hoti kiṁpoṇaṁ kiṁpabbhāran”ti?",
+        "analyzed": "saññā vedayita nirodha samāpattiyā vuṭṭhitassa panāyye bhikkhuno ki ninnam cittam hoti ki poṇam ki pabbhāranti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_44:21.2",
+        "original": "“Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa kho, āvuso visākha, bhikkhuno vivekaninnaṁ cittaṁ hoti, vivekapoṇaṁ vivekapabbhāran”ti.",
+        "analyzed": "saññā vedayita nirodha samāpattiyā vuṭṭhitassa kho āvuso visākha bhikkhuno viveka ninnam cittam hoti viveka poṇam viveka pabbhāram ti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mn_44:22.1",
+        "original": "“Kati panāyye, vedanā”ti?",
+        "analyzed": "kati panāyye ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_44:22.2",
+        "original": "“Tisso kho imā, āvuso visākha, vedanā—",
+        "analyzed": "tissaḥ kho imāḥ āvuso visākha vedanā ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_44:22.3",
+        "original": "sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā”ti.",
+        "analyzed": "sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā ati ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.1",
+        "original": "“Katamā panāyye, sukhā vedanā, katamā dukkhā vedanā, katamā adukkhamasukhā vedanā”ti?",
+        "analyzed": "katamā panāyye sukhā vedanā katamā dukkhā vedanā katamā adukkhamasukhā vedanā ti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.2",
+        "original": "“Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā sukhaṁ sātaṁ vedayitaṁ—",
+        "analyzed": "yam khalu āvuso visākha kāyikam vā cetasikam vā sukham sātam vedayita ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.3",
+        "original": "ayaṁ sukhā vedanā.",
+        "analyzed": "ayam sukhā vedanā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.4",
+        "original": "Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā dukkhaṁ asātaṁ vedayitaṁ—",
+        "analyzed": "yam kho āvuso visākha kāyikam vā cetasikam vā dukkham asātam vedayita ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.5",
+        "original": "ayaṁ dukkhā vedanā.",
+        "analyzed": "ayam dukkhā vedanā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.6",
+        "original": "Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā neva sātaṁ nāsātaṁ vedayitaṁ—",
+        "analyzed": "yam khalu āvuso visākha kāyikam vā cetasikam vā na iva sātam na a sātam vedayita ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:23.7",
+        "original": "ayaṁ adukkhamasukhā vedanā”ti.",
+        "analyzed": "ayam adukkham asukhā vedanā ati ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mn_44:24.1",
+        "original": "“Sukhā panāyye, vedanā kiṁsukhā kiṁdukkhā, dukkhā vedanā kiṁsukhā kiṁdukkhā, adukkhamasukhā vedanā kiṁsukhā kiṁdukkhā”ti?",
+        "analyzed": "sukhā panāyye vedanā ki sukhā ki dukkhā dukkhā vedanā ki sukhā ki dukkhā adukkhamasukhā vedanā ki sukhā ki dukkhā ati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_44:24.2",
+        "original": "“Sukhā kho, āvuso visākha, vedanā ṭhitisukhā vipariṇāmadukkhā;",
+        "analyzed": "sukhā kho āvuso visākha vedanā ṭhiti sukhā vipariṇāma dukkhā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_44:24.3",
+        "original": "dukkhā vedanā ṭhitidukkhā vipariṇāmasukhā;",
+        "analyzed": "dukkhā vedanā ṭhiti dukkhā vipariṇāma sukhā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_44:24.4",
+        "original": "adukkhamasukhā vedanā ñāṇasukhā aññāṇadukkhā”ti.",
+        "analyzed": "adukkham asukhā vedanā ñāṇa sukhā aññāṇa dukkhā ti ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mn_44:25.1",
+        "original": "“Sukhāya panāyye, vedanāya kiṁ anusayo anuseti, dukkhāya vedanāya kiṁ anusayo anuseti, adukkhamasukhāya vedanāya kiṁ anusayo anusetī”ti?",
+        "analyzed": "sukhāya panāyye vedanāya kim anusayaḥ anuseti dukkhāya vedanāya kim anusayaḥ anuseti adukkham asukhāya vedanāya kim anusayaḥ anuseti iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_44:25.2",
+        "original": "“Sukhāya kho, āvuso visākha, vedanāya rāgānusayo anuseti, dukkhāya vedanāya paṭighānusayo anuseti, adukkhamasukhāya vedanāya avijjānusayo anusetī”ti.",
+        "analyzed": "sukhāya kho āvuso visākha vedanāya rāga anusayaḥ anuseti dukkhāya vedanāya paṭigha anusayaḥ anuseti adukkhamasukhāya vedanāya avijjā anusayaḥ anuseti iti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mn_44:26.1",
+        "original": "“Sabbāya nu kho, ayye, sukhāya vedanāya rāgānusayo anuseti, sabbāya dukkhāya vedanāya paṭighānusayo anuseti, sabbāya adukkhamasukhāya vedanāya avijjānusayo anusetī”ti?",
+        "analyzed": "sabbāya nu kho ayye sukhāya vedanāya rāga anusayaḥ anuseti sabbāya dukkhāya vedanāya paṭigha anusayaḥ anuseti sabbāya adukkhamasukhāya vedanāya avijjā anusayaḥ anuseti iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_44:26.2_0",
+        "original": "“Na kho, āvuso visākha, sabbāya sukhāya vedanāya rāgānusayo anuseti, na sabbāya dukkhāya",
+        "analyzed": "na kho āvuso visākha sabbāya sukhāya vedanāya rāga anusayaḥ anuseti na sabbāya dukkhāya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_44:26.2_1",
+        "original": "vedanāya paṭighānusayo anuseti, na sabbāya adukkhamasukhāya vedanāya avijjānusayo anusetī”ti.",
+        "analyzed": "vedanāya paṭigha anusayaḥ anuseti na sabbāya adukkhamasukhāya vedanāya avijjā anusayaḥ anuseti iti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mn_44:27.1",
+        "original": "“Sukhāya panāyye, vedanāya kiṁ pahātabbaṁ, dukkhāya vedanāya kiṁ pahātabbaṁ, adukkhamasukhāya vedanāya kiṁ pahātabban”ti?",
+        "analyzed": "sukhāya panāyye vedanāya kim pahātabba dukkhāya vedanāya kim pahātabba adukkham asukhāya vedanāya kim pahātabbanti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_44:27.2",
+        "original": "“Sukhāya kho, āvuso visākha, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti.",
+        "analyzed": "sukhāya kho āvuso visākha vedanāya rāga anusayaḥ pahātabbaḥ dukkhāya vedanāya paṭigha anusayaḥ pahātabbaḥ adukkhamasukhāya vedanāya avijjā anusayaḥ pahātabbaḥ iti ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.1",
+        "original": "“Sabbāya nu kho, ayye, sukhāya vedanāya rāgānusayo pahātabbo, sabbāya dukkhāya vedanāya paṭighānusayo pahātabbo, sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti?",
+        "analyzed": "sabbāya nu kho ayye sukhāya vedanāya rāga anusayaḥ pahātabbo sabbāya dukkhāya vedanāya paṭigha anusayaḥ pahātabbo sabbāya adukkhamasukhāya vedanāya avijjā anusayaḥ pahātabbo ti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.2_0",
+        "original": "“Na kho, āvuso visākha, sabbāya sukhāya vedanāya rāgānusayo pahātabbo, na sabbāya",
+        "analyzed": "na kho āvuso visākha sabbāya sukhāya vedanāya rāga anusayaḥ pahātabbaḥ na sabbāya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.2_1",
+        "original": "dukkhāya vedanāya paṭighānusayo pahātabbo, na sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo.",
+        "analyzed": "dukkhāya vedanāya paṭigha anusayaḥ pahātabbaḥ na sabbāya adukkhamasukhāya vedanāya avijjā anusayaḥ pahātabbaḥ ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.3",
+        "original": "Idhāvuso visākha, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "idha āvuso visākha bhikkhu vivicca iva kāmehi vivicca akusalehi dhammehi sa vitakkam sa vicāram viveka jam pīti sukham paṭhamam jhānam upasampajja viharati ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.4",
+        "original": "Rāgaṁ tena pajahati, na tattha rāgānusayo anuseti.",
+        "analyzed": "rāgam tena pajahati na tattha rāga anusayaḥ anuseti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.5",
+        "original": "Idhāvuso visākha, bhikkhu iti paṭisañcikkhati:",
+        "analyzed": "idha āvuso visākha bhikkhu iti paṭisañcikkhati ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.6",
+        "original": "‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti?",
+        "analyzed": "kudāssu nāma aham tat āyatanam upasampajja viharissāmi yat ariyāḥ etarahi āyatanam upasampajja viharanti iti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.7",
+        "original": "Iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihāppaccayā domanassaṁ.",
+        "analyzed": "iti anuttaresu vimokkhesu piham upaṭṭhāpayato uppajjati domanassa ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.8",
+        "original": "Paṭighaṁ tena pajahati, na tattha paṭighānusayo anuseti.",
+        "analyzed": "paṭigham tena pajahati na tattha paṭigha anusayaḥ anuseti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.9_0",
+        "original": "Idhāvuso visākha, bhikkhu sukhassa ca pahānā, dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ",
+        "analyzed": "idha āvuso visākha bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbā iva somanassa domanassāna ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.9_1",
+        "original": "atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati.",
+        "analyzed": "atthaṅgamā adukkham asukham upekkhā sati pārisuddhim catuttham jhānam upasampajja viharati ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:28.10",
+        "original": "Avijjaṁ tena pajahati, na tattha avijjānusayo anusetī”ti.",
+        "analyzed": "avijjam tena pajahati na tattha avijjā anusayaḥ anuseti iti ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.1",
+        "original": "“Sukhāya panāyye, vedanāya kiṁ paṭibhāgo”ti?",
+        "analyzed": "sukhāya panāyye vedanāya kim ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.2",
+        "original": "“Sukhāya kho, āvuso visākha, vedanāya dukkhā vedanā paṭibhāgo”ti.",
+        "analyzed": "sukhāya kho āvuso visākha vedanāya dukkhā vedanā paṭibhāgā ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.3",
+        "original": "“Dukkhāya pannāyye, vedanāya kiṁ paṭibhāgo”ti?",
+        "analyzed": "dukkhāya pannāyye vedanāya kim paṭibhāgo ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.4",
+        "original": "“Dukkhāya kho, āvuso visākha, vedanāya sukhā vedanā paṭibhāgo”ti.",
+        "analyzed": "dukkhāya kho āvuso visākha vedanāya sukhā vedanā paṭibhāgā ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.5",
+        "original": "“Adukkhamasukhāya panāyye, vedanāya kiṁ paṭibhāgo”ti?",
+        "analyzed": "adukkham asukhāya panāyye vedanāya kim paṭibhāgo ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.6",
+        "original": "“Adukkhamasukhāya kho, āvuso visākha, vedanāya avijjā paṭibhāgo”ti.",
+        "analyzed": "adukkham asukhāya kho āvuso visākha vedanāya avijjā paṭibhāgaḥ ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.7",
+        "original": "“Avijjāya panāyye, kiṁ paṭibhāgo”ti?",
+        "analyzed": "avijjāya panāyye kim ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.8",
+        "original": "“Avijjāya kho, āvuso visākha, vijjā paṭibhāgo”ti.",
+        "analyzed": "avijjāya kho āvuso visākha vijjā paṭibhāgaḥ ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.9",
+        "original": "“Vijjāya panāyye, kiṁ paṭibhāgo”ti?",
+        "analyzed": "vijjāya panāyye kim ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.10",
+        "original": "“Vijjāya kho, āvuso visākha, vimutti paṭibhāgo”ti.",
+        "analyzed": "vijjāya kho āvuso visākha vimutti paṭibhāgo ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.11",
+        "original": "“Vimuttiyā panāyye, kiṁ paṭibhāgo”ti?",
+        "analyzed": "vimuttiyā panāyye kim ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.12",
+        "original": "“Vimuttiyā kho, āvuso visākha, nibbānaṁ paṭibhāgo”ti.",
+        "analyzed": "vimuttiyāḥ kho āvuso visākha nibbānam paṭibhāgaḥ ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.13",
+        "original": "“Nibbānassa panāyye, kiṁ paṭibhāgo”ti?",
+        "analyzed": "nibbānassa panāyye kim paṭibhāgaḥ ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.14",
+        "original": "“Accayāsi, āvuso visākha, pañhaṁ, nāsakkhi pañhānaṁ pariyantaṁ gahetuṁ.",
+        "analyzed": "āvuso visākha pañha na asakkhi pañhānam pariyantam gahetu ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.15",
+        "original": "Nibbānogadhañhi, āvuso visākha, brahmacariyaṁ, nibbānaparāyanaṁ nibbānapariyosānaṁ.",
+        "analyzed": "nibbāna ogadham hi āvuso visākha brahmacariya nibbāna parāyanam nibbāna pariyosāna ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:29.16",
+        "original": "Ākaṅkhamāno ca tvaṁ, āvuso visākha, bhagavantaṁ upasaṅkamitvā etamatthaṁ puccheyyāsi, yathā ca te bhagavā byākaroti tathā naṁ dhāreyyāsī”ti.",
+        "analyzed": "ākaṅkhamāno ca tvam āvuso visākha bhagavantam upasaṅkamitvā etam attham puccheyyāsi yathā ca te bhagavā byākaroti tathā nam dhāreyyāsi iti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.1_0",
+        "original": "Atha kho visākho upāsako dhammadinnāya bhikkhuniyā bhāsitaṁ abhinanditvā anumoditvā",
+        "analyzed": "atha kho visākhaḥ upāsakaḥ dhammadinnāya bhikkhuniyā bhāsitam abhinanditvā anumoditvā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.1_1",
+        "original": "uṭṭhāyāsanā dhammadinnaṁ bhikkhuniṁ abhivādetvā padakkhiṇaṁ katvā yena bhagavā tenupasaṅkami;",
+        "analyzed": "uṭṭhāya āsanā dhammadinnam bhikkhunim abhivādetvā padakkhiṇam katvā yena bhagavā tena upasaṅkami ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.1_2",
+        "original": "upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.",
+        "analyzed": "upasaṅkamitvā bhagavantam abhivādetvā ekamantam nisīdi ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.2",
+        "original": "Ekamantaṁ nisinno kho visākho upāsako yāvatako ahosi dhammadinnāya bhikkhuniyā saddhiṁ kathāsallāpo taṁ sabbaṁ bhagavato ārocesi.",
+        "analyzed": "ekamantam nisinnaḥ kho visākhaḥ upāsakaḥ yāvatakaḥ ahosi dhammadinnāya bhikkhuniyā saddhim kathā sallāpaḥ tam sabbam bhagavataḥ ārocesi ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.3",
+        "original": "Evaṁ vutte, bhagavā visākhaṁ upāsakaṁ etadavoca:",
+        "analyzed": "evam vutte bhagavā visākham upāsakam etat avoca ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.4",
+        "original": "“paṇḍitā, visākha, dhammadinnā bhikkhunī, mahāpaññā, visākha, dhammadinnā bhikkhunī.",
+        "analyzed": "paṇḍitā visākha dhammadinnā bhikkhunī mahā paññā visākha dhammadinnā bhikkhunī ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.5",
+        "original": "Mañcepi tvaṁ, visākha, etamatthaṁ puccheyyāsi, ahampi taṁ evamevaṁ byākareyyaṁ, yathā taṁ dhammadinnāya bhikkhuniyā byākataṁ.",
+        "analyzed": "mañce pi tva visākha etam attham puccheyyāsi aham pi tam evam evam byākareyya yathā tam dhammadinnāya bhikkhuniyā byākata ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.6",
+        "original": "Eso cevetassa attho. Evañca naṁ dhārehī”ti.",
+        "analyzed": "esaḥ ceva itassa atthaḥ evam ca nam dhārehi iti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.7",
+        "original": "Idamavoca bhagavā.",
+        "analyzed": "idam avoca bhagavān ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.8",
+        "original": "Attamano visākho upāsako bhagavato bhāsitaṁ abhinandīti.",
+        "analyzed": "attamanaḥ visākhaḥ upāsakaḥ bhagavataḥ bhāsitam abhinandi iti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mn_44:30.9",
+        "original": "Cūḷavedallasuttaṁ niṭṭhitaṁ catutthaṁ.",
+        "analyzed": "cūḷavedalla suttam niṭṭhitam catuttha ",
+        "folio": "30"
+    }
+]

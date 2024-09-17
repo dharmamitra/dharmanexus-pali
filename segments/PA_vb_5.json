@@ -1,0 +1,2768 @@
+[
+    {
+        "segmentnr": "PA_vb_5:0.1",
+        "original": "Vibhaṅga",
+        "analyzed": "vibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_vb_5:0.2",
+        "original": "Indriyavibhaṅga",
+        "analyzed": "indriya vibhaṅga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_vb_5:1.0",
+        "original": "1. Abhidhammabhājanīya",
+        "analyzed": "abhidhammabhājanīya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_5:1.1",
+        "original": "Bāvīsatindriyāni—",
+        "analyzed": "bāvīsati indriyāni ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_5:1.2_0",
+        "original": "cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ,",
+        "analyzed": "cakkhundriya sotindriya ghānindriya jivhindriya kāyindriya manindriya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_5:1.2_1",
+        "original": "itthindriyaṁ, purisindriyaṁ, jīvitindriyaṁ, sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ,",
+        "analyzed": "itthi indriya purisa indriya jīvita indriya sukha indriya dukkha indriya somanassa indriya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_5:1.2_2",
+        "original": "domanassindriyaṁ, upekkhindriyaṁ, saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ,",
+        "analyzed": "domanassa indriya upekkhā indriya vīriya indriya sati indriya samādhi indriya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_5:1.2_3",
+        "original": "paññindriyaṁ, anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ.",
+        "analyzed": "paññā indriya anaññātaññassāmi itindriya aññindriya aññātāvindriya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_vb_5:2.1",
+        "original": "Tattha katamaṁ cakkhundriyaṁ?",
+        "analyzed": "tattha katamat ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_5:2.2",
+        "original": "Yaṁ cakkhu catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yam cakkhu catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopeso ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_5:2.3",
+        "original": "idaṁ vuccati “cakkhundriyaṁ”.",
+        "analyzed": "idam vuccati cakkhu indriya ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_vb_5:3.1",
+        "original": "Tattha katamaṁ sotindriyaṁ …pe…",
+        "analyzed": "tattha katamam sotindriyam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_5:3.2",
+        "original": "ghānindriyaṁ …pe…",
+        "analyzed": "ghānindriyam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_5:3.3",
+        "original": "jivhindriyaṁ …pe…",
+        "analyzed": "jivhindriyam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_5:3.4",
+        "original": "kāyindriyaṁ?",
+        "analyzed": "kāyindriya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_5:3.5",
+        "original": "Yo kāyo catunnaṁ mahābhūtānaṁ upādāya pasādo …pe… suñño gāmopeso—",
+        "analyzed": "yaḥ kāyo catunnam mahābhūtānam upādāya pasādaḥ pe suññaḥ gāmopeso ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_5:3.6",
+        "original": "idaṁ vuccati “kāyindriyaṁ”.",
+        "analyzed": "idam vuccati kāya indriya ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.1",
+        "original": "Tattha katamaṁ manindriyaṁ?",
+        "analyzed": "tat tha katamam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.2",
+        "original": "Ekavidhena manindriyaṁ—",
+        "analyzed": "ekavidhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.3",
+        "original": "phassasampayuttaṁ.",
+        "analyzed": "phassa sampayutta ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.4",
+        "original": "Duvidhena manindriyaṁ—",
+        "analyzed": "duvidhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.5",
+        "original": "atthi sahetukaṁ, atthi ahetukaṁ.",
+        "analyzed": "atthi sa hetuka atthi ahetuka ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.6",
+        "original": "Tividhena manindriyaṁ—",
+        "analyzed": "tividhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.7",
+        "original": "atthi kusalaṁ, atthi akusalaṁ, atthi abyākataṁ.",
+        "analyzed": "atthi kusala atthi akusala atthi abyākata ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.8",
+        "original": "Catubbidhena manindriyaṁ—",
+        "analyzed": "caturbidhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.9",
+        "original": "atthi kāmāvacaraṁ, atthi rūpāvacaraṁ, atthi arūpāvacaraṁ, atthi apariyāpannaṁ.",
+        "analyzed": "atthi kāmāvacara atthi rūpāvacara atthi arūpāvacara atthi apariyāpanna ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.10",
+        "original": "Pañcavidhena manindriyaṁ—",
+        "analyzed": "pañcavidhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.11",
+        "original": "atthi sukhindriyasampayuttaṁ, atthi dukkhindriyasampayuttaṁ, atthi somanassindriyasampayuttaṁ, atthi domanassindriyasampayuttaṁ, atthi upekkhindriyasampayuttaṁ.",
+        "analyzed": "atthi sukha indriya sampayutta atthi dukkha indriya sampayutta atthi somanassa indriya sampayutta atthi domanassa indriya sampayutta atthi upekkhā indriya sampayutta ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.12",
+        "original": "Chabbidhena manindriyaṁ—",
+        "analyzed": "chabbidhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.13",
+        "original": "cakkhuviññāṇaṁ …pe… manoviññāṇaṁ.",
+        "analyzed": "cakkhu viññāṇam pe manaḥ viññāṇa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:4.14",
+        "original": "Evaṁ chabbidhena manindriyaṁ.",
+        "analyzed": "evam chabbidhena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_vb_5:5.1",
+        "original": "Sattavidhena manindriyaṁ—",
+        "analyzed": "sattavidhena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_5:5.2",
+        "original": "cakkhuviññāṇaṁ …pe… kāyaviññāṇaṁ, manodhātu, manoviññāṇadhātu.",
+        "analyzed": "cakkhu viññāṇam pe kāya viññāṇa manaḥ dhātu manaḥ viññāṇa dhātu ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_5:5.3",
+        "original": "Evaṁ sattavidhena manindriyaṁ.",
+        "analyzed": "evam sattavidhena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_vb_5:6.1",
+        "original": "Aṭṭhavidhena manindriyaṁ—",
+        "analyzed": "aṭṭhavidhena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_5:6.2",
+        "original": "cakkhuviññāṇaṁ …pe… kāyaviññāṇaṁ atthi sukhasahagataṁ, atthi dukkhasahagataṁ, manodhātu, manoviññāṇadhātu.",
+        "analyzed": "cakkhu viññāṇam pe kāya viññāṇam atthi sukha sahagata atthi dukkha sahagata manaḥ dhātu manaḥ viññāṇa dhātu ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_5:6.3",
+        "original": "Evaṁ aṭṭhavidhena manindriyaṁ.",
+        "analyzed": "evam aṭṭhavidhena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_vb_5:7.1",
+        "original": "Navavidhena manindriyaṁ—",
+        "analyzed": "navavidhena ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_5:7.2",
+        "original": "cakkhuviññāṇaṁ …pe… kāyaviññāṇaṁ, manodhātu, manoviññāṇadhātu atthi kusalā, atthi akusalā, atthi abyākatā.",
+        "analyzed": "cakkhu viññāṇam pe kāya viññāṇa manaḥ dhātu manaḥ viññāṇa dhātu atthi kusalā atthi akusalā atthi abyākatā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_5:7.3",
+        "original": "Evaṁ navavidhena manindriyaṁ.",
+        "analyzed": "evam navavidhena ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_vb_5:8.1",
+        "original": "Dasavidhena manindriyaṁ—",
+        "analyzed": "dasavidhena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_5:8.2",
+        "original": "cakkhuviññāṇaṁ …pe… kāyaviññāṇaṁ atthi sukhasahagataṁ, atthi dukkhasahagataṁ, manodhātu, manoviññāṇadhātu atthi kusalā, atthi akusalā, atthi abyākatā.",
+        "analyzed": "cakkhu viññāṇam pe kāya viññāṇam atthi sukha sahagata atthi dukkha sahagata manaḥ dhātu manaḥ viññāṇa dhātu atthi kusalā atthi akusalā atthi abyākatā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_5:8.3",
+        "original": "Evaṁ dasavidhena manindriyaṁ …pe…",
+        "analyzed": "evam dasavidhena man indriyam ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_5:8.4",
+        "original": "evaṁ bahuvidhena manindriyaṁ.",
+        "analyzed": "evam bahuvidhena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_5:8.5",
+        "original": "Idaṁ vuccati “manindriyaṁ”.",
+        "analyzed": "idam vuccati manindriya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_vb_5:9.1",
+        "original": "Tattha katamaṁ itthindriyaṁ?",
+        "analyzed": "katamaṃ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_5:9.2",
+        "original": "Yaṁ itthiyā itthiliṅgaṁ itthinimittaṁ itthikuttaṁ itthākappo itthattaṁ itthibhāvo—",
+        "analyzed": "yam itthiyāḥ itthi liṅgam itthi nimittam itthikuttam itthākappaḥ itthattam itthi bhāvaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_5:9.3",
+        "original": "idaṁ vuccati “itthindriyaṁ”.",
+        "analyzed": "idam vuccati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_vb_5:10.1",
+        "original": "Tattha katamaṁ purisindriyaṁ?",
+        "analyzed": "tattha katamam purisa indriya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_5:10.2",
+        "original": "Yaṁ purisassa purisaliṅgaṁ purisanimittaṁ purisakuttaṁ purisākappo purisattaṁ purisabhāvo—",
+        "analyzed": "yam purisassa purisa liṅgam purisa nimittam purisa kuttam purisa ākappaḥ purisa ttam purisa bhāvaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_5:10.3",
+        "original": "idaṁ vuccati “purisindriyaṁ”.",
+        "analyzed": "idam vuccati purisa indriya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_vb_5:11.1",
+        "original": "Tattha katamaṁ jīvitindriyaṁ?",
+        "analyzed": "tattha katamam jīvitindriya ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_5:11.2",
+        "original": "Jīvitindriyaṁ duvidhena—",
+        "analyzed": "jīvitindriyam duvidhena ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_5:11.3",
+        "original": "atthi rūpajīvitindriyaṁ, atthi arūpajīvitindriyaṁ.",
+        "analyzed": "atthi rūpa jīvita indriya atthi arūpa jīvita indriya ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_vb_5:12.1",
+        "original": "Tattha katamaṁ rūpajīvitindriyaṁ?",
+        "analyzed": "tat tha katamam ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_vb_5:12.2",
+        "original": "Yo tesaṁ rūpīnaṁ dhammānaṁ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṁ jīvitindriyaṁ—",
+        "analyzed": "yaḥ tesam rūpīnam dhammānam āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitam jīvitindriya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_vb_5:12.3",
+        "original": "idaṁ vuccati “rūpajīvitindriyaṁ”.",
+        "analyzed": "idam vuccati rūpa jīvita indriya ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_vb_5:13.1",
+        "original": "Tattha katamaṁ arūpajīvitindriyaṁ?",
+        "analyzed": "katamaṃ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_vb_5:13.2",
+        "original": "Yo tesaṁ arūpīnaṁ dhammānaṁ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṁ jīvitindriyaṁ—",
+        "analyzed": "yaḥ tesam arūpīnam dhammānam āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitam jīvitindriya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_vb_5:13.3",
+        "original": "idaṁ vuccati “arūpajīvitindriyaṁ”.",
+        "analyzed": "idam vuccati arūpa jīvitindriya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_vb_5:13.4",
+        "original": "Idaṁ vuccati “jīvitindriyaṁ”.",
+        "analyzed": "idam vuccati jīvitindriya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_vb_5:14.1",
+        "original": "Tattha katamaṁ sukhindriyaṁ?",
+        "analyzed": "tat tha katamat sukhindriya ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_vb_5:14.2",
+        "original": "Yaṁ kāyikaṁ sātaṁ kāyikaṁ sukhaṁ kāyasamphassajaṁ sātaṁ sukhaṁ vedayitaṁ kāyasamphassajā sātā sukhā vedanā—",
+        "analyzed": "yam kāyikam sātam kāyikam sukham kāya samphassa jam sātam sukham vedayitam kāya samphassa jā sātā sukhā vedanā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_vb_5:14.3",
+        "original": "idaṁ vuccati “sukhindriyaṁ”.",
+        "analyzed": "idam vuccati sukha indriya ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_vb_5:15.1",
+        "original": "Tattha katamaṁ dukkhindriyaṁ?",
+        "analyzed": "tattha katamat ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_vb_5:15.2",
+        "original": "Yaṁ kāyikaṁ asātaṁ kāyikaṁ dukkhaṁ kāyasamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ kāyasamphassajā asātā dukkhā vedanā—",
+        "analyzed": "yam kāyikam asātam kāyikam dukkham kāya samphassa jam asātam dukkham vedayitam kāya samphassa jā asātā dukkhā vedanā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_vb_5:15.3",
+        "original": "idaṁ vuccati “dukkhindriyaṁ”.",
+        "analyzed": "idam vuccati dukkha indriya ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_vb_5:16.1",
+        "original": "Tattha katamaṁ somanassindriyaṁ?",
+        "analyzed": "tattha katamam somanassindriya ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_vb_5:16.2",
+        "original": "Yaṁ cetasikaṁ sātaṁ cetasikaṁ sukhaṁ cetosamphassajaṁ sātaṁ sukhaṁ vedayitaṁ cetosamphassajā sātā sukhā vedanā—",
+        "analyzed": "yam cetasikam sātam cetasikam sukham cetaḥ samphassa jam sātam sukham vedayitam cetaḥ samphassa jā sātā sukhā vedanā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_vb_5:16.3",
+        "original": "idaṁ vuccati “somanassindriyaṁ”.",
+        "analyzed": "idam vuccati somanassindriya ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_vb_5:17.1",
+        "original": "Tattha katamaṁ domanassindriyaṁ?",
+        "analyzed": "tattha katamat ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_vb_5:17.2",
+        "original": "Yaṁ cetasikaṁ asātaṁ cetasikaṁ dukkhaṁ cetosamphassajaṁ asātaṁ dukkhaṁ vedayitaṁ cetosamphassajā asātā dukkhā vedanā—",
+        "analyzed": "yam cetasikam asātam cetasikam dukkham cetas samphassa jam asātam dukkham vedayitam cetas samphassa jā asātā dukkhā vedanā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_vb_5:17.3",
+        "original": "idaṁ vuccati “domanassindriyaṁ”.",
+        "analyzed": "idam vuccati domanassindriya ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_vb_5:18.1",
+        "original": "Tattha katamaṁ upekkhindriyaṁ?",
+        "analyzed": "tattha katamaṃ upekkhindriya ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_vb_5:18.2",
+        "original": "Yaṁ cetasikaṁ neva sātaṁ nāsātaṁ cetosamphassajaṁ adukkhamasukhaṁ vedayitaṁ cetosamphassajā adukkhamasukhā vedanā—",
+        "analyzed": "yam cetasikam na iva sātam na asātam cetaḥ samphassa jam adukkham asukham vedayitam cetaḥ samphassa jā adukkham asukhā vedanā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_vb_5:18.3",
+        "original": "idaṁ vuccati “upekkhindriyaṁ”.",
+        "analyzed": "idam vuccati upekkhā indriya ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_vb_5:19.1",
+        "original": "Tattha katamaṁ saddhindriyaṁ?",
+        "analyzed": "tat tha katamat ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_vb_5:19.2",
+        "original": "Yā saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṁ saddhābalaṁ—",
+        "analyzed": "yā saddhā saddahanā okappanā abhippasādaḥ saddhā saddhi indriyam saddhā bala ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_vb_5:19.3",
+        "original": "idaṁ vuccati “saddhindriyaṁ”.",
+        "analyzed": "idam vuccati saddhindriya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_vb_5:20.1",
+        "original": "Tattha katamaṁ vīriyindriyaṁ?",
+        "analyzed": "tat tha katamam ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_5:20.2_0",
+        "original": "Yo cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo ṭhiti",
+        "analyzed": "yaḥ cetasikaḥ vīriya ārambhaḥ nikkamaḥ parakkamaḥ uyyāmaḥ vāyāmaḥ ussāhaḥ ussoḷhī thāmaḥ ṭhiti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_5:20.2_1",
+        "original": "asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṁ",
+        "analyzed": "a sithila parakkama tā a nikkhitta chanda tā a nikkhitta dhura tā dhura sampaggāhaḥ vīriya ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_5:20.2_2",
+        "original": "vīriyindriyaṁ vīriyabalaṁ—",
+        "analyzed": "vīriya indriyam vīriya bala ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_5:20.3",
+        "original": "idaṁ vuccati “vīriyindriyaṁ”.",
+        "analyzed": "idam vuccati vīriya indriya ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_vb_5:21.1",
+        "original": "Tattha katamaṁ satindriyaṁ?",
+        "analyzed": "tat tha katamat sat indriya ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_vb_5:21.2",
+        "original": "Yā sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṁ satibalaṁ sammāsati—",
+        "analyzed": "yā sati anussati paṭissati sati saraṇa tā dhāraṇa tā apilāpana tā a sammussana tā sati sati indriyam sati balam sammā sati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_vb_5:21.3",
+        "original": "idaṁ vuccati “satindriyaṁ”.",
+        "analyzed": "idam vuccati sat indriya ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_vb_5:22.1",
+        "original": "Tattha katamaṁ samādhindriyaṁ?",
+        "analyzed": "tat tha katamam samādhindriya ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_vb_5:22.2",
+        "original": "Yā cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṁ samādhibalaṁ sammāsamādhi—",
+        "analyzed": "yā cittassa ṭhiti saṇṭhiti avaṭṭhiti a visāhāraḥ a vikkhepaḥ a visāhaṭa mānasa tā samathaḥ samādhi indriyam samādhi balam sammāsamādhi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_vb_5:22.3",
+        "original": "idaṁ vuccati “samādhindriyaṁ”.",
+        "analyzed": "idam vuccati samādhindriya ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_vb_5:23.1",
+        "original": "Tattha katamaṁ paññindriyaṁ?",
+        "analyzed": "tattha katamam ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_5:23.2",
+        "original": "Yā paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi—",
+        "analyzed": "yā paññā pajānanā pe amoho dhammavicayo sammādiṭṭhi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_5:23.3",
+        "original": "idaṁ vuccati “paññindriyaṁ”.",
+        "analyzed": "idam vuccati paññindriya ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_vb_5:24.1",
+        "original": "Tattha katamaṁ anaññātaññassāmītindriyaṁ?",
+        "analyzed": "tattha katamaṃ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_5:24.2_0",
+        "original": "Yā tesaṁ dhammānaṁ anaññātānaṁ adiṭṭhānaṁ appattānaṁ aviditānaṁ asacchikatānaṁ sacchikiriyāya",
+        "analyzed": "yā tesam dhammānam anaññātānam adiṭṭhānam appattānam aviditānam a sacchikatānam sacchikiriyāya ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_5:24.2_1",
+        "original": "paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṁ maggapariyāpannaṁ—",
+        "analyzed": "paññā pajānanā pe amoho dhammavicayo sammādiṭṭhi dhammavicaya sambojjhaṅgo maggaṅgam magga pariyāpanna ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_5:24.3",
+        "original": "idaṁ vuccati “anaññātaññassāmītindriyaṁ”.",
+        "analyzed": "idam vuccati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_vb_5:25.1",
+        "original": "Tattha katamaṁ aññindriyaṁ?",
+        "analyzed": "tattha katamaṃ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_5:25.2_0",
+        "original": "Yā tesaṁ dhammānaṁ ñātānaṁ diṭṭhānaṁ pattānaṁ viditānaṁ sacchikatānaṁ sacchikiriyāya",
+        "analyzed": "yā tesam dhammānam ñātānam diṭṭhānam pattānam viditānam sacchikatānam sacchikiriyāya ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_5:25.2_1",
+        "original": "paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṁ maggapariyāpannaṁ—",
+        "analyzed": "paññā pajānanā pe amoho dhammavicayo sammādiṭṭhi dhammavicaya sambojjhaṅgo maggaṅgam magga pariyāpanna ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_5:25.3",
+        "original": "idaṁ vuccati “aññindriyaṁ”.",
+        "analyzed": "idam vuccati aññindriya ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_vb_5:26.1",
+        "original": "Tattha katamaṁ aññātāvindriyaṁ?",
+        "analyzed": "tattha katamaṃ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_5:26.2_0",
+        "original": "Yā tesaṁ dhammānaṁ aññātāvīnaṁ diṭṭhānaṁ pattānaṁ viditānaṁ sacchikatānaṁ sacchikiriyāya",
+        "analyzed": "yā tesam dhammānam aññātāvīnam diṭṭhānam pattānam viditānam sacchikatānam sacchikiriyāya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_5:26.2_1",
+        "original": "paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṁ maggapariyāpannaṁ—",
+        "analyzed": "paññā pajānanā pe amoho dhammavicayo sammādiṭṭhi dhammavicaya sambojjhaṅgo maggaṅgam magga pariyāpanna ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_5:26.3",
+        "original": "idaṁ vuccati “aññātāvindriyaṁ”.",
+        "analyzed": "idam vuccati aññātāvindriya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_vb_5:27.1",
+        "original": "Abhidhammabhājanīyaṁ.",
+        "analyzed": "abhidhammabhājanīya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_vb_5:28.0",
+        "original": "2. Pañhāpucchaka",
+        "analyzed": "pañhāpucchaka ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_5:28.1",
+        "original": "Bāvīsatindriyāni—",
+        "analyzed": "bāvīsati indriyāni ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_5:28.2_0",
+        "original": "cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ,",
+        "analyzed": "cakkhundriya sotindriya ghānindriya jivhindriya kāyindriya manindriya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_5:28.2_1",
+        "original": "itthindriyaṁ, purisindriyaṁ, jīvitindriyaṁ, sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ,",
+        "analyzed": "itthi indriya purisa indriya jīvita indriya sukha indriya dukkha indriya somanassa indriya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_5:28.2_2",
+        "original": "domanassindriyaṁ, upekkhindriyaṁ, saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ,",
+        "analyzed": "domanassa indriya upekkhā indriya vīriya indriya sati indriya samādhi indriya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_5:28.2_3",
+        "original": "paññindriyaṁ, anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ.",
+        "analyzed": "paññā indriya anaññātaññassāmi itindriya aññindriya aññātāvindriya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_vb_5:29.1",
+        "original": "Bāvīsatīnaṁ indriyānaṁ kati kusalā, kati akusalā, kati abyākatā …pe… kati saraṇā, kati araṇā?",
+        "analyzed": "indriyānam kati kusalā kati akusalā kati abyākatā pe kati saraṇā kati araṇā ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_vb_5:30.0",
+        "original": "2.1. Tika",
+        "analyzed": "tika ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_5:30.1",
+        "original": "Dasindriyā abyākatā.",
+        "analyzed": "das indriyā a byākatā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_5:30.2",
+        "original": "Domanassindriyaṁ akusalaṁ.",
+        "analyzed": "domanassindriyam akusala ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_5:30.3",
+        "original": "Anaññātaññassāmītindriyaṁ kusalaṁ.",
+        "analyzed": "an añña a taññassāmi iti indriyam kusala ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_5:30.4",
+        "original": "Cattārindriyā siyā kusalā, siyā abyākatā.",
+        "analyzed": "cattāri indriyā siyā kusalā siyā abyākatā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_5:30.5",
+        "original": "Cha indriyā siyā kusalā, siyā akusalā, siyā abyākatā.",
+        "analyzed": "siyā kusalā siyā akusalā siyā abyākatā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_vb_5:31.1",
+        "original": "Dvādasindriyā na vattabbā—“sukhāya vedanāya sampayuttā”tipi, “dukkhāya vedanāya sampayuttā”tipi, “adukkhamasukhāya vedanāya sampayuttā”tipi.",
+        "analyzed": "dvādasa indriyā na vattabbā asukhāya vedanāya sampayuttā atipi dukkhāya vedanāya sampayuttā atipi adukkhamasukhāya vedanāya sampayuttā atipi ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_5:31.2",
+        "original": "Cha indriyā siyā sukhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā.",
+        "analyzed": "cha indriyā siyā sukhāya vedanāya sampayuttā siyā adukkhamasukhāya vedanāya sampayuttā ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_5:31.3",
+        "original": "Tīṇindriyā siyā sukhāya vedanāya sampayuttā, siyā dukkhāya vedanāya sampayuttā, siyā adukkhamasukhāya vedanāya sampayuttā.",
+        "analyzed": "tīṇindriyā siyā sukhāya vedanāya sampayuttā siyā dukkhāya vedanāya sampayuttā siyā adukkhamasukhāya vedanāya sampayuttā ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_5:31.4_0",
+        "original": "Jīvitindriyaṁ siyā sukhāya vedanāya sampayuttaṁ, siyā dukkhāya vedanāya sampayuttaṁ,",
+        "analyzed": "jīvitindriyam siyā sukhāya vedanāya siyā dukkhāya vedanāya sampayutta ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_5:31.4_1",
+        "original": "siyā adukkhamasukhāya vedanāya sampayuttaṁ, siyā na vattabbaṁ—“sukhāya vedanāya sampayuttan”tipi,",
+        "analyzed": "siyā adukkhamasukhāya vedanāya siyā na vattabba sukhāya vedanāya ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_5:31.4_2",
+        "original": "“dukkhāya vedanāya sampayuttan”tipi, “adukkhamasukhāya vedanāya sampayuttan”tipi.",
+        "analyzed": "dukkhāya vedanāya sampayuttanti adukkhamasukhāya vedanāya sampayuttanti pi ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_vb_5:32.1",
+        "original": "Sattindriyā nevavipākanavipākadhammadhammā.",
+        "analyzed": "satti indriyāḥ na eva vipāka na vipāka dhamma dhammā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_5:32.2",
+        "original": "Tīṇindriyā vipākā.",
+        "analyzed": "tīṇi indriyā vipākā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_5:32.3",
+        "original": "Dvindriyā vipākadhammadhammā.",
+        "analyzed": "dvi indriyāḥ vipāka dhamma dhammā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_5:32.4",
+        "original": "Aññindriyaṁ siyā vipākaṁ, siyā vipākadhammadhammaṁ.",
+        "analyzed": "aññindriyam siyā vipāka dhamma dhamma ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_5:32.5",
+        "original": "Navindriyā siyā vipākā, siyā vipākadhammadhammā, siyā nevavipākanavipākadhammadhammā.",
+        "analyzed": "nava indriyā siyā vipākā siyā vipāka dhamma dhammā siyā neva vipāka na vipāka dhamma dhammā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_vb_5:33.1",
+        "original": "Navindriyā upādinnupādāniyā.",
+        "analyzed": "nava indriyāḥ ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_5:33.2",
+        "original": "Domanassindriyaṁ anupādinnupādāniyaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_5:33.3",
+        "original": "Tīṇindriyā anupādinnaanupādāniyā.",
+        "analyzed": "tīṇi indriyā anupādinna anupādāniyā ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_5:33.4",
+        "original": "Navindriyā siyā upādinnupādāniyā, siyā anupādinnupādāniyā, siyā anupādinnaanupādāniyā.",
+        "analyzed": "nava indriyā siyā upādin upādāniyā siyā anupādin upādāniyā siyā anupādinna anupādāniyā ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_vb_5:34.1",
+        "original": "Navindriyā asaṅkiliṭṭhasaṅkilesikā.",
+        "analyzed": "nava indriyā asaṅkiliṭṭha saṅkilesikā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_5:34.2",
+        "original": "Domanassindriyaṁ saṅkiliṭṭhasaṅkilesikaṁ.",
+        "analyzed": "domanassindriyam saṅkiliṭṭha saṅkilesika ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_5:34.3",
+        "original": "Tīṇindriyā asaṅkiliṭṭhaasaṅkilesikā.",
+        "analyzed": "tīṇi indriyā asaṅkiliṭṭha asaṅkilesikā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_5:34.4",
+        "original": "Tīṇindriyā siyā asaṅkiliṭṭhasaṅkilesikā, siyā asaṅkiliṭṭhaasaṅkilesikā.",
+        "analyzed": "tīṇi indriyā siyā asaṅkiliṭṭha saṅkilesikā siyā asaṅkiliṭṭha asaṅkilesikā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_5:34.5",
+        "original": "Cha indriyā siyā saṅkiliṭṭhasaṅkilesikā, siyā asaṅkiliṭṭhasaṅkilesikā, siyā asaṅkiliṭṭhaasaṅkilesikā.",
+        "analyzed": "cha indriyā siyā saṅkiliṭṭha saṅkilesikā siyā asaṅkiliṭṭha saṅkilesikā siyā asaṅkiliṭṭha asaṅkilesikā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_vb_5:35.1",
+        "original": "Navindriyā avitakkaavicārā.",
+        "analyzed": "nava indriyā a vitakka a vicārā ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_5:35.2",
+        "original": "Domanassindriyaṁ savitakkasavicāraṁ.",
+        "analyzed": "domanassindriyam sa vitakka sa vicāra ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_5:35.3",
+        "original": "Upekkhindriyaṁ siyā savitakkasavicāraṁ, siyā avitakkaavicāraṁ.",
+        "analyzed": "upekkhā indriyam siyā sa vitakka sa vicāra siyā avitakka avicāra ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_5:35.4",
+        "original": "Ekādasindriyā siyā savitakkasavicārā, siyā avitakkavicāramattā, siyā avitakkaavicārā.",
+        "analyzed": "ekādaśa indriyā siyā sa vitakka sa vicārā siyā a vitakka vicāra mattā siyā a vitakka avicārā ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_vb_5:36.1",
+        "original": "Ekādasindriyā na vattabbā—“pītisahagatā”tipi, “sukhasahagatā”tipi, “upekkhāsahagatā”tipi.",
+        "analyzed": "ekādasa indriyā na vattabbā api iti sahagatā atipi sukha sahagatā atipi upekkhā sahagatā atipi ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_5:36.2",
+        "original": "Somanassindriyaṁ siyā pītisahagataṁ na sukhasahagataṁ na upekkhāsahagataṁ, siyā na vattabbaṁ—“pītisahagatan”ti.",
+        "analyzed": "somanassindriyam siyā pīti sahagatam na sukha sahagatam na upekkhā sahagata siyā na vattabba pīti sahagatam ti ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_5:36.3",
+        "original": "Cha indriyā siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā.",
+        "analyzed": "cha indriyā siyā pīti sahagatā siyā sukha sahagatā siyā upekkhā sahagatā ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_5:36.4",
+        "original": "Cattārindriyā siyā pītisahagatā, siyā sukhasahagatā, siyā upekkhāsahagatā, siyā na vattabbā—“pītisahagatā”tipi, “sukhasahagatā”tipi, “upekkhāsahagatā”tipi.",
+        "analyzed": "cattāri indriyā siyā pīti sahagatā siyā sukha sahagatā siyā upekkhā sahagatā siyā na vattabbā pīti sahagatā atipi sukha sahagatā atipi upekkhā sahagatā atipi ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_vb_5:37.1",
+        "original": "Pannarasindriyā neva dassanena na bhāvanāya pahātabbā.",
+        "analyzed": "pannarasindriyā na iva dassanena na bhāvanāya pahātabbā ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_vb_5:37.2",
+        "original": "Domanassindriyaṁ siyā dassanena pahātabbaṁ, siyā bhāvanāya pahātabbaṁ.",
+        "analyzed": "domanassindriyam siyā dassanena pahātabba siyā bhāvanāya pahātabba ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_vb_5:37.3",
+        "original": "Cha indriyā siyā dassanena pahātabbā, siyā bhāvanāya pahātabbā, siyā neva dassanena na bhāvanāya pahātabbā.",
+        "analyzed": "cha indriyā siyā dassanena pahātabbā siyā bhāvanāya pahātabbā siyā na iva dassanena na bhāvanāya pahātabbā ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_vb_5:38.1",
+        "original": "Pannarasindriyā neva dassanena na bhāvanāya pahātabbahetukā.",
+        "analyzed": "pannarasindriyā na iva dassanena na bhāvanāya pahātabba hetukā ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_vb_5:38.2",
+        "original": "Domanassindriyaṁ siyā dassanena pahātabbahetukaṁ, siyā bhāvanāya pahātabbahetukaṁ.",
+        "analyzed": "domanassindriyam siyā dassanena pahātabba hetuka siyā bhāvanāya pahātabba hetuka ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_vb_5:38.3",
+        "original": "Cha indriyā siyā dassanena pahātabbahetukā, siyā bhāvanāya pahātabbahetukā, siyā neva dassanena na bhāvanāya pahātabbahetukā.",
+        "analyzed": "cha indriyā siyā dassanena pahātabba hetukā siyā bhāvanāya pahātabba hetukā siyā na iva dassanena na bhāvanāya pahātabba hetukā ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_vb_5:39.1",
+        "original": "Dasindriyā nevācayagāmināpacayagāmino.",
+        "analyzed": "das indriyāḥ ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_5:39.2",
+        "original": "Domanassindriyaṁ ācayagāmi.",
+        "analyzed": "domanassindriyam ācaya gāmi ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_5:39.3",
+        "original": "Anaññātaññassāmītindriyaṁ apacayagāmi.",
+        "analyzed": "an añña a tañña sāmi iti indriyam apacaya gāmi ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_5:39.4",
+        "original": "Aññindriyaṁ siyā apacayagāmi, siyā nevācayagāmināpacayagāmi.",
+        "analyzed": "aññindriyam siyā apacaya gāmi siyā na iva ācaya gāminā apacaya gāmi ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_5:39.5",
+        "original": "Navindriyā siyā ācayagāmino, siyā apacayagāmino, siyā nevācayagāmināpacayagāmino.",
+        "analyzed": "nava indriyā siyā ācaya gāminaḥ siyā apacaya gāminaḥ siyā na iva ācaya gāminā apacaya gāminaḥ ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_vb_5:40.1",
+        "original": "Dasindriyā nevasekkhanāsekkhā.",
+        "analyzed": "dasa indriyā neva sekkha na asekkhā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_5:40.2",
+        "original": "Dvindriyā sekkhā.",
+        "analyzed": "dvi indriyā sekkhā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_5:40.3",
+        "original": "Aññātāvindriyaṁ asekkhaṁ.",
+        "analyzed": "aññātāvindriyam asekkha ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_5:40.4",
+        "original": "Navindriyā siyā sekkhā, siyā asekkhā, siyā nevasekkhanāsekkhā.",
+        "analyzed": "nava indriyā siyā sekkhā siyā asekkhā siyā nevasekkhana asekkhā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_vb_5:41.1",
+        "original": "Dasindriyā parittā.",
+        "analyzed": "dasa indriyā parittā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_vb_5:41.2",
+        "original": "Tīṇindriyā appamāṇā.",
+        "analyzed": "tīṇi indriyāḥ appamāṇā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_vb_5:41.3",
+        "original": "Navindriyā siyā parittā, siyā mahaggatā, siyā appamāṇā.",
+        "analyzed": "nava indriyā siyā parittā siyā mahaggatā siyā appamāṇā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_vb_5:42.1",
+        "original": "Sattindriyā anārammaṇā.",
+        "analyzed": "satti indriyāḥ anārammaṇā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_5:42.2",
+        "original": "Dvindriyā parittārammaṇā.",
+        "analyzed": "dvi indriyā paritta ārammaṇā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_5:42.3",
+        "original": "Tīṇindriyā appamāṇārammaṇā.",
+        "analyzed": "tīṇi indriyāḥ appamāṇa ārammaṇā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_5:42.4",
+        "original": "Domanassindriyaṁ siyā parittārammaṇaṁ siyā mahaggatārammaṇaṁ, na appamāṇārammaṇaṁ, siyā na vattabbaṁ—“parittārammaṇan”tipi, “mahaggatārammaṇan”tipi.",
+        "analyzed": "domanassindriyam siyā paritta ārammaṇam siyā mahaggata ārammaṇa na appamāṇa ārammaṇa siyā na vattabba paritta ārammaṇa tipi mahaggata ārammaṇa tipi ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_5:42.5",
+        "original": "Navindriyā siyā parittārammaṇā, siyā mahaggatārammaṇā, siyā appamāṇārammaṇā, siyā na vattabbā—“parittārammaṇā”tipi, “mahaggatārammaṇā”tipi, “appamāṇārammaṇā”tipi.",
+        "analyzed": "nava indriyā siyā paritta ārammaṇā siyā mahaggata ārammaṇā siyā appamāṇa ārammaṇā siyā na vattabbā aparitta ārammaṇā atipi mahaggata ārammaṇā atipi appamāṇa ārammaṇā atipi ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_vb_5:43.1",
+        "original": "Navindriyā majjhimā.",
+        "analyzed": "nava indriyā majjhimā ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_5:43.2",
+        "original": "Domanassindriyaṁ hīnaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_5:43.3",
+        "original": "Tīṇindriyā paṇītā.",
+        "analyzed": "tīṇ indriyā paṇītā ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_5:43.4",
+        "original": "Tīṇindriyā siyā majjhimā, siyā paṇītā.",
+        "analyzed": "tīṇindriyā siyā majjhimā siyā paṇītā ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_5:43.5",
+        "original": "Cha indriyā siyā hīnā, siyā majjhimā, siyā paṇītā.",
+        "analyzed": "cha indriyā siyā hīnā siyā majjhimā siyā paṇītā ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_vb_5:44.1",
+        "original": "Dasindriyā aniyatā.",
+        "analyzed": "das indriyā aniyatā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_5:44.2",
+        "original": "Anaññātaññassāmītindriyaṁ sammattaniyataṁ.",
+        "analyzed": "an aññā ataññassāmi iti indriyam ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_5:44.3",
+        "original": "Cattārindriyā siyā sammattaniyatā, siyā aniyatā.",
+        "analyzed": "cattāri indriyā siyā aniyatā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_5:44.4",
+        "original": "Domanassindriyaṁ siyā micchattaniyataṁ, siyā aniyataṁ.",
+        "analyzed": "domanassindriyam siyā siyā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_5:44.5",
+        "original": "Cha indriyā siyā micchattaniyatā, siyā sammattaniyatā, siyā aniyatā.",
+        "analyzed": "cha indriyā siyā micchatta niyatā siyā sammatta niyatā siyā aniyatā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_vb_5:45.1",
+        "original": "Sattindriyā anārammaṇā.",
+        "analyzed": "satti indriyāḥ anārammaṇā ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_5:45.2",
+        "original": "Cattārindriyā na vattabbā—“maggārammaṇā”tipi, “maggahetukā”tipi, “maggādhipatino”tipi.",
+        "analyzed": "cattāri indriyāḥ na vattabbā a magga ārammaṇā atipi magga hetukā atipi magga adhipatino tipi ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_5:45.3",
+        "original": "Anaññātaññassāmītindriyaṁ na maggārammaṇaṁ, siyā maggahetukaṁ, siyā maggādhipati, siyā na vattabbaṁ—“maggahetukan”tipi, “maggādhipatī”tipi.",
+        "analyzed": "na magga ārammaṇa siyā magga hetuka siyā magga adhipati siyā na vattabba magga hetuka tipi magga adhipati itipi ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_5:45.4",
+        "original": "Aññindriyaṁ na maggārammaṇaṁ, siyā maggahetukaṁ, siyā maggādhipati, siyā na vattabbaṁ—“maggahetukan”tipi, “maggādhipatī”tipi.",
+        "analyzed": "aññindriyam na magga ārammaṇa siyā magga hetuka siyā magga adhipati siyā na vattabba magga hetuka tipi magga adhipati itipi ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_5:45.5",
+        "original": "Navindriyā siyā maggārammaṇā, siyā maggahetukā, siyā maggādhipatino, siyā na vattabbā—“maggārammaṇā”tipi, “maggahetukā”tipi, “maggādhipatino”tipi.",
+        "analyzed": "nava indriyā siyā magga ārammaṇā siyā magga hetukā siyā magga adhipatino siyā na vattabbā magga ārammaṇā atipi magga hetukā atipi magga adhipatino tipi ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_vb_5:46.1",
+        "original": "Dasindriyā siyā uppannā, siyā uppādino, na vattabbā—“anuppannā”ti.",
+        "analyzed": "dasa indriyā siyā uppannā siyā uppādinaḥ na vattabbā anuppannā ti ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_vb_5:46.2",
+        "original": "Dvindriyā siyā uppannā, siyā anuppannā, na vattabbā—“uppādino”ti.",
+        "analyzed": "dvindriyā siyā uppannā siyā anuppannā na vattabbā auppādinaḥ ti ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_vb_5:46.3",
+        "original": "Dasindriyā siyā uppannā, siyā anuppannā, siyā uppādino.",
+        "analyzed": "dasa indriyā siyā uppannā siyā anuppannā siyā uppādinaḥ ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_vb_5:47.1",
+        "original": "Siyā atītā, siyā anāgatā, siyā paccuppannā.",
+        "analyzed": "siyā atītā siyā anāgatā siyā paccuppannā ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_vb_5:48.1",
+        "original": "Sattindriyā anārammaṇā.",
+        "analyzed": "satti indriyāḥ anārammaṇā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_5:48.2",
+        "original": "Dvindriyā paccuppannārammaṇā.",
+        "analyzed": "dvi indriyā paccuppanna ārammaṇā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_5:48.3",
+        "original": "Tīṇindriyā na vattabbā—“atītārammaṇā”tipi, “anāgatārammaṇā”tipi, “paccuppannārammaṇā”tipi.",
+        "analyzed": "tīṇi indriyāḥ na vattabbā atīta ārammaṇā atipi anāgata ārammaṇā atipi paccuppanna ārammaṇā atipi ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_5:48.4",
+        "original": "Dasindriyā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā, siyā na vattabbā—“atītārammaṇā”tipi, “anāgatārammaṇā”tipi, “paccuppannārammaṇā”tipi.",
+        "analyzed": "dasa indriyā siyā atīta ārammaṇā siyā anāgata ārammaṇā siyā paccuppanna ārammaṇā siyā na vattabbā atīta ārammaṇā atipi anāgata ārammaṇā atipi paccuppanna ārammaṇā atipi ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_vb_5:49.1",
+        "original": "Siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā.",
+        "analyzed": "siyā ajjhattā siyā bahiddhā siyā ajjhatta bahiddhā ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_vb_5:50.1",
+        "original": "Sattindriyā anārammaṇā.",
+        "analyzed": "satti indriyāḥ anārammaṇā ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_5:50.2",
+        "original": "Tīṇindriyā bahiddhārammaṇā.",
+        "analyzed": "tīṇi indriyāḥ bahiddha ārammaṇā ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_5:50.3_0",
+        "original": "Cattārindriyā siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā,",
+        "analyzed": "cattāri indriyā siyā ajjhatta ārammaṇā siyā bahiddha ārammaṇā siyā ajjhatta bahiddha ārammaṇā ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_5:50.3_1",
+        "original": "aṭṭhindriyā siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā,",
+        "analyzed": "aṭṭha indriyā siyā ajjhatta ārammaṇā siyā bahiddha ārammaṇā siyā ajjhatta bahiddha ārammaṇā ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_5:50.3_2",
+        "original": "siyā na vattabbā—“ajjhattārammaṇā”tipi, “bahiddhārammaṇā”tipi, “ajjhattabahiddhārammaṇā”tipi.",
+        "analyzed": "siyā na vattabbā ajjhatta ārammaṇā atipi bahiddha ārammaṇā atipi ajjhatta bahiddha ārammaṇā atipi ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_vb_5:51.1",
+        "original": "Pañcindriyā anidassanasappaṭighā.",
+        "analyzed": "pañca indriyāḥ anidassana sappaṭighā ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_5:51.2",
+        "original": "Sattarasindriyā anidassanaappaṭighā.",
+        "analyzed": "sattarasa indriyāḥ anidassana appaṭighāḥ ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.0.1",
+        "original": "2.2. 2.2 Duka",
+        "analyzed": "duka ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.0.2",
+        "original": "2.2.1. Hetugocchaka",
+        "analyzed": "hetu ga ucchaka ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.1",
+        "original": "Cattārindriyā hetū.",
+        "analyzed": "cattāri indriyāḥ hetū ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.2",
+        "original": "Aṭṭhārasindriyā na hetū.",
+        "analyzed": "aṭṭhārasindriyāḥ na hetū ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.3",
+        "original": "Sattindriyā sahetukā.",
+        "analyzed": "satti indriyā sa hetukā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.4",
+        "original": "Navindriyā ahetukā.",
+        "analyzed": "nava indriyā ahetukā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.5",
+        "original": "Cha indriyā siyā sahetukā, siyā ahetukā.",
+        "analyzed": "cha indriyā siyā sa hetukā siyā ahetukā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.6",
+        "original": "Sattindriyā hetusampayuttā.",
+        "analyzed": "satti indriyā hetu sampayuttā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.7",
+        "original": "Navindriyā hetuvippayuttā.",
+        "analyzed": "nava indriyā hetu vippayuttā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.8",
+        "original": "Cha indriyā siyā hetusampayuttā, siyā hetuvippayuttā.",
+        "analyzed": "cha indriyā siyā hetu sampayuttā siyā hetu vippayuttā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.9",
+        "original": "Cattārindriyā hetū ceva sahetukā ca.",
+        "analyzed": "cattāri indriyā hetū ca iva sa hetukā ca ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.10",
+        "original": "Navindriyā na vattabbā—“hetū ceva sahetukā cā”tipi, “sahetukā ceva na ca hetū”tipi.",
+        "analyzed": "nava indriyā na vattabbā ahetū ca iva sa hetukā ca atipi sa hetukā ca iva na ca ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.11",
+        "original": "Tīṇindriyā na vattabbā—“hetū ceva sahetukā cā”ti.",
+        "analyzed": "tīṇi indriyā na vattabbā ahetū ca iva sa hetukā ca ati ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.12",
+        "original": "Sahetukā ceva na ca hetū.",
+        "analyzed": "sa hetukā ca iva na ca hetū ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:52.13",
+        "original": "Cha indriyā na vattabbā—“hetū ceva sahetukā cā”ti, siyā sahetukā ceva na ca hetū, siyā na vattabbā—“sahetukā ceva na ca hetū”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā ahetū ca iva sa hetukā ca ati siyā sa hetukā ca iva na ca hetū siyā na vattabbā asahetukā ca iva na ca hetu uti ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_vb_5:53.1",
+        "original": "Cattārindriyā hetū ceva hetusampayuttā ca.",
+        "analyzed": "cattāri indriyā hetū ca iva hetu sampayuttā ca ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_5:53.2",
+        "original": "Navindriyā na vattabbā—“hetū ceva hetusampayuttā cā”tipi, “hetusampayuttā ceva na ca hetū”tipi.",
+        "analyzed": "nava indriyā na vattabbā a hetū ca iva hetu sampayuttā ca atipi hetu sampayuttā ca iva na ca hetu atipi ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_5:53.3",
+        "original": "Tīṇindriyā na vattabbā—“hetū ceva hetusampayuttā cā”ti, hetusampayuttā ceva na ca hetū.",
+        "analyzed": "tīṇi indriyā na vattabbā a hetū ca iva hetu sampayuttā ca ati hetu sampayuttā ca iva na ca hetū ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_5:53.4",
+        "original": "Cha indriyā na vattabbā—“hetū ceva hetusampayuttā cā”ti, siyā hetusampayuttā ceva na ca hetū, siyā na vattabbā—“hetusampayuttā ceva na ca hetū”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā a hetū ca iva hetu sampayuttā ca ati siyā hetu sampayuttā ca iva na ca hetū siyā na vattabbā a hetu sampayuttā ca iva na ca hetu iti ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_vb_5:54.1",
+        "original": "Navindriyā na hetū ahetukā.",
+        "analyzed": "nava indriyā na hetū ahetukā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_5:54.2",
+        "original": "Tīṇindriyā na hetū sahetukā.",
+        "analyzed": "tīṇ indriyā na hetū sa hetukā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_5:54.3",
+        "original": "Cattārindriyā na vattabbā—“na hetū sahetukā”tipi, “na hetū ahetukā”tipi.",
+        "analyzed": "cattāri indriyāḥ na vattabbā na hetū sa hetukā atipi na hetū ahetuka atipi ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_5:54.4",
+        "original": "Cha indriyā siyā na hetū sahetukā, siyā na hetū ahetukā.",
+        "analyzed": "indriyā siyā na hetū sa hetukā siyā na hetū ahetukā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.0",
+        "original": "2.2.2. Cūḷantaraduka",
+        "analyzed": "cūḍantaraduka ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.1",
+        "original": "Sappaccayā.",
+        "analyzed": "sappaccayā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.2",
+        "original": "Saṅkhatā.",
+        "analyzed": "saṅkha tā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.3",
+        "original": "Anidassanā.",
+        "analyzed": "a n idassanā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.4",
+        "original": "Pañcindriyā sappaṭighā.",
+        "analyzed": "pañca indriyā sa paṭighā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.5",
+        "original": "Sattarasindriyā appaṭighā.",
+        "analyzed": "sattarasa indriyāḥ appaṭighāḥ ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.6",
+        "original": "Sattindriyā rūpā.",
+        "analyzed": "satti indriyā rūpā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.7",
+        "original": "Cuddasindriyā arūpā.",
+        "analyzed": "cud das indriyā arūpā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.8",
+        "original": "Jīvitindriyaṁ siyā rūpaṁ, siyā arūpaṁ.",
+        "analyzed": "jīvitindriyam siyāḥ siyāḥ ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.9",
+        "original": "Dasindriyā lokiyā.",
+        "analyzed": "dasindriyā lokiyā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.10",
+        "original": "Tīṇindriyā lokuttarā.",
+        "analyzed": "tīṇ indriyā lokuttarā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.11",
+        "original": "Navindriyā siyā lokiyā, siyā lokuttarā;",
+        "analyzed": "nava indriyā siyā lokiyā siyā lokuttarā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:55.12",
+        "original": "kenaci viññeyyā, kenaci na viññeyyā.",
+        "analyzed": "kenacid viññeyyā kenacid na viññeyyā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.0",
+        "original": "2.2.3. Āsavagocchaka",
+        "analyzed": "āsavagocchaka ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.1",
+        "original": "No āsavā.",
+        "analyzed": "na u āsavā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.2",
+        "original": "Dasindriyā sāsavā.",
+        "analyzed": "dasindriyā sāsavā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.3",
+        "original": "Tīṇindriyā anāsavā.",
+        "analyzed": "tīṇi indriyā anāsavā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.4",
+        "original": "Navindriyā siyā sāsavā, siyā anāsavā.",
+        "analyzed": "nava indriyā siyā sa āsavā siyā anāsavā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.5",
+        "original": "Pannarasindriyā āsavavippayuttā.",
+        "analyzed": "pannarasa indriyā āsava vippayuttā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.6",
+        "original": "Domanassindriyaṁ āsavasampayuttaṁ.",
+        "analyzed": "domanassindriyaṃ āsava sampayutta ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.7",
+        "original": "Cha indriyā siyā āsavasampayuttā, siyā āsavavippayuttā.",
+        "analyzed": "cha indriyā siyā āsava sampayuttā siyā āsava vippayuttā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.8",
+        "original": "Dasindriyā na vattabbā—“āsavā ceva sāsavā cā”ti, sāsavā ceva no ca āsavā.",
+        "analyzed": "dasa indriyā na vattabbā āsavā ca iva sa āsavā ca ati sa āsavā ca iva no ca āsavā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.9",
+        "original": "Tīṇindriyā na vattabbā—“āsavā ceva sāsavā cā”tipi, “sāsavā ceva no ca āsavā”tipi.",
+        "analyzed": "tīṇi indriyāḥ na vattabbā āsavā ca iva sa āsavā ca atipi sa āsavā ca iva no ca āsavā atipi ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:56.10",
+        "original": "Navindriyā na vattabbā—“āsavā ceva sāsavā cā”ti, siyā sāsavā ceva no ca āsavā, siyā na vattabbā—“sāsavā ceva no ca āsavā”ti.",
+        "analyzed": "nava indriyāḥ na vattabbā a āsavā ca iva sa āsavā ca ati siyā sa āsavā ca iva no ca āsavā siyā na vattabbā a āsavā ca iva no ca āsavā ati ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.1",
+        "original": "Pannarasindriyā na vattabbā—“āsavā ceva āsavasampayuttā cā”tipi, “āsavasampayuttā ceva no ca āsavā”tipi.",
+        "analyzed": "pannarasindriyāḥ na vattabbāḥ āsavā ca iva āsava sampayuttā ca atipi āsava sampayuttā ca iva no ca āsavā atipi ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.2",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“āsavo ceva āsavasampayuttañcā”ti, āsavasampayuttañceva no ca āsavo.",
+        "analyzed": "domanassindriyam na vattabba āsavo ca iva āsava sampayuttam ca ati āsava sampayuttam ca iva no ca āsavo ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.3",
+        "original": "Cha indriyā na vattabbā—“āsavā ceva āsavasampayuttā cā”ti, siyā āsavasampayuttā ceva no ca āsavā, siyā na vattabbā—“āsavasampayuttā ceva no ca āsavā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbāḥ āsavā ca iva āsava sampayuttā ca ati siyā āsava sampayuttā ca iva no ca āsavā siyā na vattabbā āsava sampayuttā ca iva no ca āsavā ati ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.4",
+        "original": "Navindriyā āsavavippayuttasāsavā.",
+        "analyzed": "nava indriyāḥ āsava vippayutta sa āsavā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.5",
+        "original": "Tīṇindriyā āsavavippayuttaanāsavā.",
+        "analyzed": "tīṇi indriyāḥ āsava vippayutta anāsavā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.6",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“āsavavippayuttasāsavan”tipi, “āsavavippayuttaanāsavan”tipi.",
+        "analyzed": "domanassindriyam na vattabba āsava vippayutta sa āsavanti pi āsava vippayutta anāsavanti pi ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.7",
+        "original": "Tīṇindriyā siyā āsavavippayuttasāsavā, siyā āsavavippayuttaanāsavā.",
+        "analyzed": "tīṇindriyā siyā āsava vippayutta sāsavā siyā āsava vippayutta anāsavā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:57.8",
+        "original": "Cha indriyā siyā āsavavippayuttasāsavā, siyā āsavavippayuttaanāsavā, siyā na vattabbā—“āsavavippayuttasāsavā”tipi, “āsavavippayuttaanāsavā”tipi.",
+        "analyzed": "cha indriyā siyā āsava vippayutta sāsavā siyā āsava vippayutta anāsavā siyā na vattabbā āsava vippayutta sāsavā atipi āsava vippayutta anāsavā atipi ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.0",
+        "original": "2.2.4. Saṁyojanagocchaka",
+        "analyzed": "sayojana gocchaka ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.1",
+        "original": "No saṁyojanā.",
+        "analyzed": "na u sayojanā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.2",
+        "original": "Dasindriyā saṁyojaniyā.",
+        "analyzed": "das indriyā sayojaniyā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.3",
+        "original": "Tīṇindriyā asaṁyojaniyā.",
+        "analyzed": "tīṇi indriyā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.4",
+        "original": "Navindriyā siyā saṁyojaniyā, siyā asaṁyojaniyā.",
+        "analyzed": "nava indriyā siyā sayojaniyā siyā a sayojaniyā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.5",
+        "original": "Pannarasindriyā saṁyojanavippayuttā.",
+        "analyzed": "pannarasa indriyā sayojana vippayuttā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.6",
+        "original": "Domanassindriyaṁ saṁyojanasampayuttaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.7",
+        "original": "Cha indriyā siyā saṁyojanasampayuttā, siyā saṁyojanavippayuttā.",
+        "analyzed": "cha indriyā siyā sayojana sampayuttā siyā sayojana vippayuttā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.8",
+        "original": "Dasindriyā na vattabbā—“saṁyojanā ceva saṁyojaniyā cā”ti, saṁyojaniyā ceva no ca saṁyojanā.",
+        "analyzed": "dasa indriyā na vattabbā a sayojanā ca iva sayojaniyā ca ati sayojaniyā ca iva no ca sayojanā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.9",
+        "original": "Tīṇindriyā na vattabbā—“saṁyojanā ceva saṁyojaniyā cā”tipi, “saṁyojaniyā ceva no ca saṁyojanā”tipi.",
+        "analyzed": "tīṇi indriyā na vattabbā sayojanā ca iva sayojaniyā ca atipi sayojaniyā ca iva no ca sayojanā atipi ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:58.10",
+        "original": "Navindriyā na vattabbā—“saṁyojanā ceva saṁyojaniyā cā”ti, siyā saṁyojaniyā ceva no ca saṁyojanā, siyā na vattabbā—“saṁyojaniyā ceva no ca saṁyojanā”ti.",
+        "analyzed": "nava indriyā na vattabbā a sayojanā ca iva sayojaniyā ca ati siyā sayojaniyā ca iva no ca sayojanā siyā na vattabbā a sayojaniyā ca iva no ca sayojanā ati ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_vb_5:59.1",
+        "original": "Pannarasindriyā na vattabbā—“saṁyojanā ceva saṁyojanasampayuttā cā”tipi, “saṁyojanasampayuttā ceva no ca saṁyojanā”tipi.",
+        "analyzed": "pannaras indriyā na vattabbā sayojanā ca iva sayojana sampayuttā ca atipi sayojana sampayuttā ca iva no ca sayojanā atipi ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_vb_5:59.2",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“saṁyojanañceva saṁyojanasampayuttañcā”ti, saṁyojanasampayuttañceva no ca saṁyojanaṁ.",
+        "analyzed": "domanassindriyam na vattabba sayojanam ca iva sayojana sampayuttam ca ati sayojana sampayuttam ca iva no ca sayojana ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_vb_5:59.3",
+        "original": "Cha indriyā na vattabbā—“saṁyojanā ceva saṁyojanasampayuttā cā”ti, siyā saṁyojanasampayuttā ceva no ca saṁyojanā, siyā na vattabbā—“saṁyojanasampayuttā ceva no ca saṁyojanā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā a sayojanā ca iva sayojana sampayuttā ca ati siyā sayojana sampayuttā ca iva no ca sayojanā siyā na vattabbā a sayojana sampayuttā ca iva no ca sayojanā ati ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_vb_5:60.1",
+        "original": "Navindriyā saṁyojanavippayuttasaṁyojaniyā.",
+        "analyzed": "nava indriyā sayojana vippayutta sayojaniyā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_5:60.2",
+        "original": "Tīṇindriyā saṁyojanavippayuttaasaṁyojaniyā.",
+        "analyzed": "tīṇi indriyā sayojana vippayutta asayojaniyā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_5:60.3",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“saṁyojanavippayuttasaṁyojaniyan”tipi, “saṁyojanavippayuttaasaṁyojaniyan”tipi.",
+        "analyzed": "domanassindriyam na vattabba sayojana vippayutta sayoja niyanti pi sayojana vippayutta asayoja niyanti pi ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_5:60.4",
+        "original": "Tīṇindriyā siyā saṁyojanavippayuttasaṁyojaniyā, siyā saṁyojanavippayuttaasaṁyojaniyā.",
+        "analyzed": "tīṇi indriyā siyā sayojana vippayutta sayojaniyā siyā sayojana vippayutta asayojaniyā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_5:60.5",
+        "original": "Cha indriyā siyā saṁyojanavippayuttasaṁyojaniyā, siyā saṁyojanavippayuttaasaṁyojaniyā, siyā na vattabbā—“saṁyojanavippayuttasaṁyojaniyā”tipi, “saṁyojanavippayuttaasaṁyojaniyā”tipi.",
+        "analyzed": "cha indriyā siyā sayojana vippayutta sayojaniyā siyā sayojana vippayutta asayojaniyā siyā na vattabbā a sayojana vippayutta sayojaniyā atipi sayojana vippayutta a sayojaniyā atipi ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.0",
+        "original": "2.2.5. Ganthagocchaka",
+        "analyzed": "gantha gocchaka ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.1",
+        "original": "No ganthā.",
+        "analyzed": "naḥ ganthā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.2",
+        "original": "Dasindriyā ganthaniyā.",
+        "analyzed": "das indriyā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.3",
+        "original": "Tīṇindriyā aganthaniyā.",
+        "analyzed": "tīṇi indriyā a ganthaniyā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.4",
+        "original": "Navindriyā siyā ganthaniyā, siyā aganthaniyā.",
+        "analyzed": "nava indriyā siyā ganthaniyā siyā a ganthaniyā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.5",
+        "original": "Pannarasindriyā ganthavippayuttā.",
+        "analyzed": "pannarasa indriyā gantha vippayuttā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.6",
+        "original": "Domanassindriyaṁ ganthasampayuttaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.7",
+        "original": "Cha indriyā siyā ganthasampayuttā, siyā ganthavippayuttā.",
+        "analyzed": "cha indriyā siyā gantha sampayuttā siyā gantha vippayuttā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.8",
+        "original": "Dasindriyā na vattabbā—“ganthā ceva ganthaniyā cā”ti, ganthaniyā ceva no ca ganthā.",
+        "analyzed": "dasa indriyā na vattabbā aganthā ca iva ganthaniyā ca ati ganthaniyā ca iva no ca ganthā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.9",
+        "original": "Tīṇindriyā na vattabbā—“ganthā ceva ganthaniyā cā”tipi, “ganthaniyā ceva no ca ganthā”tipi.",
+        "analyzed": "tīṇi indriyā na vattabbā aganthā ca iva ganthaniyā ca atipi ganthaniyā ca iva no ca ganthā atipi ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:61.10",
+        "original": "Navindriyā na vattabbā—“ganthā ceva ganthaniyā cā”ti, siyā ganthaniyā ceva no ca ganthā, siyā na vattabbā—“ganthaniyā ceva no ca ganthā”ti.",
+        "analyzed": "nava indriyā na vattabbā aganthā ca iva ganthaniyā ca ati siyā ganthaniyā ca iva no ca ganthā siyā na vattabbā aganthaniyā ca iva no ca ganthā ati ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_vb_5:62.1",
+        "original": "Pannarasindriyā na vattabbā—“ganthā ceva ganthasampayuttā cā”tipi, “ganthasampayuttā ceva no ca ganthā”tipi.",
+        "analyzed": "pannarasindriyā na vattabbā aganthā ca iva gantha sampayuttā ca atipi gantha sampayuttā ca iva no ca ganthā atipi ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_5:62.2",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“gantho ceva ganthasampayuttañcā”ti, ganthasampayuttañceva no ca gantho.",
+        "analyzed": "domanassindriyam na vattabba gantho ca iva gantha sampayuttañca ati gantha sampayuttañca iva no ca gantho ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_5:62.3",
+        "original": "Cha indriyā na vattabbā—“ganthā ceva ganthasampayuttā cā”ti, siyā ganthasampayuttā ceva no ca ganthā, siyā na vattabbā—“ganthasampayuttā ceva no ca ganthā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā aganthā ca iva gantha sampayuttā ca ati siyā gantha sampayuttā ca iva no ca ganthā siyā na vattabbā agantha sampayuttā ca iva no ca ganthā ati ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_vb_5:63.1",
+        "original": "Navindriyā ganthavippayuttaganthaniyā.",
+        "analyzed": "nava indriyā gantha vippayutta ganthaniyā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_5:63.2",
+        "original": "Tīṇindriyā ganthavippayuttaaganthaniyā.",
+        "analyzed": "tīṇi indriyāḥ ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_5:63.3",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“ganthavippayuttaganthaniyan”tipi, “ganthavippayuttaaganthaniyan”tipi.",
+        "analyzed": "domanassindriyam na vattabba gantha vippayutta gantha niyanti pi gantha vippayutta agantha niyanti pi ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_5:63.4",
+        "original": "Tīṇindriyā siyā ganthavippayuttaganthaniyā, siyā ganthavippayuttaaganthaniyā.",
+        "analyzed": "tīṇi indriyā siyā gantha vippayutta ganthaniyā siyā gantha vippayutta a ganthaniyā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_5:63.5",
+        "original": "Cha indriyā siyā ganthavippayuttaganthaniyā, siyā ganthavippayuttaaganthaniyā, siyā na vattabbā—“ganthavippayuttaganthaniyā”tipi, “ganthavippayuttaaganthaniyā”tipi.",
+        "analyzed": "cha indriyā siyā gantha vippayutta ganthaniyā siyā gantha vippayutta aganthaniyā siyā na vattabbā a gantha vippayutta ganthaniyā atipi gantha vippayutta a ganthaniyā atipi ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.0",
+        "original": "5.2.2.6. Oghayoganīvaraṇagocchaka",
+        "analyzed": "ogha yoga nīvaraṇa gocchaka ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.1",
+        "original": "No oghā …pe…",
+        "analyzed": "naḥ oghā pe ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.2",
+        "original": "no yogā …pe…",
+        "analyzed": "naḥ yogā pe ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.3",
+        "original": "no nīvaraṇā.",
+        "analyzed": "naḥ nīvaraṇā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.4",
+        "original": "Dasindriyā nīvaraṇiyā.",
+        "analyzed": "dasindriyā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.5",
+        "original": "Tīṇindriyā anīvaraṇiyā.",
+        "analyzed": "tīṇi indriyāḥ ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.6",
+        "original": "Navindriyā siyā nīvaraṇiyā, siyā anīvaraṇiyā.",
+        "analyzed": "navindriyā siyā nīvaraṇiyā siyā a nīvaraṇiyā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.7",
+        "original": "Pannarasindriyā nīvaraṇavippayuttā.",
+        "analyzed": "pannarasa indriyā nīvaraṇa vippayuttā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.8",
+        "original": "Domanassindriyaṁ nīvaraṇasampayuttaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.9",
+        "original": "Cha indriyā siyā nīvaraṇasampayuttā, siyā nīvaraṇavippayuttā.",
+        "analyzed": "cha indriyā siyā nīvaraṇa sampayuttā siyā nīvaraṇa vippayuttā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.10",
+        "original": "Dasindriyā na vattabbā—“nīvaraṇā ceva nīvaraṇiyā cā”ti, nīvaraṇiyā ceva no ca nīvaraṇā.",
+        "analyzed": "dasa indriyā na vattabbā anīvaraṇā ca iva nīvaraṇiyā ca ati nīvaraṇiyā ca iva no ca nīvaraṇā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.11",
+        "original": "Tīṇindriyā na vattabbā—“nīvaraṇā ceva nīvaraṇiyā cā”tipi, “nīvaraṇiyā ceva no ca nīvaraṇā”tipi.",
+        "analyzed": "tīṇi indriyā na vattabbā nīvaraṇā ca iva nīvaraṇiyā ca atipi nīvaraṇiyā ca iva no ca nīvaraṇa atipi ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:64.12",
+        "original": "Navindriyā na vattabbā—“nīvaraṇā ceva nīvaraṇiyā cā”ti, siyā nīvaraṇiyā ceva no ca nīvaraṇā, siyā na vattabbā—“nīvaraṇiyā ceva no ca nīvaraṇā”ti.",
+        "analyzed": "nava indriyā na vattabbā a nīvaraṇā ca iva nīvaraṇiyā ca ati siyā nīvaraṇiyā ca iva no ca nīvaraṇā siyā na vattabbā a nīvaraṇiyā ca iva no ca nīvaraṇā ati ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_vb_5:65.1",
+        "original": "Pannarasindriyā na vattabbā—“nīvaraṇā ceva nīvaraṇasampayuttā cā”tipi, “nīvaraṇasampayuttā ceva no ca nīvaraṇā”tipi.",
+        "analyzed": "pannarasa indriyā na vattabbā a nīvaraṇā ca iva nīvaraṇa sampayuttā ca atipi nīvaraṇa sampayuttā ca iva no ca nīvaraṇā atipi ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_5:65.2",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“nīvaraṇañceva nīvaraṇasampayuttañcā”ti, nīvaraṇasampayuttañceva no ca nīvaraṇaṁ.",
+        "analyzed": "domanassindriyam na vattabba nīvaraṇam ca iva nīvaraṇa sampayuttam ca ati nīvaraṇa sampayuttam ca iva no ca nīvaraṇa ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_5:65.3",
+        "original": "Cha indriyā na vattabbā—“nīvaraṇā ceva nīvaraṇasampayuttā cā”ti, siyā nīvaraṇasampayuttā ceva no ca nīvaraṇā, siyā na vattabbā—“nīvaraṇasampayuttā ceva no ca nīvaraṇā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā a nīvaraṇā ca iva nīvaraṇa sampayuttā ca ati siyā nīvaraṇa sampayuttā ca iva no ca nīvaraṇā siyā na vattabbā a nīvaraṇa sampayuttā ca iva no ca nīvaraṇā ati ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_vb_5:66.1",
+        "original": "Navindriyā nīvaraṇavippayuttanīvaraṇiyā.",
+        "analyzed": "nava indriyā nīvaraṇa vippayutta nīvaraṇiyā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_5:66.2",
+        "original": "Tīṇindriyā nīvaraṇavippayuttaanīvaraṇiyā.",
+        "analyzed": "tīṇi indriyāḥ nīvaraṇa vippayutta a nīvaraṇiyā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_5:66.3",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“nīvaraṇavippayuttanīvaraṇiyan”tipi, “nīvaraṇavippayuttaanīvaraṇiyan”tipi.",
+        "analyzed": "domanassindriyam na vattabba nīvaraṇa vippayutta nīvaraṇiyanti pi nīvaraṇa vippayutta a nīvaraṇiyanti pi ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_5:66.4",
+        "original": "Tīṇindriyā siyā nīvaraṇavippayuttanīvaraṇiyā, siyā nīvaraṇavippayuttaanīvaraṇiyā.",
+        "analyzed": "tīṇi indriyā siyā nīvaraṇa vippayutta nīvaraṇiyā siyā nīvaraṇa vippayutta a nīvaraṇiyā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_5:66.5",
+        "original": "Cha indriyā siyā nīvaraṇavippayuttanīvaraṇiyā, siyā nīvaraṇavippayuttaanīvaraṇiyā, siyā na vattabbā—“nīvaraṇavippayuttanīvaraṇiyā”tipi, “nīvaraṇavippayuttaanīvaraṇiyā”tipi.",
+        "analyzed": "cha indriyā siyā nīvaraṇa vippayutta nīvaraṇiyā siyā nīvaraṇa vippayutta anīvaraṇiyā siyā na vattabbā a nīvaraṇa vippayutta nīvaraṇiyā atipi nīvaraṇa vippayutta a nīvaraṇiyā atipi ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.0",
+        "original": "2.2.9. Parāmāsagocchaka",
+        "analyzed": "parā māsa gocchaka ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.1",
+        "original": "No parāmāsā.",
+        "analyzed": "na u parāmāsā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.2",
+        "original": "Dasindriyā parāmaṭṭhā.",
+        "analyzed": "dasa indriyā parāmaṭṭhā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.3",
+        "original": "Tīṇindriyā aparāmaṭṭhā.",
+        "analyzed": "tīṇi indriyāḥ aparāmaṭṭhā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.4",
+        "original": "Navindriyā siyā parāmaṭṭhā, siyā aparāmaṭṭhā.",
+        "analyzed": "nava indriyā siyā parāmaṭṭhā siyā aparāmaṭṭhā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.5",
+        "original": "Soḷasindriyā parāmāsavippayuttā.",
+        "analyzed": "soḷasa indriyā parāmāsa vippayuttā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.6",
+        "original": "Cha indriyā siyā parāmāsasampayuttā, siyā parāmāsavippayuttā.",
+        "analyzed": "cha indriyā siyā parāmāsa sampayuttā siyā parāmāsa vippayuttā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.7",
+        "original": "Dasindriyā na vattabbā—“parāmāsā ceva parāmaṭṭhā cā”ti, parāmaṭṭhā ceva no ca parāmāsā.",
+        "analyzed": "dasa indriyā na vattabbā aparāmāsā ca iva parāmaṭṭhā ca ati parāmaṭṭhā ca iva no ca parāmāsā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.8",
+        "original": "Tīṇindriyā na vattabbā—“parāmāsā ceva parāmaṭṭhā cā”tipi, “parāmaṭṭhā ceva no ca parāmāsā”tipi.",
+        "analyzed": "tīṇi indriyā na vattabbā a parāmāsā ca iva parāmaṭṭhā ca atipi parāmaṭṭhā ca iva no ca parāmāsa atipi ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.9",
+        "original": "Navindriyā na vattabbā—“parāmāsā ceva parāmaṭṭhā cā”ti, siyā parāmaṭṭhā ceva no ca parāmāsā, siyā na vattabbā—“parāmaṭṭhā ceva no ca parāmāsā”ti.",
+        "analyzed": "nava indriyā na vattabbā aparāmāsā ca iva parāmaṭṭhā ca ati siyā parāmaṭṭhā ca iva no ca parāmāsā siyā na vattabbā aparāmaṭṭhā ca iva no ca parāmāsā ati ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.10",
+        "original": "Dasindriyā parāmāsavippayuttaparāmaṭṭhā.",
+        "analyzed": "dasa indriyā parāmāsa vippayutta parāmaṭṭhā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.11",
+        "original": "Tīṇindriyā parāmāsavippayuttaaparāmaṭṭhā.",
+        "analyzed": "tīṇi indriyā parāmāsa vippayutta aparāmaṭṭhā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.12",
+        "original": "Tīṇindriyā siyā parāmāsavippayuttaparāmaṭṭhā, siyā parāmāsavippayuttaaparāmaṭṭhā.",
+        "analyzed": "tīṇi indriyā siyā parāmāsa vippayutta parāmaṭṭhā siyā parāmāsa vippayutta aparāmaṭṭhā ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:67.13",
+        "original": "Cha indriyā siyā parāmāsavippayuttaparāmaṭṭhā, siyā parāmāsavippayuttaaparāmaṭṭhā, siyā na vattabbā—“parāmāsavippayuttaparāmaṭṭhā”tipi, “parāmāsavippayuttaaparāmaṭṭhā”tipi.",
+        "analyzed": "cha indriyā siyā parāmāsa vippayutta parāmaṭṭhā siyā parāmāsa vippayutta aparāmaṭṭhā siyā na vattabbā a parāmāsa vippayutta parāmaṭṭhā atipi parāmāsa vippayutta aparāmaṭṭhā atipi ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.0",
+        "original": "2.2.10. Mahantaraduka",
+        "analyzed": "mahantaraduka ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.1",
+        "original": "Sattindriyā anārammaṇā.",
+        "analyzed": "satti indriyāḥ anārammaṇā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.2",
+        "original": "Cuddasindriyā sārammaṇā.",
+        "analyzed": "cuddas indriyā sa ārammaṇā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.3",
+        "original": "Jīvitindriyā siyā sārammaṇaṁ, siyā anārammaṇaṁ.",
+        "analyzed": "siyā sa ārammaṇa siyā anārammaṇa ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.4",
+        "original": "Ekavīsatindriyā no cittā.",
+        "analyzed": "ekavīsati indriyāḥ no cittā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.5",
+        "original": "Manindriyaṁ cittaṁ.",
+        "analyzed": "man indriyam citta ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.6",
+        "original": "Terasindriyā cetasikā.",
+        "analyzed": "terasa indriyā cetasikā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.7",
+        "original": "Aṭṭhindriyā acetasikā.",
+        "analyzed": "aṭṭhindriyā acetasikā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.8",
+        "original": "Jīvitindriyaṁ siyā cetasikaṁ, siyā acetasikaṁ.",
+        "analyzed": "jīvitindriyam siyā siyā acetasika ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.9",
+        "original": "Terasindriyā cittasampayuttā.",
+        "analyzed": "terasa indriyā citta sampayuttā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.10",
+        "original": "Sattindriyā cittavippayuttā.",
+        "analyzed": "satti indriyā citta vippayuttā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.11",
+        "original": "Jīvitindriyaṁ siyā cittasampayuttaṁ, siyā cittavippayuttaṁ.",
+        "analyzed": "jīvitindriyam siyā citta sampayutta siyā citta vippayutta ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:68.12",
+        "original": "Manindriyaṁ na vattabbaṁ—“cittena sampayuttan”tipi, “cittena vippayuttan”tipi.",
+        "analyzed": "man indriyam na vattabba cittena sampayuttanti api cittena vippayuttanti api ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.1",
+        "original": "Terasindriyā cittasaṁsaṭṭhā.",
+        "analyzed": "terasa indriyā citta sasaṭṭhā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.2",
+        "original": "Sattindriyā cittavisaṁsaṭṭhā.",
+        "analyzed": "satti indriyā citta visasaṭṭhā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.3",
+        "original": "Jīvitindriyaṁ siyā cittasaṁsaṭṭhaṁ, siyā cittavisaṁsaṭṭhaṁ.",
+        "analyzed": "jīvitindriyam siyā citta visasaṭṭha ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.4",
+        "original": "Manindriyaṁ na vattabbaṁ—“cittena saṁsaṭṭhan”tipi, “cittena visaṁsaṭṭhan”tipi.",
+        "analyzed": "manindriyam na vattabba cittena sasaṭṭhanti pi cittena visasaṭṭhanti pi ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.5",
+        "original": "Terasindriyā cittasamuṭṭhānā.",
+        "analyzed": "terasa indriyā citta samuṭṭhānā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.6",
+        "original": "Aṭṭhindriyā no cittasamuṭṭhānā.",
+        "analyzed": "aṭṭha indriyāḥ no citta samuṭṭhānā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:69.7",
+        "original": "Jīvitindriyaṁ siyā cittasamuṭṭhānaṁ, siyā no cittasamuṭṭhānaṁ.",
+        "analyzed": "jīvitindriyam siyā citta samuṭṭhāna siyā no citta samuṭṭhāna ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_vb_5:70.1",
+        "original": "Terasindriyā cittasahabhuno.",
+        "analyzed": "terasa indriyāḥ ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_5:70.2",
+        "original": "Aṭṭhindriyā no cittasahabhuno.",
+        "analyzed": "aṭṭh indriyāḥ no citta sahabhuno ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_5:70.3",
+        "original": "Jīvitindriyaṁ siyā cittasahabhū, siyā no cittasahabhū.",
+        "analyzed": "jīvitindriyam siyā citta sahabhū siyā no citta sahabhū ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_5:70.4",
+        "original": "Terasindriyā cittānuparivattino.",
+        "analyzed": "terasa indriyāḥ citta anuparivattinaḥ ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_5:70.5",
+        "original": "Aṭṭhindriyā no cittānuparivattino.",
+        "analyzed": "aṭṭha indriyāḥ no citta anuparivattino ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_5:70.6",
+        "original": "Jīvitindriyaṁ siyā cittānuparivatti, siyā no cittānuparivatti.",
+        "analyzed": "jīvitindriyam siyā citta anuparivatti siyā no citta anuparivatti ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.1",
+        "original": "Terasindriyā cittasaṁsaṭṭhasamuṭṭhānā.",
+        "analyzed": "terasa indriyā citta sasaṭṭha samuṭṭhānā ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.2",
+        "original": "Aṭṭhindriyā no cittasaṁsaṭṭhasamuṭṭhānā.",
+        "analyzed": "aṭṭha indriyāḥ no ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.3",
+        "original": "Jīvitindriyaṁ siyā cittasaṁsaṭṭhasamuṭṭhānaṁ, siyā no cittasaṁsaṭṭhasamuṭṭhānaṁ.",
+        "analyzed": "jīvita indriyam siyā citta sasaṭṭha samuṭṭhāna siyā no citta ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.4",
+        "original": "Terasindriyā cittasaṁsaṭṭhasamuṭṭhānasahabhuno.",
+        "analyzed": "terasa indriyāḥ ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.5",
+        "original": "Aṭṭhindriyā no cittasaṁsaṭṭhasamuṭṭhānasahabhuno.",
+        "analyzed": "aṭṭha indriyāḥ no ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.6",
+        "original": "Jīvitindriyaṁ siyā cittasaṁsaṭṭhasamuṭṭhānasahabhū, siyā no cittasaṁsaṭṭhasamuṭṭhānasahabhū.",
+        "analyzed": "jīvita indriyam siyā siyā no ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.7",
+        "original": "Terasindriyā cittasaṁsaṭṭhasamuṭṭhānānuparivattino.",
+        "analyzed": "terasa indriyāḥ ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.8",
+        "original": "Aṭṭhindriyā no cittasaṁsaṭṭhasamuṭṭhānānuparivattino.",
+        "analyzed": "aṭṭha indriyāḥ no ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:71.9",
+        "original": "Jīvitindriyaṁ siyā cittasaṁsaṭṭhasamuṭṭhānānuparivatti, siyā no cittasaṁsaṭṭhasamuṭṭhānānuparivatti.",
+        "analyzed": "jīvita indriyam siyā citta sasaṭṭha samuṭṭhāna anuparivatti siyā no citta sasaṭṭha samuṭṭhāna anuparivatti ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.0",
+        "original": "2.2.11. Upādānagocchaka",
+        "analyzed": "upādānagocchaka ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.1",
+        "original": "Cha indriyā ajjhattikā.",
+        "analyzed": "cha indriyāḥ ajjhattikā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.2",
+        "original": "Soḷasindriyā bāhirā.",
+        "analyzed": "sā uḍas indriyā bāhirā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.3",
+        "original": "Sattindriyā upādā.",
+        "analyzed": "satti indriyā upādā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.4",
+        "original": "Cuddasindriyā no upādā.",
+        "analyzed": "cud das indriyāḥ na u ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.5",
+        "original": "Jīvitindriyaṁ siyā upādā, siyā no upādā.",
+        "analyzed": "jīvitindriyam siyāḥ upādā siyāḥ no upādā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.6",
+        "original": "Navindriyā upādinnā.",
+        "analyzed": "nava indriyā upādinnā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.7",
+        "original": "Cattārindriyā anupādinnā.",
+        "analyzed": "cattāri indriyāḥ an upādinnā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:72.8",
+        "original": "Navindriyā siyā upādinnā, siyā anupādinnā.",
+        "analyzed": "nava indriyā siyā upādinnā siyā anupādinnā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.0",
+        "original": "2.2.12. Kilesagocchaka",
+        "analyzed": "kilesagocchaka ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.1",
+        "original": "No upādānā.",
+        "analyzed": "na u upādānā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.2",
+        "original": "Dasindriyā upādāniyā.",
+        "analyzed": "dasindriyā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.3",
+        "original": "Tīṇindriyā anupādāniyā.",
+        "analyzed": "tīṇindriyā anupādāniyā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.4",
+        "original": "Navindriyā siyā upādāniyā, siyā anupādāniyā.",
+        "analyzed": "navindriyā siyā upādāniyā siyā anupādāniyā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.5",
+        "original": "Soḷasindriyā upādānavippayuttā.",
+        "analyzed": "upādāna vippayuttā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.6",
+        "original": "Cha indriyā siyā upādānasampayuttā, siyā upādānavippayuttā.",
+        "analyzed": "cha indriyā siyā upādāna sampayuttā siyā upādāna vippayuttā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.7",
+        "original": "Dasindriyā na vattabbā—“upādānā ceva upādāniyā cā”ti, upādāniyā ceva no ca upādānā.",
+        "analyzed": "dasa indriyā na vattabbā upādānā ca iva upādāniyā ca ati upādāniyā ca iva no ca upādānā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.8",
+        "original": "Tīṇindriyā na vattabbā—“upādānā ceva upādāniyā cā”tipi, “upādāniyā ceva no ca upādānā”tipi.",
+        "analyzed": "tīṇi indriyā na vattabbā upādānā ca iva upādāniyā ca atipi upādāniyā ca iva no ca upādānā atipi ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.9",
+        "original": "Navindriyā na vattabbā—“upādānā ceva upādāniyā cā”ti, siyā upādāniyā ceva no ca upādānā.",
+        "analyzed": "nava indriyā na vattabbā upādānā ca iva upādāniyā ca ati siyā upādāniyā ca iva no ca upādānā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:73.10",
+        "original": "Dasindriyā siyā upādāniyā ceva no ca upādānā, siyā na vattabbā—“upādāniyā ceva no ca upādānā”ti.",
+        "analyzed": "dasa indriyā siyā upādāniyā ca iva no ca upādānā siyā na vattabbā aupādāniyā ca iva no ca upādānā ati ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_vb_5:74.1",
+        "original": "Soḷasindriyā na vattabbā—“upādānā ceva upādānasampayuttā cā”tipi, “upādānasampayuttā ceva no ca upādānā”tipi.",
+        "analyzed": "soḷasa indriyā na vattabbā upādānā ca iva upādāna sampayuttā ca atipi upādāna sampayuttā ca iva no ca upādānā atipi ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_5:74.2",
+        "original": "Cha indriyā na vattabbā—“upādānā ceva upādānasampayuttā cā”ti, siyā upādānasampayuttā ceva no ca upādānā, siyā na vattabbā—“upādānasampayuttā ceva no ca upādānā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā a upādānā ca iva upādāna sampayuttā ca ati siyā upādāna sampayuttā ca iva no ca upādānā siyā na vattabbā a upādāna sampayuttā ca iva no ca upādānā ati ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_5:74.3",
+        "original": "Dasindriyā upādānavippayuttaupādāniyā.",
+        "analyzed": "dasa indriyā upādāna vippayutta aupādāniyā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_5:74.4",
+        "original": "Tīṇindriyā upādānavippayuttaanupādāniyā.",
+        "analyzed": "tīṇi indriyā upādāna vippayutta anupādāniyā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_5:74.5",
+        "original": "Tīṇindriyā siyā upādānavippayuttaupādāniyā, siyā upādānavippayuttaanupādāniyā.",
+        "analyzed": "tīṇi indriyā siyā upādāna vippayutta aupādāniyā siyā upādāna vippayutta anupādāniyā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_5:74.6",
+        "original": "Cha indriyā siyā upādānavippayuttaupādāniyā, siyā upādānavippayuttaanupādāniyā, siyā na vattabbā—“upādānavippayuttaupādāniyā”tipi, “upādānavippayuttaanupādāniyā”tipi.",
+        "analyzed": "cha indriyā siyā upādāna vippayutta aupādāniyā siyā upādāna vippayutta anupādāniyā siyā na vattabbā a upādāna vippayutta aupādāniyā atipi upādāna vippayutta anupādāniyā atipi ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.0",
+        "original": "2.2.13. Piṭṭhiduka",
+        "analyzed": "piṭṭhiduka ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.1",
+        "original": "No kilesā.",
+        "analyzed": "no kilesā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.2",
+        "original": "Dasindriyā saṅkilesikā.",
+        "analyzed": "dasa indriyā saṅkilesikā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.3",
+        "original": "Tīṇindriyā asaṅkilesikā.",
+        "analyzed": "tīṇindriyā asaṅkilesikā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.4",
+        "original": "Navindriyā siyā saṅkilesikā, siyā asaṅkilesikā.",
+        "analyzed": "nava indriyā siyā saṅkilesikā siyā asaṅkilesikā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.5",
+        "original": "Pannarasindriyā asaṅkiliṭṭhā.",
+        "analyzed": "pannaras indriyāḥ a saṅkiliṭṭhā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.6",
+        "original": "Domanassindriyaṁ saṅkiliṭṭhaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.7",
+        "original": "Cha indriyā siyā saṅkiliṭṭhā, siyā asaṅkiliṭṭhā.",
+        "analyzed": "cha indriyā siyā saṅkiliṭṭhā siyā asaṅkiliṭṭhā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.8",
+        "original": "Pannarasindriyā kilesavippayuttā.",
+        "analyzed": "kilesa vippayuttā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.9",
+        "original": "Domanassindriyaṁ kilesasampayuttaṁ.",
+        "analyzed": "domanassindriyam kilesa sampayutta ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.10",
+        "original": "Cha indriyā siyā kilesasampayuttā, siyā kilesavippayuttā.",
+        "analyzed": "cha indriyā siyā kilesa sampayuttā siyā kilesa vippayuttā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.11",
+        "original": "Dasindriyā na vattabbā—“kilesā ceva saṅkilesikā cā”ti, saṅkilesikā ceva no ca kilesā.",
+        "analyzed": "dasa indriyā na vattabbā akilesā ca iva saṅkilesikā ca ati saṅkilesikā ca iva no ca kilesā ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.12",
+        "original": "Tīṇindriyā na vattabbā—“kilesā ceva saṅkilesikā cā”tipi, “saṅkilesikā ceva no ca kilesā”tipi.",
+        "analyzed": "tīṇi indriyā na vattabbā akilesā ca iva saṅkilesikā ca atipi saṅkilesikā ca iva no ca kilesā atipi ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:75.13",
+        "original": "Navindriyā na vattabbā—“kilesā ceva saṅkilesikā cā”ti, siyā saṅkilesikā ceva no ca kilesā, siyā na vattabbā—“saṅkilesikā ceva no ca kilesā”ti.",
+        "analyzed": "nava indriyā na vattabbā akilesā ca iva saṅkilesikā ca ati siyā saṅkilesikā ca iva no ca kilesā siyā na vattabbā asaṅkilesikā ca iva no ca kilesā ati ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_vb_5:76.1",
+        "original": "Pannarasindriyā na vattabbā—“kilesā ceva saṅkiliṭṭhā cā”tipi, “saṅkiliṭṭhā ceva no ca kilesā”tipi.",
+        "analyzed": "pannarasindriyā na vattabbā akilesā ca iva saṅkiliṭṭhā ca atipi saṅkiliṭṭhā ca iva no ca kilesā atipi ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_vb_5:76.2",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“kileso ceva saṅkiliṭṭhañcā”ti, saṅkiliṭṭhañceva no ca kileso.",
+        "analyzed": "domanassindriyam na vattabba kileso ca iva saṅkiliṭṭham ca ati saṅkiliṭṭham ca iva no ca kileso ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_vb_5:76.3",
+        "original": "Cha indriyā na vattabbā—“kilesā ceva saṅkiliṭṭhā cā”ti, siyā saṅkiliṭṭhā ceva no ca kilesā, siyā na vattabbā—“saṅkiliṭṭhā ceva no ca kilesā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā akilesā ca iva saṅkiliṭṭhā ca ati siyā saṅkiliṭṭhā ca iva no ca kilesā siyā na vattabbā asaṅkiliṭṭhā ca iva no ca kilesā ati ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.1",
+        "original": "Pannarasindriyā na vattabbā—“kilesā ceva kilesasampayuttā cā”tipi, “kilesasampayuttā ceva no ca kilesā”tipi.",
+        "analyzed": "pannarasindriyā na vattabbā akilesā ca iva kilesa sampayuttā ca atipi kilesa sampayuttā ca iva no ca kilesā atipi ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.2",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“kileso ceva kilesasampayuttañcā”ti, kilesasampayuttañceva no ca kileso.",
+        "analyzed": "domanassindriyam na vattabba kileso ca iva kilesa sampayuttam ca ati kilesa sampayuttam ca iva no ca kileso ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.3",
+        "original": "Cha indriyā na vattabbā—“kilesā ceva kilesasampayuttā cā”ti, siyā kilesasampayuttā ceva no ca kilesā, siyā na vattabbā—“kilesasampayuttā ceva no ca kilesā”ti.",
+        "analyzed": "cha indriyāḥ na vattabbā akilesā ca iva kilesa sampayuttā ca ati siyā kilesa sampayuttā ca iva no ca kilesā siyā na vattabbā akilesa sampayuttā ca iva no ca kilesā ati ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.4",
+        "original": "Navindriyā kilesavippayuttasaṅkilesikā.",
+        "analyzed": "nava indriyā kilesa vippayutta saṅkilesikā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.5",
+        "original": "Tīṇindriyā kilesavippayuttaasaṅkilesikā.",
+        "analyzed": "tīṇindriyā kilesa vippayutta asaṅkilesikā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.6",
+        "original": "Domanassindriyaṁ na vattabbaṁ—“kilesavippayuttasaṅkilesikan”tipi, “kilesavippayuttaasaṅkilesikan”tipi.",
+        "analyzed": "domanassindriyam na vattabba kilesa vippayutta saṅkilesikan tipi kilesa vippayutta asaṅkilesikan tipi ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.7",
+        "original": "Tīṇindriyā siyā kilesavippayuttasaṅkilesikā, siyā kilesavippayuttaasaṅkilesikā.",
+        "analyzed": "tīṇindriyā siyā kilesa vippayutta asaṅkilesikā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:77.8",
+        "original": "Cha indriyā siyā kilesavippayuttasaṅkilesikā, siyā kilesavippayuttaasaṅkilesikā, siyā na vattabbā—“kilesavippayuttasaṅkilesikā”tipi, “kilesavippayuttaasaṅkilesikā”tipi.",
+        "analyzed": "cha indriyā siyā kilesa vippayutta saṅkilesikā siyā kilesa vippayutta asaṅkilesikā siyā na vattabbā a kilesa vippayutta saṅkilesikā atipi kilesa vippayutta asaṅkilesikā atipi ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.1",
+        "original": "Pannarasindriyā na dassanena pahātabbā.",
+        "analyzed": "pannarasindriyā na dassanena pahātabbā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.2",
+        "original": "Sattindriyā siyā dassanena pahātabbā, siyā na dassanena pahātabbā.",
+        "analyzed": "satti indriyā siyā dassanena pahātabbā siyā na dassanena pahātabbā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.3",
+        "original": "Pannarasindriyā na bhāvanāya pahātabbā.",
+        "analyzed": "pannarasindriyā na bhāvanāya pahātabbā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.4",
+        "original": "Sattindriyā siyā bhāvanāya pahātabbā, siyā na bhāvanāya pahātabbā.",
+        "analyzed": "satti indriyā siyā bhāvanāya pahātabbā siyā na bhāvanāya pahātabbā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.5",
+        "original": "Pannarasindriyā na dassanena pahātabbahetukā.",
+        "analyzed": "na dassanena pahātabba hetukā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.6",
+        "original": "Sattindriyā siyā dassanena pahātabbahetukā, siyā na dassanena pahātabbahetukā.",
+        "analyzed": "satti indriyā siyā dassanena pahātabba hetukā siyā na dassanena pahātabba hetukā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.7",
+        "original": "Pannarasindriyā na bhāvanāya pahātabbahetukā.",
+        "analyzed": "na bhāvanāya pahātabba hetukā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:78.8",
+        "original": "Sattindriyā siyā bhāvanāya pahātabbahetukā, siyā na bhāvanāya pahātabbahetukā.",
+        "analyzed": "satti indriyā siyā bhāvanāya pahātabba hetukā siyā na bhāvanāya pahātabba hetukā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.1",
+        "original": "Navindriyā avitakkā.",
+        "analyzed": "nava indriyāḥ a vitakkā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.2",
+        "original": "Domanassindriyaṁ savitakkaṁ.",
+        "analyzed": "domanassindriyam sa vitakka ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.3",
+        "original": "Dvādasindriyā siyā savitakkā, siyā avitakkā.",
+        "analyzed": "dvādasa indriyā siyā sa vitakkā siyā a vitakkā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.4",
+        "original": "Navindriyā avicārā.",
+        "analyzed": "nava indriyā a vicārā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.5",
+        "original": "Domanassindriyaṁ savicāraṁ.",
+        "analyzed": "domanassindriyam sa vicāra ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.6",
+        "original": "Dvādasindriyā siyā savicārā, siyā avicārā.",
+        "analyzed": "dvādaśa indriyā siyā sa vicārā siyā avicārā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.7",
+        "original": "Ekādasindriyā appītikā.",
+        "analyzed": "ekādaśa indriyā appītikā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.8",
+        "original": "Ekādasindriyā siyā sappītikā, siyā appītikā.",
+        "analyzed": "ekādasa indriyā siyā sappītikā siyā appītikā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.9",
+        "original": "Ekādasindriyā na pītisahagatā.",
+        "analyzed": "na pīti sahagatā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.10",
+        "original": "Ekādasindriyā siyā pītisahagatā, siyā na pītisahagatā.",
+        "analyzed": "siyā pīti sahagatā siyā na pīti sahagatā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.11",
+        "original": "Dvādasindriyā na sukhasahagatā.",
+        "analyzed": "dvādaśa indriyā na sukha sahagatā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.12",
+        "original": "Dasindriyā siyā sukhasahagatā, siyā na sukhasahagatā.",
+        "analyzed": "dasa indriyā siyā sukha sahagatā siyā na sukha sahagatā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.13",
+        "original": "Dvādasindriyā na upekkhāsahagatā.",
+        "analyzed": "dvādaśa indriyā na upekkhā sahagatā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:79.14",
+        "original": "Dasindriyā siyā upekkhāsahagatā, siyā na upekkhāsahagatā.",
+        "analyzed": "dasa indriyā siyā upekkhā sahagatā siyā na upekkhā sahagatā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.1",
+        "original": "Dasindriyā kāmāvacarā.",
+        "analyzed": "das indriyā kāma avacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.2",
+        "original": "Tīṇindriyā na kāmāvacarā.",
+        "analyzed": "tīṇi indriyā na kāmāvacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.3",
+        "original": "Navindriyā siyā kāmāvacarā, siyā na kāmāvacarā.",
+        "analyzed": "nava indriyā siyā kāmāvacarā siyā na kāmāvacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.4",
+        "original": "Terasindriyā na rūpāvacarā.",
+        "analyzed": "na rūpa avacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.5",
+        "original": "Navindriyā siyā rūpāvacarā, siyā na rūpāvacarā.",
+        "analyzed": "nava indriyā siyā rūpāvacarā siyā na rūpāvacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.6",
+        "original": "Cuddasindriyā na arūpāvacarā.",
+        "analyzed": "na arūpa avacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.7",
+        "original": "Aṭṭhindriyā siyā arūpāvacarā, siyā na arūpāvacarā.",
+        "analyzed": "aṭṭhindriyā siyā arūpāvacarā siyā na arūpāvacarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.8",
+        "original": "Dasindriyā pariyāpannā.",
+        "analyzed": "dasa indriyā pariyāpannā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.9",
+        "original": "Tīṇindriyā apariyāpannā.",
+        "analyzed": "tīṇi indriyā a pariyāpannā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.10",
+        "original": "Navindriyā siyā pariyāpannā, siyā apariyāpannā.",
+        "analyzed": "nava indriyā siyā pariyāpannā siyā a pariyāpannā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.11",
+        "original": "Ekādasindriyā aniyyānikā.",
+        "analyzed": "ekādaśa indriyā aniyyānikā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.12",
+        "original": "Anaññātaññassāmītindriyaṁ niyyānikaṁ.",
+        "analyzed": "anaññātaññassāmi iti indriyam niyyānika ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.13",
+        "original": "Dasindriyā siyā niyyānikā, siyā aniyyānikā.",
+        "analyzed": "dasa indriyā siyā niyyānikā siyā a niyyānikā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.14",
+        "original": "Dasindriyā aniyatā.",
+        "analyzed": "das indriyā aniyatā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.15",
+        "original": "Anaññātaññassāmītindriyaṁ niyataṁ.",
+        "analyzed": "an añña a taññaḥ sāmi iti indriyam ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.16",
+        "original": "Ekādasindriyā siyā niyatā, siyā aniyatā.",
+        "analyzed": "siyāḥ niyatā siyāḥ aniyatā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.17",
+        "original": "Dasindriyā sauttarā.",
+        "analyzed": "das indriyā sā auttarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.18",
+        "original": "Tīṇindriyā anuttarā.",
+        "analyzed": "tīṇ indriyā anuttarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.19",
+        "original": "Navindriyā siyā sauttarā, siyā anuttarā.",
+        "analyzed": "nava indriyā siyā sauttarā siyā anuttarā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.20",
+        "original": "Pannarasindriyā araṇā.",
+        "analyzed": "pannaras indriyāḥ araṇā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.21",
+        "original": "Domanassindriyaṁ saraṇaṁ.",
+        "analyzed": "domanassindriyam ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:80.22",
+        "original": "Cha indriyā siyā saraṇā, siyā araṇāti.",
+        "analyzed": "indriyā siyā saraṇā siyā ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_vb_5:81.1",
+        "original": "Pañhāpucchakaṁ.",
+        "analyzed": "pañhāpucchaka ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_vb_5:82.1",
+        "original": "Indriyavibhaṅgo niṭṭhito.",
+        "analyzed": "indriya vibhaṅgaḥ niṭṭhitaḥ ",
+        "folio": "82"
+    }
+]

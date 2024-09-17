@@ -1,0 +1,782 @@
+[
+    {
+        "segmentnr": "PA_ya_5.1.1:0.1",
+        "original": "5 Saccayamaka",
+        "analyzed": "saccayamaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:0.2",
+        "original": "5.1 Paṇṇattivāra",
+        "analyzed": "paṇṇattivāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:0.3",
+        "original": "5.1.1. Paṇṇattivārauddesa",
+        "analyzed": "paṇṇatti vāra uddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:1.1",
+        "original": "Namo tassa Bhagavato Arahato Sammāsambuddhassa.",
+        "analyzed": "namaḥ tassa bhagavataḥ arahataḥ sammāsambuddhassa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:2.1",
+        "original": "Cattāri saccāni—dukkhasaccaṁ, samudayasaccaṁ nirodhasaccaṁ, maggasaccaṁ.",
+        "analyzed": "cattāri saccā anidukkha sacca samudaya saccam nirodha sacca magga sacca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:3.0.1",
+        "original": "5.1.1.1. Padasodhanavāra",
+        "analyzed": "    ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:3.0.2",
+        "original": "5.1.1.1.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:3.1",
+        "original": "Dukkhaṁ dukkhasaccaṁ?",
+        "analyzed": "dukkham dukkha sat ca ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:4.1",
+        "original": "Dukkhasaccaṁ dukkhaṁ?",
+        "analyzed": "dukkha saccam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:5.1",
+        "original": "Samudayo samudayasaccaṁ?",
+        "analyzed": "samudayaḥ samudaya sad ca ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:6.1",
+        "original": "Samudayasaccaṁ samudayo?",
+        "analyzed": "samudaya saccam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:7.1",
+        "original": "Nirodho nirodhasaccaṁ?",
+        "analyzed": "nirodhaḥ nirodha sat ca ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:8.1",
+        "original": "Nirodhasaccaṁ nirodho?",
+        "analyzed": "nirodha saccam nirodhaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:9.1",
+        "original": "Maggo maggasaccaṁ?",
+        "analyzed": "maggaḥ magga sad ca ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:10.1",
+        "original": "Maggasaccaṁ maggo?",
+        "analyzed": "magga saccam maggo ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:11.0",
+        "original": "5.1.1.1.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:11.1",
+        "original": "Na dukkhaṁ na dukkhasaccaṁ?",
+        "analyzed": "na dukkham na dukkha sat ca ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:12.1",
+        "original": "Na dukkhasaccaṁ na dukkhaṁ?",
+        "analyzed": "na dukkha saccam na dukkha ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:13.1",
+        "original": "Na samudayo na samudayasaccaṁ?",
+        "analyzed": "na samudayaḥ na samudaya sat ca ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:14.1",
+        "original": "Na samudayasaccaṁ na samudayo?",
+        "analyzed": "na samudaya saccam na ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:15.1",
+        "original": "Na nirodho na nirodhasaccaṁ?",
+        "analyzed": "na nirodhaḥ na nirodha sat ca ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:16.1",
+        "original": "Na nirodhasaccaṁ na nirodho?",
+        "analyzed": "na nirodha saccam na nirodhaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:17.1",
+        "original": "Na maggo na maggasaccaṁ?",
+        "analyzed": "na maggaḥ na magga saddhi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:18.1",
+        "original": "Na maggasaccaṁ na maggo?",
+        "analyzed": "na magga saccam na maggaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:19.0.1",
+        "original": "5.1.1.2. Padasodhanamūlacakkavāra",
+        "analyzed": "      ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:19.0.2",
+        "original": "5.1.1.2.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:19.1",
+        "original": "Dukkhaṁ dukkhasaccaṁ?",
+        "analyzed": "dukkham dukkha sat ca ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:20.1",
+        "original": "Saccā samudayasaccaṁ?",
+        "analyzed": "sat ca samudaya sat ca ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:21.1",
+        "original": "Dukkhaṁ dukkhasaccaṁ?",
+        "analyzed": "dukkham dukkha sat ca ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:22.1",
+        "original": "Saccā nirodhasaccaṁ?",
+        "analyzed": "sat ca nirodha sat ca ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:23.1",
+        "original": "Dukkhaṁ dukkhasaccaṁ?",
+        "analyzed": "dukkham dukkha sat ca ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:24.1",
+        "original": "Saccā maggasaccaṁ?",
+        "analyzed": "saccā magga sacca ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:25.1",
+        "original": "Samudayo samudayasaccaṁ?",
+        "analyzed": "samudayaḥ samudaya sad ca ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:26.1",
+        "original": "Saccā dukkhasaccaṁ?",
+        "analyzed": "saccā dukkha sacca ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:27.1",
+        "original": "Samudayo samudayasaccaṁ?",
+        "analyzed": "samudayaḥ samudaya sad ca ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:28.1",
+        "original": "Saccā nirodhasaccaṁ?",
+        "analyzed": "sat ca nirodha sat ca ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:29.1",
+        "original": "Samudayo samudayasaccaṁ?",
+        "analyzed": "samudayaḥ samudaya sad ca ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:30.1",
+        "original": "Saccā maggasaccaṁ?",
+        "analyzed": "saccā magga sacca ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:31.1",
+        "original": "Nirodho nirodhasaccaṁ?",
+        "analyzed": "nirodhaḥ nirodha sat ca ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:32.1",
+        "original": "Saccā dukkhasaccaṁ?",
+        "analyzed": "saccā dukkha sacca ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:33.1",
+        "original": "Nirodho nirodhasaccaṁ?",
+        "analyzed": "nirodhaḥ nirodha sat ca ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:34.1",
+        "original": "Saccā samudayasaccaṁ?",
+        "analyzed": "sat ca samudaya sat ca ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:35.1",
+        "original": "Nirodho nirodhasaccaṁ?",
+        "analyzed": "nirodhaḥ nirodha sat ca ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:36.1",
+        "original": "Saccā maggasaccaṁ?",
+        "analyzed": "saccā magga sacca ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:37.1",
+        "original": "Maggo maggasaccaṁ?",
+        "analyzed": "maggaḥ magga sad ca ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:38.1",
+        "original": "Saccā dukkhasaccaṁ?",
+        "analyzed": "saccā dukkha sacca ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:39.1",
+        "original": "Maggo maggasaccaṁ?",
+        "analyzed": "maggaḥ magga sad ca ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:40.1",
+        "original": "Saccā samudayasaccaṁ?",
+        "analyzed": "sat ca samudaya sat ca ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:41.1",
+        "original": "Maggo maggasaccaṁ?",
+        "analyzed": "maggaḥ magga sad ca ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:42.1",
+        "original": "Saccā nirodhasaccaṁ?",
+        "analyzed": "sat ca nirodha sat ca ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:43.0",
+        "original": "5.1.1.2.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:43.1",
+        "original": "Na dukkhaṁ na dukkhasaccaṁ?",
+        "analyzed": "na dukkham na dukkha sat ca ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:44.1",
+        "original": "Na saccā na samudayasaccaṁ?",
+        "analyzed": "na sat ca na samudaya sat ca ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:45.1",
+        "original": "Na dukkhaṁ na dukkhasaccaṁ?",
+        "analyzed": "na dukkham na dukkha sat ca ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:46.1",
+        "original": "Na saccā na nirodhasaccaṁ?",
+        "analyzed": "na sat ca na nirodha sat ca ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:47.1",
+        "original": "Na dukkhaṁ na dukkhasaccaṁ?",
+        "analyzed": "na dukkham na dukkha sat ca ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:48.1",
+        "original": "Na saccā na maggasaccaṁ?",
+        "analyzed": "na saccā na magga sacca ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:49.1",
+        "original": "Na samudayo na samudayasaccaṁ?",
+        "analyzed": "na samudayaḥ na samudaya sat ca ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:50.1",
+        "original": "Na saccā na dukkhasaccaṁ?",
+        "analyzed": "na saccā na dukkha sacca ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:51.1",
+        "original": "Na samudayo na samudayasaccaṁ?",
+        "analyzed": "na samudayaḥ na samudaya sat ca ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:52.1",
+        "original": "Na saccā na nirodhasaccaṁ?",
+        "analyzed": "na sat ca na nirodha sat ca ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:53.1",
+        "original": "Na samudayo na samudayasaccaṁ?",
+        "analyzed": "na samudayaḥ na samudaya sat ca ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:54.1",
+        "original": "Na saccā na maggasaccaṁ?",
+        "analyzed": "na saccā na magga sacca ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:55.1",
+        "original": "Na nirodho na nirodhasaccaṁ?",
+        "analyzed": "na nirodhaḥ na nirodha sat ca ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:56.1",
+        "original": "Na saccā na dukkhasaccaṁ?",
+        "analyzed": "na saccā na dukkha sacca ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:57.1",
+        "original": "Na nirodho na nirodhasaccaṁ?",
+        "analyzed": "na nirodhaḥ na nirodha sat ca ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:58.1",
+        "original": "Na saccā na samudayasaccaṁ?",
+        "analyzed": "na sat ca na samudaya sat ca ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:59.1",
+        "original": "Na nirodho na nirodhasaccaṁ?",
+        "analyzed": "na nirodhaḥ na nirodha sat ca ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:60.1",
+        "original": "Na saccā na maggasaccaṁ?",
+        "analyzed": "na saccā na magga sacca ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:61.1",
+        "original": "Na maggo na maggasaccaṁ?",
+        "analyzed": "na maggaḥ na magga saddhi ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:62.1",
+        "original": "Na saccā na dukkhasaccaṁ?",
+        "analyzed": "na saccā na dukkha sacca ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:63.1",
+        "original": "Na maggo na maggasaccaṁ?",
+        "analyzed": "na maggaḥ na magga saddhi ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:64.1",
+        "original": "Na saccā na samudayasaccaṁ?",
+        "analyzed": "na sat ca na samudaya sat ca ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:65.1",
+        "original": "Na maggo na maggasaccaṁ?",
+        "analyzed": "na maggaḥ na magga saddhi ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:66.1",
+        "original": "Na saccā na nirodhasaccaṁ?",
+        "analyzed": "na sat ca na nirodha sat ca ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:67.0.1",
+        "original": "5.1.1.3. Suddhasaccavāra",
+        "analyzed": "suddha sacca vāra ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:67.0.2",
+        "original": "5.1.1.3.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:67.1",
+        "original": "Dukkhaṁ saccaṁ?",
+        "analyzed": "dukkham sat ca ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:68.1",
+        "original": "Saccā dukkhaṁ?",
+        "analyzed": "saccā ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:69.1",
+        "original": "Samudayo saccaṁ?",
+        "analyzed": "samudayaḥ sat ca ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:70.1",
+        "original": "Saccā samudayo?",
+        "analyzed": "satcā samudayaḥ ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:71.1",
+        "original": "Nirodho saccaṁ?",
+        "analyzed": "nirodhaḥ sat ca ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:72.1",
+        "original": "Saccā nirodho?",
+        "analyzed": "saccā nirodhaḥ ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:73.1",
+        "original": "Maggo saccaṁ?",
+        "analyzed": "maggaḥ sacca ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:74.1",
+        "original": "Saccā maggo?",
+        "analyzed": "saccā maggaḥ ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:75.0",
+        "original": "5.1.1.3.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:75.1",
+        "original": "Na dukkhaṁ na saccaṁ?",
+        "analyzed": "na dukkham na sat ca ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:76.1",
+        "original": "Na saccā na dukkhaṁ?",
+        "analyzed": "na saccā na dukkha ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:77.1",
+        "original": "Na samudayo na saccaṁ?",
+        "analyzed": "na samudayaḥ na sat ca ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:78.1",
+        "original": "Na saccā na samudayo?",
+        "analyzed": "na satcā na samudayaḥ ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:79.1",
+        "original": "Na nirodho na saccaṁ?",
+        "analyzed": "na nirodhaḥ na sat ca ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:80.1",
+        "original": "Na saccā na nirodho?",
+        "analyzed": "na saccā na nirodhaḥ ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:81.1",
+        "original": "Na maggo na saccaṁ?",
+        "analyzed": "na maggaḥ na sacca ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:82.1",
+        "original": "Na saccā na maggo?",
+        "analyzed": "na saccā na maggo ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:83.0.1",
+        "original": "5.1.1.4. Suddhasaccamūlacakkavāra",
+        "analyzed": "       ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:83.0.2",
+        "original": "5.1.1.4.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:83.1",
+        "original": "Dukkhaṁ saccaṁ?",
+        "analyzed": "dukkham sat ca ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:84.1",
+        "original": "Saccā samudayo?",
+        "analyzed": "satcā samudayaḥ ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:85.1",
+        "original": "Dukkhaṁ saccaṁ?",
+        "analyzed": "dukkham sat ca ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:86.1",
+        "original": "Saccā nirodho?",
+        "analyzed": "saccā nirodhaḥ ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:87.1",
+        "original": "Dukkhaṁ saccaṁ?",
+        "analyzed": "dukkham sat ca ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:88.1",
+        "original": "Saccā maggo?",
+        "analyzed": "saccā maggaḥ ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:89.1",
+        "original": "Samudayo saccaṁ?",
+        "analyzed": "samudayaḥ sat ca ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:90.1",
+        "original": "Saccā dukkhaṁ? …pe… Saccā maggo?",
+        "analyzed": "saccā dukkha pe saccā maggo ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:91.1",
+        "original": "Nirodho saccaṁ?",
+        "analyzed": "nirodhaḥ sat ca ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:92.1",
+        "original": "Saccā dukkhaṁ? …pe… Saccā maggo?",
+        "analyzed": "saccā dukkha pe saccā maggo ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:93.1",
+        "original": "Maggo saccaṁ?",
+        "analyzed": "maggaḥ sacca ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:94.1",
+        "original": "Saccā dukkhaṁ?",
+        "analyzed": "saccā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:95.1",
+        "original": "Maggo saccaṁ?",
+        "analyzed": "maggaḥ sacca ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:96.1",
+        "original": "Saccā samudayo?",
+        "analyzed": "satcā samudayaḥ ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:97.1",
+        "original": "Maggo saccaṁ?",
+        "analyzed": "maggaḥ sacca ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:98.1",
+        "original": "Saccā nirodho?",
+        "analyzed": "saccā nirodhaḥ ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:99.0",
+        "original": "5.1.1.4.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:99.1",
+        "original": "Na dukkhaṁ na saccaṁ?",
+        "analyzed": "na dukkham na sat ca ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:100.1",
+        "original": "Na saccā na samudayo?",
+        "analyzed": "na satcā na samudayaḥ ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:101.1",
+        "original": "Na dukkhaṁ na saccaṁ?",
+        "analyzed": "na dukkham na sat ca ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:102.1",
+        "original": "Na saccā na nirodho?",
+        "analyzed": "na saccā na nirodhaḥ ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:103.1",
+        "original": "Na dukkhaṁ na saccaṁ?",
+        "analyzed": "na dukkham na sat ca ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:104.1",
+        "original": "Na saccā na maggo?",
+        "analyzed": "na saccā na maggo ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:105.1",
+        "original": "Na samudayo na saccaṁ?",
+        "analyzed": "na samudayaḥ na sat ca ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:106.1",
+        "original": "Na saccā na dukkhaṁ? …pe… Na saccā na maggo?",
+        "analyzed": "na saccā na dukkha pe na saccā na maggo ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:107.1",
+        "original": "Na nirodho na saccaṁ?",
+        "analyzed": "na nirodhaḥ na sat ca ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:108.1",
+        "original": "Na saccā na dukkhaṁ? …pe… Na saccā na maggo?",
+        "analyzed": "na saccā na dukkha pe na saccā na maggo ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:109.1",
+        "original": "Na maggo na saccaṁ?",
+        "analyzed": "na maggaḥ na sacca ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:110.1",
+        "original": "Na saccā na dukkhaṁ?",
+        "analyzed": "na saccā na dukkha ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:111.1",
+        "original": "Na maggo na saccaṁ?",
+        "analyzed": "na maggaḥ na sacca ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:112.1",
+        "original": "Na saccā na samudayo?",
+        "analyzed": "na satcā na samudayaḥ ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:113.1",
+        "original": "Na maggo na saccaṁ?",
+        "analyzed": "na maggaḥ na sacca ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:114.1",
+        "original": "Na saccā na nirodho?",
+        "analyzed": "na saccā na nirodhaḥ ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_ya_5.1.1:115.1",
+        "original": "Paṇṇattiuddesavāro.",
+        "analyzed": "paṇṇatti uddesa vāraḥ ",
+        "folio": "115"
+    }
+]

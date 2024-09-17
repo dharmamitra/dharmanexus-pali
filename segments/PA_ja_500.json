@@ -1,0 +1,728 @@
+[
+    {
+        "segmentnr": "PA_ja_500:0.1",
+        "original": "Jātaka",
+        "analyzed": "jātaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_500:0.2",
+        "original": "Vīsatinipāta",
+        "analyzed": "vīsati nipāta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_500:0.3",
+        "original": "Mātaṅgavagga",
+        "analyzed": "mātaṅga vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_500:0.4",
+        "original": "4. Sirīmantajātaka",
+        "analyzed": "sirīmantajātaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_500:1.1",
+        "original": "“Paññāyupetaṁ siriyā vihīnaṁ,",
+        "analyzed": "paññā āyu petam siriyā vihīna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_500:1.2",
+        "original": "Yasassinaṁ vāpi apetapaññaṁ;",
+        "analyzed": "yasassinam vā api apeta pañña ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_500:1.3",
+        "original": "Pucchāmi taṁ senaka etamatthaṁ,",
+        "analyzed": "pucchāmi tam senaka etam attha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_500:1.4",
+        "original": "Kamettha seyyo kusalā vadanti”.",
+        "analyzed": "kam ettha seyyaḥ kusalāḥ vadanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_500:2.1",
+        "original": "“Dhīrā ca bālā ca have janinda,",
+        "analyzed": "dhīrā ca bālā ca have janinda ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_500:2.2",
+        "original": "Sippūpapannā ca asippino ca;",
+        "analyzed": "sippūpapannā ca a sippinaḥ ca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_500:2.3",
+        "original": "Sujātimantopi ajātimassa,",
+        "analyzed": "su jātimantaḥ api ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_500:2.4",
+        "original": "Yasassino pesakarā bhavanti;",
+        "analyzed": "yasassinaḥ pesakarāḥ bhavanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_500:2.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_500:2.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_500:3.1",
+        "original": "“Tuvampi pucchāmi anomapañña,",
+        "analyzed": "tuvampi pucchāmi anomapañña ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_500:3.2",
+        "original": "Mahosadha kevaladhammadassi;",
+        "analyzed": "mahosadha kevala dhamma dassi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_500:3.3",
+        "original": "Bālaṁ yasassiṁ paṇḍitaṁ appabhogaṁ,",
+        "analyzed": "bālam yasassim paṇḍitam appabhoga ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_500:3.4",
+        "original": "Kamettha seyyo kusalā vadanti”.",
+        "analyzed": "kam ettha seyyaḥ kusalāḥ vadanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_500:4.1",
+        "original": "“Pāpāni kammāni karoti bālo,",
+        "analyzed": "pāpāni kammāni karoti bālaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_500:4.2",
+        "original": "Idhameva seyyo iti maññamāno;",
+        "analyzed": "idham eva seyyaḥ iti maññamānaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_500:4.3",
+        "original": "Idhalokadassī paralokamadassī,",
+        "analyzed": "idha loka dassī para loka madassī ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_500:4.4",
+        "original": "Ubhayattha bālo kalimaggahesi;",
+        "analyzed": "ubhayattha bālaḥ kalim aggahesi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_500:4.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_500:4.6",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_500:5.1",
+        "original": "“Na sippametaṁ vidadhāti bhogaṁ,",
+        "analyzed": "na sippam etam vidadhāti bhoga ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_500:5.2",
+        "original": "Na bandhuvā na sarīravaṇṇo yo;",
+        "analyzed": "na bandhuvā na sarīra vaṇṇaḥ yaḥ ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_500:5.3",
+        "original": "Passeḷamūgaṁ sukhamedhamānaṁ,",
+        "analyzed": "passa iḷamūgam sukham edhamāna ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_500:5.4",
+        "original": "Sirī hi naṁ bhajate goravindaṁ;",
+        "analyzed": "sirī hi nam bhajate goravinda ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_500:5.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_500:5.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_500:6.1",
+        "original": "“Laddhā sukhaṁ majjati appapañño,",
+        "analyzed": "laddhā sukham majjati appapaññaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_500:6.2",
+        "original": "Dukkhena phuṭṭhopi pamohameti;",
+        "analyzed": "dukkhena phuṭṭhaḥ api pamoham eti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_500:6.3",
+        "original": "Āgantunā dukkhasukhena phuṭṭho,",
+        "analyzed": "āgantunā dukkha sukhena phuṭṭhaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_500:6.4",
+        "original": "Pavedhati vāricarova ghamme;",
+        "analyzed": "pavedhati vāricarā uva ghamme ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_500:6.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_500:6.6",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_500:7.1",
+        "original": "“Dumaṁ yathā sāduphalaṁ araññe,",
+        "analyzed": "dumam yathā sādu phalam araññe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_500:7.2",
+        "original": "Samantato samabhisaranti pakkhī;",
+        "analyzed": "samantataḥ samabhisaranti pakkhī ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_500:7.3",
+        "original": "Evampi aḍḍhaṁ sadhanaṁ sabhogaṁ,",
+        "analyzed": "evam pi aḍḍham sa dhanam sa bhoga ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_500:7.4",
+        "original": "Bahujjano bhajati atthahetu;",
+        "analyzed": "bahujjanaḥ bhajati attha hetu ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_500:7.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_500:7.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_500:8.1",
+        "original": "“Na sādhu balavā bālo,",
+        "analyzed": "na sādhu balavān bālaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_500:8.2",
+        "original": "Sāhasā vindate dhanaṁ;",
+        "analyzed": "sāhasā vindate dhana ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_500:8.3",
+        "original": "Kandantametaṁ dummedhaṁ,",
+        "analyzed": "kandantam etam dummedha ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_500:8.4",
+        "original": "Kaḍḍhanti nirayaṁ bhusaṁ;",
+        "analyzed": "nirayam bhusa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_500:8.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_500:8.6",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_500:9.1",
+        "original": "“Yā kāci najjo gaṅgamabhissavanti,",
+        "analyzed": "yā kāci najjaḥ gaṅgam abhissavanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_500:9.2",
+        "original": "Sabbāva tā nāmagottaṁ jahanti;",
+        "analyzed": "sabbā ava tāḥ nāma gottam jahanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_500:9.3",
+        "original": "Gaṅgā samuddaṁ paṭipajjamānā,",
+        "analyzed": "gaṅgā samuddam paṭipajjamānā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_500:9.4",
+        "original": "Na khāyate iddhiṁ paññopi loke;",
+        "analyzed": "na khāyate iddhim paññaḥ api loke ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_500:9.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_500:9.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_500:10.1",
+        "original": "“Yametamakkhā udadhiṁ mahantaṁ,",
+        "analyzed": "yam etam akkhāḥ udadhim mahanta ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_500:10.2",
+        "original": "Savanti najjo sabbakālamasaṅkhyaṁ;",
+        "analyzed": "savanti najjo ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_500:10.3",
+        "original": "So sāgaro niccamuḷāravego,",
+        "analyzed": "so sāgaraḥ nicca muḷāra vego ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_500:10.4",
+        "original": "Velaṁ na acceti mahāsamuddo.",
+        "analyzed": "velam na acceti mahā samuddaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_500:11.1",
+        "original": "Evampi bālassa pajappitāni,",
+        "analyzed": "evam pi bālassa pajappitāni ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_500:11.2",
+        "original": "Paññaṁ na acceti sirī kadāci;",
+        "analyzed": "na sirī kadāci ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_500:11.3",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_500:11.4",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_500:12.1",
+        "original": "“Asaññato cepi paresamatthaṁ,",
+        "analyzed": "a saññataḥ ca ipi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_500:12.2",
+        "original": "Bhaṇāti sandhānagato yasassī;",
+        "analyzed": "bhaṇāti sandhāna gataḥ yasassī ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_500:12.3",
+        "original": "Tasseva taṁ rūhati ñātimajjhe,",
+        "analyzed": "tassa iva tam rūhati ñāti majjhe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_500:12.4",
+        "original": "Sirī hi naṁ kārayate na paññā;",
+        "analyzed": "sirī hi nam kārayate na paññā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_500:12.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_500:12.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_500:13.1",
+        "original": "“Parassa vā attano vāpi hetu,",
+        "analyzed": "parassa vā attanaḥ vā api hetu ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_500:13.2",
+        "original": "Bālo musā bhāsati appapañño;",
+        "analyzed": "bālaḥ musā bhāsati appapaññaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_500:13.3",
+        "original": "So nindito hoti sabhāya majjhe,",
+        "analyzed": "saḥ ninditaḥ hoti sabhāya majjhe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_500:13.4",
+        "original": "Pacchāpi so duggatigāmī hoti;",
+        "analyzed": "pacchā api so duggati gāmī hoti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_500:13.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_500:13.6",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_500:14.1",
+        "original": "“Atthampi ce bhāsati bhūripañño,",
+        "analyzed": "ce bhāsati bhūri paññaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_500:14.2",
+        "original": "Anāḷhiyo appadhano daliddo;",
+        "analyzed": "an āḷhiyaḥ appadhanaḥ daliddaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_500:14.3",
+        "original": "Na tassa taṁ rūhati ñātimajjhe,",
+        "analyzed": "na tassa tam rūhati ñāti majjhe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_500:14.4",
+        "original": "Sirī ca paññāṇavato na hoti;",
+        "analyzed": "sirī ca paññāṇavataḥ na hoti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_500:14.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_500:14.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_500:15.1",
+        "original": "“Parassa vā attano vāpi hetu,",
+        "analyzed": "parassa vā attanaḥ vā api hetu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_500:15.2",
+        "original": "Na bhāsati alikaṁ bhūripañño;",
+        "analyzed": "na bhāsati alikam bhūri paññaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_500:15.3",
+        "original": "So pūjito hoti sabhāya majjhe,",
+        "analyzed": "saḥ pūjitaḥ hoti sabhāya majjhe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_500:15.4",
+        "original": "Pacchāpi so suggatigāmī hoti;",
+        "analyzed": "pacchā api so suggati gāmī hoti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_500:15.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_500:15.6",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_500:16.1",
+        "original": "“Hatthī gavassā maṇikuṇḍalā ca,",
+        "analyzed": "hatthī gavassā maṇi kuṇḍalā ca ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_500:16.2",
+        "original": "Thiyo ca iddhesu kulesu jātā;",
+        "analyzed": "thiyaḥ ca iddhesu kulesu jātā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_500:16.3",
+        "original": "Sabbāva tā upabhogā bhavanti,",
+        "analyzed": "sabbāḥ va tāḥ upabhogāḥ bhavanti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_500:16.4",
+        "original": "Iddhassa posassa aniddhimanto;",
+        "analyzed": "iddhassa posassa aniddhimantaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_500:16.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_500:16.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_500:17.1",
+        "original": "“Asaṁvihitakammantaṁ,",
+        "analyzed": "a sa vihita kammanta ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_500:17.2",
+        "original": "Bālaṁ dummedhamantinaṁ;",
+        "analyzed": "bālam dummedha mantina ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_500:17.3",
+        "original": "Sirī jahati dummedhaṁ,",
+        "analyzed": "sirī jahati dummedha ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_500:17.4",
+        "original": "Jiṇṇaṁva urago tacaṁ;",
+        "analyzed": "jiṇṇavaḥ uragaḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_500:17.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_500:17.6",
+        "original": "Paññova seyyo na yasassi bālo”.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_500:18.1",
+        "original": "“Pañca paṇḍitā mayaṁ bhaddante,",
+        "analyzed": "pañca paṇḍitāḥ mayam bhaddante ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_500:18.2",
+        "original": "Sabbe pañjalikā upaṭṭhitā;",
+        "analyzed": "sabbe pañjalikā upaṭṭhitā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_500:18.3",
+        "original": "Tvaṁ no abhibhuyya issarosi,",
+        "analyzed": "tvam naḥ abhibhuyyaḥ issarā asi ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_500:18.4",
+        "original": "Sakkova bhūtapati devarājā;",
+        "analyzed": "sakkaḥ uva bhūtapati deva rājā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_500:18.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_500:18.6",
+        "original": "Pañño nihīno sirīmāva seyyo”.",
+        "analyzed": "paññaḥ nihīnaḥ sirīmā ava seyyo ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_500:19.1",
+        "original": "“Dāsova paññassa yasassi bālo,",
+        "analyzed": "dāsaḥ uva paññassa yasassi bālo ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_500:19.2",
+        "original": "Atthesu jātesu tathāvidhesu;",
+        "analyzed": "atthesu jātesu tathāvidhesu ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_500:19.3",
+        "original": "Yaṁ paṇḍito nipuṇaṁ saṁvidheti,",
+        "analyzed": "yam paṇḍitaḥ nipuṇam savidhā iti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_500:19.4",
+        "original": "Sammohamāpajjati tattha bālo;",
+        "analyzed": "sammoham āpajjati tattha bālo ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_500:19.5",
+        "original": "Etampi disvāna ahaṁ vadāmi,",
+        "analyzed": "disvāna aham vadāmi ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_500:19.6",
+        "original": "Paññova seyyo na yasassi bālo.",
+        "analyzed": "paññā uva seyyaḥ na yasassi bālo ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_500:20.1",
+        "original": "Addhā hi paññāva sataṁ pasatthā,",
+        "analyzed": "addhā hi paññāva satam pasatthā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_500:20.2",
+        "original": "Kantā sirī bhogaratā manussā;",
+        "analyzed": "kantā sirī bhoga ratā manussā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_500:20.3",
+        "original": "Ñāṇañca buddhānamatulyarūpaṁ,",
+        "analyzed": "buddhānam atulya rūpa ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_500:20.4",
+        "original": "Paññaṁ na acceti sirī kadāci”.",
+        "analyzed": "na sirī kadāci ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_500:21.1",
+        "original": "“Yaṁ taṁ apucchimha akittayī no,",
+        "analyzed": "yam tam apucchimha a kittayī naḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_500:21.2",
+        "original": "Mahosadha kevaladhammadassī;",
+        "analyzed": "mahosadha kevala dhamma dassī ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_500:21.3",
+        "original": "Gavaṁ sahassaṁ usabhañca nāgaṁ,",
+        "analyzed": "gavam sahassam usabham ca nāga ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_500:21.4",
+        "original": "Ājaññayutte ca rathe dasa ime;",
+        "analyzed": "ājañña yutte ca rathe dasa ime ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_500:21.5",
+        "original": "Pañhassa veyyākaraṇena tuṭṭho,",
+        "analyzed": "pañhassa veyyākaraṇena tuṭṭhaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_500:21.6",
+        "original": "Dadāmi te gāmavarāni soḷasā”ti.",
+        "analyzed": "dadāmi te gām avarāni ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_500:22.1",
+        "original": "Sirīmantajātakaṁ catutthaṁ.",
+        "analyzed": "sirīmanta jātakam ",
+        "folio": "22"
+    }
+]

@@ -1,0 +1,998 @@
+[
+    {
+        "segmentnr": "PA_ya_3.1.2:0.1",
+        "original": "3 Āyatanayamaka",
+        "analyzed": "āyatana yamaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:0.2",
+        "original": "3.1 Paṇṇattivāra",
+        "analyzed": "paṇṇattivāra ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:0.3",
+        "original": "3.1.2. Paṇṇattivāraniddesa",
+        "analyzed": "paṇṇatti vāra niddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:1.0.1",
+        "original": "3.1.2.1. Padasodhanavāra",
+        "analyzed": "    ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:1.0.2",
+        "original": "3.1.2.1.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:1.1",
+        "original": "Cakkhu cakkhāyatananti?",
+        "analyzed": "cakkhu cakkha āyatananti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:2.1",
+        "original": "Dibbacakkhu paññācakkhu cakkhu, na cakkhāyatanaṁ. Cakkhāyatanaṁ cakkhu ceva cakkhāyatanañca.",
+        "analyzed": "dibba cakkhu paññā cakkhu cakkhu na cakkhu āyatana cakkhu āyatanam cakkhu ca iva cakkhu āyatanañca ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:3.1",
+        "original": "Cakkhāyatanaṁ cakkhūti? Āmantā.",
+        "analyzed": "cakkhu āyatanam cakkhu iti āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:4.1",
+        "original": "Sotaṁ sotāyatananti?",
+        "analyzed": "sotam sotāyatananti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:5.1",
+        "original": "Dibbasotaṁ taṇhāsotaṁ sotaṁ, na sotāyatanaṁ. Sotāyatanaṁ sotañceva sotāyatanañca.",
+        "analyzed": "dibba sotam taṇhā sotam sota na sotāyatana sotāyatanam sotam ca iva sotāyatanam ca ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:6.1",
+        "original": "Sotāyatanaṁ sotanti? Āmantā.",
+        "analyzed": "sotāyatanam sotanti āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:7.1",
+        "original": "Ghānaṁ ghānāyatananti? Āmantā.",
+        "analyzed": "ghānam āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:8.1",
+        "original": "Ghānāyatanaṁ ghānanti? Āmantā.",
+        "analyzed": "ghāna āyatanam ghānanti āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:9.1",
+        "original": "Jivhā jivhāyatananti? Āmantā.",
+        "analyzed": "jivhā āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:10.1",
+        "original": "Jivhāyatanaṁ jivhāti? Āmantā.",
+        "analyzed": "jivhāyatanam jivhāti āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:11.1",
+        "original": "Kāyo kāyāyatananti?",
+        "analyzed": "kāyaḥ ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:12.1",
+        "original": "Kāyāyatanaṁ ṭhapetvā avaseso kāyo, na kāyāyatanaṁ. Kāyāyatanaṁ kāyo ceva kāyāyatanañca.",
+        "analyzed": "kāya āyatanam ṭhapetvā avasesaḥ kāyaḥ na kāya āyatana kāyaḥ ca iva kāya āyatanam ca ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:13.1",
+        "original": "Kāyāyatanaṁ kāyoti? Āmantā.",
+        "analyzed": "kāya āyatanam āmantā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:14.1",
+        "original": "Rūpaṁ rūpāyatananti?",
+        "analyzed": "rūpam rūpa āyatananti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:15.1",
+        "original": "Rūpāyatanaṁ ṭhapetvā avasesaṁ rūpaṁ, na rūpāyatanaṁ. Rūpāyatanaṁ rūpañceva rūpāyatanañca.",
+        "analyzed": "rūpa āyatanam ṭhapetvā avasesam rūpa rūpa āyatanam rūpam ca iva rūpa āyatanam ca ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:16.1",
+        "original": "Rūpāyatanaṁ rūpanti? Āmantā.",
+        "analyzed": "rūpa āyatanam āmantā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:17.1",
+        "original": "Saddo saddāyatananti? Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:18.1",
+        "original": "Saddāyatanaṁ saddoti? Āmantā.",
+        "analyzed": "sadda āyatanam saddaḥ iti āmantā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:19.1",
+        "original": "Gandho gandhāyatananti?",
+        "analyzed": "gandhaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:20.1",
+        "original": "Sīlagandho samādhigandho paññāgandho gandho, na gandhāyatanaṁ. Gandhāyatanaṁ gandho ceva gandhāyatanañca.",
+        "analyzed": "sīla gandho samādhi gandho paññā gandho gandho na gandha āyatana gandha āyatanam gandho ca iva gandha āyatanam ca ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:21.1",
+        "original": "Gandhāyatanaṁ gandhoti? Āmantā.",
+        "analyzed": "gandha āyatanam gandha uti āmantā ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:22.1",
+        "original": "Raso rasāyatananti?",
+        "analyzed": "rasaḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:23.1",
+        "original": "Attharaso dhammaraso vimuttiraso raso, na rasāyatanaṁ. Rasāyatanaṁ raso ceva rasāyatanañca.",
+        "analyzed": "attha rasaḥ dhamma rasaḥ vimutti rasaḥ rasaḥ na rasa āyatana rasa āyatanam rasaḥ ca iva rasa āyatanam ca ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:24.1",
+        "original": "Rasāyatanaṁ rasoti? Āmantā.",
+        "analyzed": "rasa āyatanam āmantā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:25.1",
+        "original": "Phoṭṭhabbo phoṭṭhabbāyatananti? Āmantā.",
+        "analyzed": "phoṭṭhabbaḥ phoṭṭhabba āyatanan ti āmantā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:26.1",
+        "original": "Phoṭṭhabbāyatanaṁ phoṭṭhabboti? Āmantā.",
+        "analyzed": "phoṭṭhabba āyatanam phoṭṭhabbaḥ uti āmantā ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:27.1",
+        "original": "Mano manāyatananti? Āmantā.",
+        "analyzed": "manaḥ āmantā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:28.1",
+        "original": "Manāyatanaṁ manoti? Āmantā.",
+        "analyzed": "manāyatanam manoti āmantā ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:29.1",
+        "original": "Dhammo dhammāyatananti?",
+        "analyzed": "dhammaḥ dhamma āyatanan ti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:30.1",
+        "original": "Dhammāyatanaṁ ṭhapetvā avaseso dhammo, na dhammāyatanaṁ. Dhammāyatanaṁ dhammo ceva dhammāyatanañca.",
+        "analyzed": "dhamma āyatanam ṭhapetvā avasesaḥ dhammaḥ na dhamma āyatana dhamma āyatanam dhammo ca iva dhamma āyatanam ca ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:31.1",
+        "original": "Dhammāyatanaṁ dhammoti? Āmantā.",
+        "analyzed": "dhamma āyatanam dhammo ti āmantā ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:32.0",
+        "original": "3.1.2.1.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:32.1",
+        "original": "Na cakkhu na cakkhāyatananti? Āmantā.",
+        "analyzed": "na cakkhu na cakkha āyatananti āmantā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:33.1",
+        "original": "Na cakkhāyatanaṁ na cakkhūti?",
+        "analyzed": "na cakkhu āyatanam na cakkhu uti ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:34.1",
+        "original": "Dibbacakkhu paññācakkhu na cakkhāyatanaṁ, cakkhu. Cakkhuñca cakkhāyatanañca ṭhapetvā avasesaṁ na ceva cakkhu na ca cakkhāyatanaṁ.",
+        "analyzed": "dibba cakkhu paññā cakkhu na cakkha āyatana cakkhu cakkhum ca cakkha āyatanam ca ṭhapetvā avasesam na ca iva cakkhu na ca cakkha āyatana ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:35.1",
+        "original": "Na sotaṁ na sotāyatananti? Āmantā.",
+        "analyzed": "na sotam na sotā āyatananti āmantā ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:36.1",
+        "original": "Na sotāyatanaṁ na sotanti?",
+        "analyzed": "na sotā āyatanam na sotanti ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:37.1",
+        "original": "Dibbasotaṁ taṇhāsotaṁ na sotāyatanaṁ, sotaṁ. Sotañca sotāyatanañca ṭhapetvā avasesaṁ na ceva sotaṁ na ca sotāyatanaṁ.",
+        "analyzed": "dibba sotam taṇhā sotam na sotāyatana sota sotam ca sotāyatanañca ṭhapetvā avasesam na ca iva sotam na ca sotāyatana ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:38.1",
+        "original": "Na ghānaṁ na ghānāyatananti? Āmantā.",
+        "analyzed": "na ghānam na āyatananti āmantā ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:39.1",
+        "original": "Na ghānāyatanaṁ na ghānanti? Āmantā.",
+        "analyzed": "na ghāna āyatanam na ghānanti āmantā ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:40.1",
+        "original": "Na jivhā na jivhāyatananti? Āmantā.",
+        "analyzed": "na jivhā na āmantā ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:41.1",
+        "original": "Na jivhāyatanaṁ na jivhāti? Āmantā.",
+        "analyzed": "na jivhā āyatanam na jivhāti āmantā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:42.1",
+        "original": "Na kāyo na kāyāyatananti? Āmantā.",
+        "analyzed": "na kāyaḥ na āmantā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:43.1",
+        "original": "Na kāyāyatanaṁ na kāyoti?",
+        "analyzed": "na kāya āyatanam na ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:44.1",
+        "original": "Kāyāyatanaṁ ṭhapetvā avaseso na kāyāyatanaṁ, kāyo. Kāyañca kāyāyatanañca ṭhapetvā avasesaṁ na ceva kāyo na ca kāyāyatanaṁ.",
+        "analyzed": "kāya āyatanam ṭhapetvā avasesaḥ na kāya āyatana kāyo kāyam ca kāya āyatanam ca ṭhapetvā avasesam na ca iva kāyaḥ na ca kāya āyatana ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:45.1",
+        "original": "Na rūpaṁ na rūpāyatananti? Āmantā.",
+        "analyzed": "na rūpam na rūpa āyatananti āmantā ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:46.1",
+        "original": "Na rūpāyatanaṁ na rūpanti?",
+        "analyzed": "na rūpa āyatanam na ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:47.1",
+        "original": "Rūpāyatanaṁ ṭhapetvā avasesaṁ na rūpāyatanaṁ, rūpaṁ. Rūpañca rūpāyatanañca ṭhapetvā avasesaṁ na ceva rūpaṁ na ca rūpāyatanaṁ.",
+        "analyzed": "rūpa āyatanam ṭhapetvā avasesam na rūpa āyatana rūpa rūpam ca rūpa āyatanam ca ṭhapetvā avasesam na ca iva rūpam na ca rūpa āyatana ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:48.1",
+        "original": "Na saddo na saddāyatananti? Āmantā.",
+        "analyzed": "na saddaḥ na āyatananti āmantā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:49.1",
+        "original": "Na saddāyatanaṁ na saddoti? Āmantā.",
+        "analyzed": "na sadda āyatanam na saddaḥ iti āmantā ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:50.1",
+        "original": "Na gandho na gandhāyatananti? Āmantā.",
+        "analyzed": "na gandhaḥ na āmantā ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:51.1",
+        "original": "Na gandhāyatanaṁ na gandhoti?",
+        "analyzed": "na gandha āyatanam na gandha uti ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:52.1",
+        "original": "Sīlagandho samādhigandho paññāgandho na gandhāyatanaṁ, gandho. Gandhañca gandhāyatanañca ṭhapetvā avasesaṁ na ceva gandho na ca gandhāyatanaṁ.",
+        "analyzed": "sīla gandho samādhi gandho paññā gandho na gandha āyatana gandhaḥ gandham ca gandha āyatanam ca ṭhapetvā avasesam na ca iva gandhaḥ na ca gandha āyatana ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:53.1",
+        "original": "Na raso na rasāyatananti? Āmantā.",
+        "analyzed": "na rasaḥ na ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:54.1",
+        "original": "Na rasāyatanaṁ na rasoti?",
+        "analyzed": "na rasa āyatanam na ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:55.1",
+        "original": "Attharaso dhammaraso vimuttiraso na rasāyatanaṁ, raso. Rasañca rasāyatanañca ṭhapetvā avasesaṁ na ceva raso na ca rasāyatanaṁ.",
+        "analyzed": "attha rasaḥ dhamma rasaḥ vimutti rasaḥ na rasāyatana rasaḥ rasam ca rasāyatanam ca ṭhapetvā avasesam na ca iva rasaḥ na ca rasāyatana ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:56.1",
+        "original": "Na phoṭṭhabbo na phoṭṭhabbāyatananti? Āmantā.",
+        "analyzed": "na phoṭṭhabbaḥ na phoṭṭhabba āyatananti āmantā ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:57.1",
+        "original": "Na phoṭṭhabbāyatanaṁ na phoṭṭhabboti? Āmantā.",
+        "analyzed": "na phoṭṭhabba āyatanam na phoṭṭhabbaḥ ti āmantā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:58.1",
+        "original": "Na mano na manāyatananti? Āmantā.",
+        "analyzed": "na manaḥ na āyatananti āmantā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:59.1",
+        "original": "Na manāyatanaṁ na manoti? Āmantā.",
+        "analyzed": "na manāyatanam na āmantā ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:60.1",
+        "original": "Na dhammo na dhammāyatananti? Āmantā.",
+        "analyzed": "na dhammaḥ na dhammāyatanan ti āmantā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:61.1",
+        "original": "Na dhammāyatanaṁ na dhammoti?",
+        "analyzed": "na dhamma āyatanam na dhamma uti ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:62.1",
+        "original": "Dhammāyatanaṁ ṭhapetvā avaseso na dhammāyatanaṁ, dhammo. Dhammañca dhammāyatanañca ṭhapetvā avasesaṁ na ceva dhammo na ca dhammāyatanaṁ.",
+        "analyzed": "dhamma āyatanam ṭhapetvā avasesaḥ na dhamma āyatana dhammaḥ dhammam ca dhamma āyatanam ca ṭhapetvā avasesam na ca iva dhammaḥ na ca dhamma āyatana ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:63.0.1",
+        "original": "3.1.2.2. Padasodhanamūlacakkavāra",
+        "analyzed": "      ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:63.0.2",
+        "original": "3.1.2.2.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:63.1",
+        "original": "Cakkhu cakkhāyatananti?",
+        "analyzed": "cakkhu cakkha āyatananti ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:64.1",
+        "original": "Dibbacakkhu paññācakkhu cakkhu, na cakkhāyatanaṁ. Cakkhāyatanaṁ cakkhu ceva cakkhāyatanañca.",
+        "analyzed": "dibba cakkhu paññā cakkhu cakkhu na cakkhu āyatana cakkhu āyatanam cakkhu ca iva cakkhu āyatanañca ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:65.1",
+        "original": "Āyatanā sotāyatananti?",
+        "analyzed": "āyatanā sotā āyatananti ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:66.1",
+        "original": "Sotāyatanaṁ āyatanañceva sotāyatanañca. Avasesā āyatanā na sotāyatanaṁ.",
+        "analyzed": "sotāyatanam āyatanam ca iva sotāyatanam ca avasesāḥ āyatanāḥ na ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:67.1",
+        "original": "Cakkhu cakkhāyatananti?",
+        "analyzed": "cakkhu cakkha āyatananti ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:68.1",
+        "original": "Dibbacakkhu paññācakkhu cakkhu, na cakkhāyatanaṁ. Cakkhāyatanaṁ cakkhu ceva cakkhāyatanañca.",
+        "analyzed": "dibba cakkhu paññā cakkhu cakkhu na cakkhu āyatana cakkhu āyatanam cakkhu ca iva cakkhu āyatanañca ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:69.1",
+        "original": "Āyatanā ghānāyatananti …pe… āyatanā dhammāyatananti?",
+        "analyzed": "āyatanā ghāna āyatananti pe āyatanā dhamma āyatananti ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:70.1",
+        "original": "Dhammāyatanaṁ āyatanañceva dhammāyatanañca. Avasesā āyatanā na dhammāyatanaṁ.",
+        "analyzed": "dhamma āyatanam āyatanam ca iva dhamma āyatanam ca avasesāḥ āyatanāḥ na dhamma āyatana ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:71.1",
+        "original": "Sotaṁ sotāyatananti? …pe… Avasesā āyatanā na dhammāyatanaṁ …pe….",
+        "analyzed": "sotam sota āyatananti pe avasesāḥ āyatanāḥ na dhamma āyatanam pe ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:72.1",
+        "original": "Dhammo dhammāyatananti?",
+        "analyzed": "dhammaḥ dhamma āyatanan ti ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:73.1",
+        "original": "Dhammāyatanaṁ ṭhapetvā avaseso dhammo, na dhammāyatanaṁ. Dhammāyatanaṁ dhammo ceva dhammāyatanañca.",
+        "analyzed": "dhamma āyatanam ṭhapetvā avasesaḥ dhammaḥ na dhamma āyatana dhamma āyatanam dhammo ca iva dhamma āyatanam ca ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:74.1",
+        "original": "Āyatanā cakkhāyatananti?",
+        "analyzed": "āyatanā cakkhu āyatananti ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:75.1",
+        "original": "Cakkhāyatanaṁ āyatanañceva cakkhāyatanañca. Avasesā āyatanā na cakkhāyatanaṁ.",
+        "analyzed": "cakkhu āyatanam āyatanam ca iva cakkhu āyatanam ca avasesāḥ āyatanāḥ na ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:76.1",
+        "original": "Dhammo dhammāyatananti?",
+        "analyzed": "dhammaḥ dhamma āyatanan ti ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:77.1",
+        "original": "Dhammāyatanaṁ ṭhapetvā avaseso dhammo, na dhammāyatanaṁ. Dhammāyatanaṁ dhammo ceva dhammāyatanañca.",
+        "analyzed": "dhamma āyatanam ṭhapetvā avasesaḥ dhammaḥ na dhamma āyatana dhamma āyatanam dhammo ca iva dhamma āyatanam ca ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:78.1",
+        "original": "Āyatanā sotāyatananti …pe… āyatanā manāyatananti?",
+        "analyzed": "āyatanā sotāyatananti pe āyatanā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:79.1",
+        "original": "Manāyatanaṁ āyatanañceva manāyatanañca. Avasesā āyatanā na manāyatanaṁ.",
+        "analyzed": "mana āyatanam āyatanam ca iva mana āyatanam ca avasesāḥ āyatanāḥ na ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:80.1",
+        "original": "(Ekekapadamūlakaṁ cakkaṁ bandhitabbaṁ asammohantena.)",
+        "analyzed": "ekeka pada mūlakam cakkam bandhitabbam a sammohantena ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:81.0",
+        "original": "3.1.2.2.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:81.1",
+        "original": "Na cakkhu na cakkhāyatananti? Āmantā.",
+        "analyzed": "na cakkhu na cakkha āyatananti āmantā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:82.1",
+        "original": "Nāyatanā na sotāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na āmantā ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:83.1",
+        "original": "Na cakkhu na cakkhāyatananti? Āmantā.",
+        "analyzed": "na cakkhu na cakkha āyatananti āmantā ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:84.1",
+        "original": "Nāyatanā na ghānāyatananti? Āmantā. …pe….",
+        "analyzed": "āmantā pe ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:85.1",
+        "original": "Nāyatanā na dhammāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na dhamma āyatananti āmantā ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:86.1",
+        "original": "Na sotaṁ na sotāyatananti? Āmantā.",
+        "analyzed": "na sotam na sotā āyatananti āmantā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:87.1",
+        "original": "Nāyatanā na cakkhāyatanaṁ …pe… nāyatanā na dhammāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na cakkhāyatanam pe na āyatanā na dhammāyatananti āmantā ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:88.1",
+        "original": "Na ghānaṁ na ghānāyatanaṁ …pe…",
+        "analyzed": "na ghānam na ghāna āyatanam pe ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:89.1",
+        "original": "Nāyatanā na dhammāyatananti?",
+        "analyzed": "na āyatanā na dhamma āyatananti ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:90.1",
+        "original": "Āmantā. …pe….",
+        "analyzed": "āmantā pe ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:91.1",
+        "original": "Na dhammo na dhammāyatananti? Āmantā.",
+        "analyzed": "na dhammaḥ na dhammāyatanan ti āmantā ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:92.1",
+        "original": "Nāyatanā na cakkhāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na cakkhu āyatananti āmantā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:93.1",
+        "original": "Na dhammo na dhammāyatananti? Āmantā.",
+        "analyzed": "na dhammaḥ na dhammāyatanan ti āmantā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:94.1",
+        "original": "Nāyatanā na sotāyatanaṁ …pe… nāyatanā na manāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na sotāyatanam āmantā ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:95.1",
+        "original": "(Cakkaṁ bandhantena sabbattha āmantāti kātabbaṁ.)",
+        "analyzed": "cakkam bandhantena sabbattha āmantā ati kātabba ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:96.0.1",
+        "original": "3.1.2.3. Suddhāyatanavāra",
+        "analyzed": "suddhāyatanavāra ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:96.0.2",
+        "original": "3.1.2.3.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:96.1",
+        "original": "Cakkhu āyatananti? Āmantā.",
+        "analyzed": "cakkhu āyatananti āmantā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:97.1",
+        "original": "Āyatanā cakkhāyatananti?",
+        "analyzed": "āyatanā cakkhu āyatananti ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:98.1",
+        "original": "Cakkhāyatanaṁ āyatanañceva cakkhāyatanañca. Avasesā āyatanā na cakkhāyatanaṁ.",
+        "analyzed": "cakkhu āyatanam āyatanam ca iva cakkhu āyatanam ca avasesāḥ āyatanāḥ na ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:99.1",
+        "original": "Sotaṁ āyatananti?",
+        "analyzed": "sotam ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:100.1",
+        "original": "Āmantā …pe… ghānaṁ … jivhā … kāyo … rūpaṁ … saddo … gandho … raso … phoṭṭhabbo … mano …",
+        "analyzed": "āmantā pe ghānam jivhā kāyaḥ rūpam saddaḥ gandhaḥ rasaḥ phoṭṭhabbaḥ manaḥ ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:101.1",
+        "original": "Dhammo āyatananti? Āmantā.",
+        "analyzed": "dhammaḥ āyatananti āmantā ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:102.1",
+        "original": "Āyatanā dhammāyatananti?",
+        "analyzed": "āyatanā dhamma āyatananti ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:103.1",
+        "original": "Dhammāyatanaṁ āyatanañceva dhammāyatanañca. Avasesā āyatanā na dhammāyatanaṁ.",
+        "analyzed": "dhamma āyatanam āyatanam ca iva dhamma āyatanam ca avasesāḥ āyatanāḥ na dhamma āyatana ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:104.0",
+        "original": "3.1.2.3.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:104.1",
+        "original": "Na cakkhu nāyatananti?",
+        "analyzed": "na cakkhu na āyatananti ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:105.1",
+        "original": "Cakkhuṁ ṭhapetvā avasesā āyatanā na cakkhu, āyatanā. Cakkhuñca āyatanañca ṭhapetvā avasesā na ceva cakkhu na ca āyatanā.",
+        "analyzed": "cakkhum ṭhapetvā avasesā āyatanā na cakkhu āyatanā cakkhuñca āyatanañca ṭhapetvā avasesā na ca iva cakkhu na ca āyatanā ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:106.1",
+        "original": "Nāyatanā na cakkhāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na cakkhu āyatananti āmantā ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:107.1",
+        "original": "Na sotaṁ nāyatananti?",
+        "analyzed": "na sotam na ayatananti ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:108.1",
+        "original": "Sotaṁ ṭhapetvā …pe… ghānaṁ ṭhapetvā …pe… jivhaṁ ṭhapetvā …pe… na ca āyatanā.",
+        "analyzed": "sotam ṭhapetvā pe ghānam ṭhapetvā pe jivham ṭhapetvā pe na ca āyatanā ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:109.1",
+        "original": "Nāyatanā na jivhāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:110.1",
+        "original": "Na kāyo nāyatananti? Āmantā.",
+        "analyzed": "na kāyaḥ āmantā ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:111.1",
+        "original": "Nāyatanā na kāyāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na āmantā ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:112.1",
+        "original": "Na rūpaṁ nāyatananti?",
+        "analyzed": "na rūpam na āyatananti ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:113.1",
+        "original": "Rūpaṁ ṭhapetvā …pe… saddaṁ ṭhapetvā …pe… gandhaṁ ṭhapetvā …pe… rasaṁ ṭhapetvā …pe… phoṭṭhabbaṁ ṭhapetvā …pe… na ca āyatanā.",
+        "analyzed": "rūpam ṭhapetvā pe saddam ṭhapetvā pe gandham ṭhapetvā pe rasam ṭhapetvā pe phoṭṭhabbam ṭhapetvā pe na ca āyatanā ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:114.1",
+        "original": "Nāyatanā na phoṭṭhabbāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na phoṭṭhabba āyatanan ti āmantā ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:115.1",
+        "original": "Na mano nāyatananti?",
+        "analyzed": "na manaḥ na āyatananti ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:116.1",
+        "original": "Manaṁ ṭhapetvā avasesā āyatanā na mano, āyatanā. Manañca āyatanañca ṭhapetvā avasesā na ceva mano na ca āyatanā.",
+        "analyzed": "manam ṭhapetvā avasesāḥ āyatanāḥ na manaḥ āyatanāḥ manam ca āyatanam ca ṭhapetvā avasesāḥ na ca iva manaḥ na ca āyatanāḥ ",
+        "folio": "116"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:117.1",
+        "original": "Nāyatanā na manāyatananti? Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "117"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:118.1",
+        "original": "Na dhammo nāyatananti? Āmantā.",
+        "analyzed": "na dhammaḥ na āyatananti āmantā ",
+        "folio": "118"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:119.1",
+        "original": "Nāyatanā na dhammāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na dhamma āyatananti āmantā ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:120.0.1",
+        "original": "3.1.2.4. Suddhāyatanamūlacakkavāra",
+        "analyzed": "      ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:120.0.2",
+        "original": "3.1.2.4.1. Anuloma",
+        "analyzed": "anuloma ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:120.1",
+        "original": "Cakkhu āyatananti? Āmantā.",
+        "analyzed": "cakkhu āyatananti āmantā ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:121.1",
+        "original": "Āyatanā sotāyatananti?",
+        "analyzed": "āyatanā sotā āyatananti ",
+        "folio": "121"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:122.1",
+        "original": "Sotāyatanaṁ āyatanañceva sotāyatanañca. Avasesā āyatanā na sotāyatanaṁ.",
+        "analyzed": "sotāyatanam āyatanam ca iva sotāyatanam ca avasesāḥ āyatanāḥ na ",
+        "folio": "122"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:123.1",
+        "original": "Cakkhu āyatananti? Āmantā.",
+        "analyzed": "cakkhu āyatananti āmantā ",
+        "folio": "123"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:124.1",
+        "original": "Āyatanā ghānāyatanaṁ …pe… āyatanā dhammāyatananti?",
+        "analyzed": "āyatanā ghāna āyatanam pe āyatanā dhamma āyatananti ",
+        "folio": "124"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:125.1",
+        "original": "Dhammāyatanaṁ āyatanañceva dhammāyatanañca. Avasesā āyatanā na dhammāyatanaṁ.",
+        "analyzed": "dhamma āyatanam āyatanam ca iva dhamma āyatanam ca avasesāḥ āyatanāḥ na dhamma āyatana ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:126.1",
+        "original": "Sotaṁ āyatananti? Āmantā.",
+        "analyzed": "sotam āyatananti āmantā ",
+        "folio": "126"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:127.1",
+        "original": "Āyatanā cakkhāyatananti? …pe… Na cakkhāyatanaṁ …pe…. Āyatanā dhammāyatananti? …pe… Na dhammāyatanaṁ.",
+        "analyzed": "āyatanā cakkhu āyatananti pe na cakkhu āyatanam pe āyatanā dhamma āyatananti pe na dhamma āyatana ",
+        "folio": "127"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:128.1",
+        "original": "Ghānaṁ āyatananti? Āmantā.",
+        "analyzed": "ghānam āyatananti āmantā ",
+        "folio": "128"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:129.1",
+        "original": "Āyatanā cakkhāyatananti? …pe… Āyatanā dhammāyatananti? …pe… Na dhammāyatanaṁ …pe….",
+        "analyzed": "āyatanā cakkhu āyatananti pe āyatanā dhamma āyatananti pe na dhamma āyatanam pe",
+        "folio": "129"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:130.1",
+        "original": "Dhammo āyatananti? Āmantā.",
+        "analyzed": "dhammaḥ āyatananti āmantā ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:131.1",
+        "original": "Āyatanā cakkhāyatanaṁ …pe… āyatanā manāyatananti?",
+        "analyzed": "āyatanā cakkhāyatanam pe āyatanā manāyatananti ",
+        "folio": "131"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:132.1",
+        "original": "Manāyatanaṁ āyatanañceva manāyatanañca. Avasesā āyatanā na manāyatanaṁ.",
+        "analyzed": "mana āyatanam āyatanam ca iva mana āyatanam ca avasesāḥ āyatanāḥ na ",
+        "folio": "132"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:133.1",
+        "original": "(Cakkaṁ bandhitabbaṁ.)",
+        "analyzed": "cakkam ",
+        "folio": "133"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:134.0",
+        "original": "3.1.2.4.2. Paccanīka",
+        "analyzed": "paccanīka ",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:134.1",
+        "original": "Na cakkhu nāyatananti?",
+        "analyzed": "na cakkhu na āyatananti ",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:135.1",
+        "original": "Cakkhuṁ ṭhapetvā avasesā āyatanā na cakkhu, āyatanā. Cakkhuñca āyatanañca ṭhapetvā avasesā na ceva cakkhu na ca āyatanā.",
+        "analyzed": "cakkhum ṭhapetvā avasesā āyatanā na cakkhu āyatanā cakkhuñca āyatanañca ṭhapetvā avasesā na ca iva cakkhu na ca āyatanā ",
+        "folio": "135"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:136.1",
+        "original": "Nāyatanā na sotāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na āmantā ",
+        "folio": "136"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:137.1",
+        "original": "Na cakkhu nāyatananti?",
+        "analyzed": "na cakkhu na āyatananti ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:138.1",
+        "original": "Cakkhuṁ ṭhapetvā avasesā āyatanā na cakkhu, āyatanā. Cakkhuñca āyatanañca ṭhapetvā avasesā na ceva cakkhu na ca āyatanā.",
+        "analyzed": "cakkhum ṭhapetvā avasesā āyatanā na cakkhu āyatanā cakkhuñca āyatanañca ṭhapetvā avasesā na ca iva cakkhu na ca āyatanā ",
+        "folio": "138"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:139.1",
+        "original": "Nāyatanā na ghānāyatanaṁ …pe… nāyatanā na dhammāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na ghāna āyatanam pe na āyatanā na dhamma āyatananti āmantā ",
+        "folio": "139"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:140.1",
+        "original": "Na sotaṁ nāyatananti?",
+        "analyzed": "na sotam na ayatananti ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:141.1",
+        "original": "Sotaṁ ṭhapetvā …pe… ghānaṁ ṭhapetvā …pe… jivhaṁ ṭhapetvā …pe… na ca āyatanā.",
+        "analyzed": "sotam ṭhapetvā pe ghānam ṭhapetvā pe jivham ṭhapetvā pe na ca āyatanā ",
+        "folio": "141"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:142.1",
+        "original": "Nāyatanā na dhammāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na dhamma āyatananti āmantā ",
+        "folio": "142"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:143.1",
+        "original": "Na kāyo nāyatananti? Āmantā.",
+        "analyzed": "na kāyaḥ āmantā ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:144.1",
+        "original": "Nāyatanā na cakkhāyatananti? Āmantā. …pe…. Nāyatanā na dhammāyatananti? Āmantā. …pe….",
+        "analyzed": "na āyatanā na cakkhu āyatananti āmantā pe na āyatanā na dhamma āyatananti āmantā pe",
+        "folio": "144"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:145.1",
+        "original": "Na dhammo nāyatananti? Āmantā.",
+        "analyzed": "na dhammaḥ na āyatananti āmantā ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:146.1",
+        "original": "Nāyatanā na cakkhāyatananti? Āmantā.",
+        "analyzed": "na āyatanā na cakkhu āyatananti āmantā ",
+        "folio": "146"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:147.1",
+        "original": "Na dhammo nāyatananti? Āmantā.",
+        "analyzed": "na dhammaḥ na āyatananti āmantā ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:148.1",
+        "original": "Nāyatanā na sotāyatananti? Āmantā. …pe….",
+        "analyzed": "āmantā pe ",
+        "folio": "148"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:149.1",
+        "original": "Nāyatanā na manāyatananti? Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "149"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:150.1",
+        "original": "(Cakkaṁ bandhitabbaṁ.)",
+        "analyzed": "cakkam ",
+        "folio": "150"
+    },
+    {
+        "segmentnr": "PA_ya_3.1.2:151.1",
+        "original": "Paṇṇattiniddesavāro.",
+        "analyzed": "      ",
+        "folio": "151"
+    }
+]

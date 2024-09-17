@@ -1,0 +1,872 @@
+[
+    {
+        "segmentnr": "PA_kv_1.9:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:0.3",
+        "original": "Paṭhamavagga",
+        "analyzed": "paṭhama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:0.4",
+        "original": "Satipaṭṭhānakathā",
+        "analyzed": "sati paṭṭhāna kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.1",
+        "original": "Sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.3_0",
+        "original": "Sabbe dhammā sati satindriyaṁ satibalaṁ sammāsati satisambojjhaṅgo ekāyanamaggo khayagāmī",
+        "analyzed": "sabbe dhammā sati sati indriyam sati balam sammāsati sati sambojjhaṅgaḥ ekāyana maggo khaya gāmī ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.3_1",
+        "original": "bodhagāmī apacayagāmī anāsavā asaṁyojaniyā aganthaniyā anoghaniyā ayoganiyā anīvaraṇiyā",
+        "analyzed": "bodha gāmī apacaya gāmī anāsavā a sayoja niyā a gantha niyā an ogha niyā a yoga niyā a nīvara niyā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.3_2",
+        "original": "aparāmaṭṭhā anupādāniyā asaṅkilesikā, sabbe dhammā buddhānussati dhammānussati saṅghānussati",
+        "analyzed": "aparāmaṭṭhā anupādāniyā asaṅkilesikā sabbe dhammā buddha anussati dhamma anussati saṅgha anussati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.3_3",
+        "original": "sīlānussati cāgānussati devatānussati ānāpānassati maraṇānussati kāyagatāsati upasamānussatīti?",
+        "analyzed": "sīla anussati cāga anussati devatā anussati ānāpāna ssati maraṇa anussati kāya gata asati upasama anussati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:1.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.1",
+        "original": "Sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.3",
+        "original": "Cakkhāyatanaṁ satipaṭṭhānanti?",
+        "analyzed": "cakkhu āyatanam sati paṭṭhānan ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.5",
+        "original": "cakkhāyatanaṁ satipaṭṭhānanti?",
+        "analyzed": "cakkhu āyatanam sati paṭṭhānan ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.7_0",
+        "original": "Cakkhāyatanaṁ sati satindriyaṁ satibalaṁ sammāsati satisambojjhaṅgo ekāyanamaggo",
+        "analyzed": "cakkha āyatanam sati sati indriyam sati balam sammā sati sati sambojjhaṅgaḥ ekāyana maggo ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.7_1",
+        "original": "khayagāmī bodhagāmī apacayagāmī anāsavaṁ asaṁyojaniyaṁ …pe… asaṅkilesikaṁ, cakkhāyatanaṁ",
+        "analyzed": "khaya gāmī bodha gāmī apacaya gāmī anāsavam a sayojaniyam pe a saṅkilesika ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.7_2",
+        "original": "buddhānussati dhammānussati saṅghānussati sīlānussati cāgānussati devatānussati ānāpānassati",
+        "analyzed": "buddha anussati dhamma anussati saṅgha anussati sīla anussati cāga anussati devatā anussati ānāpāna ssati ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.7_3",
+        "original": "maraṇānussati kāyagatāsati upasamānussatīti?",
+        "analyzed": "maraṇa anussati kāyagata asati upasama anussati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.8",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.9",
+        "original": "sotāyatanaṁ …",
+        "analyzed": "sotāyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.10",
+        "original": "ghānāyatanaṁ …",
+        "analyzed": "ghāna āyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.11",
+        "original": "jivhāyatanaṁ …",
+        "analyzed": "jivhā āyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.12",
+        "original": "kāyāyatanaṁ …",
+        "analyzed": "kāya āyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.13",
+        "original": "rūpāyatanaṁ …",
+        "analyzed": "rūpa āyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.14",
+        "original": "saddāyatanaṁ …",
+        "analyzed": "sat dāyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.15",
+        "original": "gandhāyatanaṁ …",
+        "analyzed": "gandha āyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.16",
+        "original": "rasāyatanaṁ …",
+        "analyzed": "rasāyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.17",
+        "original": "phoṭṭhabbāyatanaṁ …",
+        "analyzed": "phoṭṭhabba āyatanam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.18",
+        "original": "rāgo …",
+        "analyzed": "rāgaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.19",
+        "original": "doso …",
+        "analyzed": "dosaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.20",
+        "original": "moho …",
+        "analyzed": "mohaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.21",
+        "original": "māno …",
+        "analyzed": "mānaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.22",
+        "original": "diṭṭhi …",
+        "analyzed": "diṭṭhi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.23",
+        "original": "vicikicchā …",
+        "analyzed": "vicikicchā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.24",
+        "original": "thinaṁ …",
+        "analyzed": "thinam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.25",
+        "original": "uddhaccaṁ …",
+        "analyzed": "uddhaccam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.26",
+        "original": "ahirikaṁ …",
+        "analyzed": "ahirikam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.27",
+        "original": "anottappaṁ satipaṭṭhānanti?",
+        "analyzed": "anottappam satipaṭṭhānam ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.28",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.29",
+        "original": "anottappaṁ satipaṭṭhānanti?",
+        "analyzed": "anottappam satipaṭṭhānam ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.30",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.31",
+        "original": "Anottappaṁ sati satindriyaṁ satibalaṁ sammāsati …pe… kāyagatāsati upasamānussatīti?",
+        "analyzed": "anottappam sati sati indriyam sati balam sammā sati pe kāyagata asati upasama anussati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:2.32",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.1",
+        "original": "Sati satipaṭṭhānā, sā ca satīti?",
+        "analyzed": "sati sati paṭṭhānā sā ca satī iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.3",
+        "original": "Cakkhāyatanaṁ satipaṭṭhānaṁ, tañca satīti?",
+        "analyzed": "cakkhu āyatanam sati paṭṭhāna tat ca satī iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.5",
+        "original": "sati satipaṭṭhānā, sā ca satīti?",
+        "analyzed": "sati sati paṭṭhānā sā ca satī iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.7",
+        "original": "Sotāyatanaṁ …pe…",
+        "analyzed": "sotāyatanam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.8",
+        "original": "kāyāyatanaṁ … rūpāyatanaṁ …pe…",
+        "analyzed": "kāya āyatanam rūpa āyatanam pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.9",
+        "original": "phoṭṭhabbāyatanaṁ … rāgo … doso … moho …pe…",
+        "analyzed": "phoṭṭhabba āyatanam rāgaḥ dosaḥ mohaḥ pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.10",
+        "original": "anottappaṁ satipaṭṭhānaṁ, tañca satīti?",
+        "analyzed": "anottappam satipaṭṭhāna tat ca satī iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:3.11",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.1",
+        "original": "Cakkhāyatanaṁ satipaṭṭhānaṁ, tañca na satīti?",
+        "analyzed": "cakkhu āyatanam sati paṭṭhāna tat ca na sati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.3",
+        "original": "Sati satipaṭṭhānā, sā ca na satīti?",
+        "analyzed": "sati sati paṭṭhānā sā ca na satī iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.5",
+        "original": "sotāyatanaṁ …pe…",
+        "analyzed": "sotāyatanam pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.6",
+        "original": "kāyāyatanaṁ …",
+        "analyzed": "kāya āyatanam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.7",
+        "original": "rūpāyatanaṁ …pe…",
+        "analyzed": "rūpa āyatanam pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.8",
+        "original": "phoṭṭhabbāyatanaṁ …",
+        "analyzed": "phoṭṭhabba āyatanam ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.9",
+        "original": "rāgo …",
+        "analyzed": "rāgaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.10",
+        "original": "doso …",
+        "analyzed": "dosaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.11",
+        "original": "moho …pe…",
+        "analyzed": "mohaḥ pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.12",
+        "original": "anottappaṁ satipaṭṭhānaṁ, tañca na satīti?",
+        "analyzed": "anottappam satipaṭṭhāna tat ca na sati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.13",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.14",
+        "original": "Sati satipaṭṭhānā, sā ca na satīti?",
+        "analyzed": "sati sati paṭṭhānā sā ca na satī iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:4.15",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.2",
+        "original": "“sabbe dhammā satipaṭṭhānā”ti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.4",
+        "original": "Nanu sabbe dhamme ārabbha sati santiṭṭhatīti?",
+        "analyzed": "nanu sabbe dhamme ārabbha sati santiṭṭhati iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.5",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.6",
+        "original": "Hañci sabbe dhamme ārabbha sati santiṭṭhatīti, tena vata re vattabbe—",
+        "analyzed": "hañci sabbe dhamme ārabbha sati santiṭṭhati iti tena vata re vattabbe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:5.7",
+        "original": "“sabbe dhammā satipaṭṭhānā”ti.",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:6.1",
+        "original": "Sabbaṁ dhammaṁ ārabbha sati santiṭṭhatīti sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbam dhammam ārabbha sati santiṭṭhati iti sabbe dhammā sati paṭṭhānā ati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:6.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:6.3",
+        "original": "Sabbaṁ dhammaṁ ārabbha phasso santiṭṭhatīti sabbe dhammā phassapaṭṭhānāti?",
+        "analyzed": "sabbam dhammam ārabbha phassaḥ santiṭṭhati iti sabbe dhammā phassa paṭṭhānā ati ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:6.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.1",
+        "original": "Sabbaṁ dhammaṁ ārabbha sati santiṭṭhatīti sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbam dhammam ārabbha sati santiṭṭhati iti sabbe dhammā sati paṭṭhānā ati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.3",
+        "original": "Sabbaṁ dhammaṁ ārabbha vedanā santiṭṭhati …",
+        "analyzed": "sabbam dhammam ārabbha vedanā santiṭṭhati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.4",
+        "original": "saññā santiṭṭhati …",
+        "analyzed": "saññā santiṭṭhati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.5",
+        "original": "cetanā santiṭṭhati …",
+        "analyzed": "cetanā santiṭṭhati ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.6",
+        "original": "cittaṁ santiṭṭhatīti sabbe dhammā cittapaṭṭhānāti?",
+        "analyzed": "cittam santiṭṭhati iti sabbe dhammā citta paṭṭhānā ti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:7.7",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:8.1",
+        "original": "Sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:8.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:8.3",
+        "original": "Sabbe sattā upaṭṭhitasatino satiyā samannāgatā satiyā samohitā;",
+        "analyzed": "sabbe sattāḥ upaṭṭhita satino satiyā samannāgatā satiyā samohitā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:8.4",
+        "original": "sabbesaṁ sattānaṁ sati paccupaṭṭhitāti?",
+        "analyzed": "sabbesam sattānam sati paccupaṭṭhitā ati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:8.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.1",
+        "original": "Sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.3",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.4",
+        "original": "“amataṁ te, bhikkhave, na paribhuñjanti ye kāyagatāsatiṁ na paribhuñjanti.",
+        "analyzed": "amatam te bhikkhave na paribhuñjanti ye kāya gata asatim na paribhuñjanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.5",
+        "original": "Amataṁ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṁ paribhuñjantī”ti.",
+        "analyzed": "amatam te bhikkhave paribhuñjanti ye kāya gata asatim paribhuñjanti iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.6",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.7",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.8",
+        "original": "Sabbe sattā kāyagatāsatiṁ paribhuñjanti paṭilabhanti āsevanti bhāventi bahulīkarontīti?",
+        "analyzed": "sabbe sattā kāya gata asatim paribhuñjanti paṭilabhanti āsevanti bhāventi bahulīkaronti iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:9.9",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.1",
+        "original": "Sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.3",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.4_0",
+        "original": "“ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya",
+        "analyzed": "eka ayanaḥ bhikkhave maggo sattānam visuddhiyā soka paridevānam samatikkamāya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.4_1",
+        "original": "dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṁ",
+        "analyzed": "dukkha domanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yat idam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.4_2",
+        "original": "cattāro satipaṭṭhānā”ti.",
+        "analyzed": "cattāro sati paṭṭhānā ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.5",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.6",
+        "original": "Āmantā?",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.7",
+        "original": "Sabbe dhammā ekāyanamaggoti?",
+        "analyzed": "sabbe dhammāḥ ekāyana maggo ti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:10.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.1",
+        "original": "Sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.3",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.4",
+        "original": "“rañño, bhikkhave, cakkavattissa pātubhāvā sattannaṁ ratanānaṁ pātubhāvo hoti.",
+        "analyzed": "raññaḥ bhikkhave cakkavattissa pātubhāvā sattannam ratanānam pātubhāvaḥ hoti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.5",
+        "original": "Katamesaṁ sattannaṁ?",
+        "analyzed": "katamesam sat tat na ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.6",
+        "original": "Cakkaratanassa pātubhāvo hoti, hatthiratanassa pātubhāvo hoti, assaratanassa …",
+        "analyzed": "cakka ratanassa pātubhāvaḥ hoti hatthi ratanassa pātubhāvaḥ hoti assa ratanassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.7",
+        "original": "maṇiratanassa …",
+        "analyzed": "maṇi ratanassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.8",
+        "original": "itthiratanassa …",
+        "analyzed": "itthi ratanassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.9",
+        "original": "gahapatiratanassa …",
+        "analyzed": "gahapati ratanassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.10",
+        "original": "pariṇāyakaratanassa pātubhāvo hoti.",
+        "analyzed": "pariṇāyaka ratanassa pātubhāvaḥ hoti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:11.11",
+        "original": "Rañño, bhikkhave, cakkavattissa pātubhāvā imesaṁ sattannaṁ ratanānaṁ pātubhāvo hoti.",
+        "analyzed": "raññaḥ bhikkhave cakkavattissa pātubhāvā imesam sattannam ratanānam pātubhāvaḥ hoti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.1",
+        "original": "Tathāgatassa, bhikkhave, pātubhāvā arahato sammāsambuddhassa sattannaṁ bojjhaṅgaratanānaṁ pātubhāvo hoti.",
+        "analyzed": "tathāgatassa bhikkhave pātubhāvā arahataḥ sammāsambuddhassa sattannam bojjhaṅga ratanānam pātubhāvaḥ hoti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.2",
+        "original": "Katamesaṁ sattannaṁ?",
+        "analyzed": "katamesam sat tat na ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.3_0",
+        "original": "Satisambojjhaṅgaratanassa pātubhāvo hoti, dhammavicayasambojjhaṅgaratanassa pātubhāvo",
+        "analyzed": "sati sambojjhaṅga ratanassa pātubhāvaḥ hoti dhammavicaya sambojjhaṅga ratanassa pātubhāvaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.3_1",
+        "original": "hoti, vīriyasambojjhaṅgaratanassa pātubhāvo hoti, pītisambojjhaṅgaratanassa pātubhāvo",
+        "analyzed": "hoti vīriya sambojjhaṅga ratanassa pātubhāvaḥ hoti pīti sambojjhaṅga ratanassa pātubhāvaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.3_2",
+        "original": "hoti, passaddhisambojjhaṅgaratanassa pātubhāvo hoti, samādhisambojjhaṅgaratanassa",
+        "analyzed": "hoti passaddhi sambojjhaṅga ratanassa pātubhāvaḥ hoti samādhi sambojjhaṅga ratanassa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.3_3",
+        "original": "pātubhāvo hoti, upekkhāsambojjhaṅgaratanassa pātubhāvo hoti.",
+        "analyzed": "pātubhāvaḥ hoti upekkhā sambojjhaṅga ratanassa pātubhāvaḥ hoti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.4",
+        "original": "Tathāgatassa, bhikkhave, pātubhāvā arahato sammāsambuddhassa imesaṁ sattannaṁ bojjhaṅgaratanānaṁ pātubhāvo hotī”ti.",
+        "analyzed": "tathāgatassa bhikkhave pātubhāvāḥ arahataḥ sammāsambuddhassa imesam sattannam bojjhaṅga ratanānam pātubhāvaḥ hoti iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.5",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.7",
+        "original": "Tathāgatassa pātubhāvā arahato sammāsambuddhassa sabbe dhammā satisambojjhaṅgaratanāva hontīti?",
+        "analyzed": "tathāgatassa pātubhāvā arahataḥ sammāsambuddhassa sabbe dhammā sati sambojjhaṅga ratanā va honti iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.8",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.9",
+        "original": "sabbe dhammā satipaṭṭhānāti?",
+        "analyzed": "sabbe dhammā sati paṭṭhānā ti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.10",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.11",
+        "original": "Sabbe dhammā sammappadhānā …",
+        "analyzed": "sabbe dhammā sammappadhānā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.12",
+        "original": "iddhipādā …",
+        "analyzed": "iddhi pādā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.13",
+        "original": "indriyā …",
+        "analyzed": "indriyā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.14",
+        "original": "balā …",
+        "analyzed": "balā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.15",
+        "original": "bojjhaṅgāti?",
+        "analyzed": "bojjhaṅga ati ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.16",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.9:12.17",
+        "original": "Satipaṭṭhānakathā niṭṭhitā.",
+        "analyzed": "sati paṭṭhāna kathā niṭṭhitā ",
+        "folio": "12"
+    }
+]

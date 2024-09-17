@@ -1,0 +1,632 @@
+[
+    {
+        "segmentnr": "PA_ja_504:0.1",
+        "original": "Jātaka",
+        "analyzed": "jātaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_504:0.2",
+        "original": "Vīsatinipāta",
+        "analyzed": "vīsati nipāta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_504:0.3",
+        "original": "Mātaṅgavagga",
+        "analyzed": "mātaṅga vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_504:0.4",
+        "original": "8. Bhallātiyajātaka",
+        "analyzed": "bhallātiyajātaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ja_504:1.1",
+        "original": "Bhallātiyo nāma ahosi rājā,",
+        "analyzed": "bhallātiyaḥ nāma ahosi rājā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_504:1.2",
+        "original": "Raṭṭhaṁ pahāya migavaṁ acāri so;",
+        "analyzed": "raṭṭham pahāya migavam acāri saḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_504:1.3",
+        "original": "Agamā girivaraṁ gandhamādanaṁ,",
+        "analyzed": "agamāḥ giri varam gandhamādana ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_504:1.4",
+        "original": "Supupphitaṁ kimpurisānuciṇṇaṁ.",
+        "analyzed": "su pupphitam kimpurisa anuciṇṇa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ja_504:2.1",
+        "original": "Sāḷūrasaṅghañca nisedhayitvā,",
+        "analyzed": "sāḷūra saṅghañca nisedhayitvā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_504:2.2",
+        "original": "Dhanuṁ kalāpañca so nikkhipitvā;",
+        "analyzed": "dhanum kalāpam saḥ nikkhipitvā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_504:2.3",
+        "original": "Upāgami vacanaṁ vattukāmo,",
+        "analyzed": "upāgami vacanam vattu kāmaḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_504:2.4",
+        "original": "Yatthaṭṭhitā kimpurisā ahesuṁ.",
+        "analyzed": "yatthaṭṭhitāḥ kimpurisāḥ ahesu ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ja_504:3.1",
+        "original": "“Himaccaye hemavatāya tīre,",
+        "analyzed": "himaccaye hemavatāya tīre ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_504:3.2",
+        "original": "Kimidhaṭṭhitā mantayavho abhiṇhaṁ;",
+        "analyzed": "kim idha ṭṭhitāḥ mantayavhaḥ abhiṇha ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_504:3.3",
+        "original": "Pucchāmi vo mānusadehavaṇṇe,",
+        "analyzed": "pucchāmi vaḥ mānusa deha vaṇṇe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_504:3.4",
+        "original": "Kathaṁ vo jānanti manussaloke”.",
+        "analyzed": "katham vaḥ jānanti manussa loke ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ja_504:4.1",
+        "original": "“Mallaṁ giriṁ paṇḍarakaṁ tikūṭaṁ,",
+        "analyzed": "mallam girim paṇḍarakam tikūṭa ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_504:4.2",
+        "original": "Sītodakā anuvicarāma najjo;",
+        "analyzed": "sītā udakāḥ anuvicarāma najjo ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_504:4.3",
+        "original": "Migā manussāva nibhāsavaṇṇā,",
+        "analyzed": "migā nibhāsa vaṇṇā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_504:4.4",
+        "original": "Jānanti no kimpurisāti ludda”.",
+        "analyzed": "jānanti no kimpurisā ati ludda ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ja_504:5.1",
+        "original": "“Sukiccharūpaṁ paridevayavho,",
+        "analyzed": "su kiccha rūpam ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_504:5.2",
+        "original": "Āliṅgito cāsi piyo piyāya;",
+        "analyzed": "āliṅgitaḥ ca asi piyaḥ piyāya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_504:5.3",
+        "original": "Pucchāmi vo mānusadehavaṇṇe,",
+        "analyzed": "pucchāmi vaḥ mānusa deha vaṇṇe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_504:5.4",
+        "original": "Kimidha vane rodatha appatītā.",
+        "analyzed": "kimidha vane rodatha appatītā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ja_504:6.1",
+        "original": "Sukiccharūpaṁ paridevayavho,",
+        "analyzed": "su kiccha rūpam ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_504:6.2",
+        "original": "Āliṅgito cāsi piyo piyāya;",
+        "analyzed": "āliṅgitaḥ ca asi piyaḥ piyāya ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_504:6.3",
+        "original": "Pucchāmi vo mānusadehavaṇṇe,",
+        "analyzed": "pucchāmi vaḥ mānusa deha vaṇṇe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_504:6.4",
+        "original": "Kimidha vane vilapatha appatītā.",
+        "analyzed": "kimidha vane vilapatha appatītā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ja_504:7.1",
+        "original": "Sukiccharūpaṁ paridevayavho,",
+        "analyzed": "su kiccha rūpam ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_504:7.2",
+        "original": "Āliṅgito cāsi piyo piyāya;",
+        "analyzed": "āliṅgitaḥ ca asi piyaḥ piyāya ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_504:7.3",
+        "original": "Pucchāmi vo mānusadehavaṇṇe,",
+        "analyzed": "pucchāmi vaḥ mānusa deha vaṇṇe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_504:7.4",
+        "original": "Kimidha vane socatha appatītā”.",
+        "analyzed": "kimidha vane socatha appatītā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ja_504:8.1",
+        "original": "“Mayekarattaṁ vippavasimha ludda,",
+        "analyzed": "mayā eka rattam vippavasimha ludda ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_504:8.2",
+        "original": "Akāmakā aññamaññaṁ sarantā;",
+        "analyzed": "akāmakā aññamaññam sarantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_504:8.3",
+        "original": "Tamekarattaṁ anutappamānā,",
+        "analyzed": "tam eka rattam anutappamānā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_504:8.4",
+        "original": "Socāma ‘sā ratti punaṁ na hessati’”.",
+        "analyzed": "socāma sā ratti punar na hessati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ja_504:9.1",
+        "original": "“Yamekarattaṁ anutappathetaṁ,",
+        "analyzed": "yam eka rattam anutappatheta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_504:9.2",
+        "original": "Dhanaṁ va naṭṭhaṁ pitaraṁ va petaṁ;",
+        "analyzed": "dhanam va naṭṭham pitaram va peta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_504:9.3",
+        "original": "Pucchāmi vo mānusadehavaṇṇe,",
+        "analyzed": "pucchāmi vaḥ mānusa deha vaṇṇe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_504:9.4",
+        "original": "Kathaṁ vinā vāsamakappayittha”.",
+        "analyzed": "katham vinā vāsam akappayittha ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ja_504:10.1",
+        "original": "“Yamimaṁ nadiṁ passasi sīghasotaṁ,",
+        "analyzed": "yam imam nadim passasi sīghasota ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_504:10.2",
+        "original": "Nānādumacchādanaṁ selakūlaṁ;",
+        "analyzed": "nānā duma chādanam ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_504:10.3",
+        "original": "Taṁ me piyo uttari vassakāle,",
+        "analyzed": "tam me piyaḥ uttari vassa kāle ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_504:10.4",
+        "original": "Mamañca maññaṁ anubandhatīti.",
+        "analyzed": "mamañca maññam anubandhati iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ja_504:11.1",
+        "original": "Ahañca aṅkolakamocināmi,",
+        "analyzed": "aham ca aṅkolaka mocināmi ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_504:11.2",
+        "original": "Atimuttakaṁ sattaliyothikañca;",
+        "analyzed": "atimuttakam sattaliyothikam ca ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_504:11.3",
+        "original": "‘Piyo ca me hehiti mālabhārī,",
+        "analyzed": "ca me mālabhārī ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_504:11.4",
+        "original": "Ahañca naṁ mālinī ajjhupessaṁ’.",
+        "analyzed": "aham ca nam mālinī ajjhupessa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ja_504:12.1",
+        "original": "Ahañcidaṁ kuravakamocināmi,",
+        "analyzed": "aham cit idam ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_504:12.2",
+        "original": "Uddālakā pāṭalisindhuvārakā;",
+        "analyzed": "        ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_504:12.3",
+        "original": "‘Piyo ca me hehiti mālabhārī,",
+        "analyzed": "ca me mālabhārī ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_504:12.4",
+        "original": "Ahañca naṁ mālinī ajjhupessaṁ’.",
+        "analyzed": "aham ca nam mālinī ajjhupessa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ja_504:13.1",
+        "original": "Ahañca sālassa supupphitassa,",
+        "analyzed": "ahañca sālassa su pupphitassa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_504:13.2",
+        "original": "Oceyya pupphāni karomi mālaṁ;",
+        "analyzed": "oceyya pupphāni karomi māla ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_504:13.3",
+        "original": "‘Piyo ca me hehiti mālabhārī,",
+        "analyzed": "ca me mālabhārī ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_504:13.4",
+        "original": "Ahañca naṁ mālinī ajjhupessaṁ’.",
+        "analyzed": "aham ca nam mālinī ajjhupessa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ja_504:14.1",
+        "original": "Ahañca sālassa supupphitassa,",
+        "analyzed": "ahañca sālassa su pupphitassa ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_504:14.2",
+        "original": "Oceyya pupphāni karomi bhāraṁ;",
+        "analyzed": "oceyya pupphāni karomi bhāra ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_504:14.3",
+        "original": "Idañca no hehiti santharatthaṁ,",
+        "analyzed": "idam ca naḥ hehiti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_504:14.4",
+        "original": "Yatthajjimaṁ viharissāma rattiṁ.",
+        "analyzed": "yatthajjimam viharissāma ratti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ja_504:15.1",
+        "original": "Ahañca kho agaḷuṁ candanañca,",
+        "analyzed": "aham ca khalu agaḷum candanam ca ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_504:15.2",
+        "original": "Silāya piṁsāmi pamattarūpā;",
+        "analyzed": "silāya pisāmi pamatta rūpā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_504:15.3",
+        "original": "‘Piyo ca me hehiti rositaṅgo,",
+        "analyzed": "ca me rositaṅgo ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_504:15.4",
+        "original": "Ahañca naṁ rositā ajjhupessaṁ’.",
+        "analyzed": "aham ca nam rositā ajjhupessa ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ja_504:16.1",
+        "original": "Athāgamā salilaṁ sīghasotaṁ,",
+        "analyzed": "atha agama salilam sīghasā uta ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_504:16.2",
+        "original": "Nudaṁ sāle salaḷe kaṇṇikāre;",
+        "analyzed": "nudam sāle salaḷe kaṇṇikāre ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_504:16.3",
+        "original": "Āpūratha tena muhuttakena,",
+        "analyzed": "āpūratha tena muhuttakena ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_504:16.4",
+        "original": "Sāyaṁ nadī āsi mayā suduttarā.",
+        "analyzed": "sāyam nadī āsi mayā su duttarā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ja_504:17.1",
+        "original": "Ubhosu tīresu mayaṁ tadā ṭhitā,",
+        "analyzed": "ubhosu tīresu mayam tadā ṭhitā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_504:17.2",
+        "original": "Sampassantā ubhayo aññamaññaṁ;",
+        "analyzed": "sampassantāḥ ubhayaḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_504:17.3",
+        "original": "Sakimpi rodāma sakiṁ hasāma,",
+        "analyzed": "rodāma sakim hasāma ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_504:17.4",
+        "original": "Kicchena no āgamā saṁvarī sā.",
+        "analyzed": "kicchena naḥ āgamā savarī sā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ja_504:18.1",
+        "original": "Pātova kho uggate sūriyamhi,",
+        "analyzed": "kho uggate sūriyamhi ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_504:18.2",
+        "original": "Catukkaṁ nadiṁ uttariyāna ludda;",
+        "analyzed": "catukkam nadim uttariyāna ludda ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_504:18.3",
+        "original": "Āliṅgiyā aññamaññaṁ mayaṁ ubho,",
+        "analyzed": "āliṅgiyāḥ aññam aññam mayam ubho ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_504:18.4",
+        "original": "Sakimpi rodāma sakiṁ hasāma.",
+        "analyzed": "rodāma sakim hasāma ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ja_504:19.1",
+        "original": "Tīhūnakaṁ sattasatāni ludda,",
+        "analyzed": "tīhūnakam satta satāni ludda ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_504:19.2",
+        "original": "Yamidha mayaṁ vippavasimha pubbe;",
+        "analyzed": "yam idha mayam vippavasimha pubbe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_504:19.3",
+        "original": "Vassekimaṁ jīvitaṁ bhūmipāla,",
+        "analyzed": "vassekimam jīvitam bhūmipāla ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_504:19.4",
+        "original": "Ko nīdha kantāya vinā vaseyya”.",
+        "analyzed": "kaḥ nīdha kantāya vinā vaseyya ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ja_504:20.1",
+        "original": "“Āyuñca vo kīvatako nu samma,",
+        "analyzed": "āyuḥ ca vaḥ kīvatakaḥ nu samma ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_504:20.2",
+        "original": "Sacepi jānātha vadetha āyuṁ;",
+        "analyzed": "saced ipi jānātha vadetha āyu ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_504:20.3",
+        "original": "Anussavā vuḍḍhato āgamā vā,",
+        "analyzed": "anussavāḥ vuḍḍhataḥ āgamāḥ vā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_504:20.4",
+        "original": "Akkhātha me taṁ avikampamānā”.",
+        "analyzed": "akkhātha me tam a vikampamānā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ja_504:21.1",
+        "original": "“Āyuñca no vassasahassaṁ ludda,",
+        "analyzed": "āyuṃ ca naḥ vassa sahassam ludda ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_504:21.2",
+        "original": "Na cantarā pāpako atthi rogo;",
+        "analyzed": "na cantarā pāpakaḥ atthi rogaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_504:21.3",
+        "original": "Appañca dukkhaṁ sukhameva bhiyyo,",
+        "analyzed": "dukkham sukham eva bhiyyas ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_504:21.4",
+        "original": "Avītarāgā vijahāma jīvitaṁ”.",
+        "analyzed": "a vīta rāgāḥ vijahāma jīvita ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ja_504:22.1",
+        "original": "“Idañca sutvāna amānusānaṁ,",
+        "analyzed": "idañca sutvāna amānusāna ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ja_504:22.2",
+        "original": "Bhallātiyo ittara jīvitanti;",
+        "analyzed": "bhallātiyaḥ ittara ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ja_504:22.3",
+        "original": "Nivattatha na migavaṁ acari,",
+        "analyzed": "nivattatha na migavam acari ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ja_504:22.4",
+        "original": "Adāsi dānāni abhuñji bhoge.",
+        "analyzed": "adāsi dānāni abhuñji bhoge ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ja_504:23.1",
+        "original": "Idañca sutvāna amānusānaṁ,",
+        "analyzed": "idañca sutvāna amānusāna ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ja_504:23.2",
+        "original": "Sammodatha mā kalahaṁ akattha;",
+        "analyzed": "sammodatha mā kalaham akattha ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ja_504:23.3",
+        "original": "Mā vo tapī attakammāparādho,",
+        "analyzed": "mā vaḥ tapī atta kamma aparādhaḥ ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ja_504:23.4",
+        "original": "Yathāpi te kimpurisekarattaṁ.",
+        "analyzed": "yathā api te ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ja_504:24.1",
+        "original": "Idañca sutvāna amānusānaṁ,",
+        "analyzed": "idañca sutvāna amānusāna ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ja_504:24.2",
+        "original": "Sammodatha mā vivādaṁ akattha;",
+        "analyzed": "sammodatha mā vivādam akattha ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ja_504:24.3",
+        "original": "Mā vo tapī attakammāparādho,",
+        "analyzed": "mā vaḥ tapī atta kamma aparādhaḥ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ja_504:24.4",
+        "original": "Yathāpi te kimpurisekarattaṁ”.",
+        "analyzed": "yathā api te ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ja_504:25.1",
+        "original": "“Vividhaṁ adhimanā suṇomahaṁ,",
+        "analyzed": "vividham adhimanāḥ suṇomaha ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ja_504:25.2",
+        "original": "Vacanapathaṁ tava atthasaṁhitaṁ;",
+        "analyzed": "vacana patham tava attha sahita ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ja_504:25.3",
+        "original": "Muñcaṁ giraṁ nudaseva me daraṁ,",
+        "analyzed": "muñcam giram nudasā iva me dara ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ja_504:25.4",
+        "original": "Samaṇa sukhāvaha jīva me ciran”ti.",
+        "analyzed": "samaṇa sukha āvaha jīva me ciranti ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ja_504:26.1",
+        "original": "Bhallātiyajātakaṁ aṭṭhamaṁ.",
+        "analyzed": "bhallātiya jātakam aṭṭhama ",
+        "folio": "26"
+    }
+]

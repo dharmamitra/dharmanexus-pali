@@ -1,0 +1,644 @@
+[
+    {
+        "segmentnr": "PA_snp_1.6:0.1",
+        "original": "Sutta Nipāta 1.6",
+        "analyzed": "sutta nipāta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:0.2",
+        "original": "Parābhavasutta",
+        "analyzed": "parābhavasutta ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:1.1",
+        "original": "Evaṁ me sutaṁ—",
+        "analyzed": "evam me suta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:1.2",
+        "original": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.",
+        "analyzed": "ekam samayam bhagavā sāvatthiyam viharati jetavane anāthapiṇḍikassa ārāme ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:1.3",
+        "original": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi.",
+        "analyzed": "atha kho aññatarā devatā abhikkantāya rattiyā abhikkanta vaṇṇā kevala kappam jetavanam obhāsetvā yena bhagavā tena upasaṅkami upasaṅkamitvā bhagavantam abhivādetvā ekamantam aṭṭhāsi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:1.4",
+        "original": "Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:",
+        "analyzed": "ekamantam ṭhitā kho sā devatā bhagavantam gāthāya ajjhabhāsi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:2.1",
+        "original": "“Parābhavantaṁ purisaṁ,",
+        "analyzed": "parābhavantam purisa ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:2.2",
+        "original": "mayaṁ pucchāma gotama;",
+        "analyzed": "mayam pucchāma gotama ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:2.3",
+        "original": "Bhavantaṁ puṭṭhumāgamma,",
+        "analyzed": "bhavantam puṭṭhum āgamma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:2.4",
+        "original": "kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:3.1",
+        "original": "“Suvijāno bhavaṁ hoti,",
+        "analyzed": "su vijānaḥ bhavam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:3.2",
+        "original": "suvijāno parābhavo;",
+        "analyzed": "su vijānaḥ parābhavaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:3.3",
+        "original": "Dhammakāmo bhavaṁ hoti,",
+        "analyzed": "dhamma kāmaḥ bhavam hoti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:3.4",
+        "original": "dhammadessī parābhavo”.",
+        "analyzed": "dhammadessī parābhavaḥ ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:4.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:4.2",
+        "original": "paṭhamo so parābhavo;",
+        "analyzed": "paṭhamaḥ saḥ parābhavaḥ ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:4.3",
+        "original": "Dutiyaṁ bhagavā brūhi,",
+        "analyzed": "dutiyam bhagavā brūhi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:4.4",
+        "original": "kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:5.1",
+        "original": "“Asantassa piyā honti,",
+        "analyzed": "a santassa piyā honti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:5.2",
+        "original": "sante na kurute piyaṁ;",
+        "analyzed": "sante na kurute piya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:5.3",
+        "original": "Asataṁ dhammaṁ roceti,",
+        "analyzed": "asatam dhammam roca iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:5.4",
+        "original": "taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:6.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:6.2",
+        "original": "dutiyo so parābhavo;",
+        "analyzed": "dutiyaḥ saḥ parābhavaḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:6.3",
+        "original": "Tatiyaṁ bhagavā brūhi,",
+        "analyzed": "tatiyam bhagavā brūhi ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:6.4",
+        "original": "kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:7.1",
+        "original": "“Niddāsīlī sabhāsīlī,",
+        "analyzed": "niddāsīlī sabhāsīlī ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:7.2",
+        "original": "anuṭṭhātā ca yo naro;",
+        "analyzed": "anuṭṭhātā ca yaḥ naraḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:7.3",
+        "original": "Alaso kodhapaññāṇo,",
+        "analyzed": "alasaḥ kodha paññāṇo ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:7.4",
+        "original": "taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:8.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:8.2",
+        "original": "tatiyo so parābhavo;",
+        "analyzed": "tatiyaḥ saḥ parābhavaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:8.3",
+        "original": "Catutthaṁ bhagavā brūhi,",
+        "analyzed": "catuttham bhagavā brūhi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:8.4",
+        "original": "kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:9.1",
+        "original": "“Yo mātaraṁ pitaraṁ vā,",
+        "analyzed": "yaḥ mātaram pitaram vā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:9.2",
+        "original": "jiṇṇakaṁ gatayobbanaṁ;",
+        "analyzed": "jiṇṇakam gata yobbana ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:9.3",
+        "original": "Pahu santo na bharati,",
+        "analyzed": "pahu santaḥ na bharati ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:9.4",
+        "original": "taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:10.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:10.2",
+        "original": "catuttho so parābhavo;",
+        "analyzed": "catuttho so parābhavo ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:10.3",
+        "original": "Pañcamaṁ bhagavā brūhi,",
+        "analyzed": "pañcamam bhagavā brūhi ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:10.4",
+        "original": "kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:11.1",
+        "original": "“Yo brāhmaṇaṁ samaṇaṁ vā,",
+        "analyzed": "yaḥ brāhmaṇam samaṇam vā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:11.2",
+        "original": "Aññaṁ vāpi vanibbakaṁ;",
+        "analyzed": "aññam vā api vanibbaka ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:11.3",
+        "original": "Musāvādena vañceti,",
+        "analyzed": "musā vādena vañca iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:11.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:12.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:12.2",
+        "original": "Pañcamo so parābhavo;",
+        "analyzed": "pañcamaḥ saḥ parābhavaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:12.3",
+        "original": "Chaṭṭhamaṁ bhagavā brūhi,",
+        "analyzed": "chaṭṭhamam bhagavā brūhi ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:12.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:13.1",
+        "original": "“Pahūtavitto puriso,",
+        "analyzed": "pahūta vittaḥ purisaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:13.2",
+        "original": "Sahirañño sabhojano;",
+        "analyzed": "sa hiraññaḥ sa bhojanaḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:13.3",
+        "original": "Eko bhuñjati sādūni,",
+        "analyzed": "ekaḥ bhuñjati sādūni ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:13.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:14.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:14.2",
+        "original": "Chaṭṭhamo so parābhavo;",
+        "analyzed": "chaṭṭhamaḥ so parābhavo ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:14.3",
+        "original": "Sattamaṁ bhagavā brūhi,",
+        "analyzed": "sattamam bhagavā brūhi ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:14.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:15.1",
+        "original": "“Jātitthaddho dhanatthaddho,",
+        "analyzed": "jātitthaddhaḥ dhanatthaddhaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:15.2",
+        "original": "Gottatthaddho ca yo naro;",
+        "analyzed": "ca yaḥ naraḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:15.3",
+        "original": "Saññātiṁ atimaññeti,",
+        "analyzed": "saññātim atimañña iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:15.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:16.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:16.2",
+        "original": "Sattamo so parābhavo;",
+        "analyzed": "sattamaḥ saḥ parābhavaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:16.3",
+        "original": "Aṭṭhamaṁ bhagavā brūhi,",
+        "analyzed": "aṭṭhamam bhagavā brūhi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:16.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:17.1",
+        "original": "“Itthidhutto surādhutto,",
+        "analyzed": "itthi dhuttaḥ surā dhuttaḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:17.2",
+        "original": "Akkhadhutto ca yo naro;",
+        "analyzed": "akkhadhuttaḥ ca yaḥ naraḥ ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:17.3",
+        "original": "Laddhaṁ laddhaṁ vināseti,",
+        "analyzed": "laddham laddham vināsā iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:17.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:18.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:18.2",
+        "original": "Aṭṭhamo so parābhavo;",
+        "analyzed": "aṭṭhamaḥ so parābhavo ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:18.3",
+        "original": "Navamaṁ bhagavā brūhi,",
+        "analyzed": "navamam bhagavā brūhi ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:18.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:19.1",
+        "original": "“Sehi dārehi asantuṭṭho,",
+        "analyzed": "sehi dārehi a santuṭṭhaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:19.2",
+        "original": "Vesiyāsu padussati;",
+        "analyzed": "vesiyāsu padussati ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:19.3",
+        "original": "Dussati paradāresu,",
+        "analyzed": "dussati paradāresu ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:19.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:20.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:20.2",
+        "original": "Navamo so parābhavo;",
+        "analyzed": "navamaḥ saḥ parābhavaḥ ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:20.3",
+        "original": "Dasamaṁ bhagavā brūhi,",
+        "analyzed": "dasamam bhagavā brūhi ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:20.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:21.1",
+        "original": "“Atītayobbano poso,",
+        "analyzed": "atīta yobbanaḥ posaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:21.2",
+        "original": "Āneti timbarutthaniṁ;",
+        "analyzed": "āna iti timba rutthani ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:21.3",
+        "original": "Tassā issā na supati,",
+        "analyzed": "tassā issā na supati ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:21.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:22.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:22.2",
+        "original": "Dasamo so parābhavo;",
+        "analyzed": "dasamaḥ saḥ parābhavaḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:22.3",
+        "original": "Ekādasamaṁ bhagavā brūhi,",
+        "analyzed": "ekādasamam bhagavā brūhi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:22.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:23.1",
+        "original": "“Itthiṁ soṇḍiṁ vikiraṇiṁ,",
+        "analyzed": "itthim soṇḍim vikiraṇi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:23.2",
+        "original": "Purisaṁ vāpi tādisaṁ;",
+        "analyzed": "purisam vā api tādisa ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:23.3",
+        "original": "Issariyasmiṁ ṭhapeti,",
+        "analyzed": "issariyasmin ṭhapeti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:23.4",
+        "original": "Taṁ parābhavato mukhaṁ”.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:24.1",
+        "original": "“Iti hetaṁ vijānāma,",
+        "analyzed": "iti ha itam vijānāma ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:24.2",
+        "original": "Ekādasamo so parābhavo;",
+        "analyzed": "ekādasamaḥ saḥ parābhavaḥ ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:24.3",
+        "original": "Dvādasamaṁ bhagavā brūhi,",
+        "analyzed": "dvādasamam bhagavā brūhi ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:24.4",
+        "original": "Kiṁ parābhavato mukhaṁ”.",
+        "analyzed": "kim parābhavataḥ mukha ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:25.1",
+        "original": "“Appabhogo mahātaṇho,",
+        "analyzed": "appabhogaḥ mahā taṇho ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:25.2",
+        "original": "Khattiye jāyate kule;",
+        "analyzed": "khattiye jāyate kule ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:25.3",
+        "original": "So ca rajjaṁ patthayati,",
+        "analyzed": "saḥ ca rajjam patthayati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:25.4",
+        "original": "Taṁ parābhavato mukhaṁ.",
+        "analyzed": "tam parābhavataḥ mukha ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:26.1",
+        "original": "Ete parābhave loke,",
+        "analyzed": "ete parābhave loke ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:26.2",
+        "original": "Paṇḍito samavekkhiya;",
+        "analyzed": "paṇḍito samavekkhiya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:26.3",
+        "original": "Ariyo dassanasampanno,",
+        "analyzed": "ariyaḥ dassana sampannaḥ ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:26.4",
+        "original": "Sa lokaṁ bhajate sivan”ti.",
+        "analyzed": "sa lokam bhajate sivanti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_snp_1.6:26.5",
+        "original": "Parābhavasuttaṁ chaṭṭhaṁ.",
+        "analyzed": "parābhava suttam chaṭṭha ",
+        "folio": "26"
+    }
+]

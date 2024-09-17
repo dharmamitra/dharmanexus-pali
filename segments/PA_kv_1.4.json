@@ -1,0 +1,902 @@
+[
+    {
+        "segmentnr": "PA_kv_1.4:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:0.3",
+        "original": "Paṭhamavagga",
+        "analyzed": "paṭhama vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:0.4",
+        "original": "Odhisokathā",
+        "analyzed": "odhi sokathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.1",
+        "original": "Odhisodhiso kilese jahatīti?",
+        "analyzed": "kilese jahati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.3",
+        "original": "Sotāpattiphalasacchikiriyāya paṭipanno puggalo dukkhadassanena kiṁ jahatīti?",
+        "analyzed": "sotāpatti phala sacchikiriyāya paṭipannaḥ puggalaḥ dukkha dassanena kim jahati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.4",
+        "original": "Sakkāyadiṭṭhiṁ vicikicchaṁ sīlabbataparāmāsaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "sakkāya diṭṭhim vicikiccham sīlabbata parāmāsam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.5_0",
+        "original": "Ekadesaṁ sotāpanno, ekadesaṁ na sotāpanno, ekadesaṁ sotāpattiphalappatto paṭiladdho",
+        "analyzed": "eka desam sotāpannaḥ eka desam na sotāpannaḥ eka desam sotāpatti phala patto paṭiladdho ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.5_1",
+        "original": "adhigato sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena",
+        "analyzed": "adhigataḥ sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.5_2",
+        "original": "phusitvā viharati, ekadesaṁ sattakkhattuparamo, kolaṅkolo, ekabījī, buddhe aveccappasādena",
+        "analyzed": "phusitvā viharati eka desam satta kkhattu paramaḥ kolaṅkolaḥ eka bījī buddhe avecca ppasādena ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.5_3",
+        "original": "samannāgato, dhamme …pe…",
+        "analyzed": "samannāgataḥ dhamme pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.6",
+        "original": "saṅghe …pe…",
+        "analyzed": "saṅghe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.7",
+        "original": "ariyakantehi sīlehi samannāgato ekadesaṁ ariyakantehi sīlehi na samannāgatoti?",
+        "analyzed": "ariya kantehi sīlehi samannāgataḥ eka desam ariya kantehi sīlehi na samannāgataḥ iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:1.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:2.1",
+        "original": "Samudayadassanena kiṁ jahatīti?",
+        "analyzed": "samudaya dassanena kim jahati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:2.2",
+        "original": "Sakkāyadiṭṭhiṁ jahati, vicikicchaṁ sīlabbataparāmāsaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "sakkāya diṭṭhim jahati vicikiccham sīlabbata parāmāsam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:2.3",
+        "original": "Ekadesaṁ sotāpanno, ekadesaṁ na sotāpanno …pe…",
+        "analyzed": "eka desam sotāpannaḥ eka desam na sotāpannaḥ pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:2.4",
+        "original": "ekadesaṁ ariyakantehi sīlehi samannāgato, ekadesaṁ ariyakantehi sīlehi na samannāgatoti?",
+        "analyzed": "eka desam ariya kantehi sīlehi samannāgataḥ eka desam ariya kantehi sīlehi na samannāgataḥ ti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:2.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:3.1",
+        "original": "Nirodhadassanena kiṁ jahatīti?",
+        "analyzed": "nirodha dassanena kim jahati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:3.2",
+        "original": "Vicikicchaṁ sīlabbataparāmāsaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "vicikiccham sīlabbata parāmāsam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:3.3",
+        "original": "Ekadesaṁ sotāpanno, ekadesaṁ na sotāpanno …pe…",
+        "analyzed": "eka desam sotāpannaḥ eka desam na sotāpannaḥ pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:3.4",
+        "original": "ekadesaṁ ariyakantehi sīlehi samannāgato, ekadesaṁ ariyakantehi sīlehi na samannāgatoti?",
+        "analyzed": "eka desam ariya kantehi sīlehi samannāgataḥ eka desam ariya kantehi sīlehi na samannāgataḥ ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:3.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.1",
+        "original": "Maggadassanena kiṁ jahatīti?",
+        "analyzed": "magga dassanena kim jahati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.2",
+        "original": "Sīlabbataparāmāsaṁ tadekaṭṭhe ca kilese jahatīti.",
+        "analyzed": "sīlabbata parāmāsam tad ekaṭṭhe ca kilese jahati iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.3_0",
+        "original": "Ekadesaṁ sotāpanno, ekadesaṁ na sotāpanno, ekadesaṁ sotāpattiphalappatto paṭiladdho",
+        "analyzed": "eka desam sotāpannaḥ eka desam na sotāpannaḥ eka desam sotāpatti phala patto paṭiladdho ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.3_1",
+        "original": "adhigato sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena",
+        "analyzed": "adhigataḥ sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.3_2",
+        "original": "phusitvā viharati, ekadesaṁ sattakkhattuparamo, kolaṅkolo, ekabījī, buddhe aveccappasādena",
+        "analyzed": "phusitvā viharati eka desam satta kkhattu paramaḥ kolaṅkolaḥ eka bījī buddhe avecca ppasādena ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.3_3",
+        "original": "samannāgato, dhamme …pe…",
+        "analyzed": "samannāgataḥ dhamme pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.4",
+        "original": "saṅghe …pe…",
+        "analyzed": "saṅghe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.5",
+        "original": "ariyakantehi sīlehi samannāgato, ekadesaṁ ariyakantehi sīlehi na samannāgatoti?",
+        "analyzed": "ariya kantehi sīlehi samannāgataḥ eka desam ariya kantehi sīlehi na samannāgataḥ iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:4.6",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:5.1",
+        "original": "Sakadāgāmiphalasacchikiriyāya paṭipanno puggalo dukkhadassanena kiṁ jahatīti?",
+        "analyzed": "sakadāgāmi phala sacchikiriyāya paṭipannaḥ puggalaḥ dukkha dassanena kim jahati iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:5.2",
+        "original": "Oḷārikaṁ kāmarāgaṁ jahati, oḷārikaṁ byāpādaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "oḷārikam kāma rāgam jahati oḷārikam byāpādam tad ekaṭṭhe ca kilese ekadese jahati iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:5.3_0",
+        "original": "Ekadesaṁ sakadāgāmī, ekadesaṁ na sakadāgāmī, ekadesaṁ sakadāgāmiphalappatto paṭiladdho",
+        "analyzed": "eka desam sakadāgāmī eka desam na sakadāgāmī eka desam sakadāgāmi phala patto paṭiladdho ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:5.3_1",
+        "original": "adhigato sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena",
+        "analyzed": "adhigataḥ sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:5.3_2",
+        "original": "phusitvā viharatīti?",
+        "analyzed": "phusitvā viharati iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:5.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:6.1",
+        "original": "Samudayadassanena kiṁ jahatīti?",
+        "analyzed": "samudaya dassanena kim jahati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:6.2",
+        "original": "Oḷārikaṁ kāmarāgaṁ jahati, oḷārikaṁ byāpādaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "oḷārikam kāma rāgam jahati oḷārikam byāpādam tad ekaṭṭhe ca kilese ekadese jahati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:6.3_0",
+        "original": "Ekadesaṁ sakadāgāmī, ekadesaṁ na sakadāgāmī, ekadesaṁ sakadāgāmiphalappatto paṭiladdho",
+        "analyzed": "eka desam sakadāgāmī eka desam na sakadāgāmī eka desam sakadāgāmi phala patto paṭiladdho ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:6.3_1",
+        "original": "adhigato sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena",
+        "analyzed": "adhigataḥ sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:6.3_2",
+        "original": "phusitvā viharatīti?",
+        "analyzed": "phusitvā viharati iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:6.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:7.1",
+        "original": "Nirodhadassanena kiṁ jahatīti?",
+        "analyzed": "nirodha dassanena kim jahati iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:7.2",
+        "original": "Oḷārikaṁ byāpādaṁ jahati, tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "oḷārikam byāpādam jahati tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:7.3_0",
+        "original": "Ekadesaṁ sakadāgāmī, ekadesaṁ na sakadāgāmī, ekadesaṁ sakadāgāmiphalappatto paṭiladdho",
+        "analyzed": "eka desam sakadāgāmī eka desam na sakadāgāmī eka desam sakadāgāmi phala patto paṭiladdho ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:7.3_1",
+        "original": "adhigato sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena",
+        "analyzed": "adhigataḥ sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:7.3_2",
+        "original": "phusitvā viharatīti?",
+        "analyzed": "phusitvā viharati iti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:7.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:8.1",
+        "original": "Maggadassanena kiṁ jahatīti?",
+        "analyzed": "magga dassanena kim jahati iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:8.2",
+        "original": "Oḷārikaṁ byāpādaṁ jahati, tadekaṭṭhe ca kilese jahatīti.",
+        "analyzed": "oḷārikam byāpādam jahati tad ekaṭṭhe ca kilese jahati iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:8.3_0",
+        "original": "Ekadesaṁ sakadāgāmī, ekadesaṁ na sakadāgāmī, ekadesaṁ sakadāgāmiphalappatto paṭiladdho",
+        "analyzed": "eka desam sakadāgāmī eka desam na sakadāgāmī eka desam sakadāgāmi phala patto paṭiladdho ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:8.3_1",
+        "original": "adhigato sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena",
+        "analyzed": "adhigataḥ sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:8.3_2",
+        "original": "phusitvā viharatīti?",
+        "analyzed": "phusitvā viharati iti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:8.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.1",
+        "original": "Anāgāmiphalasacchikiriyāya paṭipanno puggalo dukkhadassanena kiṁ jahatīti?",
+        "analyzed": "anāgāmi phala sacchikiriyāya paṭipannaḥ puggalaḥ dukkha dassanena kim jahati iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.2",
+        "original": "Aṇusahagataṁ kāmarāgaṁ jahati, aṇusahagataṁ byāpādaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "aṇu sahagatam kāma rāgam jahati aṇu sahagatam byāpādam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.3_0",
+        "original": "Ekadesaṁ anāgāmī, ekadesaṁ na anāgāmī, ekadesaṁ anāgāmiphalappatto paṭiladdho adhigato",
+        "analyzed": "eka desam anāgāmī eka desam na anāgāmī eka desam anāgāmi phala patto paṭiladdhaḥ adhigataḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.3_1",
+        "original": "sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena phusitvā",
+        "analyzed": "sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena phusitvā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.3_2",
+        "original": "viharati, ekadesaṁ antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī,",
+        "analyzed": "viharati eka desam antarā parinibbāyī upahacca parinibbāyī asaṅkhāra parinibbāyī ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.3_3",
+        "original": "sasaṅkhāraparinibbāyī, uddhaṁsoto akaniṭṭhagāmī, ekadesaṁ na uddhaṁsoto akaniṭṭhagāmīti?",
+        "analyzed": "sa saṅkhāra parinibbāyī uddha sotaḥ akaniṭṭha gāmī eka desam na uddha sotaḥ akaniṭṭha gāmī iti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:9.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:10.1",
+        "original": "Samudayadassanena kiṁ jahatīti?",
+        "analyzed": "samudaya dassanena kim jahati iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:10.2",
+        "original": "Aṇusahagataṁ kāmarāgaṁ jahati, aṇusahagataṁ byāpādaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "aṇu sahagatam kāma rāgam jahati aṇu sahagatam byāpādam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:10.3",
+        "original": "Ekadesaṁ anāgāmī, ekadesaṁ na anāgāmī …pe…",
+        "analyzed": "eka desam anāgāmī eka desam na anāgāmī pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:10.4",
+        "original": "ekadesaṁ uddhaṁsoto akaniṭṭhagāmī, ekadesaṁ na uddhaṁsoto akaniṭṭhagāmīti?",
+        "analyzed": "ekadesam uddha sotaḥ a kaniṭṭha gāmī ekadesam na uddha sotaḥ a kaniṭṭha gāmī iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:10.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:11.1",
+        "original": "Nirodhadassanena kiṁ jahatīti?",
+        "analyzed": "nirodha dassanena kim jahati iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:11.2",
+        "original": "Aṇusahagataṁ byāpādaṁ jahati, tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "aṇu sahagatam byāpādam jahati tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:11.3",
+        "original": "Ekadesaṁ anāgāmī, ekadesaṁ na anāgāmī …pe…",
+        "analyzed": "eka desam anāgāmī eka desam na anāgāmī pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:11.4",
+        "original": "ekadesaṁ uddhaṁsoto akaniṭṭhagāmī, ekadesaṁ na uddhaṁsoto akaniṭṭhagāmīti?",
+        "analyzed": "ekadesam uddha sotaḥ a kaniṭṭha gāmī ekadesam na uddha sotaḥ a kaniṭṭha gāmī iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:11.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.1",
+        "original": "Maggadassanena kiṁ jahatīti?",
+        "analyzed": "magga dassanena kim jahati iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.2",
+        "original": "Tadekaṭṭhe ca kilese jahatīti.",
+        "analyzed": "tat ekaṭṭhe ca kilese jahati iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.3_0",
+        "original": "Ekadesaṁ anāgāmī, ekadesaṁ na anāgāmī, ekadesaṁ anāgāmiphalappatto paṭiladdho adhigato",
+        "analyzed": "eka desam anāgāmī eka desam na anāgāmī eka desam anāgāmi phala patto paṭiladdhaḥ adhigataḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.3_1",
+        "original": "sacchikato upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena phusitvā",
+        "analyzed": "sacchikataḥ upasampajja viharati kāyena phusitvā viharati eka desam na kāyena phusitvā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.3_2",
+        "original": "viharati, ekadesaṁ antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī,",
+        "analyzed": "viharati eka desam antarā parinibbāyī upahacca parinibbāyī asaṅkhāra parinibbāyī ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.3_3",
+        "original": "sasaṅkhāraparinibbāyī, uddhaṁsoto akaniṭṭhagāmī, ekadesaṁ na uddhaṁsoto akaniṭṭhagāmīti?",
+        "analyzed": "sa saṅkhāra parinibbāyī uddha sotaḥ akaniṭṭha gāmī eka desam na uddha sotaḥ akaniṭṭha gāmī iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:12.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.1",
+        "original": "Arahattasacchikiriyāya paṭipanno puggalo dukkhadassanena kiṁ jahatīti?",
+        "analyzed": "arahatta sacchikiriyāya paṭipannaḥ puggalo dukkha dassanena kim jahati iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.2",
+        "original": "Rūparāgaṁ arūparāgaṁ mānaṁ uddhaccaṁ avijjaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "rūpa rāgam arūpa rāgam mānam uddhaccam avijjam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_0",
+        "original": "Ekadesaṁ arahā, ekadesaṁ na arahā, ekadesaṁ arahattappatto paṭiladdho adhigato sacchikato",
+        "analyzed": "ekadesam arahā ekadesam na arahā ekadesam arahatta patto paṭiladdhaḥ adhigataḥ sacchikataḥ ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_1",
+        "original": "upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena phusitvā viharati,",
+        "analyzed": "upasampajja viharati kāyena phusitvā viharati eka desam na kāyena phusitvā viharati ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_2",
+        "original": "ekadesaṁ vītarāgo vītadoso vītamoho katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano",
+        "analyzed": "eka desam vīta rāgaḥ vīta dosaḥ vīta mohaḥ kata karaṇīyaḥ ohita bhāraḥ an uppatta sadattho parikkhīṇa bhava sayojano ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_3",
+        "original": "sammadaññāvimutto ukkhittapaligho saṅkiṇṇaparikho abbūḷhesiko niraggaḷo ariyo pannaddhajo",
+        "analyzed": "sammad aññā vimuttaḥ ukkhitta palighaḥ saṅkiṇṇa parikhaḥ abbūḷhesikaḥ niraggaḷaḥ ariyaḥ pannaddha jo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_4",
+        "original": "pannabhāro visaññutto suvijitavijayo, dukkhaṁ tassa pariññātaṁ, samudayo pahīno,",
+        "analyzed": "panna bhāraḥ visaññuttaḥ su vijita vijayaḥ dukkham tassa samudayaḥ pahīno ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_5",
+        "original": "nirodho sacchikato, maggo bhāvito, abhiññeyyaṁ abhiññātaṁ, pariññeyyaṁ pariññātaṁ,",
+        "analyzed": "nirodhaḥ sacchikataḥ maggaḥ bhāvitaḥ abhiññeyyam abhiññāta pariññeyyam pariññāta ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_6",
+        "original": "pahātabbaṁ pahīnaṁ, bhāvetabbaṁ bhāvitaṁ, sacchikātabbaṁ sacchikataṁ, (ekadesaṁ sacchikātabbaṁ",
+        "analyzed": "pahātabbam pahīna bhāvetabbam bhāvita sacchikātabbam sacchikate eka desam ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.3_7",
+        "original": "sacchikataṁ) ekadesaṁ sacchikātabbaṁ na sacchikatanti?",
+        "analyzed": "sacchikate eka desam sacchikātabbam na sacchikatam ti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:13.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:14.1",
+        "original": "Samudayadassanena kiṁ jahatīti?",
+        "analyzed": "samudaya dassanena kim jahati iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:14.2",
+        "original": "Rūparāgaṁ arūparāgaṁ jahati, mānaṁ uddhaccaṁ avijjaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "rūpa rāgam a rūpa rāgam jahati mānam uddhaccam avijjam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:14.3",
+        "original": "Ekadesaṁ arahā, ekadesaṁ na arahā …pe…",
+        "analyzed": "eka desam arahā eka desam na arahā pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:14.4",
+        "original": "ekadesaṁ sacchikātabbaṁ sacchikataṁ, ekadesaṁ sacchikātabbaṁ na sacchikatanti?",
+        "analyzed": "ekadesam sacchikātabbam sacchikate ekadesam sacchikātabbam na sacchikatanti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:14.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:15.1",
+        "original": "Nirodhadassanena kiṁ jahatīti?",
+        "analyzed": "nirodha dassanena kim jahati iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:15.2",
+        "original": "Mānaṁ jahati, uddhaccaṁ avijjaṁ tadekaṭṭhe ca kilese ekadese jahatīti.",
+        "analyzed": "mānam jahati uddhaccam avijjam tad ekaṭṭhe ca kilese eka dese jahati iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:15.3",
+        "original": "Ekadesaṁ arahā, ekadesaṁ na arahā …pe…",
+        "analyzed": "eka desam arahā eka desam na arahā pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:15.4",
+        "original": "ekadesaṁ sacchikātabbaṁ sacchikataṁ, ekadesaṁ sacchikātabbaṁ na sacchikatanti?",
+        "analyzed": "ekadesam sacchikātabbam sacchikate ekadesam sacchikātabbam na sacchikatanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:15.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.1",
+        "original": "Maggadassanena kiṁ jahatīti?",
+        "analyzed": "magga dassanena kim jahati iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.2",
+        "original": "Uddhaccaṁ avijjaṁ tadekaṭṭhe ca kilese jahatīti.",
+        "analyzed": "uddhaccam avijjam tad ekaṭṭhe ca kilese jahati iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_0",
+        "original": "Ekadesaṁ arahā, ekadesaṁ na arahā, ekadesaṁ arahattappatto paṭiladdho adhigato sacchikato",
+        "analyzed": "ekadesam arahā ekadesam na arahā ekadesam arahatta patto paṭiladdhaḥ adhigataḥ sacchikataḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_1",
+        "original": "upasampajja viharati, kāyena phusitvā viharati, ekadesaṁ na kāyena phusitvā viharati,",
+        "analyzed": "upasampajja viharati kāyena phusitvā viharati eka desam na kāyena phusitvā viharati ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_2",
+        "original": "ekadesaṁ vītarāgo vītadoso vītamoho katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano",
+        "analyzed": "eka desam vīta rāgaḥ vīta dosaḥ vīta mohaḥ kata karaṇīyaḥ ohita bhāraḥ an uppatta sadattho parikkhīṇa bhava sayojano ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_3",
+        "original": "sammadaññāvimutto ukkhittapaligho saṅkiṇṇaparikho abbūḷhesiko niraggaḷo ariyo pannaddhajo",
+        "analyzed": "sammad aññā vimuttaḥ ukkhitta palighaḥ saṅkiṇṇa parikhaḥ abbūḷhesikaḥ niraggaḷaḥ ariyaḥ pannaddha jo ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_4",
+        "original": "pannabhāro visaññutto suvijitavijayo, dukkhaṁ tassa pariññātaṁ, samudayo pahīno,",
+        "analyzed": "panna bhāraḥ visaññuttaḥ su vijita vijayaḥ dukkham tassa samudayaḥ pahīno ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_5",
+        "original": "nirodho sacchikato, maggo bhāvito, abhiññeyyaṁ abhiññātaṁ, pariññeyyaṁ pariññātaṁ,",
+        "analyzed": "nirodhaḥ sacchikataḥ maggaḥ bhāvitaḥ abhiññeyyam abhiññāta pariññeyyam pariññāta ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_6",
+        "original": "pahātabbaṁ pahīnaṁ, bhāvetabbaṁ bhāvitaṁ, sacchikātabbaṁ sacchikataṁ, ekadesaṁ sacchikātabbaṁ",
+        "analyzed": "pahātabbam pahīna bhāvetabbam bhāvita sacchikātabbam sacchikate eka desam ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.3_7",
+        "original": "sacchikataṁ, ekadesaṁ sacchikātabbaṁ na sacchikatanti?",
+        "analyzed": "sacchikate eka desam sacchikātabbam na sacchikatam ti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:16.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:17.1",
+        "original": "Na vattabbaṁ—",
+        "analyzed": "na vattabba ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:17.2",
+        "original": "“odhisodhiso kilese jahatī”ti?",
+        "analyzed": "kilese jahati iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:17.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:17.4",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:18.1",
+        "original": "“Anupubbena medhāvī,",
+        "analyzed": "anupubbena medhāvī ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:18.2",
+        "original": "thokaṁ thokaṁ khaṇe khaṇe;",
+        "analyzed": "thokam thokam khaṇe khaṇe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:18.3",
+        "original": "Kammāro rajatasseva,",
+        "analyzed": "kammāraḥ rajatassa iva ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:18.4",
+        "original": "niddhame malamattano”ti.",
+        "analyzed": "niddhame malam attanoti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:19.1",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:19.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:19.3",
+        "original": "Tena hi na vattabbaṁ—",
+        "analyzed": "tena hi na vattabba ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:19.4",
+        "original": "“odhisodhiso kilese jahatī”ti.",
+        "analyzed": "kilese jahati iti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:20.1",
+        "original": "Odhisodhiso kilese jahatīti?",
+        "analyzed": "kilese jahati iti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:20.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:20.3",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:21.1",
+        "original": "“Sahāvassa dassanasampadāya,",
+        "analyzed": "sahāvassa dassana sampadāya ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:21.2",
+        "original": "Tayassu dhammā jahitā bhavanti;",
+        "analyzed": "tayassu dhammā jahitāḥ bhavanti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:21.3",
+        "original": "Sakkāyadiṭṭhī vicikicchitañca,",
+        "analyzed": "sa kāya diṭṭhī vicikicchitañca ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:21.4",
+        "original": "Sīlabbataṁ vāpi yadatthi kiñci;",
+        "analyzed": "sīlabbatam vā api yat atthi kiñci ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:21.5",
+        "original": "Catūhapāyehi ca vippamutto,",
+        "analyzed": "catūhapāyehi ca vippamuttaḥ ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:21.6",
+        "original": "Chaccābhiṭhānāni abhabba kātun”ti.",
+        "analyzed": "chacca abhiṭhānāni kātunti ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:22.1",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:22.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:22.3",
+        "original": "Tena hi na vattabbaṁ—",
+        "analyzed": "tena hi na vattabba ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:22.4",
+        "original": "“odhisodhiso kilese jahatī”ti.",
+        "analyzed": "kilese jahati iti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.1",
+        "original": "Odhisodhiso kilese jahatīti?",
+        "analyzed": "kilese jahati iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.3",
+        "original": "Nanu vuttaṁ bhagavatā—",
+        "analyzed": "nanu vuttam bhagavatā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.4",
+        "original": "“yasmiṁ, bhikkhave, samaye ariyasāvakassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi—",
+        "analyzed": "yasmi bhikkhave samaye ariya sāvakassa virajam vīta malam dhamma cakkhum udapādi ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.5",
+        "original": "‘yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhamman’ti, saha dassanuppādā, bhikkhave, ariyasāvakassa tīṇi saṁyojanāni pahīyanti—",
+        "analyzed": "yam kiñci samudaya dhamma sabbam tam nirodha dhamman ti saha dassana uppādāḥ bhikkhave ariyasāvakassa tīṇi sayojanāni pahīyanti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.6",
+        "original": "sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso”ti.",
+        "analyzed": "sakkāya diṭṭhi vicikicchā sīlabbata parāmāsā ti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.7",
+        "original": "Attheva suttantoti?",
+        "analyzed": "atthā iva suttanto ti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.8",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.9",
+        "original": "Tena hi na vattabbaṁ—",
+        "analyzed": "tena hi na vattabba ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.10",
+        "original": "“odhisodhiso kilese jahatī”ti.",
+        "analyzed": "kilese jahati iti ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_kv_1.4:23.11",
+        "original": "Odhisokathā niṭṭhitā.",
+        "analyzed": "odhisokathā niṭṭhitā ",
+        "folio": "23"
+    }
+]

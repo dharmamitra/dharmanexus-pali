@@ -1,0 +1,2210 @@
+[
+    {
+        "segmentnr": "PA_patthana_3.10:0.1",
+        "original": "Paṭṭhānapakaraṇa",
+        "analyzed": "paṭṭhāna pakaraṇa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:0.2",
+        "original": "Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)",
+        "analyzed": "dhamma anuloma ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:0.3",
+        "original": "3.10. Mahantaraduka, Kusalattika",
+        "analyzed": "mahantaraduka kusalattika ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:1.0.1",
+        "original": "3.10.1. Sārammaṇaduka, Kusalattika",
+        "analyzed": "sa ārammaṇa duka kusala ttika ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:1.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:1.1",
+        "original": "Sārammaṇaṁ kusalaṁ dhammaṁ paṭicca sārammaṇo kusalo dhammo uppajjati hetupaccayā (yathā sappaccayaṁ kusalaṁ, evaṁ vitthāretabbaṁ.)",
+        "analyzed": "sa ārammaṇam kusalam dhammam paṭicca sa ārammaṇaḥ kusalaḥ dhammaḥ uppajjati hetu paccayā yathā sa paccayam kusalaḥ evam ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:2.1",
+        "original": "Sārammaṇaṁ akusalaṁ dhammaṁ paṭicca sārammaṇo akusalo dhammo uppajjati hetupaccayā (yathā sappaccayaṁ akusalaṁ, evaṁ kātabbaṁ.)",
+        "analyzed": "sa ārammaṇam akusalam dhammam paṭicca sa ārammaṇaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā yathā sa paccayam akusalaḥ evam kātabba ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:3.1",
+        "original": "Sārammaṇaṁ abyākataṁ dhammaṁ paṭicca sārammaṇo abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "sa ārammaṇam abyākatam dhammam paṭicca sa ārammaṇaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:4.1",
+        "original": "Anārammaṇaṁ abyākataṁ dhammaṁ paṭicca anārammaṇo abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "anārammaṇam abyākatam dhammam paṭicca anārammaṇaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:5.1",
+        "original": "Sārammaṇaṁ abyākatañca anārammaṇaṁ abyākatañca dhammaṁ paṭicca sārammaṇo abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "sa ārammaṇam abyākatañca anārammaṇam abyākatañca dhammam paṭicca sa ārammaṇaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:6.1",
+        "original": "Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca …pe… aññamaññe cha …pe… purejāte ekaṁ, āsevane ekaṁ …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā nava ārammaṇe tīṇi adhipatiyā pañca pe aññamaññe cha pe purejāte eka āsevane ekam pe avigate nava saṅkhitta ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:7.1_0",
+        "original": "Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava …pe… napurejāte napacchājāte naāsevane",
+        "analyzed": "na hetuyā nava na ārammaṇe tīṇi na adhipatiyā nava pe na purejāte na pacchājāte na āsevane ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:7.1_1",
+        "original": "nava, nakamme dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne dve, namagge",
+        "analyzed": "nava na kamme dve na vipāke pañca na āhāre eka na indriye eka na jhāne dve na magge ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:7.1_2",
+        "original": "nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "nava na sampayutte tīṇi na vippayutte dve no natthiyā tīṇi no vigate tīṇi ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:8.0",
+        "original": "Hetu-ārammaṇa-adhipati",
+        "analyzed": "hetu ārammaṇa adhipati ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:8.1",
+        "original": "Sārammaṇo abyākato dhammo sārammaṇassa abyākatassa dhammassa hetupaccayena paccayo … tīṇi.",
+        "analyzed": "sārammaṇaḥ abyākataḥ dhammaḥ sārammaṇassa abyākatassa dhammassa hetu paccayena paccayaḥ tīṇi ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:9.1",
+        "original": "Sārammaṇo abyākato dhammo sārammaṇassa abyākatassa dhammassa ārammaṇapaccayena paccayo.",
+        "analyzed": "sa ārammaṇaḥ abyākataḥ dhammaḥ sa ārammaṇassa abyākatassa dhammassa ārammaṇa paccayena paccayaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:10.1",
+        "original": "Anārammaṇo abyākato dhammo sārammaṇassa abyākatassa dhammassa ārammaṇapaccayena paccayo.",
+        "analyzed": "anārammaṇaḥ abyākataḥ dhammaḥ sārammaṇassa abyākatassa dhammassa ārammaṇa paccayena paccayaḥ ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:11.1_0",
+        "original": "Sārammaṇo abyākato dhammo sārammaṇassa abyākatassa dhammassa adhipatipaccayena paccayo—ārammaṇādhipati,",
+        "analyzed": "sa ārammaṇaḥ abyākataḥ dhammo sa ārammaṇassa abyākatassa dhammassa adhipati paccayena paccayaḥ ārammaṇa adhipati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:11.1_1",
+        "original": "sahajātādhipati … tīṇi. Anārammaṇo abyākato dhammo sārammaṇassa abyākatassa dhammassa",
+        "analyzed": "sahajāta adhipati tīṇi anārammaṇaḥ abyākataḥ dhammo sārammaṇassa abyākatassa dhammassa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:11.1_2",
+        "original": "adhipatipaccayena paccayo—ārammaṇādhipati. (Saṅkhittaṁ.)",
+        "analyzed": "adhipati paccayena paccayaḥ ārammaṇa adhipati ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:12.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṁ …pe… sahajāte satta,",
+        "analyzed": "hetuyā tīṇi ārammaṇe dve adhipatiyā cattāri anantare ekam pe sahajāte satta ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:12.1_1",
+        "original": "aññamaññe cha, nissaye satta, upanissaye dve, purejāte ekaṁ, pacchājāte ekaṁ, āsevane",
+        "analyzed": "aññamaññe cha nissaye satta upanissaye dve purejāte eka pacchājāte eka āsevane ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:12.1_2",
+        "original": "ekaṁ, kamme tīṇi, vipāke tīṇi, āhāre cattāri, indriye cha, jhāne magge tīṇi, sampayutte",
+        "analyzed": "eka kamme tīṇi vipāke tīṇi āhāre cattāri indriye cha jhāne magge tīṇi sampayutte ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:12.1_3",
+        "original": "ekaṁ, vippayutte dve …pe… avigate satta. (Saṅkhittaṁ.)",
+        "analyzed": "eka vippayutte dve pe avigate satta saṅkhitta ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:13.0.1",
+        "original": "3.10.2. Cittaduka, Kusalattika",
+        "analyzed": "citta duka kusala ttika ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:13.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:13.1",
+        "original": "Cittaṁ kusalaṁ dhammaṁ paṭicca nocitto kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "cittam kusalam dhammam paṭicca no cittaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:14.1_0",
+        "original": "Nocittaṁ kusalaṁ dhammaṁ paṭicca nocitto kusalo dhammo uppajjati hetupaccayā. Nocittaṁ",
+        "analyzed": "no cittam kusalam dhammam paṭicca no cittaḥ kusalaḥ dhammo uppajjati hetu paccayā no citta ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:14.1_1",
+        "original": "kusalaṁ dhammaṁ paṭicca citto kusalo dhammo uppajjati hetupaccayā. Nocittaṁ kusalaṁ",
+        "analyzed": "kusalam dhammam paṭicca cittaḥ kusalaḥ dhammo uppajjati hetu paccayā no cittam kusala ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:14.1_2",
+        "original": "dhammaṁ paṭicca citto kusalo ca nocitto kusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "dhammam paṭicca citto kusalo ca no citto kusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:15.1",
+        "original": "Cittaṁ kusalañca nocittaṁ kusalañca dhammaṁ paṭicca nocitto kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "cittam kusalam ca no cittam kusalañca dhammam paṭicca no cittaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:16.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca (sabbattha pañca), avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca sabbattha pañca avigate pañca ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:17.1",
+        "original": "Naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, navippayutte pañca. (Saṅkhittaṁ.)",
+        "analyzed": "na adhipatiyā pañca na purejāte pañca na pacchājāte pañca na āsevane pañca na kamme tīṇi na vipāke pañca na vippayutte pañca saṅkhitta ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:18.1",
+        "original": "(Sahajātavārampi …pe… sampayuttavārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe sampayutta vāram pi ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:19.1_0",
+        "original": "Nocitto kusalo dhammo nocittassa kusalassa dhammassa hetupaccayena paccayo. Nocitto",
+        "analyzed": "no cittaḥ kusalaḥ dhammaḥ no cittassa kusalassa dhammassa hetu paccayena paccayaḥ no cittaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:19.1_1",
+        "original": "kusalo dhammo cittassa kusalassa dhammassa hetupaccayena paccayo. Nocitto kusalo",
+        "analyzed": "kusalaḥ dhammaḥ cittassa kusalassa dhammassa hetu paccayena paccayaḥ no cittaḥ kusalo ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:19.1_2",
+        "original": "dhammo cittassa kusalassa ca nocittassa kusalassa ca dhammassa hetupaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "dhammo cittassa kusalassa ca no cittassa kusalassa ca dhammassa hetu paccayena paccayaḥ ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:20.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava …pe… sahajāte aññamaññe",
+        "analyzed": "hetuyā tīṇi ārammaṇe nava adhipatiyā nava anantare nava pe sahajāte aññamaññe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:20.1_1",
+        "original": "nissaye pañca, upanissaye āsevane nava, kamme tīṇi, āhāre indriye pañca, jhāne magge",
+        "analyzed": "nissaye pañca upanissaye āsevane nava kamme tīṇi āhāre indriye pañca jhāne magge ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:20.1_2",
+        "original": "tīṇi, sampayutte pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "tīṇi sampayutte pañca pe avigate pañca ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:21.1",
+        "original": "Nahetuyā nava, naārammaṇe nava. (Saṅkhittaṁ.)",
+        "analyzed": "na hetuyā nava na ārammaṇe nava saṅkhitta ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:22.1",
+        "original": "Hetupaccayā naārammaṇe tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "hetu paccayāḥ na ārammaṇe tīṇi ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:23.1",
+        "original": "Nahetupaccayā ārammaṇe nava. (Saṅkhittaṁ.)",
+        "analyzed": "na hetu paccayā ārammaṇe nava saṅkhitta ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:24.1",
+        "original": "(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)",
+        "analyzed": "yathā kusala ttike pañhāvārassa anulomam pi paccanīyam pi anuloma paccanīyam pi paccanīya anulomam pi gaṇitaḥ evam gaṇetabba ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:25.1",
+        "original": "Cittaṁ akusalaṁ dhammaṁ paṭicca nocitto akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "cittam akusalam dhammam paṭicca no cittaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:26.1_0",
+        "original": "Nocittaṁ akusalaṁ dhammaṁ paṭicca nocitto akusalo dhammo uppajjati hetupaccayā. Nocittaṁ",
+        "analyzed": "no cittam akusalam dhammam paṭicca no cittaḥ akusalaḥ dhammo uppajjati hetu paccayā no citta ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:26.1_1",
+        "original": "akusalaṁ dhammaṁ paṭicca citto akusalo dhammo uppajjati hetupaccayā. Nocittaṁ akusalaṁ",
+        "analyzed": "akusalam dhammam paṭicca cittaḥ akusalaḥ dhammo uppajjati hetu paccayā no cittam akusala ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:26.1_2",
+        "original": "dhammaṁ paṭicca citto akusalo ca nocitto akusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "dhammam paṭicca cittaḥ akusalo ca no cittaḥ akusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:27.1",
+        "original": "Cittaṁ akusalañca nocittaṁ akusalañca dhammaṁ paṭicca nocitto akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "cittam akusalañca no cittam akusalañca dhammam paṭicca no cittaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:28.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca.",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:29.1",
+        "original": "Cittaṁ abyākataṁ dhammaṁ paṭicca nocitto abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "cittam abyākatam dhammam paṭicca no cittaḥ abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:30.1_0",
+        "original": "Nocittaṁ abyākataṁ dhammaṁ paṭicca nocitto abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "no cittam abyākatam dhammam paṭicca no cittaḥ abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:30.1_1",
+        "original": "Nocittaṁ abyākataṁ dhammaṁ paṭicca citto abyākato dhammo uppajjati hetupaccayā. Nocittaṁ",
+        "analyzed": "no cittam abyākatam dhammam paṭicca cittaḥ abyākataḥ dhammo uppajjati hetu paccayā no citta ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:30.1_2",
+        "original": "abyākataṁ dhammaṁ paṭicca citto abyākato ca nocitto abyākato ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "abyākatam dhammam paṭicca cittaḥ abyākataḥ ca no cittaḥ abyākataḥ ca dhammā uppajjanti hetu paccayā ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:31.1",
+        "original": "Cittaṁ abyākatañca nocittaṁ abyākatañca dhammaṁ paṭicca nocitto abyākato dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "cittam abyākatam ca no cittam abyākatañca dhammam paṭicca no cittaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:32.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… vipāke pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe vipāke pañca pe avigate pañca ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:33.1_0",
+        "original": "Nahetuyā pañca, naārammaṇe tīṇi, naadhipatiyā pañca …pe… napurejāte napacchājāte",
+        "analyzed": "na hetuyā pañca na ārammaṇe tīṇi na adhipatiyā pañca pe na purejāte na pacchājāte ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:33.1_1",
+        "original": "naāsevane pañca, nakamme tīṇi, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne",
+        "analyzed": "na āsevane pañca na kamme tīṇi na vipāke pañca na āhāre eka na indriye eka na jhāne ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:33.1_2",
+        "original": "pañca, namagge pañca, nasampayutte tīṇi, navippayutte pañca …pe… novigate tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "pañca na magge pañca na sampayutte tīṇi na vippayutte pañca pe no vigate tīṇi ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:34.1",
+        "original": "(Sahajātavārampi …pe… sampayuttavārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe sampayutta vāram pi ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:35.1",
+        "original": "Nocitto abyākato dhammo nocittassa abyākatassa dhammassa hetupaccayena paccayo … tīṇi. (Cittadukakusalasadisaṁ vitthāretabbaṁ.)",
+        "analyzed": "no cittaḥ abyākataḥ dhammaḥ no cittassa abyākatassa dhammassa hetu paccayena paccayaḥ tīṇi citta duka kusala sadisam ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:36.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava …pe… sahajāte pañca, aññamaññe",
+        "analyzed": "hetuyā tīṇi ārammaṇe nava adhipatiyā nava anantare nava pe sahajāte pañca aññamaññe ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:36.1_1",
+        "original": "nissaye pañca, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme",
+        "analyzed": "nissaye pañca upanissaye nava purejāte tīṇi pacchājāte tīṇi āsevane nava kamme ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:36.1_2",
+        "original": "tīṇi, vipāke pañca, āhāre indriye pañca, jhāne magge tīṇi, sampayutte pañca, vippayutte",
+        "analyzed": "tīṇi vipāke pañca āhāre indriye pañca jhāne magge tīṇi sampayutte pañca vippayutte ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:36.1_3",
+        "original": "pañca, atthiyā pañca, natthiyā nava …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "pañca atthiyā pañca natthiyā nava pe avigate pañca saṅkhitta ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:37.0.1",
+        "original": "3.10.3. Cetasikaduka, Kusalattika",
+        "analyzed": "cetasika duka kusala ttika ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:37.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:37.1_0",
+        "original": "Cetasikaṁ kusalaṁ dhammaṁ paṭicca cetasiko kusalo dhammo uppajjati hetupaccayā. Cetasikaṁ",
+        "analyzed": "cetasikam kusalam dhammam paṭicca cetasikaḥ kusalaḥ dhammo uppajjati hetu paccayā cetasika ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:37.1_1",
+        "original": "kusalaṁ dhammaṁ paṭicca acetasiko kusalo dhammo uppajjati hetupaccayā. Cetasikaṁ",
+        "analyzed": "kusalam dhammam paṭicca acetasikaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:37.1_2",
+        "original": "kusalaṁ dhammaṁ paṭicca cetasiko kusalo ca acetasiko kusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "kusalam dhammam paṭicca cetasikaḥ kusalo ca acetasikaḥ kusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:38.1",
+        "original": "Acetasikaṁ kusalaṁ dhammaṁ paṭicca cetasiko kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "acetasikam kusalam dhammam paṭicca cetasikaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:39.1",
+        "original": "Cetasikaṁ kusalañca acetasikaṁ kusalañca dhammaṁ paṭicca cetasiko kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "cetasikam kusalañca acetasikam kusalañca dhammam paṭicca cetasikaḥ kusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:40.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca, adhipatiyā pañca …pe… avigate pañca.",
+        "analyzed": "hetuyā pañca ārammaṇe pañca adhipatiyā pañca pe avigate pañca ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:41.1",
+        "original": "Naadhipatiyā pañca, napurejāte pañca …pe… nakamme tīṇi, navipāke pañca …pe… navippayutte pañca. (Saṅkhittaṁ, sahajātavārādi vitthāretabbo.)",
+        "analyzed": "na adhipatiyā pañca na purejāte pañca pe na kamme tīṇi na vipāke pañca pe na vippayutte pañca saṅkhitta sahajāta vāra ādi vitthāretabbaḥ ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:42.1",
+        "original": "Cetasiko kusalo dhammo cetasikassa kusalassa dhammassa hetupaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "cetasikaḥ kusalaḥ dhammaḥ cetasikassa kusalassa dhammassa hetu paccayena paccayaḥ ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:43.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ādimhi tīṇi, sahajātādhipati, majjhimesu",
+        "analyzed": "hetuyā tīṇi ārammaṇe nava adhipatiyā nava ādimhi tīṇi sahajāta adhipati majjhimesu ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:43.1_1",
+        "original": "tīsu majjhimānulomikāyeva pañhā, sahajātādhipati) anantare nava …pe… sahajāte pañca",
+        "analyzed": "tīsu sahajāta adhipati anantare nava sahajāte pañca ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:43.1_2",
+        "original": "…pe… upanissaye nava, āsevane nava, kamme tīṇi, āhāre pañca, indriye pañca, jhāne",
+        "analyzed": "pe upanissaye nava āsevane nava kamme tīṇi āhāre pañca indriye pañca jhāne ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:43.1_3",
+        "original": "tīṇi, magge tīṇi, sampayutte pañca, atthiyā pañca, natthiyā nava …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "tīṇi magge tīṇi sampayutte pañca atthiyā pañca natthiyā nava pe avigate pañca ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:44.1_0",
+        "original": "Cetasikaṁ akusalaṁ dhammaṁ paṭicca cetasiko akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "cetasikam akusalam dhammam paṭicca cetasikaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:44.1_1",
+        "original": "Cetasikaṁ akusalaṁ dhammaṁ paṭicca acetasiko akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "cetasikam akusalam dhammam paṭicca acetasikaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:44.1_2",
+        "original": "Cetasikaṁ akusalaṁ dhammaṁ paṭicca cetasiko akusalo ca acetasiko akusalo ca dhammā",
+        "analyzed": "cetasikam akusalam dhammam paṭicca cetasikaḥ akusalaḥ ca acetasikaḥ akusalo ca dhammā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:44.1_3",
+        "original": "uppajjanti hetupaccayā.",
+        "analyzed": "uppajjanti hetu paccayā ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:45.1",
+        "original": "Acetasikaṁ akusalaṁ dhammaṁ paṭicca cetasiko akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "acetasikam akusalam dhammam paṭicca cetasikaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:46.1",
+        "original": "Cetasikaṁ akusalañca acetasikaṁ akusalañca dhammaṁ paṭicca cetasiko akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "cetasikam akusalañca acetasikam akusalañca dhammam paṭicca cetasikaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:47.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ, yathā kusalanayaṁ evaṁ nahetupaccayampi kātabbaṁ.) (Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca saṅkhitta yathā kusala nayam evam na hetu paccayam pi kātabba sahajāta vāram pi pe pañhā vāram pi vitthāretabba ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:48.1_0",
+        "original": "Cetasikaṁ abyākataṁ dhammaṁ paṭicca cetasiko abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "cetasikam abyākatam dhammam paṭicca cetasikaḥ abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:48.1_1",
+        "original": "Cetasikaṁ abyākataṁ dhammaṁ paṭicca acetasiko abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "cetasikam abyākatam dhammam paṭicca acetasikaḥ abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:48.1_2",
+        "original": "Cetasikaṁ abyākataṁ dhammaṁ paṭicca cetasiko abyākato ca acetasiko abyākato ca dhammā",
+        "analyzed": "cetasikam abyākatam dhammam paṭicca cetasikaḥ abyākato ca acetasikaḥ abyākato ca dhammā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:48.1_3",
+        "original": "uppajjanti hetupaccayā.",
+        "analyzed": "uppajjanti hetu paccayā ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:49.1",
+        "original": "Acetasikaṁ abyākataṁ dhammaṁ paṭicca acetasiko abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "acetasikam abyākatam dhammam paṭicca acetasikaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:50.1",
+        "original": "Cetasikaṁ abyākatañca acetasikaṁ abyākatañca dhammaṁ paṭicca cetasiko abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "cetasikam abyākatam ca acetasikam abyākatam ca dhammam paṭicca cetasikaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:51.1",
+        "original": "Hetuyā nava, ārammaṇe nava, adhipatiyā nava …pe… purejāte āsevane pañca, kamme nava, vipāke nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā nava ārammaṇe nava adhipatiyā nava pe purejāte āsevane pañca kamme nava vipāke nava pe avigate nava saṅkhitta ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:52.1_0",
+        "original": "Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava (sabbe kātabbā) …pe… nakamme cattāri,",
+        "analyzed": "na hetuyā nava na ārammaṇe tīṇi na adhipatiyā nava sabbe kātabbā pe na kamme cattāri ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:52.1_1",
+        "original": "navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne cha, namagge nava, nasampayutte",
+        "analyzed": "na vipāke nava na āhāre eka na indriye eka na jhāne cha na magge nava na sampayutte ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:52.1_2",
+        "original": "tīṇi, navippayutte cha …pe… novigate tīṇi. (Saṅkhittaṁ, sahajātavārādi vitthāretabbo.)",
+        "analyzed": "tīṇi na vippayutte cha pe no vigate tīṇi saṅkhitta sahajāta vāra ādi vitthāretabbo ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:53.1",
+        "original": "Cetasiko abyākato dhammo cetasikassa abyākatassa dhammassa hetupaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "cetasikaḥ abyākataḥ dhammaḥ cetasikassa abyākatassa dhammassa hetu paccayena paccayaḥ ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:54.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ettha chasu sahajātādhipati), anantare",
+        "analyzed": "tīṇi ārammaṇe nava adhipatiyā nava ettha chasu sahajāta adhipati anantare ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:54.1_1",
+        "original": "nava …pe… sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte",
+        "analyzed": "nava pe sahajāte nava aññamaññe nava nissaye nava upanissaye nava purejāte ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:54.1_2",
+        "original": "tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava, indriye",
+        "analyzed": "tīṇi pacchājāte tīṇi āsevane nava kamme tīṇi vipāke nava āhāre nava indriye ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:54.1_3",
+        "original": "nava, jhāne tīṇi, magge tīṇi, sampayutte pañca, vippayutte pañca, atthiyā nava …pe…",
+        "analyzed": "nava jhāne tīṇi magge tīṇi sampayutte pañca vippayutte pañca atthiyā nava pe ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:54.1_4",
+        "original": "avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "a vigate nava saṅkhitta ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:55.0.1",
+        "original": "3.10.4. Cittasampayuttaduka, Kusalattika",
+        "analyzed": "citta sampayutta duka kusala ttika ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:55.0.2",
+        "original": "3.10.4.1. Kusalākusalapada",
+        "analyzed": "kusala a kusala pada ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:55.0.3",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:55.1",
+        "original": "Cittasampayuttaṁ kusalaṁ dhammaṁ paṭicca cittasampayutto kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sampayuttam kusalam dhammam paṭicca citta sampayuttaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:56.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekaṃ pe avigate eka saṅkhitta ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:57.1",
+        "original": "(Sahajātavārepi …pe… pañhāvārepi sabbattha ekaṁ.)",
+        "analyzed": "sahajāta vāre pi pe pañhā vāre pi sabbattha eka ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:58.1",
+        "original": "Cittasampayuttaṁ akusalaṁ dhammaṁ paṭicca cittasampayutto akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sampayuttam akusalam dhammam paṭicca citta sampayuttaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:59.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Saṅkhittaṁ.) (Sahajātavārepi …pe… pañhāvārepi sabbattha ekaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekaṃ pe avigate eka saṅkhitta sahajāta vāre pi pe pañhā vāre pi sabbattha eka ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:60.0.1",
+        "original": "3.10.4.2. Abyākatapada",
+        "analyzed": "a byākata pada ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:60.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:60.1_0",
+        "original": "Cittasampayuttaṁ abyākataṁ dhammaṁ paṭicca cittasampayutto abyākato dhammo uppajjati",
+        "analyzed": "citta sampayuttam abyākatam dhammam paṭicca citta sampayuttaḥ abyākataḥ dhammo uppajjati ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:60.1_1",
+        "original": "hetupaccayā. Cittasampayuttaṁ abyākataṁ dhammaṁ paṭicca cittavippayutto abyākato",
+        "analyzed": "hetu paccayā citta sampayuttam abyākatam dhammam paṭicca citta vippayuttaḥ abyākataḥ ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:60.1_2",
+        "original": "dhammo uppajjati hetupaccayā. Cittasampayuttaṁ abyākataṁ dhammaṁ paṭicca cittasampayutto",
+        "analyzed": "dhammaḥ uppajjati hetu paccayā citta sampayuttam abyākatam dhammam paṭicca citta sampayuttaḥ ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:60.1_3",
+        "original": "abyākato ca cittavippayutto abyākato ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "abyākataḥ ca citta vippayuttaḥ abyākataḥ ca dhammā uppajjanti hetu paccayā ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:61.1_0",
+        "original": "Cittavippayuttaṁ abyākataṁ dhammaṁ paṭicca cittavippayutto abyākato dhammo uppajjati",
+        "analyzed": "citta vippayuttam abyākatam dhammam paṭicca citta vippayuttaḥ abyākataḥ dhammo uppajjati ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:61.1_1",
+        "original": "hetupaccayā. Cittavippayuttaṁ abyākataṁ dhammaṁ paṭicca cittasampayutto abyākato",
+        "analyzed": "hetu paccayā citta vippayuttam abyākatam dhammam paṭicca citta sampayuttaḥ abyākataḥ ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:61.1_2",
+        "original": "dhammo uppajjati hetupaccayā. Cittavippayuttaṁ abyākataṁ dhammaṁ paṭicca cittasampayutto",
+        "analyzed": "dhammaḥ uppajjati hetu paccayā citta vippayuttam abyākatam dhammam paṭicca citta sampayuttaḥ ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:61.1_3",
+        "original": "abyākato ca cittavippayutto abyākato ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "abyākataḥ ca citta vippayuttaḥ abyākataḥ ca dhammā uppajjanti hetu paccayā ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:62.1_0",
+        "original": "Cittasampayuttaṁ abyākatañca cittavippayuttaṁ abyākatañca dhammaṁ paṭicca cittasampayutto",
+        "analyzed": "citta sampayuttam abyākatam ca citta vippayuttam abyākatam ca dhammam paṭicca citta sampayuttaḥ ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:62.1_1",
+        "original": "abyākato dhammo uppajjati hetupaccayā. Cittasampayuttaṁ abyākatañca cittavippayuttaṁ",
+        "analyzed": "abyākataḥ dhammaḥ uppajjati hetu paccayā citta sampayuttam abyākatam ca citta vippayutta ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:62.1_2",
+        "original": "abyākatañca dhammaṁ paṭicca cittavippayutto abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "abyākatam ca dhammam paṭicca citta vippayuttaḥ abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:62.1_3",
+        "original": "Cittasampayuttaṁ abyākatañca cittavippayuttaṁ abyākatañca dhammaṁ paṭicca cittasampayutto",
+        "analyzed": "citta sampayuttam abyākatam ca citta vippayuttam abyākatam ca dhammam paṭicca citta sampayuttaḥ ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:62.1_4",
+        "original": "abyākato ca cittavippayutto abyākato ca dhammā uppajjanti hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "abyākataḥ ca citta vippayuttaḥ abyākataḥ ca dhammā uppajjanti hetu paccayā ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:63.1",
+        "original": "Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca …pe… aññamaññe cha …pe… purejāte ekaṁ, āsevane ekaṁ, kamme nava, vipāke nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā nava ārammaṇe tīṇi adhipatiyā pañca pe aññamaññe cha pe purejāte eka āsevane eka kamme nava vipāke nava pe avigate nava saṅkhitta ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:64.1_0",
+        "original": "Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava …pe… napurejāte nava …pe… nakamme",
+        "analyzed": "na hetuyā nava na ārammaṇe tīṇi na adhipatiyā nava pe na purejāte nava pe na kamme ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:64.1_1",
+        "original": "dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne dve, namagge nava, nasampayutte",
+        "analyzed": "dve na vipāke pañca na āhāre eka na aindriye eka na jhāne dve na magge nava na sampayutte ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:64.1_2",
+        "original": "tīṇi, navippayutte dve …pe… novigate dve. (Saṅkhittaṁ, sahajātavārādi vitthāretabbo.)",
+        "analyzed": "tīṇi na vippayutte dve pe no vigate dve saṅkhitta sahajāta vāra ādi vitthāretabbo ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:65.0",
+        "original": "Hetu-ārammaṇa",
+        "analyzed": "hetu ārammaṇa ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:65.1",
+        "original": "Cittasampayutto abyākato dhammo cittasampayuttassa abyākatassa dhammassa hetupaccayena paccayo … tīṇi.",
+        "analyzed": "citta sampayuttaḥ abyākataḥ dhammaḥ citta sampayuttassa abyākatassa dhammassa hetu paccayena paccayaḥ tīṇi ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:66.1",
+        "original": "Cittasampayutto abyākato dhammo cittasampayuttassa abyākatassa dhammassa ārammaṇapaccayena paccayo.",
+        "analyzed": "citta sampayuttaḥ abyākataḥ dhammaḥ citta sampayuttassa abyākatassa dhammassa ārammaṇa paccayena paccayaḥ ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:67.1",
+        "original": "Cittavippayutto abyākato dhammo cittasampayuttassa abyākatassa dhammassa ārammaṇapaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "citta vippayuttaḥ abyākataḥ dhammo citta sampayuttassa abyākatassa dhammassa ārammaṇa paccayena paccayo saṅkhitta ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:68.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṁ …pe… sahajāte satta,",
+        "analyzed": "hetuyā tīṇi ārammaṇe dve adhipatiyā cattāri anantare ekam pe sahajāte satta ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:68.1_1",
+        "original": "aññamaññe cha, nissaye satta, upanissaye dve, purejāte ekaṁ, pacchājāte ekaṁ, āsevane",
+        "analyzed": "aññamaññe cha nissaye satta upanissaye dve purejāte eka pacchājāte eka āsevane ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:68.1_2",
+        "original": "ekaṁ, kamme tīṇi, vipāke tīṇi, āhāre cattāri, indriye cha, jhāne tīṇi, magge tīṇi,",
+        "analyzed": "eka kamme tīṇi vipāke tīṇi āhāre cattāri indriye cha jhāne tīṇi magge tīṇi ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:68.1_3",
+        "original": "sampayutte ekaṁ, vippayutte dve …pe… avigate satta. (Saṅkhittaṁ.)",
+        "analyzed": "sampayutte eka vippayutte dve pe avigate satta saṅkhitta ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:69.0.1",
+        "original": "3.10.5. Cittasaṁsaṭṭhaduka, Kusalattika",
+        "analyzed": "citta sasa ṭṭha duka kusala ttika ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:69.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:69.1",
+        "original": "Cittasaṁsaṭṭhaṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭho kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭham kusalam dhammam paṭicca citta sasaṭṭhaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:70.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Saṅkhittaṁ.) (Sahajātavārepi …pe… pañhāvārepi sabbattha ekaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekaṃ pe avigate eka saṅkhitta sahajāta vāre pi pe pañhā vāre pi sabbattha eka ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:71.1",
+        "original": "Cittasaṁsaṭṭhaṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭho akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭham akusalam dhammam paṭicca citta sasaṭṭhaḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:72.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Saṅkhittaṁ.) (Sahajātavārepi …pe… pañhāvārepi sabbattha ekaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekaṃ pe avigate eka saṅkhitta sahajāta vāre pi pe pañhā vāre pi sabbattha eka ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:73.1",
+        "original": "Cittasaṁsaṭṭhaṁ abyākataṁ dhammaṁ paṭicca cittasaṁsaṭṭho abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sasaṭṭham abyākatam dhammam paṭicca citta sasaṭṭhaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:74.1",
+        "original": "Nocittasaṁsaṭṭhaṁ abyākataṁ dhammaṁ paṭicca nocittasaṁsaṭṭho abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "no citta sasaṭṭham abyākatam dhammam paṭicca no citta sasaṭṭhaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:75.1",
+        "original": "Cittasaṁsaṭṭhaṁ abyākatañca nocittasaṁsaṭṭhaṁ abyākatañca dhammaṁ paṭicca cittasaṁsaṭṭho abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭham abyākatam ca no citta sasaṭṭham abyākatam ca dhammam paṭicca citta sasaṭṭhaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:76.1",
+        "original": "Hetuyā nava, ārammaṇe tīṇi …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā nava ārammaṇe tīṇi pe avigate nava ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:77.1",
+        "original": "(Yathā cittasampayuttadukaṁ abyākatasadisaṁ. Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "yathā sahajāta vārampi pe pañhā vārampi ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:78.0.1",
+        "original": "3.10.6. Cittasamuṭṭhānaduka, Kusalattika",
+        "analyzed": "citta samuṭṭhāna duka kusala ttika ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:78.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:78.1_0",
+        "original": "Cittasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca cittasamuṭṭhāno kusalo dhammo uppajjati",
+        "analyzed": "citta samuṭṭhānam kusalam dhammam paṭicca citta samuṭṭhānaḥ kusalaḥ dhammo uppajjati ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:78.1_1",
+        "original": "hetupaccayā. Cittasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca nocittasamuṭṭhāno kusalo dhammo",
+        "analyzed": "hetu paccayā citta samuṭṭhānam kusalam dhammam paṭicca no citta samuṭṭhānaḥ kusalaḥ dhammaḥ ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:78.1_2",
+        "original": "uppajjati hetupaccayā. Cittasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca cittasamuṭṭhāno kusalo",
+        "analyzed": "uppajjati hetu paccayā citta samuṭṭhānam kusalam dhammam paṭicca citta samuṭṭhānaḥ kusalo ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:78.1_3",
+        "original": "ca nocittasamuṭṭhāno kusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "ca no citta samuṭṭhāno kusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:79.1",
+        "original": "Nocittasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca cittasamuṭṭhāno kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta samuṭṭhānam kusalam dhammam paṭicca citta samuṭṭhānaḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:80.1",
+        "original": "Cittasamuṭṭhānaṁ kusalañca nocittasamuṭṭhānaṁ kusalañca dhammaṁ paṭicca cittasamuṭṭhāno kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta samuṭṭhānam kusalañca no citta samuṭṭhānam kusalañca dhammam paṭicca citta samuṭṭhānaḥ kusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:81.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca (sabbattha pañca), avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca sabbattha pañca avigate pañca ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:82.1",
+        "original": "Naadhipatiyā pañca, napurejāte pañca …pe… nakamme tīṇi, navipāke pañca …pe… navippayutte pañca. (Saṅkhittaṁ, sahajātavārādi vitthāretabbo.)",
+        "analyzed": "na adhipatiyā pañca na purejāte pañca pe na kamme tīṇi na vipāke pañca pe na vippayutte pañca saṅkhitta sahajāta vāra ādi vitthāretabbaḥ ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:83.1",
+        "original": "Cittasamuṭṭhāno kusalo dhammo cittasamuṭṭhānassa kusalassa dhammassa hetupaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "citta samuṭṭhānaḥ kusalaḥ dhammaḥ citta samuṭṭhānassa kusalassa dhammassa hetu paccayena paccayaḥ saṅkhitta ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:84.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte",
+        "analyzed": "tīṇi ārammaṇe nava adhipatiyā nava anantare nava samanantare nava sahajāte ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:84.1_1",
+        "original": "pañca …pe… upanissaye nava, āsevane nava, kamme tīṇi, āhāre pañca, indriye pañca,",
+        "analyzed": "pañca pe upanissaye nava āsevane nava kamme tīṇi āhāre pañca indriye pañca ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:84.1_2",
+        "original": "jhāne tīṇi, magge tīṇi, sampayutte pañca, atthiyā pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "jhāne tīṇi magge tīṇi sampayutte pañca atthiyā pañca pe avigate pañca ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:85.1",
+        "original": "Cittasamuṭṭhānaṁ akusalaṁ dhammaṁ paṭicca cittasamuṭṭhāno akusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta samuṭṭhānam akusalam dhammam paṭicca citta samuṭṭhānaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:86.1",
+        "original": "Nocittasamuṭṭhānaṁ akusalaṁ dhammaṁ paṭicca cittasamuṭṭhāno akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta samuṭṭhānam akusalam dhammam paṭicca citta samuṭṭhānaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:87.1",
+        "original": "Cittasamuṭṭhānaṁ akusalañca nocittasamuṭṭhānaṁ akusalañca dhammaṁ paṭicca cittasamuṭṭhāno akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta samuṭṭhānam akusalañca no citta samuṭṭhānam akusalañca dhammam paṭicca citta samuṭṭhānaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:88.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:89.1",
+        "original": "(Kusalattikasadisaṁ sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "kusala ttika sadisam sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:90.1",
+        "original": "Cittasamuṭṭhānaṁ abyākataṁ dhammaṁ paṭicca cittasamuṭṭhāno abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta samuṭṭhānam abyākatam dhammam paṭicca citta samuṭṭhānaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:91.1",
+        "original": "Nocittasamuṭṭhānaṁ abyākataṁ dhammaṁ paṭicca nocittasamuṭṭhāno abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "no citta samuṭṭhānam abyākatam dhammam paṭicca no citta samuṭṭhānaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:92.1",
+        "original": "Cittasamuṭṭhānaṁ abyākatañca nocittasamuṭṭhānaṁ abyākatañca dhammaṁ paṭicca cittasamuṭṭhāno abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "citta samuṭṭhānam abyākatam ca no citta samuṭṭhānam abyākatam ca dhammam paṭicca citta samuṭṭhānaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:93.1",
+        "original": "Hetuyā nava, ārammaṇe nava, adhipatiyā pañca (sabbattha nava), purejāte pañca, āsevane pañca …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā nava ārammaṇe nava adhipatiyā pañca sabbattha nava purejāte pañca āsevane pañca pe avigate nava saṅkhitta ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:94.1_0",
+        "original": "Nahetuyā nava, naārammaṇe cha, naadhipatiyā nava …pe… nakamme tīṇi, navipāke cha,",
+        "analyzed": "na hetuyā nava na ārammaṇe cha na adhipatiyā nava pe na kamme tīṇi na vipāke cha ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:94.1_1",
+        "original": "naāhāre ekaṁ, naindriye ekaṁ, najhāne cha, namagge nava, nasampayutte cha, navippayutte",
+        "analyzed": "na āhāre eka na indriye eka na jhāne cha na magge nava na sampayutte cha na vippayutte ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:94.1_2",
+        "original": "cha, nonatthiyā cha, novigate cha. (Saṅkhittaṁ.)",
+        "analyzed": "cha nonatthiyā cha no vigate cha saṅkhitta ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:95.1",
+        "original": "(Sahajātavārampi …pe… sampayuttavārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe sampayutta vāram pi ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:96.1",
+        "original": "Cittasamuṭṭhāno abyākato dhammo cittasamuṭṭhānassa abyākatassa dhammassa hetupaccayena paccayo … tīṇi.",
+        "analyzed": "citta samuṭṭhānaḥ abyākataḥ dhammaḥ citta samuṭṭhānassa abyākatassa dhammassa hetu paccayena paccayaḥ tīṇi ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:97.1",
+        "original": "Cittasamuṭṭhāno abyākato dhammo cittasamuṭṭhānassa abyākatassa dhammassa ārammaṇapaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "citta samuṭṭhānaḥ abyākataḥ dhammo citta samuṭṭhānassa abyākatassa dhammassa ārammaṇa paccayena paccayo saṅkhitta ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:98.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava (sabbattha nava), purejāte",
+        "analyzed": "hetuyā tīṇi ārammaṇe nava adhipatiyā nava anantare nava sabbattha nava purejāte ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:98.1_1",
+        "original": "nava, pacchājāte nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava (cittasamuṭṭhānamūlaṁ",
+        "analyzed": "nava pacchājāte nava āsevane nava kamme tīṇi vipāke nava āhāre nava citta samuṭṭhāna mūla ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:98.1_2",
+        "original": "nocittasamuṭṭhānassa kabaḷīkāro āhāro kātabbo. Nocittasamuṭṭhāno cittasamuṭṭhānassa",
+        "analyzed": "no citta samuṭṭhānassa kabaḷīkāraḥ āhāraḥ kātabbaḥ no citta samuṭṭhānaḥ citta samuṭṭhānassa ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:98.1_3",
+        "original": "kabaḷīkāro āhāro ghaṭane majjhe kabaḷīkāro āhāro), indriye nava (rūpajīvitindriyaṁ",
+        "analyzed": "kabaḷīkāraḥ āhāraḥ ghaṭane majjhe kabaḷīkāraḥ āhāraḥ indriye nava ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:98.1_4",
+        "original": "ekaṁ), jhāne tīṇi, magge tīṇi, sampayutte pañca, vippayutte nava, atthiyā nava, natthiyā",
+        "analyzed": "eka jhāne tīṇi magge tīṇi sampayutte pañca vippayutte nava atthiyā nava natthiyā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:98.1_5",
+        "original": "nava, vigate nava, avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "nava vigate nava avigate nava saṅkhitta ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:99.1",
+        "original": "(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)",
+        "analyzed": "yathā kusala ttike pañhāvārassa anulomam pi paccanīyam pi anuloma paccanīyam pi paccanīya anulomam pi gaṇitaḥ evam gaṇetabba ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:100.0.1",
+        "original": "3.10.7. Cittasahabhūduka, Kusalattika",
+        "analyzed": "citta saha bhūduka kusalattika ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:100.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:100.1_0",
+        "original": "Cittasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasahabhū kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "citta sahabhum kusalam dhammam paṭicca citta sahabhū kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:100.1_1",
+        "original": "Cittasahabhuṁ kusalaṁ dhammaṁ paṭicca nocittasahabhū kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "citta sahabhum kusalam dhammam paṭicca no citta sahabhū kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:100.1_2",
+        "original": "Cittasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasahabhū kusalo ca nocittasahabhū kusalo",
+        "analyzed": "citta sahabhum kusalam dhammam paṭicca citta sahabhū kusalo ca no citta sahabhū kusalo ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:100.1_3",
+        "original": "ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "ca dhammā uppajjanti hetu paccayā ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:101.1",
+        "original": "Nocittasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasahabhū kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sahabhum kusalam dhammam paṭicca citta sahabhū kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:102.1",
+        "original": "Cittasahabhuṁ kusalañca nocittasahabhuṁ kusalañca dhammaṁ paṭicca cittasahabhū kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sahabhum kusalañca no citta sahabhum kusalañca dhammam paṭicca citta sahabhū kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:103.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.) (Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca saṅkhitta sahajāta vārampi pe pañhā vārampi vitthāretabba ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:104.1",
+        "original": "Cittasahabhuṁ akusalaṁ dhammaṁ paṭicca cittasahabhū akusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sahabhum akusalam dhammam paṭicca citta sahabhū akusalaḥ dhammo uppajjati hetu paccayā tīṇi ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:105.1",
+        "original": "Nocittasahabhuṁ akusalaṁ dhammaṁ paṭicca cittasahabhū akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sahabhum akusalam dhammam paṭicca citta sahabhū akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:106.1",
+        "original": "Cittasahabhuṁ akusalañca nocittasahabhuṁ akusalañca dhammaṁ paṭicca cittasahabhū akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sahabhum akusalañca no citta sahabhum akusalañca dhammam paṭicca citta sahabhū akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:107.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:108.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:109.1",
+        "original": "Cittasahabhuṁ abyākataṁ dhammaṁ paṭicca cittasahabhū abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sahabhum abyākatam dhammam paṭicca citta sahabhū abyākataḥ dhammo uppajjati hetu paccayā tīṇi ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:110.1",
+        "original": "Nocittasahabhuṁ abyākataṁ dhammaṁ paṭicca nocittasahabhū abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "no citta sahabhum abyākatam dhammam paṭicca no citta sahabhū abyākataḥ dhammo uppajjati hetu paccayā tīṇi ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:111.1",
+        "original": "Cittasahabhuṁ abyākatañca nocittasahabhuṁ abyākatañca dhammaṁ paṭicca cittasahabhū abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "citta sahabhum abyākatam ca no citta sahabhum abyākatam ca dhammam paṭicca citta sahabhū abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:112.1",
+        "original": "Hetuyā nava, ārammaṇe nava …pe… avigate nava.",
+        "analyzed": "hetuyā nava ārammaṇe nava pe avigate nava ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:113.0.1",
+        "original": "3.10.8. Cittānuparivattiduka, Kusalattika",
+        "analyzed": "      ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:113.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:113.1",
+        "original": "Cittānuparivattiṁ kusalaṁ dhammaṁ paṭicca cittānuparivattī kusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta anuparivattim kusalam dhammam paṭicca citta anuparivattī kusalaḥ dhammo uppajjati hetu paccayā tīṇi ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:114.1",
+        "original": "Nocittānuparivattiṁ kusalaṁ dhammaṁ paṭicca cittānuparivattī kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta anuparivattim kusalam dhammam paṭicca citta anuparivattī kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:115.1",
+        "original": "Cittānuparivattiṁ kusalañca nocittānuparivattiṁ kusalañca dhammaṁ paṭicca cittānuparivattī kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta anuparivattim kusalañca no citta anuparivattim kusalañca dhammam paṭicca citta anuparivattī kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:116.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "116"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:117.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "117"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:118.1",
+        "original": "Cittānuparivattiṁ akusalaṁ dhammaṁ paṭicca cittānuparivattī akusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta anuparivattim akusalam dhammam paṭicca citta anuparivattī akusalaḥ dhammo uppajjati hetu paccayā tīṇi ",
+        "folio": "118"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:119.1",
+        "original": "Nocittānuparivattiṁ akusalaṁ dhammaṁ paṭicca cittānuparivattī akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta anuparivattim akusalam dhammam paṭicca citta anuparivattī akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "119"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:120.1",
+        "original": "Cittānuparivattiṁ akusalañca nocittānuparivattiṁ akusalañca dhammaṁ paṭicca cittānuparivattī akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta anuparivattim akusalañca no citta anuparivattim akusalañca dhammam paṭicca citta anuparivattī akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "120"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:121.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "121"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:122.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "122"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:123.1",
+        "original": "Cittānuparivattiṁ abyākataṁ dhammaṁ paṭicca cittānuparivattī abyākato dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta anuparivattim abyākatam dhammam paṭicca citta anuparivattī abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "123"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:124.1",
+        "original": "Hetuyā nava, ārammaṇe nava …pe… purejāte āsevane pañca …pe… avigate nava.",
+        "analyzed": "hetuyā nava ārammaṇe nava pe purejāte āsevane pañca pe avigate nava ",
+        "folio": "124"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:125.0.1",
+        "original": "3.10.9. Cittasaṁsaṭṭhasamuṭṭhānaduka, Kusalattika",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna duka kusala ttika ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:125.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:125.1_0",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno kusalo",
+        "analyzed": "citta sasaṭṭha samuṭṭhānam kusalam dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ kusalaḥ ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:125.1_1",
+        "original": "dhammo uppajjati hetupaccayā. Cittasaṁsaṭṭhasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca nocittasaṁsaṭṭhasamuṭṭhāno",
+        "analyzed": "dhammaḥ uppajjati hetu paccayā citta sasaṭṭha samuṭṭhānam kusalam dhammam paṭicca no citta sasaṭṭha samuṭṭhānaḥ ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:125.1_2",
+        "original": "kusalo dhammo uppajjati hetupaccayā. Cittasaṁsaṭṭhasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca",
+        "analyzed": "kusalaḥ dhammaḥ uppajjati hetu paccayā citta sasaṭṭha samuṭṭhānam kusalam dhammam paṭicca ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:125.1_3",
+        "original": "cittasaṁsaṭṭhasamuṭṭhāno kusalo ca nocittasaṁsaṭṭhasamuṭṭhāno kusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "citta sasaṭṭha samuṭṭhāno kusalo ca no citta sasaṭṭha samuṭṭhāno kusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "125"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:126.1",
+        "original": "Nocittasaṁsaṭṭhasamuṭṭhānaṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sasaṭṭha samuṭṭhānam kusalam dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ kusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "126"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:127.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānaṁ kusalañca nocittasaṁsaṭṭhasamuṭṭhānaṁ kusalañca dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭha samuṭṭhānam kusalañca no citta sasaṭṭha samuṭṭhānam kusalañca dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ kusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "127"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:128.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca.",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "128"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:129.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānaṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno akusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sasaṭṭha samuṭṭhānam akusalam dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "129"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:130.1",
+        "original": "Nocittasaṁsaṭṭhasamuṭṭhānaṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sasaṭṭha samuṭṭhānam akusalam dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "130"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:131.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānaṁ akusalañca nocittasaṁsaṭṭhasamuṭṭhānaṁ akusalañca dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭha samuṭṭhānam akusalañca no citta sasaṭṭha samuṭṭhānam akusalañca dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "131"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:132.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca.",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "132"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:133.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānaṁ abyākataṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sasaṭṭha samuṭṭhānam abyākatam dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "133"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:134.1",
+        "original": "Nocittasaṁsaṭṭhasamuṭṭhānaṁ abyākataṁ dhammaṁ paṭicca nocittasaṁsaṭṭhasamuṭṭhāno abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "no citta sa saṭṭha samuṭṭhānam abyākatam dhammam paṭicca no citta sa saṭṭha samuṭṭhānaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "134"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:135.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānaṁ abyākatañca nocittasaṁsaṭṭhasamuṭṭhānaṁ abyākatañca dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhāno abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭha samuṭṭhānam abyākatam ca no citta sasaṭṭha samuṭṭhānam abyākatam ca dhammam paṭicca citta sasaṭṭha samuṭṭhānaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi saṅkhitta ",
+        "folio": "135"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:136.1",
+        "original": "Hetuyā nava, ārammaṇe nava, adhipatiyā nava …pe… purejāte pañca, āsevane pañca, kamme nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā nava ārammaṇe nava adhipatiyā nava pe purejāte pañca āsevane pañca kamme nava pe avigate nava ",
+        "folio": "136"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:137.1_0",
+        "original": "Nahetuyā nava, naārammaṇe tīṇi …pe… nakamme cattāri, navipāke nava, naāhāre ekaṁ,",
+        "analyzed": "na hetuyā nava na ārammaṇe tīṇi pe na kamme cattāri na vipāke nava na āhāre eka ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:137.1_1",
+        "original": "naindriye ekaṁ, najhāne cha, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā",
+        "analyzed": "na indriye eka na jhāne cha na magge nava na sampayutte tīṇi na vippayutte cha no natthiyā ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:137.1_2",
+        "original": "tīṇi, novigate tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "tīṇi na u vigate tīṇi ",
+        "folio": "137"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:138.1",
+        "original": "(Sahajātavārampi …pe… sampayuttavārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe sampayutta vāram pi ",
+        "folio": "138"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:139.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhāno abyākato dhammo cittasaṁsaṭṭhasamuṭṭhānassa abyākatassa dhammassa hetupaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭha samuṭṭhānaḥ abyākataḥ dhammaḥ citta sasaṭṭha samuṭṭhānassa abyākatassa dhammassa hetu paccayena paccayaḥ saṅkhitta ",
+        "folio": "139"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:140.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ettha chasu sahajātādhipati), anantare",
+        "analyzed": "tīṇi ārammaṇe nava adhipatiyā nava ettha chasu sahajāta adhipati anantare ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:140.1_1",
+        "original": "nava (sabbattha nava), purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi,",
+        "analyzed": "nava sabbattha nava purejāte tīṇi pacchājāte tīṇi āsevane nava kamme tīṇi ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:140.1_2",
+        "original": "vipāke nava, āhāre nava, indriye nava, jhāne tīṇi, magge tīṇi, sampayutte pañca,",
+        "analyzed": "vipāke nava āhāre nava indriye nava jhāne tīṇi magge tīṇi sampayutte pañca ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:140.1_3",
+        "original": "vippayutte pañca, atthiyā nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "vippayutte pañca atthiyā nava pe avigate nava saṅkhitta ",
+        "folio": "140"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:141.1",
+        "original": "Nahetuyā nava, naārammaṇe nava. (Saṅkhittaṁ.)",
+        "analyzed": "na hetuyā nava na ārammaṇe nava saṅkhitta ",
+        "folio": "141"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:142.1",
+        "original": "Hetupaccayā naārammaṇe tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "hetu paccayāḥ na ārammaṇe tīṇi ",
+        "folio": "142"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:143.1",
+        "original": "Nahetupaccayā ārammaṇe nava. (Saṅkhittaṁ.)",
+        "analyzed": "na hetu paccayā ārammaṇe nava saṅkhitta ",
+        "folio": "143"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:144.1",
+        "original": "(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)",
+        "analyzed": "yathā kusala ttike pañhāvārassa anulomam pi paccanīyam pi anuloma paccanīyam pi paccanīya anulomam pi gaṇitaḥ evam gaṇetabba ",
+        "folio": "144"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:145.0.1",
+        "original": "3.10.10. Cittasaṁsaṭṭhasamuṭṭhānasahabhūduka, Kusalattika",
+        "analyzed": "kusala ttika ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:145.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:145.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna sahabhum kusalam dhammam paṭicca citta sasaṭṭha samuṭṭhāna sahabhū kusalaḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "145"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:146.1",
+        "original": "Nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sasaṭṭha samuṭṭhāna sahabhum kusalam dhammam paṭicca citta sasaṭṭha samuṭṭhāna sahabhū kusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "146"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:147.1_0",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalañca nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalañca",
+        "analyzed": "citta sa saṭṭha samuṭṭhāna sahabhum kusalam ca no citta sa saṭṭha samuṭṭhāna sahabhum kusalam ca ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:147.1_1",
+        "original": "dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "dhammam paṭicca kusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "147"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:148.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "148"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:149.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "149"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:150.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna sahabhum akusalam dhammam paṭicca citta sasaṭṭha samuṭṭhāna sahabhū akusalaḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "150"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:151.1",
+        "original": "Nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sasaṭṭha samuṭṭhāna sahabhum akusalam dhammam paṭicca citta sasaṭṭha samuṭṭhāna sahabhū akusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "151"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:152.1_0",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalañca nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalañca",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna sahabhum akusalam ca no citta sasaṭṭha samuṭṭhāna sahabhum akusalam ca ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:152.1_1",
+        "original": "dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "dhammam paṭicca akusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "152"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:153.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "153"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:154.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "154"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:155.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ abyākataṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū abyākato dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna sahabhum abyākatam dhammam paṭicca citta sasaṭṭha samuṭṭhāna sahabhū abyākataḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "155"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:156.1",
+        "original": "Hetuyā nava, ārammaṇe nava …pe… avigate nava.",
+        "analyzed": "hetuyā nava ārammaṇe nava pe avigate nava ",
+        "folio": "156"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:157.0.1",
+        "original": "3.10.11. Cittasaṁsaṭṭhasamuṭṭhānānuparivattiduka, Kusalattika",
+        "analyzed": "kusala ttika ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:157.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:157.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānānuparivattiṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānānuparivattī kusalo dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "citta sa saṭṭha samuṭṭhāna anuparivattim kusalam dhammam paṭicca citta sa saṭṭha samuṭṭhāna anuparivattī kusalaḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "157"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:158.1",
+        "original": "Nocittasaṁsaṭṭhasamuṭṭhānānuparivattiṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānānuparivattī kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "no citta sa saṭṭha samuṭṭhāna anuparivattim kusalam dhammam paṭicca citta sa saṭṭha samuṭṭhāna anuparivattī kusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "158"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:159.1_0",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānānuparivattiṁ kusalañca nocittasaṁsaṭṭhasamuṭṭhānānuparivattiṁ",
+        "analyzed": "citta sa saṭṭha samuṭṭhāna anuparivattim kusalam ca no citta sa saṭṭha samuṭṭhāna anuparivatti ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:159.1_1",
+        "original": "kusalañca dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānānuparivattī kusalo dhammo uppajjati",
+        "analyzed": "kusalañca dhammam paṭicca citta sasaṭṭha samuṭṭhāna anuparivattī kusalaḥ dhammaḥ uppajjati ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:159.1_2",
+        "original": "hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "hetu paccayā ",
+        "folio": "159"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:160.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "160"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:161.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "161"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:162.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānānuparivattiṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānānuparivattī akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sasaṭṭha samuṭṭhāna anuparivattim akusalam dhammam paṭicca citta sasaṭṭha samuṭṭhāna anuparivattī akusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "162"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:163.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "163"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:164.1",
+        "original": "(Sahajātavārampi …pe… pañhāvārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe pañhā vāram pi ",
+        "folio": "164"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:165.1",
+        "original": "Cittasaṁsaṭṭhasamuṭṭhānānuparivattiṁ abyākataṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānānuparivattī abyākato dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "citta sa saṭṭha samuṭṭhāna anuparivattim abyākatam dhammam paṭicca citta sa saṭṭha samuṭṭhāna anuparivattī abyākataḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "165"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:166.1",
+        "original": "Hetuyā nava, ārammaṇe nava …pe… avigate nava.",
+        "analyzed": "hetuyā nava ārammaṇe nava pe avigate nava ",
+        "folio": "166"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:167.0.1",
+        "original": "3.10.12. Ajjhattikaduka, Kusalattika",
+        "analyzed": "ajjhattika duka kusala ttika ",
+        "folio": "167"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:167.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "167"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:167.1",
+        "original": "Ajjhattikaṁ kusalaṁ dhammaṁ paṭicca bāhiro kusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "ajjhattikam kusalam dhammam paṭicca bāhiraḥ kusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "167"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:168.1_0",
+        "original": "Bāhiraṁ kusalaṁ dhammaṁ paṭicca bāhiro kusalo dhammo uppajjati hetupaccayā. Bāhiraṁ",
+        "analyzed": "bāhiram kusalam dhammam paṭicca bāhiraḥ kusalaḥ dhammo uppajjati hetu paccayā bāhira ",
+        "folio": "168"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:168.1_1",
+        "original": "kusalaṁ dhammaṁ paṭicca ajjhattiko kusalo dhammo uppajjati hetupaccayā. Bāhiraṁ kusalaṁ",
+        "analyzed": "kusalam dhammam paṭicca ajjhattikaḥ kusalaḥ dhammo uppajjati hetu paccayā bāhiram kusala ",
+        "folio": "168"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:168.1_2",
+        "original": "dhammaṁ paṭicca ajjhattiko kusalo ca bāhiro kusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "dhammam paṭicca ajjhattikaḥ kusalaḥ ca bāhiraḥ kusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "168"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:169.1",
+        "original": "Ajjhattikaṁ kusalañca bāhiraṁ kusalañca dhammaṁ paṭicca bāhiro kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "ajjhattikam kusalañca bāhiram kusalañca dhammam paṭicca bāhiraḥ kusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "169"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:170.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca.",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "170"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:171.1",
+        "original": "Ajjhattikaṁ akusalaṁ dhammaṁ paṭicca bāhiro akusalo dhammo uppajjati hetupaccayā.",
+        "analyzed": "ajjhattikam akusalam dhammam paṭicca bāhiraḥ akusalaḥ dhammo uppajjati hetu paccayā ",
+        "folio": "171"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:172.1_0",
+        "original": "Bāhiraṁ akusalaṁ dhammaṁ paṭicca bāhiro akusalo dhammo uppajjati hetupaccayā. Bāhiraṁ",
+        "analyzed": "bāhiram akusalam dhammam paṭicca bāhiraḥ akusalaḥ dhammo uppajjati hetu paccayā bāhira ",
+        "folio": "172"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:172.1_1",
+        "original": "akusalaṁ dhammaṁ paṭicca ajjhattiko akusalo dhammo uppajjati hetupaccayā. Bāhiraṁ",
+        "analyzed": "akusalam dhammam paṭicca ajjhattikaḥ akusalaḥ dhammo uppajjati hetu paccayā bāhira ",
+        "folio": "172"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:172.1_2",
+        "original": "akusalaṁ dhammaṁ paṭicca ajjhattiko akusalo ca bāhiro akusalo ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "akusalam dhammam paṭicca ajjhattikaḥ akusalaḥ ca bāhiraḥ akusalo ca dhammā uppajjanti hetu paccayā ",
+        "folio": "172"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:173.1",
+        "original": "Ajjhattikaṁ akusalañca bāhiraṁ akusalañca dhammaṁ paṭicca bāhiro akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "ajjhattikam akusalañca bāhiram akusalañca dhammam paṭicca bāhiraḥ akusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "173"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:174.1",
+        "original": "Hetuyā pañca, ārammaṇe pañca …pe… avigate pañca.",
+        "analyzed": "hetuyā pañca ārammaṇe pañca pe avigate pañca ",
+        "folio": "174"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:175.1",
+        "original": "Ajjhattikaṁ abyākataṁ dhammaṁ paṭicca ajjhattiko abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "ajjhattikam abyākatam dhammam paṭicca ajjhattikaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "175"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:176.1",
+        "original": "Bāhiraṁ abyākataṁ dhammaṁ paṭicca bāhiro abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "bāhiram abyākatam dhammam paṭicca bāhiraḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "176"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:177.1",
+        "original": "Ajjhattikaṁ abyākatañca bāhiraṁ abyākatañca dhammaṁ paṭicca ajjhattiko abyākato dhammo uppajjati hetupaccayā … tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "ajjhattikam abyākatam ca bāhiram abyākatañca dhammam paṭicca ajjhattikaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "177"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:178.1_0",
+        "original": "Hetuyā nava, ārammaṇe pañca, adhipatiyā pañca …pe… aññamaññe pañca, nissaye nava,",
+        "analyzed": "hetuyā nava ārammaṇe pañca adhipatiyā pañca pe aññamaññe pañca nissaye nava ",
+        "folio": "178"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:178.1_1",
+        "original": "upanissaye pañca, purejāte pañca, āsevane pañca, kamme …pe… magge nava, sampayutte",
+        "analyzed": "upanissaye pañca purejāte pañca āsevane pañca kamme pe magge nava sampayutte ",
+        "folio": "178"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:178.1_2",
+        "original": "pañca, vippayutte nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "pañca vippayutte nava pe avigate nava ",
+        "folio": "178"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:179.1_0",
+        "original": "Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava …pe… nakamme tīṇi, navipāke pañca,",
+        "analyzed": "na hetuyā nava na ārammaṇe nava na adhipatiyā nava pe na kamme tīṇi na vipāke pañca ",
+        "folio": "179"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:179.1_1",
+        "original": "naāhāre ekaṁ, naindriye ekaṁ, najhāne pañca, namagge nava, nasampayutte nava, navippayutte",
+        "analyzed": "na āhāre eka na indriye eka na jhāne pañca na magge nava na sampayutte nava na vippayutte ",
+        "folio": "179"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:179.1_2",
+        "original": "pañca, nonatthiyā nava, novigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "pañca nonatthiyā nava no vigate nava ",
+        "folio": "179"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:180.1",
+        "original": "(Sahajātavārampi …pe… sampayuttavārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe sampayutta vāram pi ",
+        "folio": "180"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:181.1",
+        "original": "Bāhiro abyākato dhammo bāhirassa abyākatassa dhammassa hetupaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "bāhiraḥ abyākataḥ dhammaḥ bāhirassa abyākatassa dhammassa hetu paccayena paccayaḥ ",
+        "folio": "181"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:182.1",
+        "original": "Bāhiro abyākato dhammo bāhirassa abyākatassa dhammassa kammapaccayena paccayo … tīṇi.",
+        "analyzed": "bāhiraḥ abyākataḥ dhammaḥ bāhirassa abyākatassa dhammassa kamma paccayena paccayaḥ tīṇi ",
+        "folio": "182"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:183.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ajjhattiko bāhirassa gamanakāle sahajātādhipati,",
+        "analyzed": "hetuyā tīṇi ārammaṇe nava adhipatiyā nava ajjhattikaḥ bāhirassa gamana kāle sahajāta adhipati ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:183.1_1",
+        "original": "majjhe tīsupi sahajātādhipati), anantare nava, sahajāte nava, aññamaññe pañca, nissaye",
+        "analyzed": "majjhe tīsupi sahajāta adhipati anantare nava sahajāte nava aññamaññe pañca nissaye ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:183.1_2",
+        "original": "nava, upanissaye nava, purejāte nava (ārammaṇapurejātampi vatthupurejātampi), pacchājāte",
+        "analyzed": "nava upanissaye nava purejāte nava ārammaṇa purejātam pi vatthu purejātam pi pacchājāte ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:183.1_3",
+        "original": "nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava (tiṇṇannaṁ kabaḷīkāro āhāro),",
+        "analyzed": "nava āsevane nava kamme tīṇi vipāke nava āhāre nava kabaḷīkāraḥ āhāro ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:183.1_4",
+        "original": "indriye nava (tiṇṇannaṁ rūpajīvitindriyaṁ), jhāne magge tīṇi, sampayutte pañca, vippayutte",
+        "analyzed": "indriye nava rūpa jīvitindriya jhāne magge tīṇi sampayutte pañca vippayutte ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:183.1_5",
+        "original": "nava, atthiyā nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "nava atthiyā nava pe avigate nava saṅkhitta ",
+        "folio": "183"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:184.0.1",
+        "original": "3.10.13. Upādāduka, Kusalattika",
+        "analyzed": "upādāduka kusalattika ",
+        "folio": "184"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:184.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "184"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:184.1",
+        "original": "Noupādā kusalaṁ dhammaṁ paṭicca noupādā kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "no upādā kusalam dhammam paṭicca no upādā kusalaḥ dhammo uppajjati hetu paccayā saṅkhitta ",
+        "folio": "184"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:185.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekaṃ pe avigate eka saṅkhitta ",
+        "folio": "185"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:186.1",
+        "original": "(Sahajātavārepi …pe… pañhāvārepi sabbattha ekaṁ.)",
+        "analyzed": "sahajāta vāre pi pe pañhā vāre pi sabbattha eka ",
+        "folio": "186"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:187.1",
+        "original": "Noupādā akusalaṁ dhammaṁ paṭicca noupādā akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "no upādā akusalam dhammam paṭicca no upādā akusalaḥ dhammo uppajjati hetu paccayā saṅkhitta ",
+        "folio": "187"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:188.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekaṃ pe avigate eka saṅkhitta ",
+        "folio": "188"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:189.1",
+        "original": "(Sahajātavārepi …pe… pañhāvārepi sabbattha ekaṁ.)",
+        "analyzed": "sahajāta vāre pi pe pañhā vāre pi sabbattha eka ",
+        "folio": "189"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:190.1",
+        "original": "Upādā abyākataṁ dhammaṁ paṭicca noupādā abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "upādā abyākatam dhammam paṭicca noupādā abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "190"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:191.1_0",
+        "original": "Noupādā abyākataṁ dhammaṁ paṭicca noupādā abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "no upādāḥ abyākatam dhammam paṭicca no upādāḥ abyākataḥ dhammo uppajjati hetu paccayā ",
+        "folio": "191"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:191.1_1",
+        "original": "Noupādā abyākataṁ dhammaṁ paṭicca upādā abyākato dhammo uppajjati hetupaccayā. Noupādā",
+        "analyzed": "no upādā abyākatam dhammam paṭicca upādā abyākataḥ dhammaḥ uppajjati hetu paccayā no upādā ",
+        "folio": "191"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:191.1_2",
+        "original": "abyākataṁ dhammaṁ paṭicca upādā abyākato ca noupādā abyākato ca dhammā uppajjanti hetupaccayā.",
+        "analyzed": "abyākatam dhammam paṭicca upādāḥ abyākato ca noupādāḥ abyākato ca dhammāḥ uppajjanti hetu paccayā ",
+        "folio": "191"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:192.1",
+        "original": "Upādā abyākatañca noupādā abyākatañca dhammaṁ paṭicca noupādā abyākato dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "upādā abyākatam ca no upādā abyākatam ca dhammam paṭicca no upādā abyākataḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "192"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:193.1",
+        "original": "Hetuyā pañca, ārammaṇe tīṇi …pe… aññamaññe pañca …pe… purejāte ekaṁ, āsevane ekaṁ, kamme pañca, vipāke pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe tīṇi pe aññamaññe pañca pe purejāte eka āsevane eka kamme pañca vipāke pañca pe avigate pañca saṅkhitta ",
+        "folio": "193"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:194.1_0",
+        "original": "Nahetuyā pañca, naārammaṇe tīṇi, naadhipatiyā pañca …pe… napurejāte pañca …pe… nakamme",
+        "analyzed": "na hetuyā pañca na ārammaṇe tīṇi na adhipatiyā pañca pe na purejāte pañca pe na kamme ",
+        "folio": "194"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:194.1_1",
+        "original": "tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge pañca, nasampayutte",
+        "analyzed": "tīṇi na vipāke tīṇi na āhāre tīṇi na aindriye tīṇi na jhāne tīṇi na magge pañca na sampayutte ",
+        "folio": "194"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:194.1_2",
+        "original": "tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (Saṅkhittaṁ.)",
+        "analyzed": "tīṇi na vippayutte tīṇi no natthiyā tīṇi no vigate tīṇi ",
+        "folio": "194"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:195.1",
+        "original": "(Sahajātavārampi …pe… sampayuttavārampi vitthāretabbaṁ.)",
+        "analyzed": "sahajāta vāram pi pe sampayutta vāram pi ",
+        "folio": "195"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:196.0",
+        "original": "Hetu-ārammaṇādi",
+        "analyzed": "hetu ārammaṇa ādi ",
+        "folio": "196"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:196.1",
+        "original": "Noupādā abyākato dhammo noupādā abyākatassa dhammassa hetupaccayena paccayo … tīṇi.",
+        "analyzed": "no upādā abyākataḥ dhammaḥ no upādā abyākatassa dhammassa hetu paccayena paccayaḥ tīṇi ",
+        "folio": "196"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:197.1",
+        "original": "Upādā abyākato dhammo noupādā abyākatassa dhammassa ārammaṇapaccayena paccayo.",
+        "analyzed": "upādā abyākataḥ dhammaḥ no upādā abyākatassa dhammassa ārammaṇa paccayena paccayo ",
+        "folio": "197"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:198.1",
+        "original": "Noupādā abyākato dhammo noupādā abyākatassa dhammassa ārammaṇapaccayena paccayo.",
+        "analyzed": "no upādā abyākataḥ dhammaḥ no upādā abyākatassa dhammassa ārammaṇa paccayena paccayaḥ ",
+        "folio": "198"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:199.1",
+        "original": "Noupādā abyākato dhammo noupādā abyākatassa dhammassa adhipatipaccayena paccayo … tīṇi. (Paṭhame dvepi adhipatī, dvīsu sahajātādhipati.)",
+        "analyzed": "no upādā abyākataḥ dhammaḥ no upādā abyākatassa dhammassa adhipati paccayena paccayaḥ tīṇi paṭhame dve api adhipatī dvīsu sahajāta adhipati ",
+        "folio": "199"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:200.1",
+        "original": "Upādā abyākato dhammo noupādā abyākatassa dhammassa upanissayapaccayena paccayo.",
+        "analyzed": "upādā abyākataḥ dhammaḥ no upādā abyākatassa dhammassa upanissaya paccayena paccayo ",
+        "folio": "200"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:201.1",
+        "original": "Noupādā abyākato dhammo noupādā abyākatassa dhammassa upanissayapaccayena paccayo. (Saṅkhittaṁ.)",
+        "analyzed": "no upādā abyākataḥ dhammaḥ no upādā abyākatassa dhammassa upanissaya paccayena paccayaḥ ",
+        "folio": "201"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:202.1_0",
+        "original": "Hetuyā tīṇi, ārammaṇe dve, adhipatiyā tīṇi, anantare samanantare ekaṁ, sahajāte pañca,",
+        "analyzed": "hetuyā tīṇi ārammaṇe dve adhipatiyā tīṇi anantare samanantare eka sahajāte pañca ",
+        "folio": "202"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:202.1_1",
+        "original": "aññamaññe pañca, nissaye pañca, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane",
+        "analyzed": "aññamaññe pañca nissaye pañca upanissaye dve purejāte tīṇi pacchājāte tīṇi āsevane ",
+        "folio": "202"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:202.1_2",
+        "original": "ekaṁ, kamme tīṇi, vipāke tīṇi, āhāre cha, indriye satta, jhāne tīṇi, magge tīṇi,",
+        "analyzed": "eka kamme tīṇi vipāke tīṇi āhāre cha indriye satta jhāne tīṇi magge tīṇi ",
+        "folio": "202"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:202.1_3",
+        "original": "sampayutte ekaṁ, vippayutte cattāri, atthiyā nava …pe… avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "sampayutte eka vippayutte cattāri atthiyā nava pe avigate nava saṅkhitta ",
+        "folio": "202"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:203.0.1",
+        "original": "3.10.14. Upādinnaduka, Kusalattika",
+        "analyzed": "upādinna duka kusala ttika ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:203.0.2",
+        "original": "Hetu",
+        "analyzed": "hetu ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:203.1",
+        "original": "Anupādinnaṁ kusalaṁ dhammaṁ paṭicca anupādinno kusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "anupādinnam kusalam dhammam paṭicca anupādinnaḥ kusalaḥ dhammaḥ uppajjati hetu paccayā saṅkhitta ",
+        "folio": "203"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:204.1",
+        "original": "Hetuyā ekaṁ, ārammaṇe ekaṁ …pe… avigate ekaṁ. (Sabbattha ekaṁ. Saṅkhittaṁ. Sahajātavārepi …pe… pañhāvārepi ekaṁ sappaccayakusalasadisaṁ.)",
+        "analyzed": "hetuyā eka ārammaṇe ekam pe avigate eka sabbattha eka saṅkhitta sahajāta vāre pi pe pañhā vāre pi ekam sappaccaya kusala sadisa ",
+        "folio": "204"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:205.1",
+        "original": "Anupādinnaṁ akusalaṁ dhammaṁ paṭicca anupādinno akusalo dhammo uppajjati hetupaccayā. (Saṅkhittaṁ.)",
+        "analyzed": "anupādinnam akusalam dhammam paṭicca anupādinnaḥ akusalaḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "205"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:206.1",
+        "original": "Hetuyā ekaṁ …pe… avigate ekaṁ.",
+        "analyzed": "ekam pe avigate eka ",
+        "folio": "206"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:207.1",
+        "original": "Upādinnaṁ abyākataṁ dhammaṁ paṭicca upādinno abyākato dhammo uppajjati hetupaccayā … tīṇi.",
+        "analyzed": "upādinnam abyākatam dhammam paṭicca upādinnaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā tīṇi ",
+        "folio": "207"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:208.1",
+        "original": "Anupādinnaṁ abyākataṁ dhammaṁ paṭicca anupādinno abyākato dhammo uppajjati hetupaccayā.",
+        "analyzed": "anupādinnam abyākatam dhammam paṭicca anupādinnaḥ abyākataḥ dhammaḥ uppajjati hetu paccayā ",
+        "folio": "208"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:209.1_0",
+        "original": "Upādinnaṁ abyākatañca anupādinnaṁ abyākatañca dhammaṁ paṭicca anupādinno abyākato",
+        "analyzed": "upādinnam abyākatam ca an upādinnam abyākatam ca dhammam paṭicca an upādinnaḥ abyākataḥ ",
+        "folio": "209"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:209.1_1",
+        "original": "dhammo uppajjati hetupaccayā—upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ",
+        "analyzed": "dhammaḥ uppajjati hetu paccayā upādinne khandhe ca mahābhūte ca paṭicca citta samuṭṭhāna ",
+        "folio": "209"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:209.1_2",
+        "original": "rūpaṁ. (Saṅkhittaṁ.)",
+        "analyzed": "rūpa saṅkhitta ",
+        "folio": "209"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:210.1",
+        "original": "Hetuyā pañca, ārammaṇe dve, adhipatiyā ekaṁ …pe… purejāte dve, āsevane ekaṁ, kamme pañca, vipāke pañca …pe… avigate pañca. (Saṅkhittaṁ.)",
+        "analyzed": "hetuyā pañca ārammaṇe dve adhipatiyā ekam pe purejāte dve āsevane eka kamme pañca vipāke pañca pe avigate pañca ",
+        "folio": "210"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:211.1_0",
+        "original": "Nahetuyā pañca, naārammaṇe cattāri, naadhipatiyā pañca …pe… napurejāte cattāri, napacchājāte",
+        "analyzed": "na hetuyā pañca na ārammaṇe cattāri na adhipatiyā pañca pe na purejāte cattāri na pacchājāte ",
+        "folio": "211"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:211.1_1",
+        "original": "naāsevane pañca, nakamme ekaṁ, navipāke dve, naāhāre dve, naindriye dve, najhāne",
+        "analyzed": "na āsevane pañca na kamme eka na vipāke dve na āhāre dve na aindriye dve na jhāne ",
+        "folio": "211"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:211.1_2",
+        "original": "dve, namagge pañca, nasampayutte cattāri, navippayutte dve, nonatthiyā cattāri, novigate cattāri.",
+        "analyzed": "dve na magge pañca na sampayutte cattāri na vippayutte dve no natthiyā cattāri no vigate cattāri ",
+        "folio": "211"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:212.0",
+        "original": "Hetu-purejāta",
+        "analyzed": "hetupurejāta ",
+        "folio": "212"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:212.1",
+        "original": "Upādinno abyākato dhammo upādinnassa abyākatassa dhammassa hetupaccayena paccayo … tīṇi.",
+        "analyzed": "upādinnaḥ abyākataḥ dhammaḥ upādinnassa abyākatassa dhammassa hetu paccayena paccayaḥ tīṇi ",
+        "folio": "212"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:213.1",
+        "original": "Anupādinno abyākato dhammo anupādinnassa abyākatassa dhammassa hetupaccayena paccayo.",
+        "analyzed": "anupādinnaḥ abyākataḥ dhammaḥ anupādinnassa abyākatassa dhammassa hetu paccayena paccayaḥ ",
+        "folio": "213"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:214.1",
+        "original": "Anupādinno abyākato dhammo anupādinnassa abyākatassa dhammassa adhipatipaccayena paccayo—ārammaṇādhipati, sahajātādhipati … ekaṁ.",
+        "analyzed": "anupādinnaḥ abyākataḥ dhammaḥ anupādinnassa abyākatassa dhammassa adhipati paccayena paccayaḥ ārammaṇa adhipati sahajāta adhipati eka ",
+        "folio": "214"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:215.1",
+        "original": "Upādinno abyākato dhammo upādinnassa abyākatassa dhammassa purejātapaccayena paccayo—ārammaṇapurejātaṁ, vatthupurejātaṁ. (Dve pañhā.)",
+        "analyzed": "upādinnaḥ abyākataḥ dhammaḥ upādinnassa abyākatassa dhammassa purejāta paccayena paccayo ārammaṇa purejāta vatthu purejāta dve pañhā ",
+        "folio": "215"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:216.1",
+        "original": "Anupādinno abyākato dhammo anupādinnassa abyākatassa dhammassa purejātapaccayena paccayo … dve. (Ārammaṇapurejātaṁyeva, ghaṭanā dve, ārammaṇapurejātampi vatthupurejātampi.)",
+        "analyzed": "anupādinnaḥ abyākataḥ dhammaḥ anupādinnassa abyākatassa dhammassa purejāta paccayena paccayaḥ dve ārammaṇa purejātayā iva ghaṭanā dve ārammaṇa purejātam pi vatthu purejātam pi ",
+        "folio": "216"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:217.1_0",
+        "original": "Hetuyā cattāri, ārammaṇe cattāri (upādinnamūlake dve, anupādinnamūlake dve), adhipatiyā",
+        "analyzed": "hetuyā cattāri ārammaṇe cattāri upādinna mūlake dve anupādinna mūlake dve adhipatiyā ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:217.1_1",
+        "original": "ekaṁ, anantare samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye pañca,",
+        "analyzed": "eka anantare samanantare cattāri sahajāte pañca aññamaññe dve nissaye pañca ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:217.1_2",
+        "original": "upanissaye cattāri, purejāte cha, pacchājāte cha, āsevane ekaṁ, kamme cattāri, vipāke",
+        "analyzed": "upanissaye cattāri purejāte cha pacchājāte cha āsevane eka kamme cattāri vipāke ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:217.1_3",
+        "original": "cattāri, āhāre nava, indriye cattāri, jhāne cattāri, magge cattāri, sampayutte dve,",
+        "analyzed": "cattāri āhāre nava indriye cattāri jhāne cattāri magge cattāri sampayutte dve ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:217.1_4",
+        "original": "vippayutte cha, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava. (Saṅkhittaṁ.)",
+        "analyzed": "vippayutte cha atthiyā nava natthiyā cattāri vigate cattāri avigate nava ",
+        "folio": "217"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:218.1",
+        "original": "Nahetuyā nava, naārammaṇe nava. (Saṅkhittaṁ.)",
+        "analyzed": "na hetuyā nava na ārammaṇe nava saṅkhitta ",
+        "folio": "218"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:219.1",
+        "original": "Hetupaccayā naārammaṇe cattāri. (Saṅkhittaṁ.)",
+        "analyzed": "hetu paccayāḥ na ārammaṇe cattāri ",
+        "folio": "219"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:220.1",
+        "original": "Nahetupaccayā ārammaṇe cattāri. (Saṅkhittaṁ.)",
+        "analyzed": "na hetu paccayā ārammaṇe cattāri ",
+        "folio": "220"
+    },
+    {
+        "segmentnr": "PA_patthana_3.10:221.1",
+        "original": "Mahantaradukakusalattikaṁ niṭṭhitaṁ.",
+        "analyzed": "mahantara duka kusala ttikam ",
+        "folio": "221"
+    }
+]

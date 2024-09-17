@@ -1,0 +1,866 @@
+[
+    {
+        "segmentnr": "PA_ps_3.4:0.1",
+        "original": "Paṭisambhidāmagga",
+        "analyzed": "paṭisambhidā magga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:0.2",
+        "original": "3 Paññāvagga",
+        "analyzed": "paññāvagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:0.3",
+        "original": "3.4. Vivekakathā",
+        "analyzed": "viveka kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:1.1",
+        "original": "Sāvatthinidānaṁ.",
+        "analyzed": "sāvatthi nidāna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:1.2",
+        "original": "“Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete balakaraṇīyā kammantā karīyanti;",
+        "analyzed": "seyyathā api bhikkhave ye keci bala karaṇīyā kammantā karīyanti sabbe te pathavim nissāya pathaviyam patiṭṭhāya evam ete bala karaṇīyā kammantā karīyanti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:1.3",
+        "original": "evamevaṁ, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti.",
+        "analyzed": "evam eva bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya ariyam aṭṭhaṅgikam maggam bhāveti ariyam aṭṭhaṅgikam maggam bahulīkaroti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.1",
+        "original": "Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti?",
+        "analyzed": "kathañca bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya ariyam aṭṭhaṅgikam maggam bhāveti ariyam aṭṭhaṅgikam maggam bahulīkaroti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.2",
+        "original": "Idha, bhikkhave, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ.",
+        "analyzed": "idha bhikkhave bhikkhu sammādiṭṭhim bhāveti viveka nissitam virāga nissitam nirodha nissitam vosagga pariṇāmi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.3",
+        "original": "Sammāsaṅkappaṁ …pe…",
+        "analyzed": "sammāsaṅkappam pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.4",
+        "original": "sammāvācaṁ …",
+        "analyzed": "sammāvācam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.5",
+        "original": "sammākammantaṁ …",
+        "analyzed": "sammākammantam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.6",
+        "original": "sammāājīvaṁ …",
+        "analyzed": "sammāājīvam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.7",
+        "original": "sammāvāyāmaṁ …",
+        "analyzed": "sammāvāyāmam ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.8",
+        "original": "sammāsatiṁ …",
+        "analyzed": "sammāsatim ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.9",
+        "original": "sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ.",
+        "analyzed": "sammāsamādhim bhāveti viveka nissitam virāga nissitam nirodha nissitam vosagga pariṇāmi ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:2.10",
+        "original": "Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti.",
+        "analyzed": "evam kho bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya ariyam aṭṭhaṅgikam maggam bhāveti ariyam aṭṭhaṅgikam maggam bahulīkaroti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:3.1_0",
+        "original": "Seyyathāpi, bhikkhave, ye keci bījagāmabhūtagāmā vuddhiṁ viruḷhiṁ vepullaṁ āpajjanti,",
+        "analyzed": "seyyathā api bhikkhave ye keci bīja gāma bhūta gāmāḥ vuddhim viruḷhim vepullam āpajjanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:3.1_1",
+        "original": "sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete bījagāmabhūtagāmā vuddhiṁ",
+        "analyzed": "sabbe te pathavim nissāya pathaviyam patiṭṭhāya evam ete bīja gāma bhūta gāmā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:3.1_2",
+        "original": "viruḷhiṁ vepullaṁ āpajjanti;",
+        "analyzed": "viruḷhim vepullam āpajjanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:3.2_0",
+        "original": "evamevaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ",
+        "analyzed": "evam evam kho bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya ariyam aṭṭhaṅgika ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:3.2_1",
+        "original": "maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuddhiṁ viruḷhiṁ vepullaṁ pāpuṇāti dhammesu.",
+        "analyzed": "maggam bhāventaḥ ariyam aṭṭhaṅgikam maggam bahulīkarontaḥ vuddhim viruḷhim vepullam pāpuṇāti dhammesu ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.1",
+        "original": "Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuddhiṁ viruḷhiṁ vepullaṁ pāpuṇāti dhammesu?",
+        "analyzed": "katham ca bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya ariyam aṭṭhaṅgikam maggam bhāventaḥ ariyam aṭṭhaṅgikam maggam bahulīkarontaḥ vuddhim viruḷhim vepullam pāpuṇāti dhammesu ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.2",
+        "original": "Idha, bhikkhave, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ.",
+        "analyzed": "idha bhikkhave bhikkhu sammādiṭṭhim bhāveti viveka nissitam virāga nissitam nirodha nissitam vosagga pariṇāmi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.3",
+        "original": "Sammāsaṅkappaṁ bhāveti …pe…",
+        "analyzed": "sammāsaṅkappam bhāveti pe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.4",
+        "original": "sammāvācaṁ bhāveti …",
+        "analyzed": "sammāvācam bhāva iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.5",
+        "original": "sammākammantaṁ bhāveti …",
+        "analyzed": "sammākammantam bhāva iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.6",
+        "original": "sammāājīvaṁ bhāveti …",
+        "analyzed": "sammāājīvam bhāva iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.7",
+        "original": "sammāvāyāmaṁ bhāveti …",
+        "analyzed": "sammāvāyāmam bhāva iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.8",
+        "original": "sammāsatiṁ bhāveti …",
+        "analyzed": "sammāsatim bhāva iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.9",
+        "original": "sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ.",
+        "analyzed": "sammāsamādhim bhāveti viveka nissitam virāga nissitam nirodha nissitam vosagga pariṇāmi ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.10_0",
+        "original": "Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ",
+        "analyzed": "evam kho bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya ariyam aṭṭhaṅgikam magga ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:4.10_1",
+        "original": "bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuddhiṁ viruḷhiṁ vepullaṁ pāpuṇāti dhammesū”ti.",
+        "analyzed": "bhāventaḥ ariyam aṭṭhaṅgikam maggam bahulīkarontaḥ vuddhim viruḷhim vepullam pāpuṇāti dhammesu iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.0",
+        "original": "3.4.1. Maggaṅganiddesa",
+        "analyzed": "      ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.1",
+        "original": "Sammādiṭṭhiyā pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "sammādiṭṭhiyā pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.2",
+        "original": "Sammāsaṅkappassa …pe…",
+        "analyzed": "sammāsaṅkappassa pe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.3",
+        "original": "sammāvācāya …",
+        "analyzed": "sammāvācāya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.4",
+        "original": "sammākammantassa …",
+        "analyzed": "sammā kammantassa ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.5",
+        "original": "sammāājīvassa …",
+        "analyzed": "sammāājīvassa ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.6",
+        "original": "sammāvāyāmassa …",
+        "analyzed": "sammāvāyāmassa ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.7",
+        "original": "sammāsatiyā …",
+        "analyzed": "sammāsatiyā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:5.8",
+        "original": "sammāsamādhissa pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "sammāsamādhissa pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.1",
+        "original": "Sammādiṭṭhiyā katame pañca vivekā?",
+        "analyzed": "sammādiṭṭhiyā katame pañca vivekā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.2",
+        "original": "Vikkhambhanaviveko, tadaṅgaviveko samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko.",
+        "analyzed": "vikkhambhana viveko tad aṅga viveko samuccheda viveko paṭippassaddhi viveko nissaraṇa viveko ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.3_0",
+        "original": "Vikkhambhanaviveko ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgaviveko ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana viveko ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga viveko ca diṭṭhi gatāna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedaviveko ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda viveko ca lokuttaram khaya gāmi magga ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.3_2",
+        "original": "bhāvayato, paṭippassaddhiviveko ca phalakkhaṇe, nissaraṇaviveko ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi viveko ca phala kkhaṇe nissaraṇa viveko ca nirodho nibbāna ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.4",
+        "original": "Sammādiṭṭhiyā ime pañca vivekā.",
+        "analyzed": "sammādiṭṭhiyāḥ ime pañca vivekā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:6.5",
+        "original": "Imesu pañcasu vivekesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu vivekesu chanda jātaḥ hoti saddhā adhimutto cittam ca ssa ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.1",
+        "original": "Sammādiṭṭhiyā katame pañca virāgā?",
+        "analyzed": "sammādiṭṭhiyā katame pañca virāgā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.2",
+        "original": "Vikkhambhanavirāgo, tadaṅgavirāgo, samucchedavirāgo, paṭippassaddhivirāgo, nissaraṇavirāgo.",
+        "analyzed": "vikkhambhana virāgo tad aṅga virāgo samuccheda virāgo paṭippassaddhi virāgo nissaraṇa virāgo ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.3_0",
+        "original": "Vikkhambhanavirāgo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavirāgo ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana virāgo ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga virāgo ca diṭṭhi gatāna ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavirāgo ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda virāgo ca lokuttaram khaya gāmi magga ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.3_2",
+        "original": "bhāvayato, paṭippassaddhivirāgo ca phalakkhaṇe, nissaraṇavirāgo ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi virāgo ca phala kkhaṇe nissaraṇa virāgo ca nirodhaḥ nibbāna ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.4",
+        "original": "Sammādiṭṭhiyā ime pañca virāgā.",
+        "analyzed": "sammādiṭṭhiyāḥ ime pañca virāgā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:7.5",
+        "original": "Imesu pañcasu virāgesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu virāgesu chanda jātaḥ hoti saddhā adhimutto cittam ca ssa ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.1",
+        "original": "Sammādiṭṭhiyā katame pañca nirodhā?",
+        "analyzed": "sammādiṭṭhiyā katame pañca nirodhā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.2",
+        "original": "Vikkhambhananirodho, tadaṅganirodho, samucchedanirodho, paṭippassaddhinirodho, nissaraṇanirodho.",
+        "analyzed": "vikkhambhana nirodho tad aṅga nirodho samuccheda nirodho paṭippassaddhi nirodhaḥ nissaraṇa nirodhaḥ ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.3_0",
+        "original": "Vikkhambhananirodho ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅganirodho ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana nirodho ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga nirodho ca diṭṭhigatāna ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedanirodho ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda nirodho ca lokuttaram khaya gāmi magga ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.3_2",
+        "original": "bhāvayato, paṭippassaddhinirodho ca phalakkhaṇe, nissaraṇanirodho ca amatā dhātu.",
+        "analyzed": "bhāvayato paṭippassaddhi nirodho ca phala kkhaṇe nissaraṇa nirodho ca amatā dhātu ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.4",
+        "original": "Sammādiṭṭhiyā ime pañca nirodhā.",
+        "analyzed": "sammādiṭṭhiyāḥ ime pañca nirodhā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:8.5",
+        "original": "Imesu pañcasu nirodhesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu nirodhesu chanda jātaḥ hoti saddhā adhimutto cittam ca ssa ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.1",
+        "original": "Sammādiṭṭhiyā katame pañca vosaggā?",
+        "analyzed": "sammādiṭṭhiyā katame pañca vosaggā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.2",
+        "original": "Vikkhambhanavosaggo, tadaṅgavosaggo, samucchedavosaggo, paṭippassaddhivosaggo, nissaraṇavosaggo.",
+        "analyzed": "vikkhambhana vosaggo tad aṅga vosaggo samuccheda vosaggo paṭippassaddhi vosaggo nissaraṇa vosaggo ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.3_0",
+        "original": "Vikkhambhanavosaggo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavosaggo ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana vosaggo ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga vosaggo ca diṭṭhi gatāna ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavosaggo ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda vosaggo ca lokuttaram khaya gāmi magga ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.3_2",
+        "original": "bhāvayato, paṭippassaddhivosaggo ca phalakkhaṇe, nissaraṇavosaggo ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi vosaggo ca phala kkhaṇe nissaraṇa vosaggo ca nirodho nibbāna ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.4",
+        "original": "Sammādiṭṭhiyā ime pañca vosaggā.",
+        "analyzed": "sammādiṭṭhiyāḥ ime pañca vosaggā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.5",
+        "original": "Imesu pañcasu vosaggesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu vosaggesu chanda jātaḥ hoti saddhā adhimutto cittam cassa ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:9.6",
+        "original": "Sammādiṭṭhiyā ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "sammādiṭṭhiyāḥ ime pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.1",
+        "original": "Sammāsaṅkappassa …pe…",
+        "analyzed": "sammāsaṅkappassa pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.2",
+        "original": "sammāvācāya …",
+        "analyzed": "sammāvācāya ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.3",
+        "original": "sammākammantassa …",
+        "analyzed": "sammā kammantassa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.4",
+        "original": "sammāājīvassa …",
+        "analyzed": "sammāājīvassa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.5",
+        "original": "sammāvāyāmassa …",
+        "analyzed": "sammāvāyāmassa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.6",
+        "original": "sammāsatiyā …",
+        "analyzed": "sammāsatiyā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.7",
+        "original": "sammāsamādhissa katame pañca vivekā?",
+        "analyzed": "sammāsamādhissa katame pañca vivekā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.8",
+        "original": "Vikkhambhanaviveko, tadaṅgaviveko, samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko.",
+        "analyzed": "vikkhambhana viveko tad aṅga viveko samuccheda viveko paṭippassaddhi viveko nissaraṇa viveko ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.9_0",
+        "original": "Vikkhambhanaviveko ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgaviveko ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana viveko ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga viveko ca diṭṭhi gatāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.9_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedaviveko ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda viveko ca lokuttaram khaya gāmi magga ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.9_2",
+        "original": "bhāvayato, paṭippassaddhiviveko ca phalakkhaṇe nissaraṇaviveko ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi viveko ca phala kkhaṇe nissaraṇa viveko ca nirodho nibbāna ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.10",
+        "original": "Sammāsamādhissa ime pañca vivekā.",
+        "analyzed": "ime pañca vivekā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:10.11",
+        "original": "Imesu pañcasu vivekesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu vivekesu chanda jātaḥ hoti saddhā adhimutto cittam ca ssa ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.1",
+        "original": "Sammāsamādhissa katame pañca virāgā?",
+        "analyzed": "sammāsamādhissa katame pañca virāgā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.2",
+        "original": "Vikkhambhanavirāgo, tadaṅgavirāgo, samucchedavirāgo, paṭippassaddhivirāgo, nissaraṇavirāgo.",
+        "analyzed": "vikkhambhana virāgo tad aṅga virāgo samuccheda virāgo paṭippassaddhi virāgo nissaraṇa virāgo ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.3_0",
+        "original": "Vikkhambhanavirāgo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavirāgo ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana virāgo ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga virāgo ca diṭṭhi gatāna ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavirāgo ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda virāgo ca lokuttaram khaya gāmi magga ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.3_2",
+        "original": "bhāvayato, paṭippassaddhivirāgo ca phalakkhaṇe, nissaraṇavirāgo ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi virāgo ca phala kkhaṇe nissaraṇa virāgo ca nirodhaḥ nibbāna ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.4",
+        "original": "Sammāsamādhissa ime pañca virāgā.",
+        "analyzed": "ime pañca virāgā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:11.5",
+        "original": "Imesu pañcasu virāgesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu virāgesu chanda jātaḥ hoti saddhā adhimutto cittam ca ssa ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.1",
+        "original": "Sammāsamādhissa katame pañca nirodhā?",
+        "analyzed": "sammāsamādhissa katame pañca nirodhā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.2",
+        "original": "Vikkhambhananirodho, tadaṅganirodho, samucchedanirodho, paṭippassaddhinirodho, nissaraṇanirodho.",
+        "analyzed": "vikkhambhana nirodho tad aṅga nirodho samuccheda nirodho paṭippassaddhi nirodhaḥ nissaraṇa nirodhaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.3_0",
+        "original": "Vikkhambhananirodho ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅganirodho ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana nirodho ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga nirodho ca diṭṭhigatāna ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedanirodho ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda nirodho ca lokuttaram khaya gāmi magga ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.3_2",
+        "original": "bhāvayato, paṭippassaddhinirodho ca phalakkhaṇe, nissaraṇanirodho ca amatā dhātu.",
+        "analyzed": "bhāvayato paṭippassaddhi nirodho ca phala kkhaṇe nissaraṇa nirodho ca amatā dhātu ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.4",
+        "original": "Sammāsamādhissa ime pañca nirodhā.",
+        "analyzed": "ime pañca nirodhā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:12.5",
+        "original": "Imesu pañcasu nirodhesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu nirodhesu chanda jātaḥ hoti saddhā adhimutto cittam ca ssa ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.1",
+        "original": "Sammāsamādhissa katame pañca vosaggā?",
+        "analyzed": "sammāsamādhissa katame pañca vosaggā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.2",
+        "original": "Vikkhambhanavosaggo, tadaṅgavosaggo, samucchedavosaggo, paṭippassaddhivosaggo, nissaraṇavosaggo.",
+        "analyzed": "vikkhambhana vosaggo tad aṅga vosaggo samuccheda vosaggo paṭippassaddhi vosaggo nissaraṇa vosaggo ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.3_0",
+        "original": "Vikkhambhanavosaggo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavosaggo ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana vosaggo ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga vosaggo ca diṭṭhi gatāna ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavosaggo ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda vosaggo ca lokuttaram khaya gāmi magga ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.3_2",
+        "original": "bhāvayato, paṭippassaddhivosaggo ca phalakkhaṇe, nissaraṇavosaggo ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi vosaggo ca phala kkhaṇe nissaraṇa vosaggo ca nirodho nibbāna ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.4",
+        "original": "Sammāsamādhissa ime pañca vosaggā.",
+        "analyzed": "sammāsamādhissa ime pañca vosaggā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.5",
+        "original": "Imesu pañcasu vosaggesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.",
+        "analyzed": "imesu pañcasu vosaggesu chanda jātaḥ hoti saddhā adhimutto cittam cassa ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:13.6",
+        "original": "Sammāsamādhissa ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "sammāsamādhissa ime pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:14.1",
+        "original": "“Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete balakaraṇīyā kammantā karīyanti;",
+        "analyzed": "seyyathā api bhikkhave ye keci bala karaṇīyā kammantā karīyanti sabbe te pathavim nissāya pathaviyam patiṭṭhāya evam ete bala karaṇīyā kammantā karīyanti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:14.2",
+        "original": "evamevaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkaroti …pe…",
+        "analyzed": "evam evam kho bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti satta bojjhaṅge bahulīkaroti pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:14.3",
+        "original": "satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu …pe…",
+        "analyzed": "satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto vuddhim virūḷhim vepullam pāpuṇāti dhammesu pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:14.4",
+        "original": "pañca balāni bhāveti, pañca balāni bahulīkaroti …pe…",
+        "analyzed": "pañca balāni bhāva iti pañca balāni bahulīkaroti pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:14.5",
+        "original": "pañca balāni bhāvento pañca balāni bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu …pe…",
+        "analyzed": "pañca balāni bhāvento pañca balāni bahulīkarontaḥ vuddhim virūḷhim vepullam pāpuṇāti dhammesu pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:14.6",
+        "original": "pañcindriyāni bhāveti, pañcindriyāni bahulīkaroti …pe….",
+        "analyzed": "pañca indriyāni bhāveti pañca indriyāni bahulīkaroti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:15.1_0",
+        "original": "Seyyathāpi, bhikkhave, ye keci bījagāmabhūtagāmā vuddhiṁ virūḷhiṁ vepullaṁ āpajjanti,",
+        "analyzed": "seyyathā api bhikkhave ye keci bīja gāma bhūta gāmāḥ vuddhim virūḷhim vepullam āpajjanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:15.1_1",
+        "original": "sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete bījagāmabhūtagāmā vuddhiṁ",
+        "analyzed": "sabbe te pathavim nissāya pathaviyam patiṭṭhāya evam ete bīja gāma bhūta gāmā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:15.1_2",
+        "original": "virūḷhiṁ vepullaṁ āpajjanti;",
+        "analyzed": "virūḍhim vepullam āpajjanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:15.2",
+        "original": "evamevaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya pañcindriyāni bhāvento pañcindriyāni bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu.",
+        "analyzed": "evam evam kho bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya pañca indriyāni bhāventaḥ pañca indriyāni bahulīkarontaḥ vuddhim virūḷhim vepullam pāpuṇāti dhammesu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.1",
+        "original": "Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya pañcindriyāni bhāvento pañcindriyāni bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu?",
+        "analyzed": "katham ca bhikkhave bhikkhu sīlam nissāya sīle patiṭṭhāya pañca indriyāni bhāventaḥ pañca indriyāni bahulīkarontaḥ vuddhim virūḷhim vepullam pāpuṇāti dhammesu ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.2",
+        "original": "Idha, bhikkhave, bhikkhu saddhindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ.",
+        "analyzed": "idha bhikkhave bhikkhu saddhi indriyam bhāveti viveka nissitam virāga nissitam nirodha nissitam vosagga pariṇāmi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.3",
+        "original": "Vīriyindriyaṁ bhāveti …pe…",
+        "analyzed": "vīriyindriyam bhāva iti pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.4",
+        "original": "satindriyaṁ bhāveti …pe…",
+        "analyzed": "sat indriyam bhāva iti pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.5",
+        "original": "samādhindriyaṁ bhāveti …pe…",
+        "analyzed": "samādhi indriyam bhāva iti pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.6",
+        "original": "paññindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ.",
+        "analyzed": "paññindriyam bhāveti viveka nissitam virāga nissitam nirodha nissitam vosagga pariṇāmi ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.7",
+        "original": "Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya …pe…",
+        "analyzed": "evam kho bhikkhave bhikkhu sīlam nissāya pe ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:16.8",
+        "original": "pāpuṇāti dhammesū”ti.",
+        "analyzed": "pāpuṇāti dhammesu iti ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:17.0",
+        "original": "3.4.2. Indriyaniddesa",
+        "analyzed": "indriya niddesa ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:17.1",
+        "original": "Saddhindriyassa pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "saddhindriyassa pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:17.2",
+        "original": "Vīriyindriyassa …pe…",
+        "analyzed": "vīriya indriyassa pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:17.3",
+        "original": "satindriyassa …pe…",
+        "analyzed": "sat indriyassa pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:17.4",
+        "original": "samādhindriyassa …pe…",
+        "analyzed": "samādhi indriyassa pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:17.5",
+        "original": "paññindriyassa pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "paññindriyassa pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.1",
+        "original": "Saddhindriyassa katame pañca vivekā?",
+        "analyzed": "saddhindriyassa katame pañca vivekā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.2",
+        "original": "Vikkhambhanaviveko, tadaṅgaviveko, samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko.",
+        "analyzed": "vikkhambhana viveko tad aṅga viveko samuccheda viveko paṭippassaddhi viveko nissaraṇa viveko ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.3_0",
+        "original": "Vikkhambhanaviveko ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgaviveko ca diṭṭhigatānaṁ",
+        "analyzed": "vikkhambhana viveko ca nīvaraṇānam paṭhama jhānam bhāvayato tad aṅga viveko ca diṭṭhi gatāna ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.3_1",
+        "original": "nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedaviveko ca lokuttaraṁ khayagāmimaggaṁ",
+        "analyzed": "nibbedha bhāgiyam samādhim bhāvayato samuccheda viveko ca lokuttaram khaya gāmi magga ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.3_2",
+        "original": "bhāvayato, paṭippassaddhiviveko ca phalakkhaṇe, nissaraṇaviveko ca nirodho nibbānaṁ.",
+        "analyzed": "bhāvayato paṭippassaddhi viveko ca phala kkhaṇe nissaraṇa viveko ca nirodho nibbāna ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.4",
+        "original": "Saddhindriyassa ime pañca vivekā.",
+        "analyzed": "ime pañca vivekā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.5",
+        "original": "Imesu pañcasu vivekesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ …pe…",
+        "analyzed": "imesu pañcasu vivekesu chanda jātaḥ hoti saddhā adhimutto cittam cassa svādhiṭṭhitam pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:18.6",
+        "original": "saddhindriyassa ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.",
+        "analyzed": "saddhindriyassa ime pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.1",
+        "original": "Vīriyindriyassa …pe…",
+        "analyzed": "vīriya indriyassa pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.2",
+        "original": "satindriyassa …pe…",
+        "analyzed": "sat indriyassa pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.3",
+        "original": "samādhindriyassa …",
+        "analyzed": "samādhi indriyassa ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.4",
+        "original": "paññindriyassa katame pañca vivekā?",
+        "analyzed": "paññindriyassa katame pañca vivekā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.5",
+        "original": "Vikkhambhanaviveko, tadaṅgaviveko, samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko …pe…",
+        "analyzed": "vikkhambhana viveko tad aṅga viveko samuccheda viveko paṭippassaddhi viveko nissaraṇa viveko pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.6",
+        "original": "paññindriyassa ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayāti.",
+        "analyzed": "paññindriyassa ime pañca vivekā pañca virāgā pañca nirodhā pañca vosaggā dvādasa nissayā ti ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ps_3.4:19.7",
+        "original": "Vivekakathā niṭṭhitā.",
+        "analyzed": "viveka kathā niṭṭhitā ",
+        "folio": "19"
+    }
+]

@@ -1,0 +1,1994 @@
+[
+    {
+        "segmentnr": "PA_ds_2.2.2:0.1",
+        "original": "Dhammasaṅgaṇī",
+        "analyzed": "dhammasaṅgaṇī ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:0.2",
+        "original": "2 Niddesa",
+        "analyzed": "niddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:0.3",
+        "original": "2.2 Rūpakaṇḍa",
+        "analyzed": "rūpa kaṇḍa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:0.4",
+        "original": "2.2.2. Mātikā",
+        "analyzed": "mātikā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.0",
+        "original": "2.2.2.1. Ekaka",
+        "analyzed": "ekaka ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.1",
+        "original": "Tattha katamaṁ sabbaṁ rūpaṁ?",
+        "analyzed": "tattha katamam sabbam rūpa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.2",
+        "original": "Cattāro ca mahābhūtā, catunnañca mahābhūtānaṁ upādāya rūpaṁ—",
+        "analyzed": "cattāraḥ ca mahābhūtā catunnam ca mahābhūtānam upādāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.3",
+        "original": "idaṁ vuccati sabbaṁ rūpaṁ.",
+        "analyzed": "idam vuccati sabbam rūpa ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_0",
+        "original": "Sabbaṁ rūpaṁ na hetu, ahetukaṁ, hetuvippayuttaṁ, sappaccayaṁ, saṅkhataṁ, rūpaṁ, lokiyaṁ,",
+        "analyzed": "sabbam rūpam na hetu ahetuka hetu vippayutta sappaccaya saṅkhata rūpa lokiya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_1",
+        "original": "sāsavaṁ, saññojaniyaṁ, ganthaniyaṁ, oghaniyaṁ, yoganiyaṁ, nīvaraṇiyaṁ, parāmaṭṭhaṁ,",
+        "analyzed": "sāsava saññojaniya gantha niya ogha niya yoga niya nīvaraṇiya parāmaṭṭha ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_2",
+        "original": "upādāniyaṁ, saṅkilesikaṁ, abyākataṁ, anārammaṇaṁ, acetasikaṁ, cittavippayuttaṁ, nevavipākanavipākadhammadhammaṁ,",
+        "analyzed": "upādāniya saṅkilesika abyākata anārammaṇa acetasika citta vippayutta neva vipāka na vipāka dhamma dhamma ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_3",
+        "original": "asaṅkiliṭṭhasaṅkilesikaṁ, na savitakkasavicāraṁ, na avitakkavicāramattaṁ, avitakkaavicāraṁ,",
+        "analyzed": "a saṅkiliṭṭha saṅkilesika na sa vitakka sa vicāra na a vitakka vicāra matta a vitakka a vicāra ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_4",
+        "original": "na pītisahagataṁ, na sukhasahagataṁ, na upekkhāsahagataṁ, neva dassanena na bhāvanāya",
+        "analyzed": "na pīti sahagata na sukha sahagata na upekkhā sahagata na iva dassanena na bhāvanāya ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_5",
+        "original": "pahātabbaṁ, neva dassanena na bhāvanāya pahātabbahetukaṁ, neva ācayagāmi na apacayagāmi,",
+        "analyzed": "pahātabba na iva dassanena na bhāvanāya pahātabba hetuka na iva ācaya gāmi na apacaya gāmi ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_6",
+        "original": "nevasekkhanāsekkhaṁ, parittaṁ, kāmāvacaraṁ, na rūpāvacaraṁ, na arūpāvacaraṁ, pariyāpannaṁ,",
+        "analyzed": "nevasekkha nāsekkha paritta kāmāvacara na rūpāvacara na arūpāvacara pariyāpanna ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.4_7",
+        "original": "no apariyāpannaṁ, aniyataṁ, aniyyānikaṁ, uppannaṁ, chahi viññāṇehi viññeyyaṁ, aniccaṁ, jarābhibhūtaṁ.",
+        "analyzed": "no apariyāpanna aniyata aniyyānika uppanna chahi viññāṇehi viññeyya anicca jarā abhibhūta ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.5",
+        "original": "Evaṁ ekavidhena rūpasaṅgaho.",
+        "analyzed": "evam ekavidhena rūpa saṅgahaḥ ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:1.6",
+        "original": "Ekakaṁ.",
+        "analyzed": "ekaka ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:2.0",
+        "original": "2.2.2.2. Duka",
+        "analyzed": "duka ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:2.1",
+        "original": "Duvidhena rūpasaṅgaho—",
+        "analyzed": "duvidhena ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:3.1",
+        "original": "Atthi rūpaṁ upādā, atthi rūpaṁ no upādā.",
+        "analyzed": "atthi rūpam upādā atthi rūpam no upādā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:4.1",
+        "original": "Atthi rūpaṁ upādinnaṁ, atthi rūpaṁ anupādinnaṁ.",
+        "analyzed": "atthi rūpam upādinna atthi rūpam anupādinna ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:5.1",
+        "original": "Atthi rūpaṁ upādinnupādāniyaṁ, atthi rūpaṁ anupādinnupādāniyaṁ.",
+        "analyzed": "atthi rūpam upādinnupādāniya atthi rūpam anupādinnupādāniya ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:6.1",
+        "original": "Atthi rūpaṁ sanidassanaṁ, atthi rūpaṁ anidassanaṁ.",
+        "analyzed": "atthi rūpam sa nidassana atthi rūpam a nidassana ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:7.1",
+        "original": "Atthi rūpaṁ sappaṭighaṁ, atthi rūpaṁ appaṭighaṁ.",
+        "analyzed": "atthi rūpam sa paṭigha atthi rūpam appaṭigha ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:8.1",
+        "original": "Atthi rūpaṁ indriyaṁ, atthi rūpaṁ na indriyaṁ.",
+        "analyzed": "atthi rūpam indriya atthi rūpam naḥ indriya ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:9.1",
+        "original": "Atthi rūpaṁ mahābhūtaṁ, atthi rūpaṁ na mahābhūtaṁ.",
+        "analyzed": "atthi rūpam mahābhūta atthi rūpam na mahābhūta ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:10.1",
+        "original": "Atthi rūpaṁ viññatti, atthi rūpaṁ na viññatti.",
+        "analyzed": "atthi rūpam viññatti atthi rūpam na viññatti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:11.1",
+        "original": "Atthi rūpaṁ cittasamuṭṭhānaṁ, atthi rūpaṁ na cittasamuṭṭhānaṁ.",
+        "analyzed": "atthi rūpam citta samuṭṭhāna atthi rūpam na citta samuṭṭhāna ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:12.1",
+        "original": "Atthi rūpaṁ cittasahabhu, atthi rūpaṁ na cittasahabhu.",
+        "analyzed": "atthi rūpam citta sahabhu atthi rūpam na citta sahabhu ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:13.1",
+        "original": "Atthi rūpaṁ cittānuparivatti, atthi rūpaṁ na cittānuparivatti.",
+        "analyzed": "atthi rūpam citta anuparivatti atthi rūpam na citta anuparivatti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:14.1",
+        "original": "Atthi rūpaṁ ajjhattikaṁ, atthi rūpaṁ bāhiraṁ.",
+        "analyzed": "atthi rūpam ajjhattika atthi rūpam bāhira ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:15.1",
+        "original": "Atthi rūpaṁ oḷārikaṁ, atthi rūpaṁ sukhumaṁ.",
+        "analyzed": "atthi rūpam oḷārika atthi rūpam sukhuma ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:16.1",
+        "original": "Atthi rūpaṁ dūre, atthi rūpaṁ santike. [14]",
+        "analyzed": "atthi rūpam dūre atthi rūpam santike ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:16.2",
+        "original": "Pakiṇṇakadukaṁ.",
+        "analyzed": "pakiṇṇaka duka ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:17.1",
+        "original": "Atthi rūpaṁ cakkhusamphassassa vatthu, atthi rūpaṁ cakkhusamphassassa na vatthu.",
+        "analyzed": "atthi rūpam cakkhu samphassassa vatthu atthi rūpam cakkhu samphassassa na vatthu ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:17.2",
+        "original": "Atthi rūpaṁ cakkhusamphassajāya vedanāya …pe…",
+        "analyzed": "atthi rūpam cakkhu samphassa jāya vedanāya pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:17.3",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:17.4",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:17.5",
+        "original": "cakkhuviññāṇassa vatthu, atthi rūpaṁ cakkhuviññāṇassa na vatthu.",
+        "analyzed": "cakkhu viññāṇassa vatthu atthi rūpam cakkhu viññāṇassa na vatthu ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.1",
+        "original": "Atthi rūpaṁ sotasamphassassa …pe…",
+        "analyzed": "atthi rūpam sota samphassassa pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.2",
+        "original": "ghānasamphassassa …pe…",
+        "analyzed": "ghāna samphassassa pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.3",
+        "original": "jivhāsamphassassa …pe…",
+        "analyzed": "jivhā samphassassa pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.4",
+        "original": "kāyasamphassassa vatthu, atthi rūpaṁ kāyasamphassassa na vatthu.",
+        "analyzed": "kāya samphassassa vatthu atthi rūpam kāya samphassassa na vatthu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.5",
+        "original": "Atthi rūpaṁ kāyasamphassajāya vedanāya …pe…",
+        "analyzed": "atthi rūpam kāya samphassa jāya vedanāya pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.6",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.7",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.8",
+        "original": "kāyaviññāṇassa vatthu, atthi rūpaṁ kāyaviññāṇassa na vatthu. [25]",
+        "analyzed": "kāya viññāṇassa vatthu atthi rūpam kāya viññāṇassa na vatthu ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:18.9",
+        "original": "Vatthudukaṁ.",
+        "analyzed": "vatthuduka ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:19.1",
+        "original": "Atthi rūpaṁ cakkhusamphassassa ārammaṇaṁ, atthi rūpaṁ cakkhusamphassassa nārammaṇaṁ.",
+        "analyzed": "atthi rūpam cakkhu samphassassa ārammaṇa atthi rūpam cakkhu samphassassa na ārammaṇa ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:19.2",
+        "original": "Atthi rūpaṁ cakkhusamphassajāya vedanāya …pe…",
+        "analyzed": "atthi rūpam cakkhu samphassa jāya vedanāya pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:19.3",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:19.4",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:19.5",
+        "original": "cakkhuviññāṇassa ārammaṇaṁ, atthi rūpaṁ cakkhuviññāṇassa nārammaṇaṁ.",
+        "analyzed": "cakkhu viññāṇassa ārammaṇa atthi rūpam cakkhu viññāṇassa na ārammaṇa ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.1",
+        "original": "Atthi rūpaṁ sotasamphassassa …pe…",
+        "analyzed": "atthi rūpam sota samphassassa pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.2",
+        "original": "ghānasamphassassa …pe…",
+        "analyzed": "ghāna samphassassa pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.3",
+        "original": "jivhāsamphassassa …pe…",
+        "analyzed": "jivhā samphassassa pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.4",
+        "original": "kāyasamphassassa ārammaṇaṁ, atthi rūpaṁ kāyasamphassassa nārammaṇaṁ.",
+        "analyzed": "kāya samphassassa ārammaṇa atthi rūpam kāya samphassassa na ārammaṇa ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.5",
+        "original": "Atthi rūpaṁ kāyasamphassajāya vedanāya …pe…",
+        "analyzed": "atthi rūpam kāya samphassa jāya vedanāya pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.6",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.7",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.8",
+        "original": "kāyaviññāṇassa ārammaṇaṁ, atthi rūpaṁ kāyaviññāṇassa nārammaṇaṁ. [25]",
+        "analyzed": "kāya viññāṇassa ārammaṇa atthi rūpam kāya viññāṇassa na ārammaṇa ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:20.9",
+        "original": "Ārammaṇadukaṁ.",
+        "analyzed": "ārammaṇa duka ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:21.1",
+        "original": "Atthi rūpaṁ cakkhāyatanaṁ, atthi rūpaṁ na cakkhāyatanaṁ.",
+        "analyzed": "atthi rūpam cakkhu āyatana atthi rūpam na cakkhu āyatana ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:21.2",
+        "original": "Atthi rūpaṁ sotāyatanaṁ …pe…",
+        "analyzed": "atthi rūpam sotāyatanam pe ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:21.3",
+        "original": "ghānāyatanaṁ …pe…",
+        "analyzed": "ghāna āyatanam pe ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:21.4",
+        "original": "jivhāyatanaṁ …pe…",
+        "analyzed": "jivhā āyatanam pe ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:21.5",
+        "original": "kāyāyatanaṁ, atthi rūpaṁ na kāyāyatanaṁ.",
+        "analyzed": "kāyāyatana atthi rūpam na kāyāyatana ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:22.1",
+        "original": "Atthi rūpaṁ rūpāyatanaṁ, atthi rūpaṁ na rūpāyatanaṁ.",
+        "analyzed": "atthi rūpam rūpāyatana atthi rūpam na rūpāyatana ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:22.2",
+        "original": "Atthi rūpaṁ saddāyatanaṁ …pe…",
+        "analyzed": "atthi rūpam sadda āyatanam pe ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:22.3",
+        "original": "gandhāyatanaṁ …pe…",
+        "analyzed": "gandha āyatanam pe ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:22.4",
+        "original": "rasāyatanaṁ …pe…",
+        "analyzed": "rasāyatanam pe ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:22.5",
+        "original": "phoṭṭhabbāyatanaṁ, atthi rūpaṁ na phoṭṭhabbāyatanaṁ. [10]",
+        "analyzed": "phoṭṭhabba āyatana atthi rūpam na phoṭṭhabba āyatana ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:22.6",
+        "original": "Āyatanadukaṁ.",
+        "analyzed": "āyatanaduka ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:23.1",
+        "original": "Atthi rūpaṁ cakkhudhātu, atthi rūpaṁ na cakkhudhātu.",
+        "analyzed": "atthi rūpam cakkhu dhātu atthi rūpam na cakkhu dhātu ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:23.2",
+        "original": "Atthi rūpaṁ sotadhātu …pe…",
+        "analyzed": "atthi rūpam sotadhātu pe ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:23.3",
+        "original": "ghānadhātu …pe…",
+        "analyzed": "ghāna dhātu pe ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:23.4",
+        "original": "jivhādhātu …pe…",
+        "analyzed": "jivhā dhātu pe ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:23.5",
+        "original": "kāyadhātu, atthi rūpaṁ na kāyadhātu.",
+        "analyzed": "kāyadhātu atthi rūpam na kāyadhātu ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:24.1",
+        "original": "Atthi rūpaṁ rūpadhātu, atthi rūpaṁ na rūpadhātu.",
+        "analyzed": "atthi rūpam rūpa dhātu atthi rūpam na rūpa dhātu ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:24.2",
+        "original": "Atthi rūpaṁ saddadhātu …pe…",
+        "analyzed": "atthi rūpam saddadhātu pe ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:24.3",
+        "original": "gandhadhātu …pe…",
+        "analyzed": "gandha dhātu pe ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:24.4",
+        "original": "rasadhātu …pe…",
+        "analyzed": "rasa dhātu pe ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:24.5",
+        "original": "phoṭṭhabbadhātu, atthi rūpaṁ na phoṭṭhabbadhātu. [10]",
+        "analyzed": "phoṭṭhabba dhātu atthi rūpam na phoṭṭhabba dhātu ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:24.6",
+        "original": "Dhātudukaṁ.",
+        "analyzed": "dhātu duka ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:25.1",
+        "original": "Atthi rūpaṁ cakkhundriyaṁ, atthi rūpaṁ na cakkhundriyaṁ.",
+        "analyzed": "atthi rūpam cakkhu indriya atthi rūpam na cakkhu indriya ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:25.2",
+        "original": "Atthi rūpaṁ sotindriyaṁ …pe…",
+        "analyzed": "atthi rūpam sotindriyam pe ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:25.3",
+        "original": "ghānindriyaṁ …pe…",
+        "analyzed": "ghānindriyam pe ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:25.4",
+        "original": "jivhindriyaṁ …pe…",
+        "analyzed": "jivhindriyam pe ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:25.5",
+        "original": "kāyindriyaṁ, atthi rūpaṁ na kāyindriyaṁ.",
+        "analyzed": "kāya indriya atthi rūpam na kāya indriya ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:26.1",
+        "original": "Atthi rūpaṁ itthindriyaṁ, atthi rūpaṁ na itthindriyaṁ.",
+        "analyzed": "atthi rūpam itthindriya atthi rūpam na itthindriya ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:27.1",
+        "original": "Atthi rūpaṁ purisindriyaṁ, atthi rūpaṁ na purisindriyaṁ.",
+        "analyzed": "atthi rūpam purisa indriya atthi rūpam na purisa indriya ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:28.1",
+        "original": "Atthi rūpaṁ jīvitindriyaṁ, atthi rūpaṁ na jīvitindriyaṁ. [8]",
+        "analyzed": "atthi rūpam jīvitindriya atthi rūpam na jīvitindriya ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:28.2",
+        "original": "Indriyadukaṁ.",
+        "analyzed": "indriyaduka ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:29.1",
+        "original": "Atthi rūpaṁ kāyaviññatti, atthi rūpaṁ na kāyaviññatti.",
+        "analyzed": "atthi rūpam kāya viññatti atthi rūpam na kāya viññatti ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:30.1",
+        "original": "Atthi rūpaṁ vacīviññatti, atthi rūpaṁ na vacīviññatti.",
+        "analyzed": "atthi rūpam vacī viññatti atthi rūpam na vacī viññatti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:31.1",
+        "original": "Atthi rūpaṁ ākāsadhātu, atthi rūpaṁ na ākāsadhātu.",
+        "analyzed": "atthi rūpam ākāsa dhātu atthi rūpam naḥ ākāsa dhātu ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:32.1",
+        "original": "Atthi rūpaṁ āpodhātu, atthi rūpaṁ na āpodhātu.",
+        "analyzed": "atthi rūpam āpodhātu atthi rūpam naḥ āpodhātu ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:33.1",
+        "original": "Atthi rūpaṁ rūpassa lahutā, atthi rūpaṁ rūpassa na lahutā.",
+        "analyzed": "atthi rūpam rūpassa lahu tā atthi rūpam rūpassa na lahu tā ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:34.1",
+        "original": "Atthi rūpaṁ rūpassa mudutā, atthi rūpaṁ rūpassa na mudutā.",
+        "analyzed": "atthi rūpam rūpassa mudu tā atthi rūpam rūpassa na mudu tā ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:35.1",
+        "original": "Atthi rūpaṁ rūpassa kammaññatā, atthi rūpaṁ rūpassa na kammaññatā.",
+        "analyzed": "atthi rūpam rūpassa kammañña tā atthi rūpam rūpassa na kammañña tā ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:36.1",
+        "original": "Atthi rūpaṁ rūpassa upacayo, atthi rūpaṁ rūpassa na upacayo.",
+        "analyzed": "atthi rūpam rūpassa upacayaḥ atthi rūpam rūpassa na upacayaḥ ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:37.1",
+        "original": "Atthi rūpaṁ rūpassa santati, atthi rūpaṁ rūpassa na santati.",
+        "analyzed": "atthi rūpam rūpassa santati atthi rūpam rūpassa na santati ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:38.1",
+        "original": "Atthi rūpaṁ rūpassa jaratā, atthi rūpaṁ rūpassa na jaratā.",
+        "analyzed": "atthi rūpam rūpassa jaratā atthi rūpam rūpassa na jaratā ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:39.1",
+        "original": "Atthi rūpaṁ rūpassa aniccatā, atthi rūpaṁ rūpassa na aniccatā.",
+        "analyzed": "atthi rūpam rūpassa anicca tā atthi rūpam rūpassa na anicca tā ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:40.1",
+        "original": "Atthi rūpaṁ kabaḷīkāro āhāro, atthi rūpaṁ na kabaḷīkāro āhāro. [12]",
+        "analyzed": "atthi rūpam kabaḷīkāraḥ āhāro atthi rūpam na kabaḷīkāraḥ āhāro ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:40.2",
+        "original": "Evaṁ duvidhena rūpasaṅgaho.",
+        "analyzed": "evam duvidhena rūpa saṅgahaḥ ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:40.3",
+        "original": "Sukhumarūpadukaṁ.",
+        "analyzed": "su khuma rūpa duka ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:40.4",
+        "original": "Dukaṁ.",
+        "analyzed": "duka ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:41.0",
+        "original": "2.2.2.3. Tika",
+        "analyzed": "tika ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:41.1",
+        "original": "Tividhena rūpasaṅgaho—",
+        "analyzed": "tividhena rūpa saṅgahaḥ ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:42.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ upādā.",
+        "analyzed": "yam tam rūpam ajjhattika tam ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:42.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi upādā, atthi no upādā.",
+        "analyzed": "yam tam rūpam bāhira tam atthi upādā atthi no upādā ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:43.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ upādinnaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:43.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi upādinnaṁ, atthi anupādinnaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi upādinna atthi anupādinna ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:44.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ upādinnupādāniyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:44.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi upādinnupādāniyaṁ, atthi anupādinnupādāniyaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi upādinnupādāniya atthi anupādinnupādāniya ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:45.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ anidassanaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam anidassana ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:45.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi sanidassanaṁ, atthi anidassanaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi sa nidassana atthi a nidassana ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:46.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ sappaṭighaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam sa paṭigha ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:46.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi sa paṭigha atthi appaṭigha ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:47.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ indriyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam indriya ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:47.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi indriyaṁ, atthi na indriyaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi indriya atthi na indriya ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:48.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam na mahābhūta ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:48.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:49.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na viññatti.",
+        "analyzed": "yam tam rūpam ajjhattika tam na ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:49.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi viññatti, atthi na viññatti.",
+        "analyzed": "yam tam rūpam bāhira tam atthi viññatti atthi na viññatti ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:50.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na cittasamuṭṭhānaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam na citta samuṭṭhāna ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:50.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi cittasamuṭṭhānaṁ, atthi na cittasamuṭṭhānaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi citta samuṭṭhāna atthi na citta samuṭṭhāna ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:51.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na cittasahabhu.",
+        "analyzed": "yam tam rūpam ajjhattika tam na ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:51.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi cittasahabhu, atthi na cittasahabhu.",
+        "analyzed": "yam tam rūpam bāhira tam atthi citta sahabhu atthi na citta sahabhu ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:52.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na cittānuparivatti.",
+        "analyzed": "yam tam rūpam ajjhattika tam na ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:52.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi cittānuparivatti, atthi na cittānuparivatti.",
+        "analyzed": "yam tam rūpam bāhira tam atthi citta anuparivatti atthi na citta anuparivatti ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:53.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ oḷārikaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam oḷārika ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:53.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi oḷārika atthi sukhuma ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:54.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ santike.",
+        "analyzed": "yam tam rūpam ajjhattika tam santike ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:54.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi dūre, atthi santike. [13]",
+        "analyzed": "yam tam rūpam bāhira tam atthi dūre atthi santike ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:54.3",
+        "original": "Pakiṇṇakatikaṁ.",
+        "analyzed": "pakiṇṇakatika ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:55.1",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ cakkhusamphassassa na vatthu.",
+        "analyzed": "yam tam rūpam bāhira tam cakkhu samphassassa na vatthu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:55.2",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi cakkhusamphassassa vatthu, atthi cakkhusamphassassa na vatthu.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi cakkhu samphassassa vatthu atthi cakkhu samphassassa na vatthu ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:56.1",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ cakkhusamphassajāya vedanāya …pe…",
+        "analyzed": "yam tam rūpam bāhira tam cakkhu samphassa jāya vedanāya pe ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:56.2",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:56.3",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:56.4",
+        "original": "cakkhuviññāṇassa na vatthu.",
+        "analyzed": "cakkhu viññāṇassa na vatthu ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:56.5",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi cakkhuviññāṇassa vatthu, atthi cakkhuviññāṇassa na vatthu.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi cakkhu viññāṇassa vatthu atthi cakkhu viññāṇassa na vatthu ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.1",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ sotasamphassassa …pe…",
+        "analyzed": "yam tam rūpam bāhira tam sota samphassassa pe ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.2",
+        "original": "ghānasamphassassa …pe…",
+        "analyzed": "ghāna samphassassa pe ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.3",
+        "original": "jivhāsamphassassa …pe…",
+        "analyzed": "jivhā samphassassa pe ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.4",
+        "original": "kāyasamphassassa na vatthu.",
+        "analyzed": "kāya samphassassa na vatthu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.5",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi kāyasamphassassa vatthu, atthi kāyasamphassassa na vatthu.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi kāya samphassassa vatthu atthi kāya samphassassa na vatthu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.6",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ kāyasamphassajāya vedanāya …pe…",
+        "analyzed": "yam tam rūpam tam kāya samphassa jāya vedanāya pe ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.7",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.8",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.9",
+        "original": "kāyaviññāṇassa na vatthu.",
+        "analyzed": "kāya viññāṇassa na vatthu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.10",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi kāyaviññāṇassa vatthu, atthi kāyaviññāṇassa na vatthu. [25]",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi kāya viññāṇassa vatthu atthi kāya viññāṇassa na vatthu ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:57.11",
+        "original": "Vatthutikaṁ.",
+        "analyzed": "vatthutika ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ cakkhusamphassassa nārammaṇaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam cakkhu samphassassa na ārammaṇa ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi cakkhusamphassassa ārammaṇaṁ, atthi cakkhusamphassassa nārammaṇaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi cakkhu samphassassa ārammaṇa atthi cakkhu samphassassa na ārammaṇa ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.3",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ cakkhusamphassajāya vedanāya …pe…",
+        "analyzed": "yam tam rūpam ajjhattika tam cakkhu samphassa jāya vedanāya pe ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.4",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.5",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.6",
+        "original": "cakkhuviññāṇassa nārammaṇaṁ.",
+        "analyzed": "cakkhu viññāṇassa na ārammaṇa ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:58.7",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi cakkhuviññāṇassa ārammaṇaṁ, atthi cakkhuviññāṇassa nārammaṇaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi cakkhu viññāṇassa ārammaṇa atthi cakkhu viññāṇassa nārammaṇa ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ sotasamphassassa …pe…",
+        "analyzed": "yam tam rūpam ajjhattika tam sota samphassassa pe ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.2",
+        "original": "ghānasamphassassa …pe…",
+        "analyzed": "ghāna samphassassa pe ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.3",
+        "original": "jivhāsamphassassa …pe…",
+        "analyzed": "jivhā samphassassa pe ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.4",
+        "original": "kāyasamphassassa nārammaṇaṁ.",
+        "analyzed": "kāya samphassassa na ārammaṇa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.5",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi kāyasamphassassa ārammaṇaṁ, atthi kāyasamphassassa nārammaṇaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi kāya samphassassa ārammaṇa atthi kāya samphassassa na ārammaṇa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.6",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ kāyasamphassajāya vedanāya …pe…",
+        "analyzed": "yam tam rūpam ajjhattika tam kāya samphassa jāya vedanāya pe ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.7",
+        "original": "saññāya …pe…",
+        "analyzed": "saññāya pe ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.8",
+        "original": "cetanāya …pe…",
+        "analyzed": "cetanāya pe ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.9",
+        "original": "kāyaviññāṇassa nārammaṇaṁ.",
+        "analyzed": "kāya viññāṇassa na ārammaṇa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.10",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi kāyaviññāṇassa ārammaṇaṁ, atthi kāyaviññāṇassa nārammaṇaṁ. [25]",
+        "analyzed": "yam tam rūpam bāhira tam atthi kāya viññāṇassa ārammaṇa atthi kāya viññāṇassa na ārammaṇa ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:59.11",
+        "original": "Ārammaṇatikaṁ.",
+        "analyzed": "ārammaṇa tika ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.1",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ na cakkhāyatanaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam na ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.2",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi cakkhāyatanaṁ, atthi na cakkhāyatanaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi cakkhu āyatana atthi na cakkhu āyatana ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.3",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ na sotāyatanaṁ …pe…",
+        "analyzed": "yam tam rūpam bāhira tam na sotā āyatanam pe ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.4",
+        "original": "na ghānāyatanaṁ …pe…",
+        "analyzed": "na ghāna āyatanam pe ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.5",
+        "original": "na jivhāyatanaṁ …pe…",
+        "analyzed": "na jivhā āyatanam pe ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.6",
+        "original": "na kāyāyatanaṁ.",
+        "analyzed": "na ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:60.7",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi kāyāyatanaṁ, atthi na kāyāyatanaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi kāya āyatana atthi na kāya āyatana ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na rūpāyatanaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam na ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpāyatanaṁ, atthi na rūpāyatanaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpa āyatana atthi na rūpa āyatana ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.3",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na saddāyatanaṁ …pe…",
+        "analyzed": "yam tam rūpam ajjhattika tam na sadda āyatanam pe ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.4",
+        "original": "na gandhāyatanaṁ …pe…",
+        "analyzed": "na gandha āyatanam pe ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.5",
+        "original": "na rasāyatanaṁ …pe…",
+        "analyzed": "na rasa āyatanam pe ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.6",
+        "original": "na phoṭṭhabbāyatanaṁ.",
+        "analyzed": "na phoṭṭhabba āyatana ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.7",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi phoṭṭhabbāyatanaṁ, atthi na phoṭṭhabbāyatanaṁ. [10]",
+        "analyzed": "yam tam rūpam bāhira tam atthi phoṭṭhabba āyatana atthi na phoṭṭhabba āyatana ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:61.8",
+        "original": "Āyatanatikaṁ.",
+        "analyzed": "āyatanatika ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.1",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ na cakkhudhātu.",
+        "analyzed": "yam tam rūpam bāhira tam na cakkhu dhātu ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.2",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi cakkhudhātu, atthi na cakkhudhātu.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi cakkhu dhātu atthi na cakkhu dhātu ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.3",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ na sotadhātu …pe…",
+        "analyzed": "yam tam rūpam bāhira tam na sotadhātu pe ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.4",
+        "original": "na ghānadhātu …pe…",
+        "analyzed": "na gha an a dhātu pe ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.5",
+        "original": "na jivhādhātu …pe…",
+        "analyzed": "na jivhā dhātu pe ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.6",
+        "original": "na kāyadhātu.",
+        "analyzed": "na kāya dhātu ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:62.7",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi kāyadhātu, atthi na kāyadhātu.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi kāyadhātu atthi na kāyadhātu ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na rūpadhātu.",
+        "analyzed": "yam tam rūpam ajjhattika tam na rūpa dhātu ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpadhātu, atthi na rūpadhātu.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpa dhātu atthi na rūpa dhātu ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.3",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na saddadhātu …pe…",
+        "analyzed": "yam tam rūpam ajjhattika tam na saddadhātu pe ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.4",
+        "original": "na gandhadhātu …pe…",
+        "analyzed": "na gandha dhātu pe ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.5",
+        "original": "na rasadhātu …pe…",
+        "analyzed": "na rasa dhātu pe ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.6",
+        "original": "na phoṭṭhabbadhātu.",
+        "analyzed": "na phoṭṭhabba dhātu ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.7",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi phoṭṭhabbadhātu, atthi na phoṭṭhabbadhātu. [10]",
+        "analyzed": "yam tam rūpam bāhira tam atthi phoṭṭhabba dhātu atthi na phoṭṭhabba dhātu ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:63.8",
+        "original": "Dhātutikaṁ.",
+        "analyzed": "dhātutika ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.1",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ na cakkhundriyaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam na cakkhu indriya ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.2",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi cakkhundriyaṁ, atthi na cakkhundriyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi cakkhu indriya atthi na cakkhu indriya ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.3",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ na sotindriyaṁ …pe…",
+        "analyzed": "yam tam rūpam bāhira tam na saḥ utindriyam pe ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.4",
+        "original": "na ghānindriyaṁ …pe…",
+        "analyzed": "na gha an indriyam pe ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.5",
+        "original": "na jivhindriyaṁ …pe…",
+        "analyzed": "na jivhindriyam pe ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.6",
+        "original": "na kāyindriyaṁ.",
+        "analyzed": "na kāyindriya ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:64.7",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ atthi kāyindriyaṁ, atthi na kāyindriyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam atthi kāya indriya atthi na kāya indriya ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:65.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na itthindriyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam naḥ itthindriya ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:65.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi itthindriyaṁ, atthi na itthindriyaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi itthindriya atthi na itthindriya ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:66.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na purisindriyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam na purisa indriya ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:66.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi purisindriyaṁ, atthi na purisindriyaṁ.",
+        "analyzed": "yam tam rūpam bāhira tam atthi purisa indriya atthi na purisa indriya ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:67.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na jīvitindriyaṁ.",
+        "analyzed": "yam tam rūpam ajjhattika tam na jīvitindriya ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:67.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi jīvitindriyaṁ, atthi na jīvitindriyaṁ. [8]",
+        "analyzed": "yam tam rūpam bāhira tam atthi jīvitindriya atthi na jīvitindriya ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:67.3",
+        "original": "Indriyatikaṁ.",
+        "analyzed": "indriyatika ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:68.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na kāyaviññatti.",
+        "analyzed": "yam tam rūpam ajjhattika tam na kāya viññatti ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:68.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi kāyaviññatti, atthi na kāyaviññatti.",
+        "analyzed": "yam tam rūpam bāhira tam atthi kāya viññatti atthi na kāya viññatti ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:69.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na vacīviññatti.",
+        "analyzed": "yam tam rūpam ajjhattika tam na vacī viññatti ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:69.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi vacīviññatti, atthi na vacīviññatti.",
+        "analyzed": "yam tam rūpam bāhira tam atthi vacī viññatti atthi na vacī viññatti ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:70.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na ākāsadhātu.",
+        "analyzed": "yam tam rūpam ajjhattika tam naḥ ākāsa dhātu ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:70.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi ākāsadhātu, atthi na ākāsadhātu.",
+        "analyzed": "yam tam rūpam bāhira tam atthi ākāsadhātu atthi naḥ ākāsadhātu ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:71.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na āpodhātu.",
+        "analyzed": "yam tam rūpam ajjhattika tam naḥ āpaḥ dhātu ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:71.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi āpodhātu, atthi na āpodhātu.",
+        "analyzed": "yam tam rūpam bāhira tam atthi āpodhātu atthi naḥ āpodhātu ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:72.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na lahutā.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na lahu tā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:72.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa lahutā, atthi rūpassa na lahutā.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa lahu tā atthi rūpassa na lahu tā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:73.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na mudutā.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na mudu tā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:73.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa mudutā, atthi rūpassa na mudutā.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa mudu tā atthi rūpassa na mudu tā ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:74.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na kammaññatā.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na kammañña tā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:74.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa kammaññatā, atthi rūpassa na kammaññatā.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa kammañña tā atthi rūpassa na kammañña tā ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:75.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na upacayo.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na upacayaḥ ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:75.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa upacayo, atthi rūpassa na upacayo.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa upacayaḥ atthi rūpassa na upacayaḥ ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:76.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na santati.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na santati ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:76.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa santati, atthi rūpassa na santati.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa santati atthi rūpassa na santati ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:77.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na jaratā.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na jaratā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:77.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa jaratā, atthi rūpassa na jaratā.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa jaratā atthi rūpassa na jaratā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:78.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ rūpassa na aniccatā.",
+        "analyzed": "yam tam rūpam ajjhattika tam rūpassa na anicca tā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:78.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi rūpassa aniccatā, atthi rūpassa na aniccatā.",
+        "analyzed": "yam tam rūpam bāhira tam atthi rūpassa anicca tā atthi rūpassa na anicca tā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:79.1",
+        "original": "Yaṁ taṁ rūpaṁ ajjhattikaṁ, taṁ na kabaḷīkāro āhāro.",
+        "analyzed": "yam tam rūpam ajjhattika tam na kabaḷīkāraḥ āhāraḥ ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:79.2",
+        "original": "Yaṁ taṁ rūpaṁ bāhiraṁ, taṁ atthi kabaḷīkāro āhāro, atthi na kabaḷīkāro āhāro. [12]",
+        "analyzed": "yam tam rūpam bāhira tam atthi kabaḷīkāraḥ āhāraḥ atthi na kabaḷīkāraḥ āhāraḥ ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:79.3",
+        "original": "Evaṁ tividhena rūpasaṅgaho.",
+        "analyzed": "evam tividhena rūpa saṅgahaḥ ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:79.4",
+        "original": "Sukhumarūpatikaṁ.",
+        "analyzed": "su khuma rūpatika ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:79.5",
+        "original": "Tikaṁ.",
+        "analyzed": "tika ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:80.0",
+        "original": "2.2.2.4. Catukka",
+        "analyzed": "catukka ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:80.1",
+        "original": "Catubbidhena rūpasaṅgaho—",
+        "analyzed": "catubbidhena rūpa saṅgahaḥ ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:81.1",
+        "original": "Yaṁ taṁ rūpaṁ upādā, taṁ atthi upādinnaṁ, atthi anupādinnaṁ.",
+        "analyzed": "yam tam rūpam tam atthi upādinna atthi anupādinna ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:81.2",
+        "original": "Yaṁ taṁ rūpaṁ no upādā, taṁ atthi upādinnaṁ, atthi anupādinnaṁ.",
+        "analyzed": "yam tam rūpam no tam atthi upādinna atthi anupādinna ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:82.1",
+        "original": "Yaṁ taṁ rūpaṁ upādā, taṁ atthi upādinnupādāniyaṁ, atthi anupādinnupādāniyaṁ.",
+        "analyzed": "yam tam rūpam upādā tam atthi upādinnupādāniya atthi anupādinnupādāniya ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:82.2",
+        "original": "Yaṁ taṁ rūpaṁ no upādā, taṁ atthi upādinnupādāniyaṁ, atthi anupādinnupādāniyaṁ.",
+        "analyzed": "yam tam rūpam no upādā tam atthi upādinnupādāniya atthi an upādinnupādāniya ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:83.1",
+        "original": "Yaṁ taṁ rūpaṁ upādā, taṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sappaṭigha atthi appaṭigha ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:83.2",
+        "original": "Yaṁ taṁ rūpaṁ no upādā, taṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam no tam atthi sappaṭigha atthi appaṭigha ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:84.1",
+        "original": "Yaṁ taṁ rūpaṁ upādā, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam tam atthi oḷārika atthi sukhuma ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:84.2",
+        "original": "Yaṁ taṁ rūpaṁ no upādā, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam no tam atthi oḷārika atthi sukhuma ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:85.1",
+        "original": "Yaṁ taṁ rūpaṁ upādā, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam upādā tam atthi dūre atthi santike ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:85.2",
+        "original": "Yaṁ taṁ rūpaṁ no upādā, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam naḥ upādā tam atthi dūre atthi santike ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:86.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnaṁ, taṁ atthi sanidassanaṁ, atthi anidassanaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sa nidassana atthi anidassana ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:86.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnaṁ, taṁ atthi sanidassanaṁ, atthi anidassanaṁ.",
+        "analyzed": "yam tam rūpam anupādinna tam atthi sa nidassana atthi anidassana ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:87.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnaṁ, taṁ atthi sappaṭighaṁ atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sa paṭigham atthi appaṭigha ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:87.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnaṁ, taṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam anupādinna tam atthi sa paṭigha atthi appaṭigha ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:88.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnaṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:88.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnaṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:89.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam tam atthi oḷārika atthi sukhuma ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:89.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam tam atthi oḷārika atthi sukhuma ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:90.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam tam atthi dūre atthi santike ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:90.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam tam atthi dūre atthi santike ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:91.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnupādāniyaṁ, taṁ atthi sanidassanaṁ, atthi anidassanaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sa nidassana atthi a nidassana ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:91.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnupādāniyaṁ, taṁ atthi sanidassanaṁ, atthi anidassanaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sa nidassana atthi a nidassana ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:92.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnupādāniyaṁ, taṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sappaṭigha atthi appaṭigha ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:92.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnupādāniyaṁ, taṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "yam tam rūpam tam atthi sa paṭigha atthi appaṭigha ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:93.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnupādāniyaṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:93.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnupādāniyaṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:94.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnupādāniyaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam tam atthi oḷārika atthi sukhuma ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:94.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnupādāniyaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam tam atthi oḷārika atthi sukhuma ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:95.1",
+        "original": "Yaṁ taṁ rūpaṁ upādinnupādāniyaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam tam atthi dūre atthi santike ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:95.2",
+        "original": "Yaṁ taṁ rūpaṁ anupādinnupādāniyaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam tam atthi dūre atthi santike ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:96.1",
+        "original": "Yaṁ taṁ rūpaṁ sappaṭighaṁ, taṁ atthi indriyaṁ, atthi na indriyaṁ.",
+        "analyzed": "yam tam rūpam sappaṭigha tam atthi indriya atthi na indriya ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:96.2",
+        "original": "Yaṁ taṁ rūpaṁ appaṭighaṁ, taṁ atthi indriyaṁ, atthi na indriyaṁ.",
+        "analyzed": "yam tam rūpam appaṭigha tam atthi indriya atthi na indriya ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:97.1",
+        "original": "Yaṁ taṁ rūpaṁ sappaṭighaṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam sappaṭigha tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:97.2",
+        "original": "Yaṁ taṁ rūpaṁ appaṭighaṁ, taṁ atthi mahābhūtaṁ, atthi na mahābhūtaṁ.",
+        "analyzed": "yam tam rūpam appaṭigha tam atthi mahābhūta atthi na mahābhūta ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:98.1",
+        "original": "Yaṁ taṁ rūpaṁ indriyaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam indriya tam atthi oḷārika atthi sukhuma ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:98.2",
+        "original": "Yaṁ taṁ rūpaṁ na indriyaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam naḥ indriya tam atthi oḷārika atthi sukhuma ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:99.1",
+        "original": "Yaṁ taṁ rūpaṁ indriyaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam indriya tam atthi dūre atthi santike ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:99.2",
+        "original": "Yaṁ taṁ rūpaṁ na indriyaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam naḥ indriya tam atthi dūre atthi santike ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:100.1",
+        "original": "Yaṁ taṁ rūpaṁ mahābhūtaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam mahābhūta tam atthi oḷārika atthi sukhuma ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:100.2",
+        "original": "Yaṁ taṁ rūpaṁ na mahābhūtaṁ, taṁ atthi oḷārikaṁ, atthi sukhumaṁ.",
+        "analyzed": "yam tam rūpam na mahābhūta tam atthi oḷārika atthi sukhuma ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:101.1",
+        "original": "Yaṁ taṁ rūpaṁ mahābhūtaṁ, taṁ atthi dūre, atthi santike.",
+        "analyzed": "yam tam rūpam mahābhūta tam atthi dūre atthi santike ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:101.2",
+        "original": "Yaṁ taṁ rūpaṁ na mahābhūtaṁ, taṁ atthi dūre, atthi santike. [22]",
+        "analyzed": "yam tam rūpam na mahābhūta tam atthi dūre atthi santike ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:101.3",
+        "original": "Diṭṭhaṁ sutaṁ mutaṁ viññātaṁ rūpaṁ.",
+        "analyzed": "diṭṭham sutam mutam viññātam rūpa ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:101.4",
+        "original": "Evaṁ catubbidhena rūpasaṅgaho.",
+        "analyzed": "evam catubbidhena rūpa saṅgahaḥ ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:101.5",
+        "original": "Catukkaṁ.",
+        "analyzed": "catukka ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:102.0",
+        "original": "2.2.2.5. Pañcaka",
+        "analyzed": "pañcaka ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:102.1",
+        "original": "Pañcavidhena rūpasaṅgaho—",
+        "analyzed": "pañcavidhena rūpa saṅgahaḥ ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:103.1",
+        "original": "Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, yañca rūpaṁ upādā.",
+        "analyzed": "pathavī dhātu āpaḥ dhātu tejaḥ dhātu vāyaḥ dhātu yat ca rūpam ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:103.2",
+        "original": "Evaṁ pañcavidhena rūpasaṅgaho.",
+        "analyzed": "evam pañcavidhena rūpa saṅgahaḥ ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:103.3",
+        "original": "Pañcakaṁ.",
+        "analyzed": "pañcaka ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:104.0",
+        "original": "2.2.2.6. Chakka",
+        "analyzed": "chakka ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:104.1",
+        "original": "Chabbidhena rūpasaṅgaho—",
+        "analyzed": "chabbidhena rūpa saṅgahaḥ ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:105.1",
+        "original": "Cakkhuviññeyyaṁ rūpaṁ, sotaviññeyyaṁ rūpaṁ, ghānaviññeyyaṁ rūpaṁ, jivhāviññeyyaṁ rūpaṁ, kāyaviññeyyaṁ rūpaṁ, manoviññeyyaṁ rūpaṁ.",
+        "analyzed": "cakkhu viññeyyam rūpa sota viññeyyam rūpa ghāna viññeyyam rūpa jivhā viññeyyam rūpa kāya viññeyyam rūpa manaḥ viññeyyam rūpa ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:105.2",
+        "original": "Evaṁ chabbidhena rūpasaṅgaho.",
+        "analyzed": "evam chabbidhena rūpa saṅgahaḥ ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:105.3",
+        "original": "Chakkaṁ.",
+        "analyzed": "chakka ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:106.0",
+        "original": "2.2.2.7. Sattaka",
+        "analyzed": "sattaka ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:106.1",
+        "original": "Sattavidhena rūpasaṅgaho—",
+        "analyzed": "sattavidhena rūpa saṅgahaḥ ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:107.1",
+        "original": "Cakkhuviññeyyaṁ rūpaṁ, sotaviññeyyaṁ rūpaṁ, ghānaviññeyyaṁ rūpaṁ, jivhāviññeyyaṁ rūpaṁ, kāyaviññeyyaṁ rūpaṁ, manodhātuviññeyyaṁ rūpaṁ, manoviññāṇadhātuviññeyyaṁ rūpaṁ.",
+        "analyzed": "cakkhu viññeyyam rūpa sota viññeyyam rūpa ghāna viññeyyam rūpa jivhā viññeyyam rūpa kāya viññeyyam rūpa manaḥ dhātu viññeyyam rūpa manaḥ viññāṇa dhātu viññeyyam rūpa ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:107.2",
+        "original": "Evaṁ sattavidhena rūpasaṅgaho.",
+        "analyzed": "evam sattavidhena rūpa saṅgahaḥ ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:107.3",
+        "original": "Sattakaṁ.",
+        "analyzed": "sattaka ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:108.0",
+        "original": "2.2.2.8. Aṭṭhaka",
+        "analyzed": "aṭṭhaka ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:108.1",
+        "original": "Aṭṭhavidhena rūpasaṅgaho—",
+        "analyzed": "aṭṭhavidhena rūpa saṅgahaḥ ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:109.1_0",
+        "original": "Cakkhuviññeyyaṁ rūpaṁ, sotaviññeyyaṁ rūpaṁ, ghānaviññeyyaṁ rūpaṁ, jivhāviññeyyaṁ",
+        "analyzed": "cakkhu viññeyyam sota viññeyyam rūpa ghāna viññeyyam rūpa jivhā viññeyya ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:109.1_1",
+        "original": "rūpaṁ, kāyaviññeyyaṁ rūpaṁ, atthi sukhasamphassaṁ, atthi dukkhasamphassaṁ, manodhātuviññeyyaṁ",
+        "analyzed": "kāya viññeyyam rūpa atthi sukha samphassa atthi dukkha samphassa manaḥ dhātu viññeyya ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:109.1_2",
+        "original": "rūpaṁ, manoviññāṇadhātuviññeyyaṁ rūpaṁ.",
+        "analyzed": "manaḥ viññāṇa dhātu viññeyyam ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:109.2",
+        "original": "Evaṁ aṭṭhavidhena rūpasaṅgaho.",
+        "analyzed": "evam aṭṭhavidhena rūpa saṅgahaḥ ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:109.3",
+        "original": "Aṭṭhakaṁ.",
+        "analyzed": "aṭṭhaka ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:110.0",
+        "original": "2.2.2.9. Navaka",
+        "analyzed": "navaka ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:110.1",
+        "original": "Navavidhena rūpasaṅgaho—",
+        "analyzed": "navavidhena ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:111.1",
+        "original": "Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, itthindriyaṁ, purisindriyaṁ, jīvitindriyaṁ, yañca rūpaṁ na indriyaṁ.",
+        "analyzed": "cakkhundriya sotindriya ghānindriya jivhindriya kāyindriya itthindriya purisindriya jīvitindriya yat ca rūpam naḥ indriya ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:111.2",
+        "original": "Evaṁ navavidhena rūpasaṅgaho.",
+        "analyzed": "evam navavidhena rūpa saṅgahaḥ ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:111.3",
+        "original": "Navakaṁ.",
+        "analyzed": "navaka ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:112.0",
+        "original": "2.2.2.10. Dasaka",
+        "analyzed": "dasaka ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:112.1",
+        "original": "Dasavidhena rūpasaṅgaho—",
+        "analyzed": "dasavidhena rūpa saṅgahaḥ ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:113.1",
+        "original": "Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ kāyindriyaṁ, itthindriyaṁ, purisindriyaṁ, jīvitindriyaṁ, na indriyaṁ rūpaṁ atthi sappaṭighaṁ, atthi appaṭighaṁ.",
+        "analyzed": "cakkhundriya sotindriya ghānindriya jivhindriyam kāyindriya itthindriya purisindriya jīvitindriya na indriyam rūpaṃ atthi sappaṭigha atthi appaṭigha ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:113.2",
+        "original": "Evaṁ dasavidhena rūpasaṅgaho.",
+        "analyzed": "evam dasavidhena rūpa saṅgahaḥ ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:113.3",
+        "original": "Dasakaṁ.",
+        "analyzed": "dasaka ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:114.0",
+        "original": "2.2.2.11. Ekādasaka",
+        "analyzed": "ekādasaka ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:114.1",
+        "original": "Ekādasavidhena rūpasaṅgaho—",
+        "analyzed": "ekādasavidhena rūpa saṅgahaḥ ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:115.1_0",
+        "original": "Cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, rūpāyatanaṁ,",
+        "analyzed": "cakkhāyatana sotāyatana ghānāyatana jivhāyatana kāyāyatana rūpāyatana ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:115.1_1",
+        "original": "saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, yañca rūpaṁ anidassanaappaṭighaṁ",
+        "analyzed": "sadda āyatana gandha āyatana rasa āyatana phoṭṭhabba āyatana yat ca rūpam anidassana appaṭigha ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:115.1_2",
+        "original": "dhammāyatanapariyāpannaṁ.",
+        "analyzed": "dhamma āyatana pariyāpanna ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:115.2",
+        "original": "Evaṁ ekādasavidhena rūpasaṅgaho.",
+        "analyzed": "evam ekādasavidhena rūpa saṅgahaḥ ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:115.3",
+        "original": "Ekādasakaṁ.",
+        "analyzed": "ekādasaka ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_ds_2.2.2:115.4",
+        "original": "Mātikā.",
+        "analyzed": "mātikā ",
+        "folio": "115"
+    }
+]

@@ -1,0 +1,2750 @@
+[
+    {
+        "segmentnr": "PA_mnd_12:0.1",
+        "original": "Mahāniddesa",
+        "analyzed": "mahāniddesa ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mnd_12:0.2",
+        "original": "Aṭṭhakavagga",
+        "analyzed": "aṭṭhaka vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mnd_12:0.3",
+        "original": "12. Cūḷabyūhasuttaniddesa",
+        "analyzed": "      ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_mnd_12:1.1",
+        "original": "Atha cūḷabyūhasuttaniddesaṁ vakkhati—",
+        "analyzed": "atha cūḷabyūha sutta niddesam vakkhati ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_mnd_12:2.1",
+        "original": "Sakaṁ sakaṁ diṭṭhiparibbasānā,",
+        "analyzed": "sakam sakam diṭṭhi paribbasānā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mnd_12:2.2",
+        "original": "Viggayha nānā kusalā vadanti;",
+        "analyzed": "viggayha nānā kusalāḥ vadanti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mnd_12:2.3",
+        "original": "Yo evaṁ jānāti sa vedi dhammaṁ,",
+        "analyzed": "yaḥ evam jānāti sa vedi dhamma ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mnd_12:2.4",
+        "original": "Idaṁ paṭikkosamakevalī so.",
+        "analyzed": "idam paṭikkosama kevalī saḥ ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.1",
+        "original": "Sakaṁ sakaṁ diṭṭhiparibbasānāti.",
+        "analyzed": "sakam sakam diṭṭhi paribbasānā ti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.2",
+        "original": "Santeke samaṇabrāhmaṇā diṭṭhigatikā;",
+        "analyzed": "santi ike samaṇa brāhmaṇāḥ diṭṭhi gatikā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.3",
+        "original": "te dvāsaṭṭhiyā diṭṭhigatānaṁ aññataraññataraṁ diṭṭhigataṁ gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā sakāya sakāya diṭṭhiyā vasanti saṁvasanti āvasanti parivasanti.",
+        "analyzed": "te dvāsaṭṭhiyāḥ diṭṭhi gatānam aññatara aññataram diṭṭhi gatam gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā sakāya sakāya diṭṭhiyā vasanti savasanti āvasanti parivasanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.4",
+        "original": "Yathā agārikā gharesu vasanti, sāpattikā vā āpattīsu vasanti, sakilesā vā kilesesu vasanti;",
+        "analyzed": "yathā agārikāḥ gharesu vasanti sa āpattikāḥ vā āpattīsu vasanti sa kilesāḥ vā kilesesu vasanti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.5_0",
+        "original": "evamevaṁ santeke samaṇabrāhmaṇā diṭṭhigatikā, te dvāsaṭṭhiyā diṭṭhigatānaṁ aññataraññataraṁ",
+        "analyzed": "evam evam santi ike samaṇa brāhmaṇāḥ diṭṭhigatikā te dvāsaṭṭhiyāḥ diṭṭhigatānam aññatara ññatara ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.5_1",
+        "original": "diṭṭhigataṁ gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā sakāya sakāya diṭṭhiyā",
+        "analyzed": "diṭṭhi gatam gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā sakāya sakāya diṭṭhiyā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.5_2",
+        "original": "vasanti saṁvasanti āvasanti parivasantīti—",
+        "analyzed": "vasanti savasanti āvasanti parivasanti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:3.6",
+        "original": "sakaṁ sakaṁ diṭṭhiparibbasānā.",
+        "analyzed": "sakam sakam diṭṭhi paribbasānā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_mnd_12:4.1",
+        "original": "Viggayha nānā kusalā vadantīti.",
+        "analyzed": "viggayha nānā kusalāḥ vadanti iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mnd_12:4.2",
+        "original": "Viggayhāti gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā nānā vadanti vividhaṁ vadanti aññoññaṁ vadanti puthu vadanti, na ekaṁ vadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "viggayha ati gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā nānā vadanti vividham vadanti aññoññam vadanti puthu vadanti na ekam vadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mnd_12:4.3",
+        "original": "Kusalāti kusalavādā paṇḍitavādā thiravādā ñāyavādā hetuvādā lakkhaṇavādā kāraṇavādā ṭhānavādā sakāya laddhiyāti—",
+        "analyzed": "kusalā ati kusala vādā paṇḍita vādā thira vādā ñāya vādā hetu vādā lakkhaṇa vādā kāraṇa vādā ṭhāna vādā sakāya laddhiyā ati ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mnd_12:4.4",
+        "original": "viggayha nānā kusalā vadanti.",
+        "analyzed": "viggayha nānā kusalāḥ vadanti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_mnd_12:5.1",
+        "original": "Yo evaṁ jānāti sa vedi dhammanti.",
+        "analyzed": "yaḥ evam jānāti sa vedi ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mnd_12:5.2",
+        "original": "Yo imaṁ dhammaṁ diṭṭhiṁ paṭipadaṁ maggaṁ jānāti so dhammaṁ vedi aññāsi apassi paṭivijjhīti—",
+        "analyzed": "yaḥ imam dhammam diṭṭhim paṭipadam maggam jānāti saḥ dhammam vedi aññāsi a passi paṭivijjhi iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mnd_12:5.3",
+        "original": "yo evaṁ jānāti sa vedi dhammaṁ.",
+        "analyzed": "yaḥ evam jānāti sa vedi dhamma ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_mnd_12:6.1",
+        "original": "Idaṁ paṭikkosamakevalī soti.",
+        "analyzed": "idam paṭikkosama kevalī so ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mnd_12:6.2",
+        "original": "Yo imaṁ dhammaṁ diṭṭhiṁ paṭipadaṁ maggaṁ paṭikkosati, akevalī so asamatto so aparipuṇṇo so hīno nihīno omako lāmako chatukko parittoti—",
+        "analyzed": "yaḥ imam dhammam diṭṭhim paṭipadam maggam paṭikkosati a kevalī saḥ a samattaḥ saḥ a paripuṇṇaḥ saḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ ti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mnd_12:6.3",
+        "original": "idaṁ paṭikkosamakevalī so.",
+        "analyzed": "idam paṭikkosama kevalī saḥ ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_mnd_12:7.1",
+        "original": "Tenāha so nimmito—",
+        "analyzed": "tena āha saḥ nimmitaḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_mnd_12:8.1",
+        "original": "“Sakaṁ sakaṁ diṭṭhiparibbasānā,",
+        "analyzed": "sakam sakam diṭṭhi paribbasānā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mnd_12:8.2",
+        "original": "Viggayha nānā kusalā vadanti;",
+        "analyzed": "viggayha nānā kusalāḥ vadanti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mnd_12:8.3",
+        "original": "Yo evaṁ jānāti sa vedi dhammaṁ,",
+        "analyzed": "yaḥ evam jānāti sa vedi dhamma ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mnd_12:8.4",
+        "original": "Idaṁ paṭikkosamakevalī so”ti.",
+        "analyzed": "idam paṭikkosama kevalī so ti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_mnd_12:9.1",
+        "original": "Evampi viggayha vivādayanti,",
+        "analyzed": "evam pi viggayha vivādayanti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mnd_12:9.2",
+        "original": "Bālo paro akkusaloti cāhu;",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āhu ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mnd_12:9.3",
+        "original": "Sacco nu vādo katamo imesaṁ,",
+        "analyzed": "saccaḥ nu vādaḥ katamaḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mnd_12:9.4",
+        "original": "Sabbeva hīme kusalāvadānā.",
+        "analyzed": "sabbe iva hi ime kusala avadānā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_mnd_12:10.1",
+        "original": "Evampi viggayha vivādayantīti.",
+        "analyzed": "evam pi viggayha vivādayanti iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mnd_12:10.2",
+        "original": "Evaṁ gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā vivādayanti, kalahaṁ karonti, bhaṇḍanaṁ karonti, viggahaṁ karonti, vivādaṁ karonti, medhagaṁ karonti—",
+        "analyzed": "evam gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā vivādayanti kalaham karonti bhaṇḍanam karonti viggaham karonti vivādam karonti medhagam karonti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mnd_12:10.3",
+        "original": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…",
+        "analyzed": "na tvam imam dhamma vinayam ājānāsi pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mnd_12:10.4",
+        "original": "nibbeṭhehi vā sace pahosī”ti—",
+        "analyzed": "nibbeṭhehi vā sace pahosi iti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mnd_12:10.5",
+        "original": "evampi viggayha vivādayanti.",
+        "analyzed": "evam pi viggayha vivādayanti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_mnd_12:11.1",
+        "original": "Bālo paro akkusaloti cāhūti.",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ ti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mnd_12:11.2",
+        "original": "Paro bālo hīno nihīno omako lāmako chatukko paritto akusalo avidvā avijjāgato aññāṇī avibhāvī duppaññoti, evamāhaṁsu evaṁ kathenti evaṁ bhaṇanti evaṁ dīpayanti evaṁ voharantīti—",
+        "analyzed": "paraḥ bālaḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ akusalaḥ a vidvā a vijja āgataḥ aññāṇī a vibhāvī duppaññaḥ ti evam āhasu evam kathenti evam bhaṇanti evam dīpayanti evam voharanti iti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mnd_12:11.3",
+        "original": "bālo paro akkusaloti cāhu.",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āhu ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_mnd_12:12.1",
+        "original": "Sacco nu vādo katamo imesanti.",
+        "analyzed": "saccaḥ nu vādaḥ katamaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mnd_12:12.2",
+        "original": "Imesaṁ samaṇabrāhmaṇānaṁ vādo katamo sacco taccho tatho bhūto yāthāvo aviparītoti—",
+        "analyzed": "imesam samaṇa brāhmaṇānam vādaḥ katamaḥ sacco taccho tatho bhūtaḥ yāthāvaḥ aviparītaḥ iti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mnd_12:12.3",
+        "original": "sacco nu vādo katamo imesaṁ.",
+        "analyzed": "saccaḥ nu vādaḥ katamaḥ ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_mnd_12:13.1",
+        "original": "Sabbeva hīme kusalāvadānāti.",
+        "analyzed": "sabbe iva hi ime ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mnd_12:13.2",
+        "original": "Sabbevime samaṇabrāhmaṇā kusalavādā paṇḍitavādā thiravādā ñāyavādā hetuvādā lakkhaṇavādā kāraṇavādā ṭhānavādā sakāya laddhiyāti—",
+        "analyzed": "sabbevime samaṇa brāhmaṇā kusala vādā paṇḍita vādā thira vādā ñāya vādā hetu vādā lakkhaṇa vādā kāraṇa vādā ṭhāna vādā sakāya ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mnd_12:13.3",
+        "original": "sabbeva hīme kusalāvadānā.",
+        "analyzed": "sabbe iva hi ime kusala avadānā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_mnd_12:14.1",
+        "original": "Tenāha so nimmito—",
+        "analyzed": "tena āha saḥ nimmitaḥ ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_mnd_12:15.1",
+        "original": "“Evampi viggayha vivādayanti,",
+        "analyzed": "evam pi viggayha vivādayanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mnd_12:15.2",
+        "original": "Bālo paro akkusaloti cāhu;",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āhu ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mnd_12:15.3",
+        "original": "Sacco nu vādo katamo imesaṁ,",
+        "analyzed": "saccaḥ nu vādaḥ katamaḥ ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mnd_12:15.4",
+        "original": "Sabbeva hīme kusalāvadānā”ti.",
+        "analyzed": "sabbe iva hi ime ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_mnd_12:16.1",
+        "original": "Parassa ce dhammamanānujānaṁ,",
+        "analyzed": "parassa ce dhammam anā anujāna ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mnd_12:16.2",
+        "original": "Bālomako hoti nihīnapañño;",
+        "analyzed": "bālomakaḥ hoti nihīna paññaḥ ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mnd_12:16.3",
+        "original": "Sabbeva bālā sunihīnapaññā,",
+        "analyzed": "sabbā iva bālā su nihīna paññā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mnd_12:16.4",
+        "original": "Sabbevime diṭṭhiparibbasānā.",
+        "analyzed": "sabbe iva ime diṭṭhi paribbasānā ",
+        "folio": "16"
+    },
+    {
+        "segmentnr": "PA_mnd_12:17.1",
+        "original": "Parassa ce dhammamanānujānanti.",
+        "analyzed": "parassa ce dhammam anā anujānanti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mnd_12:17.2",
+        "original": "Parassa dhammaṁ diṭṭhiṁ paṭipadaṁ maggaṁ anānujānanto anānupassanto anānumananto anānumaññanto anānumodantoti—",
+        "analyzed": "parassa dhammam diṭṭhim paṭipadam maggam an anujānantaḥ an anupassantaḥ an anumanantaḥ an anumaññantaḥ an anumodantaḥ iti ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mnd_12:17.3",
+        "original": "parassa ce dhammamanānujānaṁ.",
+        "analyzed": "parassa ce dhammam anā anujāna ",
+        "folio": "17"
+    },
+    {
+        "segmentnr": "PA_mnd_12:18.1",
+        "original": "Bālomako hoti nihīnapaññoti.",
+        "analyzed": "bālomakaḥ hoti nihīna pañño ti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mnd_12:18.2",
+        "original": "Paro bālo hoti hīno nihīno omako lāmako chatukko paritto, hīnapañño nihīnapañño omakapañño lāmakapañño chatukkapañño parittapaññoti—",
+        "analyzed": "paraḥ bālaḥ hoti hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ hīna paññaḥ nihīna paññaḥ omaka paññaḥ lāmaka paññaḥ chatukka paññaḥ paritta paññaḥ iti ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mnd_12:18.3",
+        "original": "bālomako hoti nihīnapañño.",
+        "analyzed": "bālomakaḥ hoti nihīna paññaḥ ",
+        "folio": "18"
+    },
+    {
+        "segmentnr": "PA_mnd_12:19.1",
+        "original": "Sabbeva bālā sunihīnapaññāti.",
+        "analyzed": "sabbā iva bālā su nihīna paññā ati ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mnd_12:19.2",
+        "original": "Sabbevime samaṇabrāhmaṇā bālā hīnā nihīnā omakā lāmakā chatukkā parittā, sabbeva hīnapaññā nihīnapaññā omakapaññā lāmakapaññā chatukkapaññā parittapaññāti—",
+        "analyzed": "sabbevime samaṇa brāhmaṇāḥ bālāḥ hīnāḥ nihīnāḥ omakā lāmakā chatukkā parittā sabbā iva hīna paññā nihīna paññā omaka paññā lāmaka paññā chatukka paññā paritta paññā ati ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mnd_12:19.3",
+        "original": "sabbeva bālā sunihīnapaññā.",
+        "analyzed": "sabbā iva bālā su nihīna paññā ",
+        "folio": "19"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.1",
+        "original": "Sabbevime diṭṭhiparibbasānāti.",
+        "analyzed": "sabbe u ime diṭṭhi paribbasānā ti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.2",
+        "original": "Sabbevime samaṇabrāhmaṇā diṭṭhigatikā;",
+        "analyzed": "sabbe u ime samaṇa brāhmaṇāḥ diṭṭhi gatikā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.3",
+        "original": "te dvāsaṭṭhiyā diṭṭhigatānaṁ aññataraññataraṁ diṭṭhigataṁ gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā sakāya sakāya diṭṭhiyā vasanti saṁvasanti āvasanti parivasanti.",
+        "analyzed": "te dvāsaṭṭhiyāḥ diṭṭhi gatānam aññatara aññataram diṭṭhi gatam gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā sakāya sakāya diṭṭhiyā vasanti savasanti āvasanti parivasanti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.4",
+        "original": "Yathā agārikā vā gharesu vasanti, sāpattikā vā āpattīsu vasanti, sakilesā vā kilesesu vasanti;",
+        "analyzed": "yathā agārikāḥ vā gharesu vasanti sa āpattikāḥ vā āpattīsu vasanti sa kilesāḥ vā kilesesu vasanti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.5",
+        "original": "evamevaṁ sabbevime samaṇabrāhmaṇā diṭṭhigatikā …pe…",
+        "analyzed": "evam evam sabbe u ime samaṇa brāhmaṇāḥ diṭṭhi gatikā pe ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.6",
+        "original": "parivasantīti—",
+        "analyzed": "parivasanti iti ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:20.7",
+        "original": "sabbevime diṭṭhiparibbasānā.",
+        "analyzed": "sabbe iva ime diṭṭhi paribbasānā ",
+        "folio": "20"
+    },
+    {
+        "segmentnr": "PA_mnd_12:21.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "21"
+    },
+    {
+        "segmentnr": "PA_mnd_12:22.1",
+        "original": "“Parassa ce dhammamanānujānaṁ,",
+        "analyzed": "parassa ce dhammam anā anujāna ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mnd_12:22.2",
+        "original": "Bālomako hoti nihīnapañño;",
+        "analyzed": "bālomakaḥ hoti nihīna paññaḥ ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mnd_12:22.3",
+        "original": "Sabbeva bālā sunihīnapaññā,",
+        "analyzed": "sabbā iva bālā su nihīna paññā ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mnd_12:22.4",
+        "original": "Sabbevime diṭṭhiparibbasānā”ti.",
+        "analyzed": "sabbe u ime diṭṭhi paribbasānā ti ",
+        "folio": "22"
+    },
+    {
+        "segmentnr": "PA_mnd_12:23.1",
+        "original": "Sandiṭṭhiyā ceva navīvadātā,",
+        "analyzed": "sandiṭṭhiyā ca iva navīvadātā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mnd_12:23.2",
+        "original": "Saṁsuddhapaññā kusalā mutīmā;",
+        "analyzed": "sa suddha paññā kusalā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mnd_12:23.3",
+        "original": "Na tesaṁ koci parihīnapañño,",
+        "analyzed": "na tesam koci parihīna pañño ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mnd_12:23.4",
+        "original": "Diṭṭhī hi tesampi tathā samattā.",
+        "analyzed": "diṭṭhī hi tesam pi tathā samattā ",
+        "folio": "23"
+    },
+    {
+        "segmentnr": "PA_mnd_12:24.1",
+        "original": "Sandiṭṭhiyā ceva navīvadātāti.",
+        "analyzed": "sandiṭṭhiyā ca iva navīvadātā ati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mnd_12:24.2",
+        "original": "Sakāya diṭṭhiyā sakāya khantiyā sakāya ruciyā sakāya laddhiyā anavīvadātā avodātā apariyodātā saṅkiliṭṭhā saṅkilesikāti—",
+        "analyzed": "sakāya diṭṭhiyā sakāya khantiyā sakāya ruciyā sakāya laddhiyā an avīvadātā avodātā a pariyodātā saṅkiliṭṭhā saṅkilesikā ati ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mnd_12:24.3",
+        "original": "sandiṭṭhiyā ceva navīvadātā.",
+        "analyzed": "sandiṭṭhiyā ca iva navīvadātā ",
+        "folio": "24"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.1",
+        "original": "Saṁsuddhapaññā kusalā mutīmāti.",
+        "analyzed": "sa suddha paññā kusalā mutīmā ati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.2",
+        "original": "Suddhapaññā visuddhapaññā parisuddhapaññā vodātapaññā pariyodātapaññā.",
+        "analyzed": "suddha paññā visuddha paññā parisuddha paññā vodāta paññā pariyodāta paññā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.3",
+        "original": "Atha vā suddhadassanā visuddhadassanā parisuddhadassanā vodātadassanā pariyodātadassanāti—",
+        "analyzed": "atha vā suddha dassanā visuddha dassanā parisuddha dassanā vodāta dassanā pariyodāta dassanā ati ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.4",
+        "original": "saṁsuddhapaññā.",
+        "analyzed": "sa suddha paññā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.5",
+        "original": "Kusalāti kusalā paṇḍitā paññavanto iddhimanto ñāṇino vibhāvino medhāvinoti—",
+        "analyzed": "kusalā ati kusalā paṇḍitā paññavantaḥ iddhimantaḥ ñāṇinaḥ vibhāvinaḥ medhāvinaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.6",
+        "original": "saṁsuddhapaññā kusalā.",
+        "analyzed": "sa suddha paññā kusalā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.7",
+        "original": "Mutīmāti mutimā paṇḍitā paññavanto iddhimanto ñāṇino vibhāvino medhāvinoti—",
+        "analyzed": "mutīmā ati mutimā paṇḍitā paññavantaḥ iddhimantaḥ ñāṇinaḥ vibhāvinaḥ medhāvinaḥ ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:25.8",
+        "original": "saṁsuddhapaññā kusalā mutīmā.",
+        "analyzed": "sa suddha paññā kusalā ",
+        "folio": "25"
+    },
+    {
+        "segmentnr": "PA_mnd_12:26.1",
+        "original": "Tesaṁ na koci parihīnapaññoti.",
+        "analyzed": "tesam na koci parihīna paññā ti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mnd_12:26.2",
+        "original": "Tesaṁ samaṇabrāhmaṇānaṁ na koci hīnapañño nihīnapañño omakapañño lāmakapañño chatukkapañño parittapañño atthi.",
+        "analyzed": "tesam samaṇa brāhmaṇānam na koci hīna paññaḥ nihīna paññaḥ omaka paññaḥ lāmaka pañño chatukka pañño paritta paññaḥ atthi ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mnd_12:26.3",
+        "original": "Sabbeva seṭṭhapaññā visiṭṭhapaññā pāmokkhapaññā uttamapaññā pavarapaññāti—",
+        "analyzed": "sabbā iva seṭṭha paññā visiṭṭha paññā pāmokkha paññā uttama paññā pavara paññā ti ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mnd_12:26.4",
+        "original": "tesaṁ na koci parihīnapañño.",
+        "analyzed": "tesam na koci parihīna pañño ",
+        "folio": "26"
+    },
+    {
+        "segmentnr": "PA_mnd_12:27.1",
+        "original": "Diṭṭhī hi tesampi tathā samattāti.",
+        "analyzed": "diṭṭhī hi tesam pi tathā samattā ati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mnd_12:27.2",
+        "original": "Tesaṁ samaṇabrāhmaṇānaṁ diṭṭhi tathā samattā samādinnā gahitā parāmaṭṭhā abhiniviṭṭhā ajjhositā adhimuttāti—",
+        "analyzed": "tesam samaṇa brāhmaṇānam diṭṭhi tathā samattā samādinnā gahitā parāmaṭṭhā abhiniviṭṭhā ajjhositā adhimuttā ati ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mnd_12:27.3",
+        "original": "diṭṭhī hi tesampi tathā samattā.",
+        "analyzed": "diṭṭhī hi tesam pi tathā samattā ",
+        "folio": "27"
+    },
+    {
+        "segmentnr": "PA_mnd_12:28.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "28"
+    },
+    {
+        "segmentnr": "PA_mnd_12:29.1",
+        "original": "“Sandiṭṭhiyā ceva navīvadātā,",
+        "analyzed": "sandiṭṭhiyā ca iva navīvadātā ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mnd_12:29.2",
+        "original": "Saṁsuddhapaññā kusalā mutīmā;",
+        "analyzed": "sa suddha paññā kusalā ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mnd_12:29.3",
+        "original": "Tesaṁ na koci parihīnapañño,",
+        "analyzed": "tesam na koci parihīna pañño ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mnd_12:29.4",
+        "original": "Diṭṭhī hi tesampi tathā samattā”ti.",
+        "analyzed": "diṭṭhī hi tesam pi tathā samattā ati ",
+        "folio": "29"
+    },
+    {
+        "segmentnr": "PA_mnd_12:30.1",
+        "original": "Na vāhametaṁ tathiyanti brūmi,",
+        "analyzed": "na vā aham etam tathiyanti brūmi ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mnd_12:30.2",
+        "original": "Yamāhu bālā mithu aññamaññaṁ;",
+        "analyzed": "yam āhu bālāḥ mithu aññamañña ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mnd_12:30.3",
+        "original": "Sakaṁ sakaṁ diṭṭhimakaṁsu saccaṁ,",
+        "analyzed": "sakam sakam diṭṭhi maka sat ca ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mnd_12:30.4",
+        "original": "Tasmā hi bāloti paraṁ dahanti.",
+        "analyzed": "tasmai hi param dahanti ",
+        "folio": "30"
+    },
+    {
+        "segmentnr": "PA_mnd_12:31.1",
+        "original": "Na vāhametaṁ tathiyanti brūmīti.",
+        "analyzed": "na vā aham etam tathiyanti brūmi iti ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_mnd_12:31.2",
+        "original": "Nāti paṭikkhepo.",
+        "analyzed": "na ati paṭikkhepaḥ ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_mnd_12:31.3",
+        "original": "Etanti “dvāsaṭṭhidiṭṭhigatāni nāhaṁ etaṁ tacchaṁ tathaṁ bhūtaṁ yāthāvaṁ aviparītan”ti brūmi ācikkhāmi desemi paññapemi paṭṭhapemi vivarāmi vibhajāmi uttānīkaromi pakāsemīti—",
+        "analyzed": "etat ti dvāsaṭṭhi diṭṭhi gatāni na aham etam taccham tatham bhūtam yāthāvam aviparītam ti brūmi ācikkhāmi desemi paññapemi paṭṭhapemi vivarāmi vibhajāmi uttānīkaromi pakāsemi iti ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_mnd_12:31.4",
+        "original": "na vāhametaṁ tathiyanti brūmi.",
+        "analyzed": "na vā aham etam tathiyanti brūmi ",
+        "folio": "31"
+    },
+    {
+        "segmentnr": "PA_mnd_12:32.1",
+        "original": "Yamāhu bālā mithu aññamaññanti.",
+        "analyzed": "yam āhu bālāḥ mithu aññam aññanti ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_mnd_12:32.2",
+        "original": "Mithūti dve janā, dve kalahakārakā, dve bhaṇḍanakārakā, dve bhassakārakā, dve vivādakārakā, dve adhikaraṇakārakā, dve vādino, dve sallapakā;",
+        "analyzed": "dve janāḥ dve kalaha kārakāḥ dve bhaṇḍana kārakāḥ dve bhassa kārakāḥ dve vivāda kārakāḥ dve adhikaraṇa kārakāḥ dve vādinaḥ dve sallapakā ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_mnd_12:32.3",
+        "original": "te aññamaññaṁ bālo hīno nihīno omako lāmako chatukko parittoti, evamāhaṁsu evaṁ kathenti evaṁ bhaṇanti evaṁ dīpayanti evaṁ voharantīti—",
+        "analyzed": "te aññamaññam bālaḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ iti evam āhasu evam kathenti evam bhaṇanti evam dīpayanti evam voharanti iti ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_mnd_12:32.4",
+        "original": "yamāhu bālā mithu aññamaññaṁ.",
+        "analyzed": "yam āhu bālāḥ mithu aññamañña ",
+        "folio": "32"
+    },
+    {
+        "segmentnr": "PA_mnd_12:33.1",
+        "original": "Sakaṁ sakaṁ diṭṭhimakaṁsu saccanti.",
+        "analyzed": "sakam sakam diṭṭhimakasu saccanti ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_mnd_12:33.2",
+        "original": "“Sassato loko, idameva saccaṁ moghamaññan”ti—",
+        "analyzed": "sassataḥ lokaḥ idam eva saccam mogham aññanti ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_mnd_12:33.3",
+        "original": "sakaṁ sakaṁ diṭṭhimakaṁsu saccaṁ.",
+        "analyzed": "sakam sakam diṭṭhi maka sat ca ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_mnd_12:33.4",
+        "original": "“Asassato loko, idameva saccaṁ moghamaññan”ti …pe…",
+        "analyzed": "a sassataḥ lokaḥ idam eva saccam mogham aññanti pe ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_mnd_12:33.5",
+        "original": "“neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti—",
+        "analyzed": "na iva hoti na na hoti tathāgataḥ param maraṇā idam eva saccam mogham aññanti ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_mnd_12:33.6",
+        "original": "sakaṁ sakaṁ diṭṭhimakaṁsu saccaṁ.",
+        "analyzed": "sakam sakam diṭṭhi maka sat ca ",
+        "folio": "33"
+    },
+    {
+        "segmentnr": "PA_mnd_12:34.1",
+        "original": "Tasmā hi bāloti paraṁ dahantīti.",
+        "analyzed": "tasmai hi param dahanti iti ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_mnd_12:34.2",
+        "original": "Tasmāti tasmā taṅkāraṇā taṁhetu tappaccayā taṁnidānā paraṁ bālo hīno nihīno omako lāmako chatukko parittoti dahanti passanti dakkhanti olokenti nijjhāyanti upaparikkhantīti—",
+        "analyzed": "tasmā ati tasmā tad kāraṇā ta hetu tad paccayā ta nidānā param bālaḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ ti dahanti passanti dakkhanti olokenti nijjhāyanti upaparikkhanti iti ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_mnd_12:34.3",
+        "original": "tasmā hi bāloti paraṁ dahanti.",
+        "analyzed": "tasmai hi param dahanti ",
+        "folio": "34"
+    },
+    {
+        "segmentnr": "PA_mnd_12:35.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "35"
+    },
+    {
+        "segmentnr": "PA_mnd_12:36.1",
+        "original": "“Na vāhametaṁ tathiyanti brūmi,",
+        "analyzed": "na vā aham etam tathiyanti brūmi ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_mnd_12:36.2",
+        "original": "Yamāhu bālā mithu aññamaññaṁ;",
+        "analyzed": "yam āhu bālāḥ mithu aññamañña ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_mnd_12:36.3",
+        "original": "Sakaṁ sakaṁ diṭṭhimakaṁsu saccaṁ,",
+        "analyzed": "sakam sakam diṭṭhi maka sat ca ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_mnd_12:36.4",
+        "original": "Tasmā hi bāloti paraṁ dahantī”ti.",
+        "analyzed": "tasmai hi param dahanti iti ",
+        "folio": "36"
+    },
+    {
+        "segmentnr": "PA_mnd_12:37.1",
+        "original": "Yamāhu saccaṁ tathiyanti eke,",
+        "analyzed": "yam āhu saccam eke ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mnd_12:37.2",
+        "original": "Tamāhu aññepi tucchaṁ musāti;",
+        "analyzed": "tam āhu aññe pi tuccham musā ati ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mnd_12:37.3",
+        "original": "Evampi viggayha vivādayanti,",
+        "analyzed": "evam pi viggayha vivādayanti ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mnd_12:37.4",
+        "original": "Kasmā na ekaṁ samaṇā vadanti.",
+        "analyzed": "kasmai naḥ ekam samaṇāḥ vadanti ",
+        "folio": "37"
+    },
+    {
+        "segmentnr": "PA_mnd_12:38.1",
+        "original": "Yamāhu saccaṁ tathiyanti eketi.",
+        "analyzed": "yam āhu saccam eke iti ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mnd_12:38.2_0",
+        "original": "Yaṁ dhammaṁ diṭṭhiṁ paṭipadaṁ maggaṁ eke samaṇabrāhmaṇā “idaṁ saccaṁ tacchaṁ tathaṁ",
+        "analyzed": "yam dhammam diṭṭhim paṭipadam maggam eke samaṇa brāhmaṇāḥ idam saccam taccham ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mnd_12:38.2_1",
+        "original": "bhūtaṁ yāthāvaṁ aviparītan”ti, evamāhaṁsu evaṁ kathenti evaṁ bhaṇanti evaṁ dīpayanti evaṁ voharantīti—",
+        "analyzed": "bhūtam yāthāvam evam āharanti evam kathenti evam bhaṇanti evam dīpayanti evam voharanti iti ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mnd_12:38.3",
+        "original": "yamāhu saccaṁ tathiyanti eke.",
+        "analyzed": "yam āhu saccam eke ",
+        "folio": "38"
+    },
+    {
+        "segmentnr": "PA_mnd_12:39.1",
+        "original": "Tamāhu aññepi tucchaṁ musātīti.",
+        "analyzed": "tam āhu aññe pi tuccham musāti iti ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mnd_12:39.2_0",
+        "original": "Tameva dhammaṁ diṭṭhiṁ paṭipadaṁ maggaṁ eke samaṇabrāhmaṇā “tucchaṁ etaṁ, musā etaṁ,",
+        "analyzed": "tam eva dhammam diṭṭhim paṭipadam maggam eke samaṇa brāhmaṇā tuccham eta musā eta ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mnd_12:39.2_1",
+        "original": "abhūtaṁ etaṁ, alikaṁ etaṁ, ayāthāvaṁ etan”ti, evamāhaṁsu evaṁ kathenti evaṁ bhaṇanti",
+        "analyzed": "abhūtam eta alikam eta ayāthāvam etanti evam āhasu evam kathenti evam bhaṇanti ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mnd_12:39.2_2",
+        "original": "evaṁ dīpayanti evaṁ voharantīti—",
+        "analyzed": "evam dīpayanti evam vā ūharanti iti ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mnd_12:39.3",
+        "original": "tamāhu aññepi tucchaṁ musāti.",
+        "analyzed": "tam āhu aññe pi tuccham musā ati ",
+        "folio": "39"
+    },
+    {
+        "segmentnr": "PA_mnd_12:40.1",
+        "original": "Evampi viggayha vivādayantīti.",
+        "analyzed": "evam pi viggayha vivādayanti iti ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mnd_12:40.2",
+        "original": "Evaṁ gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā vivādayanti, kalahaṁ karonti, bhaṇḍanaṁ karonti, viggahaṁ karonti, vivādaṁ karonti, medhagaṁ karonti—",
+        "analyzed": "evam gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā vivādayanti kalaham karonti bhaṇḍanam karonti viggaham karonti vivādam karonti medhagam karonti ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mnd_12:40.3",
+        "original": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…",
+        "analyzed": "na tvam imam dhamma vinayam ājānāsi pe ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mnd_12:40.4",
+        "original": "nibbeṭhehi vā sace pahosī”ti—",
+        "analyzed": "nibbeṭhehi vā sace pahosi iti ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mnd_12:40.5",
+        "original": "evampi viggayha vivādayanti.",
+        "analyzed": "evam pi viggayha vivādayanti ",
+        "folio": "40"
+    },
+    {
+        "segmentnr": "PA_mnd_12:41.1",
+        "original": "Kasmā na ekaṁ samaṇā vadantīti.",
+        "analyzed": "kasmai naḥ ekam samaṇāḥ vadanti iti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mnd_12:41.2_0",
+        "original": "Kasmāti kasmā kiṅkāraṇā kiṁhetu kiṁpaccayā kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā",
+        "analyzed": "kasmā ati kasmā kiṅkāraṇā ki hetu ki paccayā ki nidānā ki samudayā ki jātikā ki pabhavā ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mnd_12:41.2_1",
+        "original": "na ekaṁ vadanti nānā vadanti vividhaṁ vadanti aññoññaṁ vadanti puthu vadanti kathenti",
+        "analyzed": "na ekam vadanti nānā vadanti vividham vadanti aññoññam vadanti puthu vadanti kathenti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mnd_12:41.2_2",
+        "original": "bhaṇanti dīpayanti voharantīti—",
+        "analyzed": "bhaṇanti dīpayanti voharanti iti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mnd_12:41.3",
+        "original": "kasmā na ekaṁ samaṇā vadanti.",
+        "analyzed": "kasmai naḥ ekam samaṇāḥ vadanti ",
+        "folio": "41"
+    },
+    {
+        "segmentnr": "PA_mnd_12:42.1",
+        "original": "Tenāha so nimmito—",
+        "analyzed": "tena āha saḥ nimmitaḥ ",
+        "folio": "42"
+    },
+    {
+        "segmentnr": "PA_mnd_12:43.1",
+        "original": "“Yamāhu saccaṁ tathiyanti eke,",
+        "analyzed": "yam āhu saccam eke ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mnd_12:43.2",
+        "original": "Tamāhu aññepi tucchaṁ musāti;",
+        "analyzed": "tam āhu aññe pi tuccham musā ati ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mnd_12:43.3",
+        "original": "Evampi viggayha vivādayanti,",
+        "analyzed": "evam pi viggayha vivādayanti ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mnd_12:43.4",
+        "original": "Kasmā na ekaṁ samaṇā vadantī”ti.",
+        "analyzed": "kasmai naḥ ekam samaṇāḥ vadanti iti ",
+        "folio": "43"
+    },
+    {
+        "segmentnr": "PA_mnd_12:44.1",
+        "original": "Ekañhi saccaṁ na dutīyamatthi,",
+        "analyzed": "ekam hi saccam na dutīyam atthi ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_mnd_12:44.2",
+        "original": "Yasmiṁ pajā no vivade pajānaṁ;",
+        "analyzed": "yasmin pajāḥ naḥ vivade pajāna ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_mnd_12:44.3",
+        "original": "Nānā te saccāni sayaṁ thunanti,",
+        "analyzed": "nānā te saccāni sayam thunanti ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_mnd_12:44.4",
+        "original": "Tasmā na ekaṁ samaṇā vadanti.",
+        "analyzed": "tasmai naḥ ekam samaṇāḥ vadanti ",
+        "folio": "44"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.1",
+        "original": "Ekañhi saccaṁ na dutīyamatthīti.",
+        "analyzed": "ekam hi saccam na dutīyam atthi iti ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.2",
+        "original": "Ekaṁ saccaṁ vuccati dukkhanirodho nibbānaṁ.",
+        "analyzed": "ekam saccam vuccati dukkha nirodhaḥ nibbāna ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.3",
+        "original": "Yo so sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṁ.",
+        "analyzed": "yaḥ saḥ sabba saṅkhāra samatho sabba upadhi paṭinissaggo taṇhā khayaḥ virāgaḥ nirodhaḥ nibbāna ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.4",
+        "original": "Atha vā ekaṁ saccaṁ vuccati—",
+        "analyzed": "atha vai ekam saccam vuccati ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.5",
+        "original": "maggasaccaṁ, niyyānasaccaṁ, dukkhanirodhagāminī paṭipadā, ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+        "analyzed": "magga sacca niyyāna sacca dukkha nirodha gāminī paṭipadā ariyaḥ aṭṭhaṅgikaḥ maggo ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.6",
+        "original": "sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhīti—",
+        "analyzed": "sammā diṭṭhi sammā saṅkappo sammā vācā sammā kammanto sammā ājīvaḥ sammā vāyāmaḥ sammā sati sammā samādhi iti ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:45.7",
+        "original": "ekañhi saccaṁ na dutīyamatthi.",
+        "analyzed": "ekam hi saccam na dutīyam atthi ",
+        "folio": "45"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.1",
+        "original": "Yasmiṁ pajā no vivade pajānanti.",
+        "analyzed": "yasmin pajāḥ naḥ vivade pajānanti ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.2",
+        "original": "Yasminti yasmiṁ sacce.",
+        "analyzed": "yasmin ti yasmin sacce ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.3",
+        "original": "Pajāti sattādhivacanaṁ.",
+        "analyzed": "pajāti sattā adhivacana ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.4_0",
+        "original": "Pajānanti yaṁ saccaṁ pajānantā ājānantā vijānantā paṭivijānantā paṭivijjhantā na",
+        "analyzed": "pajānanti yam saccam pajānantā ājānantā vijānantā paṭivijānantā paṭivijjhantā na ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.4_1",
+        "original": "kalahaṁ kareyyuṁ, na bhaṇḍanaṁ kareyyuṁ, na viggahaṁ kareyyuṁ, na vivādaṁ kareyyuṁ,",
+        "analyzed": "kalaham kareyyu na bhaṇḍanam kareyyu na viggaham kareyyu na vivādam kareyyu ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.4_2",
+        "original": "na medhagaṁ kareyyuṁ, kalahaṁ bhaṇḍanaṁ viggahaṁ vivādaṁ medhagaṁ pajaheyyuṁ, vinodeyyuṁ,",
+        "analyzed": "na medha gam kareyyu kalaham bhaṇḍanam viggaham vivādam medha gam pajaheyyu vinodeyyu ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.4_3",
+        "original": "byantiṁ kareyyuṁ, anabhāvaṁ gameyyunti—",
+        "analyzed": "vyantim kareyyu anabhāvam gameyyunti ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:46.5",
+        "original": "yasmiṁ pajā no vivade pajānaṁ.",
+        "analyzed": "yasmin pajāḥ naḥ vivade pajāna ",
+        "folio": "46"
+    },
+    {
+        "segmentnr": "PA_mnd_12:47.1",
+        "original": "Nānā te saccāni sayaṁ thunantīti.",
+        "analyzed": "nānā te saccāni sayam thunanti iti ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mnd_12:47.2",
+        "original": "Nānā te saccāni sayaṁ thunanti vadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "nānā te saccāni sayam thunanti vadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mnd_12:47.3",
+        "original": "“Sassato loko, idameva saccaṁ moghamaññan”ti sayaṁ thunanti vadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "sassataḥ lokaḥ idam eva saccam mogham aññanti sayam thunanti vadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mnd_12:47.4",
+        "original": "“Asassato loko …pe…",
+        "analyzed": "a sassataḥ loko pe ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mnd_12:47.5",
+        "original": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti sayaṁ thunanti vadanti kathenti bhaṇanti dīpayanti voharantīti—",
+        "analyzed": "na iva hoti na na hoti tathāgataḥ param maraṇā idam eva saccam mogham aññanti sayam thunanti vadanti kathenti bhaṇanti dīpayanti voharanti iti ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mnd_12:47.6",
+        "original": "nānā te saccāni sayaṁ thunanti.",
+        "analyzed": "nānā te saccāni sayam thunanti ",
+        "folio": "47"
+    },
+    {
+        "segmentnr": "PA_mnd_12:48.1",
+        "original": "Tasmā na ekaṁ samaṇā vadantīti.",
+        "analyzed": "tasmai naḥ ekam samaṇāḥ vadanti iti ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mnd_12:48.2",
+        "original": "Tasmāti tasmā taṅkāraṇā taṁhetu tappaccayā taṁnidānā na ekaṁ vadanti nānā vadanti vividhaṁ vadanti aññoññaṁ vadanti puthu vadanti kathenti bhaṇanti dīpayanti voharantīti—",
+        "analyzed": "tasmā ati tasmā tad kāraṇā ta hetu tad paccayā ta nidānā na ekam vadanti nānā vadanti vividham vadanti aññoññam vadanti puthu vadanti kathenti bhaṇanti dīpayanti voharanti iti ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mnd_12:48.3",
+        "original": "tasmā na ekaṁ samaṇā vadanti.",
+        "analyzed": "tasmai naḥ ekam samaṇāḥ vadanti ",
+        "folio": "48"
+    },
+    {
+        "segmentnr": "PA_mnd_12:49.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "49"
+    },
+    {
+        "segmentnr": "PA_mnd_12:50.1",
+        "original": "“Ekañhi saccaṁ na dutīyamatthi,",
+        "analyzed": "ekam hi saccam na dutīyam atthi ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_mnd_12:50.2",
+        "original": "Yasmiṁ pajā no vivade pajānaṁ;",
+        "analyzed": "yasmin pajāḥ naḥ vivade pajāna ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_mnd_12:50.3",
+        "original": "Nānā te saccāni sayaṁ thunanti,",
+        "analyzed": "nānā te saccāni sayam thunanti ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_mnd_12:50.4",
+        "original": "Tasmā na ekaṁ samaṇā vadantī”ti.",
+        "analyzed": "tasmai naḥ ekam samaṇāḥ vadanti iti ",
+        "folio": "50"
+    },
+    {
+        "segmentnr": "PA_mnd_12:51.1",
+        "original": "Kasmā nu saccāni vadanti nānā,",
+        "analyzed": "kasmai nu satcāni vadanti nānā ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_mnd_12:51.2",
+        "original": "Pavādiyāse kusalāvadānā;",
+        "analyzed": "kusala avadānā ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_mnd_12:51.3",
+        "original": "Saccāni sutāni bahūni nānā,",
+        "analyzed": "saccāni sutāni bahūni nānā ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_mnd_12:51.4",
+        "original": "Udāhu te takkamanussaranti.",
+        "analyzed": "uda ahu te takkam anussaranti ",
+        "folio": "51"
+    },
+    {
+        "segmentnr": "PA_mnd_12:52.1",
+        "original": "Kasmā nu saccāni vadanti nānāti.",
+        "analyzed": "kasmai nu satcāni vadanti ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_mnd_12:52.2",
+        "original": "Kasmāti kasmā kiṅkāraṇā kiṁhetu kiṁpaccayā kiṁnidānā saccāni nānā vadanti, vividhāni vadanti, aññoññāni vadanti, puthūni vadanti kathenti bhaṇanti dīpayanti voharantīti—",
+        "analyzed": "kasmā ati kasmā kiṅkāraṇā ki hetu ki paccayā ki nidānā saccāni nānā vadanti vividhāni vadanti aññoññāni vadanti puthūni vadanti kathenti bhaṇanti dīpayanti voharanti iti ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_mnd_12:52.3",
+        "original": "kasmā nu saccāni vadanti nānā.",
+        "analyzed": "kasmai nu satcāni vadanti nānā ",
+        "folio": "52"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.1",
+        "original": "Pavādiyāse kusalāvadānāti.",
+        "analyzed": "kusala avadānāti ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.2",
+        "original": "Pavādiyāseti vippavadantītipi pavādiyāse.",
+        "analyzed": "pavādiyāse iti ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.3",
+        "original": "Atha vā sakaṁ sakaṁ diṭṭhigataṁ pavadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "atha vā sakam sakam diṭṭhigatam pavadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.4",
+        "original": "“Sassato loko, idameva saccaṁ moghamaññan”ti pavadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "sassataḥ lokaḥ idam eva saccam mogham aññanti pavadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.5",
+        "original": "“Asassato loko …pe…",
+        "analyzed": "a sassataḥ loko pe ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.6",
+        "original": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti pavadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "na iva hoti na na hoti tathāgato param maraṇā idam eva saccam mogham aññanti pavadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.7",
+        "original": "Kusalāvadānāti kusalavādā paṇḍitavādā thiravādā ñāyavādā hetuvādā lakkhaṇavādā kāraṇavādā ṭhānavādā sakāya laddhiyāti—",
+        "analyzed": "kusala avadānā ati kusala vādā paṇḍita vādā thira vādā ñāya vādā hetu vādā lakkhaṇa vādā kāraṇa vādā ṭhāna vādā sakāya laddhiyā ati ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:53.8",
+        "original": "pavādiyāse kusalāvadānā.",
+        "analyzed": "kusala avadānā ",
+        "folio": "53"
+    },
+    {
+        "segmentnr": "PA_mnd_12:54.1",
+        "original": "Saccāni sutāni bahūni nānāti saccāni sutāni bahukāni nānāni vividhāni aññoññāni puthūnīti—",
+        "analyzed": "saccāni sutāni bahūni nānā ati saccāni sutāni bahukāni nānāni vividhāni aññoññāni puthūni iti ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_mnd_12:54.2",
+        "original": "saccāni sutāni bahūni nānā.",
+        "analyzed": "saccāni sutāni bahūni nānā ",
+        "folio": "54"
+    },
+    {
+        "segmentnr": "PA_mnd_12:55.1",
+        "original": "Udāhu te takkamanussarantīti udāhu takkena saṅkappena yāyanti nīyanti vuyhanti saṁharīyantīti.",
+        "analyzed": "udāhu te takkam anussaranti iti udāhu takkena saṅkappena yāyanti nīyanti vuyhanti saharīyanti iti ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_mnd_12:55.2",
+        "original": "Evampi udāhu te takkamanussaranti.",
+        "analyzed": "evam pi udāhu te takkam anussaranti ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_mnd_12:55.3",
+        "original": "Atha vā takkapariyāhataṁ vīmaṁsānucaritaṁ sayaṁ paṭibhānaṁ vadanti kathenti bhaṇanti dīpayanti voharantīti.",
+        "analyzed": "atha vā takka pariyāhatam vīmasa anucaritam sayam paṭibhānam vadanti kathenti bhaṇanti dīpayanti voharanti iti ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_mnd_12:55.4",
+        "original": "Evampi udāhu te takkamanussaranti.",
+        "analyzed": "evam pi udāhu te takkam anussaranti ",
+        "folio": "55"
+    },
+    {
+        "segmentnr": "PA_mnd_12:56.1",
+        "original": "Tenāha so nimmito—",
+        "analyzed": "tena āha saḥ nimmitaḥ ",
+        "folio": "56"
+    },
+    {
+        "segmentnr": "PA_mnd_12:57.1",
+        "original": "“Kasmā nu saccāni vadanti nānā,",
+        "analyzed": "kasmai nu satcāni vadanti nānā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_mnd_12:57.2",
+        "original": "Pavādiyāse kusalāvadānā;",
+        "analyzed": "kusala avadānā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_mnd_12:57.3",
+        "original": "Saccāni sutāni bahūni nānā,",
+        "analyzed": "saccāni sutāni bahūni nānā ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_mnd_12:57.4",
+        "original": "Udāhu te takkamanussarantī”ti.",
+        "analyzed": "udāhu te takkam anussaranti iti ",
+        "folio": "57"
+    },
+    {
+        "segmentnr": "PA_mnd_12:58.1",
+        "original": "Na heva saccāni bahūni nānā,",
+        "analyzed": "na ha iva saccāni bahūni nānā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_mnd_12:58.2",
+        "original": "Aññatra saññāya niccāni loke;",
+        "analyzed": "aññatra saññāya niccāni loke ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_mnd_12:58.3",
+        "original": "Takkañca diṭṭhīsu pakappayitvā,",
+        "analyzed": "takkañca diṭṭhīsu pakappayitvā ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_mnd_12:58.4",
+        "original": "Saccaṁ musāti dvayadhammamāhu.",
+        "analyzed": "saccam musā ati dvaya dhammam āhu ",
+        "folio": "58"
+    },
+    {
+        "segmentnr": "PA_mnd_12:59.1",
+        "original": "Na heva saccāni bahūni nānāti na heva saccāni bahukāni nānāni vividhāni aññoññāni puthūnīti—",
+        "analyzed": "na ha iva saccāni bahūni nānā ati na ha iva saccāni bahukāni nānāni vividhāni aññoññāni puthūni iti ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mnd_12:59.2",
+        "original": "na heva saccāni bahūni nānā.",
+        "analyzed": "na ha iva saccāni bahūni nānā ",
+        "folio": "59"
+    },
+    {
+        "segmentnr": "PA_mnd_12:60.1",
+        "original": "Aññatra saññāya niccāni loketi aññatra saññāya niccaggāhā ekaññeva saccaṁ loke kathīyati bhaṇīyati dīpīyati voharīyati—",
+        "analyzed": "aññatra saññāya niccāni loke iti aññatra saññāya niccaggāhā ekaññā iva saccam loke kathīyati bhaṇīyati dīpīyati voharīyati ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mnd_12:60.2",
+        "original": "dukkhanirodho nibbānaṁ.",
+        "analyzed": "dukkha nirodho nibbāna ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mnd_12:60.3",
+        "original": "Yo so sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṁ.",
+        "analyzed": "yaḥ saḥ sabba saṅkhāra samatho sabba upadhi paṭinissaggo taṇhā khayaḥ virāgaḥ nirodhaḥ nibbāna ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mnd_12:60.4",
+        "original": "Atha vā ekaṁ saccaṁ vuccati maggasaccaṁ, niyyānasaccaṁ, dukkhanirodhagāminī paṭipadā, ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—",
+        "analyzed": "atha vā ekam saccam vuccati magga sacca niyyāna sacca dukkha nirodha gāminī paṭipadā ariyaḥ aṭṭhaṅgikaḥ maggo ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mnd_12:60.5",
+        "original": "sammādiṭṭhi …pe… sammāsamādhīti—",
+        "analyzed": "sammā diṭṭhi pe sammā samādhi iti ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mnd_12:60.6",
+        "original": "aññatra saññāya niccāni loke.",
+        "analyzed": "aññatra saññāya niccāni loke ",
+        "folio": "60"
+    },
+    {
+        "segmentnr": "PA_mnd_12:61.1",
+        "original": "Takkañca diṭṭhīsu pakappayitvā, saccaṁ musāti dvayadhammamāhūti.",
+        "analyzed": "takkam ca diṭṭhīsu pakappayitvā saccam musā ati dvaya dhammam āhu ti ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_mnd_12:61.2",
+        "original": "Takkaṁ vitakkaṁ saṅkappaṁ takkayitvā vitakkayitvā saṅkappayitvā diṭṭhigatāni janenti sañjanenti nibbattenti abhinibbattenti.",
+        "analyzed": "takkam vitakkam saṅkappam takkayitvā vitakkayitvā saṅkappayitvā diṭṭhi gatāni janenti sañjanenti nibbattenti abhinibbattenti ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_mnd_12:61.3",
+        "original": "Diṭṭhigatāni janetvā sañjanetvā nibbattetvā abhinibbattetvā “mayhaṁ saccaṁ tuyhaṁ musā”ti, evamāhaṁsu evaṁ kathenti evaṁ bhaṇanti evaṁ dīpayanti evaṁ voharantīti—",
+        "analyzed": "diṭṭhi gatāni janetvā sañjanetvā nibbattetvā abhinibbattetvā mayham saccam tuyham musā ati evam āhasu evam kathenti evam bhaṇanti evam dīpayanti evam voharanti iti ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_mnd_12:61.4",
+        "original": "takkañca diṭṭhīsu pakappayitvā saccaṁ musāti dvayadhammamāhu.",
+        "analyzed": "takkam ca diṭṭhīsu pakappayitvā saccam musā iti dvaya dhammam āhu ",
+        "folio": "61"
+    },
+    {
+        "segmentnr": "PA_mnd_12:62.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "62"
+    },
+    {
+        "segmentnr": "PA_mnd_12:63.1",
+        "original": "“Na heva saccāni bahūni nānā,",
+        "analyzed": "na ha iva saccāni bahūni nānā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_mnd_12:63.2",
+        "original": "Aññatra saññāya niccāni loke;",
+        "analyzed": "aññatra saññāya niccāni loke ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_mnd_12:63.3",
+        "original": "Takkañca diṭṭhīsu pakappayitvā,",
+        "analyzed": "takkañca diṭṭhīsu pakappayitvā ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_mnd_12:63.4",
+        "original": "Saccaṁ musāti dvayadhammamāhū”ti.",
+        "analyzed": "saccam musā ati ",
+        "folio": "63"
+    },
+    {
+        "segmentnr": "PA_mnd_12:64.1",
+        "original": "Diṭṭhe sute sīlavate mute vā,",
+        "analyzed": "diṭṭhe sute sīlavate mute vā ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_mnd_12:64.2",
+        "original": "Ete ca nissāya vimānadassī;",
+        "analyzed": "ete ca nissāya vimāna dassī ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_mnd_12:64.3",
+        "original": "Vinicchaye ṭhatvā pahassamāno,",
+        "analyzed": "vinicchaye ṭhatvā pahassamānaḥ ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_mnd_12:64.4",
+        "original": "Bālo paro akkusaloti cāha.",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āha ",
+        "folio": "64"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.1",
+        "original": "Diṭṭhe sute sīlavate mute vā, ete ca nissāya vimānadassīti.",
+        "analyzed": "diṭṭhe sute sīlavate mute vā ete ca nissāya vimāna dassī iti ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.2_0",
+        "original": "Diṭṭhaṁ vā diṭṭhasuddhiṁ vā, sutaṁ vā sutasuddhiṁ vā, sīlaṁ vā sīlasuddhiṁ vā, vataṁ",
+        "analyzed": "diṭṭham vā diṭṭha suddhim vā sutam vā suta suddhim vā sīlam vā sīla suddhim vā vata ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.2_1",
+        "original": "vā vatasuddhiṁ vā, mutaṁ vā mutasuddhiṁ vā nissāya upanissāya gaṇhitvā parāmasitvā abhinivisitvāti—",
+        "analyzed": "vā vata suddhim vā mutam vā muta suddhim vā nissāya upanissāya gaṇhitvā parāmasitvā abhinivisitvā ati ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.3",
+        "original": "diṭṭhe sute sīlavate mute vā.",
+        "analyzed": "diṭṭhe sute sīlavate mute vā ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.4",
+        "original": "Ete ca nissāya vimānadassīti.",
+        "analyzed": "ete ca nissāya vimāna dassī iti ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.5",
+        "original": "Na sammānetītipi vimānadassī.",
+        "analyzed": "na vimāna dassī ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.6",
+        "original": "Atha vā domanassaṁ janetītipi vimānadassīti—",
+        "analyzed": "atha vā domanassam janeti itipi vimāna dassī iti ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:65.7",
+        "original": "diṭṭhe sute sīlavate mute vā ete ca nissāya vimānadassī.",
+        "analyzed": "diṭṭhe sute sīlavate mute vā ete ca nissāya vimāna dassī ",
+        "folio": "65"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.1",
+        "original": "Vinicchaye ṭhatvā pahassamānoti.",
+        "analyzed": "vinicchaye ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.2",
+        "original": "Vinicchayā vuccanti dvāsaṭṭhi diṭṭhigatāni.",
+        "analyzed": "vinicchayāḥ vuccanti dvāsaṭṭhi diṭṭhigatāni ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.3",
+        "original": "Diṭṭhivinicchaye vinicchayadiṭṭhiyā ṭhatvā patiṭṭhahitvā gaṇhitvā parāmasitvā abhinivisitvāti—",
+        "analyzed": "diṭṭhi vinicchaye vinicchaya diṭṭhiyā ṭhatvā patiṭṭhahitvā gaṇhitvā parāmasitvā abhinivisitvā ati ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.4",
+        "original": "vinicchaye ṭhatvā.",
+        "analyzed": "vinicchaye ṭha tvā ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.5",
+        "original": "Pahassamānoti tuṭṭho hoti haṭṭho pahaṭṭho attamano paripuṇṇasaṅkappo.",
+        "analyzed": "pahassamānaḥ iti tuṭṭhaḥ hoti haṭṭhaḥ pahaṭṭhaḥ atta manaḥ paripuṇṇa saṅkappaḥ ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.6",
+        "original": "Atha vā dantavidaṁsakaṁ pahassamānoti—",
+        "analyzed": "atha vā danta vidasakam ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:66.7",
+        "original": "vinicchaye ṭhatvā pahassamāno.",
+        "analyzed": "vinicchaye ṭhatvā pahassamānaḥ ",
+        "folio": "66"
+    },
+    {
+        "segmentnr": "PA_mnd_12:67.1",
+        "original": "Bālo paro akkusaloti cāhāti.",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āha ati ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_mnd_12:67.2",
+        "original": "Paro bālo hīno nihīno omako lāmako chatukko paritto akusalo avidvā avijjāgato aññāṇī avibhāvī amedhāvī duppaññoti, evamāha evaṁ katheti evaṁ bhaṇati evaṁ dīpayati evaṁ voharatīti—",
+        "analyzed": "paraḥ bālaḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ akusalaḥ a vidvā a vijja āgataḥ aññāṇī a vibhāvī a medhāvī duppaññaḥ ti evam āha evam kathā iti evam bhaṇati evam dīpayati evam voharati iti ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_mnd_12:67.3",
+        "original": "bālo paro akkusaloti cāha.",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āha ",
+        "folio": "67"
+    },
+    {
+        "segmentnr": "PA_mnd_12:68.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "68"
+    },
+    {
+        "segmentnr": "PA_mnd_12:69.1",
+        "original": "“Diṭṭhe sute sīlavate mute vā,",
+        "analyzed": "diṭṭhe sute sīlavate mute vā ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_mnd_12:69.2",
+        "original": "Ete ca nissāya vimānadassī;",
+        "analyzed": "ete ca nissāya vimāna dassī ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_mnd_12:69.3",
+        "original": "Vinicchaye ṭhatvā pahassamāno,",
+        "analyzed": "vinicchaye ṭhatvā pahassamānaḥ ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_mnd_12:69.4",
+        "original": "Bālo paro akkusaloti cāhā”ti.",
+        "analyzed": "bālaḥ paraḥ akkusalaḥ iti ca āha ati ",
+        "folio": "69"
+    },
+    {
+        "segmentnr": "PA_mnd_12:70.1",
+        "original": "Yeneva bāloti paraṁ dahāti,",
+        "analyzed": "yena iva param dahāti ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_mnd_12:70.2",
+        "original": "Tenātumānaṁ kusaloti cāha;",
+        "analyzed": "tena atumānam kusala iti ca āha ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_mnd_12:70.3",
+        "original": "Sayamattanā so kusalāvadāno,",
+        "analyzed": "sayam attanā saḥ kusala avadānaḥ ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_mnd_12:70.4",
+        "original": "Aññaṁ vimāneti tadeva pāva.",
+        "analyzed": "aññam vimāneti tat eva pāva ",
+        "folio": "70"
+    },
+    {
+        "segmentnr": "PA_mnd_12:71.1",
+        "original": "Yeneva bāloti paraṁ dahātīti.",
+        "analyzed": "yena iva param dahāti iti ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_mnd_12:71.2_0",
+        "original": "Yeneva hetunā yena paccayena yena kāraṇena yena pabhavena paraṁ bālato hīnato nihīnato",
+        "analyzed": "yena iva hetunā yena paccayena yena kāraṇena yena pabhavena param bālataḥ hīnataḥ nihīnataḥ ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_mnd_12:71.2_1",
+        "original": "omakato lāmakato chatukkato parittato dahati passati dakkhati oloketi nijjhāyati upaparikkhatīti—",
+        "analyzed": "omakataḥ lāmakataḥ chatukkataḥ parittataḥ dahati passati dakkhati oloketi nijjhāyati upaparikkhati iti ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_mnd_12:71.3",
+        "original": "yeneva bāloti paraṁ dahāti.",
+        "analyzed": "yena iva param dahāti ",
+        "folio": "71"
+    },
+    {
+        "segmentnr": "PA_mnd_12:72.1",
+        "original": "Tenātumānaṁ kusaloti cāhāti.",
+        "analyzed": "tena atumānam kusala ūti ca āhāti ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_mnd_12:72.2",
+        "original": "Ātumāno vuccati attā.",
+        "analyzed": "ātumānaḥ vuccati attā ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_mnd_12:72.3",
+        "original": "Sopi teneva hetunā tena paccayena tena kāraṇena tena pabhavena attānaṁ ahamasmi kusalo paṇḍito paññavā buddhimā ñāṇī vibhāvī medhāvīti—",
+        "analyzed": "saḥ api tena iva hetunā tena paccayena tena kāraṇena tena pabhavena attānam aham asmi kusalaḥ paṇḍitaḥ paññavā buddhimā ñāṇī vibhāvī medhāvī iti ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_mnd_12:72.4",
+        "original": "tenātumānaṁ kusaloti cāha.",
+        "analyzed": "tena atumānam kusala iti ca āha ",
+        "folio": "72"
+    },
+    {
+        "segmentnr": "PA_mnd_12:73.1",
+        "original": "Sayamattanā so kusalāvadānoti.",
+        "analyzed": "sayam attanā saḥ ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_mnd_12:73.2",
+        "original": "Sayameva attānaṁ kusalavādo paṇḍitavādo thiravādo ñāyavādo hetuvādo lakkhaṇavādo kāraṇavādo ṭhānavādo sakāya laddhiyāti—",
+        "analyzed": "sayam eva attānam kusala vādo paṇḍita vādo thira vādaḥ ñāya vādaḥ hetu vādaḥ lakkhaṇa vādo kāraṇa vādo ṭhāna vādo sakāya laddhiyā ati ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_mnd_12:73.3",
+        "original": "sayamattanā so kusalāvadāno.",
+        "analyzed": "sayam attanā saḥ kusala avadānaḥ ",
+        "folio": "73"
+    },
+    {
+        "segmentnr": "PA_mnd_12:74.1",
+        "original": "Aññaṁ vimāneti tadeva pāvāti.",
+        "analyzed": "aññam vimāneti tat eva pāvā ati ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_mnd_12:74.2",
+        "original": "Na sammānetītipi aññaṁ vimāneti.",
+        "analyzed": "na sammāneti itipi aññam vimāneti ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_mnd_12:74.3",
+        "original": "Atha vā domanassaṁ janetītipi aññaṁ vimāneti.",
+        "analyzed": "atha vā domanassam janeti itipi aññam vimāneti ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_mnd_12:74.4",
+        "original": "Tadeva pāvāti tadeva taṁ diṭṭhigataṁ pāvadati “itipāyaṁ puggalo micchādiṭṭhiko viparītadassano”ti—",
+        "analyzed": "tat eva tat eva tam diṭṭhi gatam pāvadati iti pāyam puggalaḥ micchādiṭṭhikaḥ viparīta dassano ti ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_mnd_12:74.5",
+        "original": "aññaṁ vimāneti tadeva pāvada.",
+        "analyzed": "aññam vimāneti tat eva pāvada ",
+        "folio": "74"
+    },
+    {
+        "segmentnr": "PA_mnd_12:75.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "75"
+    },
+    {
+        "segmentnr": "PA_mnd_12:76.1",
+        "original": "“Yeneva bāloti paraṁ dahāti,",
+        "analyzed": "yena iva param dahāti ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_mnd_12:76.2",
+        "original": "Tenātumānaṁ kusaloti cāha;",
+        "analyzed": "tena atumānam kusala iti ca āha ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_mnd_12:76.3",
+        "original": "Sayamattanā so kusalāvadāno,",
+        "analyzed": "sayam attanā saḥ kusala avadānaḥ ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_mnd_12:76.4",
+        "original": "Aññaṁ vimāneti tadeva pāvā”ti.",
+        "analyzed": "aññam vimāneti tat eva pāvā ati ",
+        "folio": "76"
+    },
+    {
+        "segmentnr": "PA_mnd_12:77.1",
+        "original": "Atisāradiṭṭhiyā so samatto,",
+        "analyzed": "atisāra diṭṭhiyā so samatto ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_mnd_12:77.2",
+        "original": "Mānena matto paripuṇṇamānī;",
+        "analyzed": "mānena mattaḥ paripuṇṇa mānī ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_mnd_12:77.3",
+        "original": "Sayameva sāmaṁ manasābhisitto,",
+        "analyzed": "sayam eva sāmam manasā abhisittaḥ ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_mnd_12:77.4",
+        "original": "Diṭṭhī hi sā tassa tathā samattā.",
+        "analyzed": "diṭṭhī hi sā tassa tathā samattā ",
+        "folio": "77"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.1",
+        "original": "Atisāradiṭṭhiyā so samattoti.",
+        "analyzed": "atisāra diṭṭhiyā so samatto ti ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.2",
+        "original": "Atisāradiṭṭhiyo vuccanti dvāsaṭṭhi diṭṭhigatāni.",
+        "analyzed": "atisāra diṭṭhiyaḥ vuccanti dvāsaṭṭhi diṭṭhi gatāni ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.3",
+        "original": "Kiṅkāraṇā atisāradiṭṭhiyo vuccanti dvāsaṭṭhi diṭṭhigatāni?",
+        "analyzed": "kiṅkāraṇā atisāra diṭṭhiyaḥ vuccanti dvāsaṭṭhi diṭṭhi gatāni ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.4",
+        "original": "Sabbā tā diṭṭhiyo kāraṇātikkantā lakkhaṇātikkantā ṭhānātikkantā, taṅkāraṇā atisāradiṭṭhiyo vuccanti dvāsaṭṭhi diṭṭhigatāni.",
+        "analyzed": "sabbā tāḥ diṭṭhiyaḥ kāraṇa atikkantā lakkhaṇa atikkantā ṭhāna atikkantā taṅkāraṇāḥ atisāra diṭṭhiyaḥ vuccanti dvāsaṭṭhi diṭṭhi gatāni ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.5",
+        "original": "Sabbepi titthiyā atisāradiṭṭhiyā.",
+        "analyzed": "sabbe pi titthiyāḥ atisāra diṭṭhiyā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.6",
+        "original": "Kiṅkāraṇā sabbepi titthiyā atisāradiṭṭhiyā?",
+        "analyzed": "kiṅkāraṇā sabbe pi titthiyāḥ atisāra diṭṭhiyā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.7",
+        "original": "Te aññamaññaṁ atikkamitvā samatikkamitvā vītivattitvā diṭṭhigatāni janenti sañjanenti nibbattenti abhinibbattenti, taṅkāraṇā sabbepi titthiyā atisāradiṭṭhiyā.",
+        "analyzed": "te aññam aññam atikkamitvā samatikkamitvā vītivattitvā diṭṭhi gatāni janenti sañjanenti nibbattenti abhinibbattenti taṅkāraṇā sabbe api titthiyāḥ atisāra diṭṭhiyā ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.8",
+        "original": "Atisāradiṭṭhiyā so samattoti.",
+        "analyzed": "atisāra diṭṭhiyā so samatto ti ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.9",
+        "original": "Atisāradiṭṭhiyā samatto paripuṇṇo anomoti—",
+        "analyzed": "atisāra diṭṭhiyā samattaḥ paripuṇṇaḥ anomaḥ ti ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:78.10",
+        "original": "atisāradiṭṭhiyā so samatto.",
+        "analyzed": "atisāra diṭṭhiyā so samatto ",
+        "folio": "78"
+    },
+    {
+        "segmentnr": "PA_mnd_12:79.1",
+        "original": "Mānena matto paripuṇṇamānīti.",
+        "analyzed": "mānena mattaḥ paripuṇṇa māni iti ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_mnd_12:79.2",
+        "original": "Sakāya diṭṭhiyā diṭṭhimānena matto pamatto ummatto atimattoti—",
+        "analyzed": "sakāya diṭṭhiyā diṭṭhi mānena mattaḥ pamattaḥ ummattaḥ atimattaḥ iti ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_mnd_12:79.3",
+        "original": "mānena matto.",
+        "analyzed": "mānena mattaḥ ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_mnd_12:79.4",
+        "original": "Paripuṇṇamānīti paripuṇṇamānī samattamānī anomamānīti—",
+        "analyzed": "paripuṇṇa mānī iti paripuṇṇa mānī samatta mānī anomamānī iti ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_mnd_12:79.5",
+        "original": "mānena matto paripuṇṇamānī.",
+        "analyzed": "mānena mattaḥ paripuṇṇa mānī ",
+        "folio": "79"
+    },
+    {
+        "segmentnr": "PA_mnd_12:80.1",
+        "original": "Sayameva sāmaṁ manasābhisittoti.",
+        "analyzed": "sayam eva sāmam manasā abhisittaḥ uti ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_mnd_12:80.2",
+        "original": "Sayameva attānaṁ cittena abhisiñcati “ahamasmi kusalo paṇḍito paññavā buddhimā ñāṇī vibhāvī medhāvī”ti—",
+        "analyzed": "sayam eva attānam cittena abhisiñcati aham asmi kusalaḥ paṇḍitaḥ paññavā buddhimā ñāṇī vibhāvī medhāvī iti ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_mnd_12:80.3",
+        "original": "sayameva sāmaṁ manasābhisitto.",
+        "analyzed": "sayam eva sāmam manasā abhisittaḥ ",
+        "folio": "80"
+    },
+    {
+        "segmentnr": "PA_mnd_12:81.1",
+        "original": "Diṭṭhī hi sā tassa tathā samattāti.",
+        "analyzed": "diṭṭhī hi sā tassa tathā samattā ati ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_mnd_12:81.2",
+        "original": "Tassa sā diṭṭhi tathā samattā samādinnā gahitā parāmaṭṭhā abhiniviṭṭhā ajjhositā adhimuttāti—",
+        "analyzed": "tassa sā diṭṭhi tathā samattā samādinnā gahitā parāmaṭṭhā abhiniviṭṭhā ajjhositā adhimuttā ati ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_mnd_12:81.3",
+        "original": "diṭṭhī hi sā tassa tathā samattā.",
+        "analyzed": "diṭṭhī hi sā tassa tathā samattā ",
+        "folio": "81"
+    },
+    {
+        "segmentnr": "PA_mnd_12:82.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "82"
+    },
+    {
+        "segmentnr": "PA_mnd_12:83.1",
+        "original": "“Atisāradiṭṭhiyā so samatto,",
+        "analyzed": "atisāra diṭṭhiyā so samatto ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_mnd_12:83.2",
+        "original": "Mānena matto paripuṇṇamānī;",
+        "analyzed": "mānena mattaḥ paripuṇṇa mānī ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_mnd_12:83.3",
+        "original": "Sayameva sāmaṁ manasābhisitto,",
+        "analyzed": "sayam eva sāmam manasā abhisittaḥ ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_mnd_12:83.4",
+        "original": "Diṭṭhī hi sā tassa tathā samattā”ti.",
+        "analyzed": "diṭṭhī hi sā tassa tathā samattā ati ",
+        "folio": "83"
+    },
+    {
+        "segmentnr": "PA_mnd_12:84.1",
+        "original": "Parassa ce hi vacasā nihīno,",
+        "analyzed": "parassa ce hi vacasā nihīnaḥ ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_mnd_12:84.2",
+        "original": "Tumo sahā hoti nihīnapañño;",
+        "analyzed": "tumaḥ sahā hoti nihīna paññaḥ ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_mnd_12:84.3",
+        "original": "Atha ce sayaṁ vedagū hoti dhīro,",
+        "analyzed": "atha ce sayam vedagū hoti dhīraḥ ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_mnd_12:84.4",
+        "original": "Na koci bālo samaṇesu atthi.",
+        "analyzed": "na koci bālaḥ samaṇesu atthi ",
+        "folio": "84"
+    },
+    {
+        "segmentnr": "PA_mnd_12:85.1",
+        "original": "Parassa ce hi vacasā nihīnoti parassa ce vācāya vacanena ninditakāraṇā garahitakāraṇā upavaditakāraṇā paro bālo hoti hīno nihīno omako lāmako chatukko parittoti—",
+        "analyzed": "parassa ce hi vacasā nihīnaḥ iti parassa ce vācāya vacanena nindita kāraṇā garahita kāraṇā upavadita kāraṇā paraḥ bālaḥ hoti hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ paritto ti ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_mnd_12:85.2",
+        "original": "parassa ce hi vacasā nihīno.",
+        "analyzed": "parassa ce hi vacasā nihīnaḥ ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_mnd_12:85.3",
+        "original": "Tumo sahā hoti nihīnapaññoti.",
+        "analyzed": "tumo sahā hoti nihīna paññā ti ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_mnd_12:85.4",
+        "original": "Sopi teneva sahā hoti hīnapañño nihīnapañño omakapañño lāmakapañño chatukkapañño parittapaññoti—",
+        "analyzed": "saḥ api tena iva sahā hoti hīna paññaḥ nihīna paññaḥ omaka paññaḥ lāmaka paññaḥ chatukka paññaḥ paritta paññaḥ ti ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_mnd_12:85.5",
+        "original": "tumo sahā hoti nihīnapañño.",
+        "analyzed": "tumaḥ sahā hoti nihīna paññaḥ ",
+        "folio": "85"
+    },
+    {
+        "segmentnr": "PA_mnd_12:86.1",
+        "original": "Atha ce sayaṁ vedagū hoti dhīroti atha ce sayaṁ vedagū hoti dhīro paṇḍito paññavā buddhimā ñāṇī vibhāvī medhāvīti—",
+        "analyzed": "atha ce sayam vedagū hoti dhīro iti atha ce sayam vedagū hoti dhīro paṇḍito paññavā buddhimā ñāṇī vibhāvī medhāvī iti ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_mnd_12:86.2",
+        "original": "atha ce sayaṁ vedagū hoti dhīro.",
+        "analyzed": "atha ce sayam vedagū hoti dhīraḥ ",
+        "folio": "86"
+    },
+    {
+        "segmentnr": "PA_mnd_12:87.1",
+        "original": "Na koci bālo samaṇesu atthīti.",
+        "analyzed": "na koci bālaḥ samaṇesu atthi iti ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_mnd_12:87.2",
+        "original": "Samaṇesu na koci bālo hīno nihīno omako lāmako chatukko paritto atthi, sabbeva seṭṭhapaññā visiṭṭhapaññā pāmokkhapaññā uttamapaññā pavarapaññāti—",
+        "analyzed": "samaṇesu na koci bālaḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ atthi sabbā iva seṭṭha pañā visiṭṭha paññā pāmokkha paññā uttama paññā pavara paññā ti ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_mnd_12:87.3",
+        "original": "na koci bālo samaṇesu atthi.",
+        "analyzed": "na koci bālaḥ samaṇesu atthi ",
+        "folio": "87"
+    },
+    {
+        "segmentnr": "PA_mnd_12:88.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "88"
+    },
+    {
+        "segmentnr": "PA_mnd_12:89.1",
+        "original": "“Parassa ce hi vacasā nihīno,",
+        "analyzed": "parassa ce hi vacasā nihīnaḥ ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_mnd_12:89.2",
+        "original": "Tumo sahā hoti nihīnapañño;",
+        "analyzed": "tumaḥ sahā hoti nihīna paññaḥ ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_mnd_12:89.3",
+        "original": "Atha ce sayaṁ vedagū hoti dhīro,",
+        "analyzed": "atha ce sayam vedagū hoti dhīraḥ ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_mnd_12:89.4",
+        "original": "Na koci bālo samaṇesu atthī”ti.",
+        "analyzed": "na koci bālaḥ samaṇesu atthi iti ",
+        "folio": "89"
+    },
+    {
+        "segmentnr": "PA_mnd_12:90.1",
+        "original": "Aññaṁ ito yābhivadanti dhammaṁ,",
+        "analyzed": "aññam itas yā abhivadanti dhamma ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_mnd_12:90.2",
+        "original": "Aparaddhā suddhimakevalī te;",
+        "analyzed": "aparaddhā suddhim akevalī te ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_mnd_12:90.3",
+        "original": "Evampi titthyā puthuso vadanti,",
+        "analyzed": "evam pi titthyā puthusaḥ vadanti ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_mnd_12:90.4",
+        "original": "Sandiṭṭhirāgena hi tebhirattā.",
+        "analyzed": "sandiṭṭhi rāgena hi tebhiḥ attā ",
+        "folio": "90"
+    },
+    {
+        "segmentnr": "PA_mnd_12:91.1",
+        "original": "Aññaṁ ito yābhivadanti dhammaṁ, aparaddhā suddhimakevalī teti.",
+        "analyzed": "aññam itas yā abhivadanti dhamma aparaddhā suddhim akevalī te iti ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_mnd_12:91.2_0",
+        "original": "Ito aññaṁ dhammaṁ diṭṭhiṁ paṭipadaṁ maggaṁ ye abhivadanti, te suddhimaggaṁ visuddhimaggaṁ",
+        "analyzed": "itas aññam dhammam diṭṭhim paṭipadam maggam ye abhivadanti te suddhi maggam visuddhi magga ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_mnd_12:91.2_1",
+        "original": "parisuddhimaggaṁ vodātamaggaṁ pariyodātamaggaṁ viraddhā aparaddhā khalitā galitā",
+        "analyzed": "parisuddhi maggam vodāta maggam pariyodāta maggam viraddhā aparaddhā khalitā galitā ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_mnd_12:91.2_2",
+        "original": "aññāya aparaddhā akevalī te, asamattā te, aparipuṇṇā te, hīnā nihīnā omakā lāmakā chatukkā parittāti—",
+        "analyzed": "aññāya aparaddhā akevalī te a samattā te a paripuṇṇā te hīnā nihīnā omakā lāmakā chatukkā parittā ati ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_mnd_12:91.3",
+        "original": "aññaṁ ito yābhivadanti dhammaṁ, aparaddhā suddhimakevalī te.",
+        "analyzed": "aññam itas yā abhivadanti dhamma aparaddhāḥ suddhim a kevalī te ",
+        "folio": "91"
+    },
+    {
+        "segmentnr": "PA_mnd_12:92.1",
+        "original": "Evampi titthyā puthuso vadantīti.",
+        "analyzed": "evam pi titthyā puthusaḥ vadanti iti ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_mnd_12:92.2",
+        "original": "Titthaṁ vuccati diṭṭhigataṁ.",
+        "analyzed": "tittham vuccati diṭṭhigata ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_mnd_12:92.3",
+        "original": "Titthiyā vuccanti diṭṭhigatikā.",
+        "analyzed": "titthiyāḥ vuccanti diṭṭhigatikā ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_mnd_12:92.4",
+        "original": "Puthudiṭṭhiyā puthudiṭṭhigatāni vadanti kathenti bhaṇanti dīpayanti voharantīti—",
+        "analyzed": "puthu diṭṭhiyā puthu diṭṭhi gatāni vadanti kathenti bhaṇanti dīpayanti voharanti iti ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_mnd_12:92.5",
+        "original": "evampi titthyā puthuso vadanti.",
+        "analyzed": "evam pi titthyā puthusaḥ vadanti ",
+        "folio": "92"
+    },
+    {
+        "segmentnr": "PA_mnd_12:93.1",
+        "original": "Sandiṭṭhirāgena hi tebhirattāti.",
+        "analyzed": "sandiṭṭhi rāgena hi ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_mnd_12:93.2",
+        "original": "Sakāya diṭṭhiyā diṭṭhirāgena rattā abhirattāti—",
+        "analyzed": "sakāya diṭṭhiyā diṭṭhi rāgena rattā abhirattā ati ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_mnd_12:93.3",
+        "original": "sandiṭṭhirāgena hi tebhirattā.",
+        "analyzed": "sandiṭṭhi rāgena hi tebhiḥ attā ",
+        "folio": "93"
+    },
+    {
+        "segmentnr": "PA_mnd_12:94.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "94"
+    },
+    {
+        "segmentnr": "PA_mnd_12:95.1",
+        "original": "“Aññaṁ ito yābhivadanti dhammaṁ,",
+        "analyzed": "aññam itas yā abhivadanti dhamma ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_mnd_12:95.2",
+        "original": "Aparaddhā suddhimakevalī te;",
+        "analyzed": "aparaddhā suddhim akevalī te ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_mnd_12:95.3",
+        "original": "Evampi titthyā puthuso vadanti,",
+        "analyzed": "evam pi titthyā puthusaḥ vadanti ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_mnd_12:95.4",
+        "original": "Sandiṭṭhirāgena hi tebhirattā”ti.",
+        "analyzed": "sandiṭṭhi rāgena hi ",
+        "folio": "95"
+    },
+    {
+        "segmentnr": "PA_mnd_12:96.1",
+        "original": "Idheva suddhiṁ iti vādayanti,",
+        "analyzed": "idhā iva suddhim iti vādayanti ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_mnd_12:96.2",
+        "original": "Nāññesu dhammesu visuddhimāhu;",
+        "analyzed": "na aññesu dhammesu visuddhim āhu ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_mnd_12:96.3",
+        "original": "Evampi titthyā puthuso niviṭṭhā,",
+        "analyzed": "evam pi titthyā puthusas niviṭṭhā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_mnd_12:96.4",
+        "original": "Sakāyane tattha daḷhaṁ vadānā.",
+        "analyzed": "sa kāyane tattha daḷham vadānā ",
+        "folio": "96"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.1",
+        "original": "Idheva suddhiṁ iti vādayantīti.",
+        "analyzed": "idhā iva suddhim iti vādayanti iti ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.2",
+        "original": "Idha suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ vadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "suddhim visuddhim parisuddhi muttim vimuttim parimuttim vadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.3",
+        "original": "“Sassato loko, idameva saccaṁ moghamaññan”ti idha suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ vadanti kathenti bhaṇanti dīpayanti voharanti.",
+        "analyzed": "sassataḥ lokaḥ idam eva saccam mogham aññanti idha suddhim visuddhim parisuddhi muttim vimuttim parimuttim vadanti kathenti bhaṇanti dīpayanti voharanti ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.4",
+        "original": "“Asassato loko …pe…",
+        "analyzed": "a sassataḥ loko pe ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.5_0",
+        "original": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti idha suddhiṁ",
+        "analyzed": "na iva hoti na na hoti tathāgataḥ param maraṇā idam eva saccam mogham aññanti idha suddhi ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.5_1",
+        "original": "visuddhiṁ parisuddhiṁ muttiṁ vimuttiṁ parimuttiṁ vadanti kathenti bhaṇanti dīpayanti voharantīti—",
+        "analyzed": "visuddhim parisuddhim muttim vimuttim parimuttim vadanti kathenti bhaṇanti dīpayanti voharanti iti ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:97.6",
+        "original": "idheva suddhiṁ iti vādayanti.",
+        "analyzed": "idhā iva suddhim iti vādayanti ",
+        "folio": "97"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.1",
+        "original": "Nāññesu dhammesu visuddhimāhūti.",
+        "analyzed": "na aññesu dhammesu visuddhim āhu ti ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.2",
+        "original": "Attano satthāraṁ dhammakkhānaṁ gaṇaṁ diṭṭhiṁ paṭipadaṁ maggaṁ ṭhapetvā sabbe paravāde khipanti ukkhipanti parikkhipanti.",
+        "analyzed": "attanaḥ satthāram dhamma kkhānam gaṇam diṭṭhim paṭipadam maggam ṭhapetvā sabbe paravāde khipanti ukkhipanti parikkhipanti ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.3_0",
+        "original": "“So satthā na sabbaññū, dhammo na svākkhāto, gaṇo na suppaṭipanno, diṭṭhi na bhaddikā,",
+        "analyzed": "so satthā na sabbaññū dhammaḥ na su ākkhātaḥ gaṇaḥ na suppaṭipannaḥ diṭṭhi na bhaddikā ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.3_1",
+        "original": "paṭipadā na supaññattā, maggo na niyyāniko, natthettha suddhi vā visuddhi vā parisuddhi",
+        "analyzed": "paṭipadā na su paññattā maggaḥ na niyyānikaḥ nattha ittha suddhi vā visuddhi vā parisuddhi ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.3_2",
+        "original": "vā, mutti vā vimutti vā parimutti vā, natthettha sujjhanti vā visujjhanti vā parisujjhanti",
+        "analyzed": "vā mutti vā vimutti vā parimutti vā nattha ittha sujjhanti vā visujjhanti vā parisujjhanti ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.3_3",
+        "original": "vā, muccanti vā vimuccanti vā parimuccanti vā hīnā nihīnā omakā lāmakā chatukkā parittā”ti,",
+        "analyzed": "vā muccanti vā vimuccanti vā parimuccanti vā hīnāḥ nihīnāḥ omakā lāmakā chatukkā parittā ati ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.3_4",
+        "original": "evamāhaṁsu evaṁ kathenti evaṁ bhaṇanti evaṁ dīpayanti evaṁ voharantīti—",
+        "analyzed": "evam kathenti evam bhaṇanti evam dīpayanti evam voharanti iti ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:98.4",
+        "original": "nāññesu dhammesu visuddhimāhu.",
+        "analyzed": "na aññesu dhammesu visuddhim āhu ",
+        "folio": "98"
+    },
+    {
+        "segmentnr": "PA_mnd_12:99.1",
+        "original": "Evampi titthyā puthuso niviṭṭhāti.",
+        "analyzed": "evam pi titthyā puthusaḥ niviṭṭhāti ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_mnd_12:99.2",
+        "original": "Titthaṁ vuccati diṭṭhigataṁ.",
+        "analyzed": "tittham vuccati diṭṭhigata ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_mnd_12:99.3",
+        "original": "Titthiyā vuccanti diṭṭhigatikā.",
+        "analyzed": "titthiyāḥ vuccanti diṭṭhigatikā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_mnd_12:99.4",
+        "original": "Puthudiṭṭhiyā puthudiṭṭhigatesu niviṭṭhā patiṭṭhitā allīnā upagatā ajjhositā adhimuttāti—",
+        "analyzed": "puthudiṭṭhiyā puthudiṭṭhi gatesu niviṭṭhā patiṭṭhitā allīnā upagatā ajjhositā adhimuttā ati ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_mnd_12:99.5",
+        "original": "evampi titthyā puthuso niviṭṭhā.",
+        "analyzed": "evam pi titthyā puthusas niviṭṭhā ",
+        "folio": "99"
+    },
+    {
+        "segmentnr": "PA_mnd_12:100.1",
+        "original": "Sakāyane tattha daḷhaṁ vadānāti.",
+        "analyzed": "sa kāyane daḷham vadānā iti ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_mnd_12:100.2",
+        "original": "Dhammo sakāyanaṁ, diṭṭhi sakāyanaṁ, paṭipadā sakāyanaṁ, maggo sakāyanaṁ, sakāyane daḷhavādā thiravādā balikavādā avaṭṭhitavādāti—",
+        "analyzed": "dhammo sakāyana diṭṭhi sakāyana paṭipadā sakāyana maggo sakāyana sakāyane daḷha vādā thira vādā balika vādā avaṭṭhita vādā ati ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_mnd_12:100.3",
+        "original": "sakāyane tattha daḷhaṁ vadānā.",
+        "analyzed": "sa kāyane tattha daḷham vadānā ",
+        "folio": "100"
+    },
+    {
+        "segmentnr": "PA_mnd_12:101.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "101"
+    },
+    {
+        "segmentnr": "PA_mnd_12:102.1",
+        "original": "“Idheva suddhiṁ iti vādayanti,",
+        "analyzed": "idhā iva suddhim iti vādayanti ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_mnd_12:102.2",
+        "original": "Nāññesu dhammesu visuddhimāhu;",
+        "analyzed": "na aññesu dhammesu visuddhim āhu ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_mnd_12:102.3",
+        "original": "Evampi titthyā puthuso niviṭṭhā,",
+        "analyzed": "evam pi titthyā puthusas niviṭṭhā ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_mnd_12:102.4",
+        "original": "Sakāyane tattha daḷhaṁ vadānā”ti.",
+        "analyzed": "sa kāyane daḷham vadānā iti ",
+        "folio": "102"
+    },
+    {
+        "segmentnr": "PA_mnd_12:103.1",
+        "original": "Sakāyane vāpi daḷhaṁ vadāno,",
+        "analyzed": "sa kāyane vā api daḷham vadānaḥ ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_mnd_12:103.2",
+        "original": "Kamettha bāloti paraṁ daheyya;",
+        "analyzed": "kam ettha bāla iti param daheyya ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_mnd_12:103.3",
+        "original": "Sayaṁva so medhagamāvaheyya,",
+        "analyzed": "sa yava saḥ medha gam āvaheyya ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_mnd_12:103.4",
+        "original": "Paraṁ vadaṁ bālamasuddhidhammaṁ.",
+        "analyzed": "param vadam bālam asuddhi dhamma ",
+        "folio": "103"
+    },
+    {
+        "segmentnr": "PA_mnd_12:104.1",
+        "original": "Sakāyane vāpi daḷhaṁ vadānoti.",
+        "analyzed": "sa kāyane vā api daḷham vadānā uti ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_mnd_12:104.2",
+        "original": "Dhammo sakāyanaṁ, diṭṭhi sakāyanaṁ, paṭipadā sakāyanaṁ, maggo sakāyanaṁ, sakāyane daḷhavādo thiravādo balikavādo avaṭṭhitavādoti—",
+        "analyzed": "dhammo sakāyana diṭṭhi sakāyana paṭipadā sakāyana maggo sakāyana sakāyane daḷha vādo thira vādaḥ balika vādaḥ avaṭṭhita vādaḥ iti ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_mnd_12:104.3",
+        "original": "sakāyane vāpi daḷhaṁ vadāno.",
+        "analyzed": "sa kāyane vā api daḷham vadānaḥ ",
+        "folio": "104"
+    },
+    {
+        "segmentnr": "PA_mnd_12:105.1",
+        "original": "Kamettha bāloti paraṁ daheyyāti.",
+        "analyzed": "kam ettha bāla iti param daheyya iti ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_mnd_12:105.2_0",
+        "original": "Etthāti sakāya diṭṭhiyā sakāya khantiyā sakāya ruciyā sakāya laddhiyā paraṁ bālato",
+        "analyzed": "ettha ati sakāya diṭṭhiyā sakāya khantiyā sakāya ruciyā sakāya laddhiyā param bālataḥ ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_mnd_12:105.2_1",
+        "original": "hīnato nihīnato omakato lāmakato chatukkato parittato kaṁ daheyya kaṁ passeyya kaṁ",
+        "analyzed": "hīnataḥ nihīnataḥ omakataḥ lāmakataḥ chatukkataḥ parittataḥ kam daheyya kam passeyya ka ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_mnd_12:105.2_2",
+        "original": "dakkheyya kaṁ olokeyya kaṁ nijjhāyeyya kaṁ upaparikkheyyāti—",
+        "analyzed": "dakkheyya kam olokeyya kam nijjhāyeyya kam upaparikkheyya ati ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_mnd_12:105.3",
+        "original": "kamettha bāloti paraṁ daheyya.",
+        "analyzed": "kam ettha bāla iti param daheyya ",
+        "folio": "105"
+    },
+    {
+        "segmentnr": "PA_mnd_12:106.1",
+        "original": "Sayaṁva so medhagamāvaheyya, paraṁ vadaṁ bālamasuddhidhammanti.",
+        "analyzed": "sa yava saḥ medha gam āvaheyya param vadam bālam a suddhi dhammanti ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_mnd_12:106.2",
+        "original": "Paro bālo hīno nihīno omako lāmako chatukko paritto asuddhidhammo avisuddhidhammo aparisuddhidhammo avodātadhammoti—",
+        "analyzed": "paraḥ bālaḥ hīnaḥ nihīnaḥ omakaḥ lāmakaḥ chatukkaḥ parittaḥ a suddhi dhammo a visuddhi dhammo a parisuddhi dhammo a vodāta dhammo ti ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_mnd_12:106.3_0",
+        "original": "evaṁ vadanto evaṁ kathento evaṁ bhaṇanto evaṁ dīpayanto evaṁ voharanto sayameva kalahaṁ",
+        "analyzed": "evam vadantaḥ evam kathentaḥ evam bhaṇantaḥ evam dīpayantaḥ evam voharantaḥ sayam eva kalaha ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_mnd_12:106.3_1",
+        "original": "bhaṇḍanaṁ viggahaṁ vivādaṁ medhagaṁ āvaheyya samāvaheyya āhareyya samāhareyya ākaḍḍheyya",
+        "analyzed": "bhaṇḍanam viggaham vivādam medha gam āvaheyya samāvaheyya āhareyya samāhareyya ākaḍḍheyya ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_mnd_12:106.3_2",
+        "original": "samākaḍḍheyya gaṇheyya parāmaseyya abhiniviseyyāti—",
+        "analyzed": "samākaḍḍheyya gaṇheyya parāmaseyya abhiniviseyya ati ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_mnd_12:106.4",
+        "original": "sayaṁva so medhagamāvaheyya paraṁ vadaṁ bālamasuddhidhammaṁ.",
+        "analyzed": "sa yava saḥ medha gam āvaheyya param vadam bālam a suddhi dhamma ",
+        "folio": "106"
+    },
+    {
+        "segmentnr": "PA_mnd_12:107.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "107"
+    },
+    {
+        "segmentnr": "PA_mnd_12:108.1",
+        "original": "“Sakāyane vāpi daḷhaṁ vadāno,",
+        "analyzed": "sa kāyane vā api daḷham vadānaḥ ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_mnd_12:108.2",
+        "original": "Kamettha bāloti paraṁ daheyya;",
+        "analyzed": "kam ettha bāla iti param daheyya ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_mnd_12:108.3",
+        "original": "Sayaṁva so medhagamāvaheyya,",
+        "analyzed": "sa yava saḥ medha gam āvaheyya ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_mnd_12:108.4",
+        "original": "Paraṁ vadaṁ bālamasuddhidhamman”ti.",
+        "analyzed": "param ",
+        "folio": "108"
+    },
+    {
+        "segmentnr": "PA_mnd_12:109.1",
+        "original": "Vinicchaye ṭhatvā sayaṁ pamāya,",
+        "analyzed": "vinicchaye sayam pamāya ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_mnd_12:109.2",
+        "original": "Uddhaṁsa lokasmiṁ vivādameti;",
+        "analyzed": "uddhasa lokasmin vivādam eti ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_mnd_12:109.3",
+        "original": "Hitvāna sabbāni vinicchayāni,",
+        "analyzed": "hitvāna sabbāni vinicchayāni ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_mnd_12:109.4",
+        "original": "Na medhagaṁ kubbati jantu loke.",
+        "analyzed": "na medha gam kubbati jantu loke ",
+        "folio": "109"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.1",
+        "original": "Vinicchaye ṭhatvā sayaṁ pamāyāti.",
+        "analyzed": "vinicchaye sayam ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.2",
+        "original": "Vinicchayā vuccanti dvāsaṭṭhi diṭṭhigatāni.",
+        "analyzed": "vinicchayāḥ vuccanti dvāsaṭṭhi diṭṭhigatāni ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.3",
+        "original": "Vinicchayadiṭṭhiyā ṭhatvā patiṭṭhahitvā gaṇhitvā parāmasitvā abhinivisitvāti vinicchaye ṭhatvā.",
+        "analyzed": "vinicchaya diṭṭhiyā ṭhatvā patiṭṭhahitvā gaṇhitvā parāmasitvā abhinivisitvā ati vinicchaye ṭhatvā ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.4",
+        "original": "Sayaṁ pamāyāti sayaṁ pamāya paminitvā.",
+        "analyzed": "sayam pamāya ati sayam pamāya paminitvā ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.5",
+        "original": "“Ayaṁ satthā sabbaññū”ti sayaṁ pamāya paminitvā,",
+        "analyzed": "ayam satthā sabbaññū ti sayam pamāya paminitvā ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.6",
+        "original": "“ayaṁ dhammo svākkhāto …",
+        "analyzed": "ayam dhammo su ākkhāto ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.7",
+        "original": "ayaṁ gaṇo suppaṭipanno …",
+        "analyzed": "ayam gaṇaḥ suppaṭipannaḥ ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.8",
+        "original": "ayaṁ diṭṭhi bhaddikā …",
+        "analyzed": "ayam bhaddikā ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.9",
+        "original": "ayaṁ paṭipadā supaññattā …",
+        "analyzed": "ayam paṭipadā su paññattā ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.10",
+        "original": "ayaṁ maggo niyyāniko”ti sayaṁ pamāya paminitvāti—",
+        "analyzed": "ayam maggaḥ niyyānikaḥ ti sayam pamāya paminitvā ati ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:110.11",
+        "original": "vinicchaye ṭhatvā sayaṁ pamāya.",
+        "analyzed": "vinicchaye sayam pamāya ",
+        "folio": "110"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.1",
+        "original": "Uddhaṁsa lokasmiṁ vivādametīti.",
+        "analyzed": "uddhasa lokasmin vivādam eti iti ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.2",
+        "original": "Uddhaṁso vuccati anāgataṁ.",
+        "analyzed": "uddhasaḥ vuccati anāgata ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.3",
+        "original": "Attano vādaṁ uddhaṁ ṭhapetvā sayameva kalahaṁ bhaṇḍanaṁ viggahaṁ vivādaṁ medhagaṁ eti upeti upagacchati gaṇhāti parāmasati abhinivisatīti.",
+        "analyzed": "attanaḥ vādam uddham ṭhapetvā sayam eva kalaham bhaṇḍanam viggaham vivādam medha gam eti upeti upagacchati gaṇhāti parāmasati abhinivisati iti ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.4",
+        "original": "Evampi uddhaṁsa lokasmiṁ vivādameti.",
+        "analyzed": "evam pi uddhasa lokasmin vivādam eti ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.5",
+        "original": "Atha vā aññena uddhaṁ vādena saddhiṁ kalahaṁ karoti bhaṇḍanaṁ karoti viggahaṁ karoti vivādaṁ karoti medhagaṁ karoti—",
+        "analyzed": "atha vā aññena uddham vādena saddhim kalaham karoti bhaṇḍanam karoti viggaham karoti vivādam karoti medha gam karoti ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.6",
+        "original": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…",
+        "analyzed": "na tvam imam dhamma vinayam ājānāsi pe ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.7",
+        "original": "nibbeṭhehi vā sace pahosī”ti.",
+        "analyzed": "nibbeṭhehi vā sace pahosi iti ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:111.8",
+        "original": "Evampi uddhaṁsa lokasmiṁ vivādameti.",
+        "analyzed": "evam pi uddhasa lokasmin vivādam eti ",
+        "folio": "111"
+    },
+    {
+        "segmentnr": "PA_mnd_12:112.1",
+        "original": "Hitvāna sabbāni vinicchayānīti.",
+        "analyzed": "hitvāna sabbāni vinicchayāni iti ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_mnd_12:112.2",
+        "original": "Vinicchayā vuccanti dvāsaṭṭhi diṭṭhigatāni.",
+        "analyzed": "vinicchayāḥ vuccanti dvāsaṭṭhi diṭṭhigatāni ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_mnd_12:112.3",
+        "original": "Diṭṭhivinicchayā sabbe vinicchaye hitvā cajitvā pariccajitvā jahitvā pajahitvā vinodetvā byantiṁ karitvā anabhāvaṁ gametvāti—",
+        "analyzed": "diṭṭhi vinicchayā sabbe vinicchaye hitvā cajitvā pariccajitvā jahitvā pajahitvā vinodetvā byantim karitvā anabhāvam gametvā ati ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_mnd_12:112.4",
+        "original": "hitvāna sabbāni vinicchayāni.",
+        "analyzed": "hitvāna sabbāni vinicchayāni ",
+        "folio": "112"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.1",
+        "original": "Na medhagaṁ kubbati jantu loketi.",
+        "analyzed": "na medha gam kubbati jantu loka iti ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.2",
+        "original": "Na kalahaṁ karoti, na bhaṇḍanaṁ karoti, na viggahaṁ karoti, na vivādaṁ karoti, na medhagaṁ karoti.",
+        "analyzed": "na kalaham karoti na bhaṇḍanam karoti na viggaham karoti na vivādam karoti na medha gam karoti ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.3",
+        "original": "Vuttañhetaṁ bhagavatā—",
+        "analyzed": "vuttam ha etam bhagavatā ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.4",
+        "original": "“evaṁ vimuttacitto kho, aggivessana, bhikkhu na kenaci saṁvadati, na kenaci vivadati, yañca loke vuttaṁ tena ca voharati aparāmasan”ti.",
+        "analyzed": "evam vimutta cittaḥ kho aggivessana bhikkhu na kenacid savadati na kenacid vivadati yat ca loke vuttam tena ca voharati a parāmasanti ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.5",
+        "original": "Jantūti satto naro mānavo poso puggalo jīvo jāgu jantu indagu manujo.",
+        "analyzed": "sattaḥ naraḥ mānavaḥ posaḥ puggalaḥ jīvaḥ jāgu jantu indagu manujaḥ ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.6",
+        "original": "Loketi apāyaloke …pe… āyatanaloketi—",
+        "analyzed": "loka iti apāya loke pe āyatana loka iti ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:113.7",
+        "original": "na medhagaṁ kubbati jantu loketi.",
+        "analyzed": "na medha gam kubbati jantu loka iti ",
+        "folio": "113"
+    },
+    {
+        "segmentnr": "PA_mnd_12:114.1",
+        "original": "Tenāha bhagavā—",
+        "analyzed": "tena āha bhagavān ",
+        "folio": "114"
+    },
+    {
+        "segmentnr": "PA_mnd_12:115.1",
+        "original": "“Vinicchaye ṭhatvā sayaṁ pamāya,",
+        "analyzed": "vinicchaye sayam pamāya ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_mnd_12:115.2",
+        "original": "Uddhaṁsa lokasmiṁ vivādameti;",
+        "analyzed": "uddhasa lokasmin vivādam eti ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_mnd_12:115.3",
+        "original": "Hitvāna sabbāni vinicchayāni,",
+        "analyzed": "hitvāna sabbāni vinicchayāni ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_mnd_12:115.4",
+        "original": "Na medhagaṁ kubbati jantu loke”ti.",
+        "analyzed": "na medha gam kubbati jantu loka iti ",
+        "folio": "115"
+    },
+    {
+        "segmentnr": "PA_mnd_12:116.1",
+        "original": "Cūḷabyūhasuttaniddeso dvādasamo.",
+        "analyzed": "cūḷabyūha sutta niddesaḥ dvādasamaḥ ",
+        "folio": "116"
+    }
+]

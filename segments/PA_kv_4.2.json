@@ -1,0 +1,488 @@
+[
+    {
+        "segmentnr": "PA_kv_4.2:0.1",
+        "original": "Kathāvatthu",
+        "analyzed": "kathāvatthu ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:0.2",
+        "original": "Mahāpaṇṇāsaka",
+        "analyzed": "mahāpaṇṇāsaka ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:0.3",
+        "original": "Catutthavagga",
+        "analyzed": "catuttha vagga ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:0.4",
+        "original": "Upapattikathā",
+        "analyzed": "upapatti kathā ",
+        "folio": "0"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:1.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:1.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:1.3",
+        "original": "Saha upapattiyā sotāpanno hotīti?",
+        "analyzed": "saha upapattiyā sa utāpannaḥ hoti iti ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:1.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "1"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:2.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:2.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:2.3",
+        "original": "Saha upapattiyā sakadāgāmī hotīti?",
+        "analyzed": "saha upapattiyā sakadāgāmī hoti iti ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:2.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "2"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:3.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:3.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:3.3",
+        "original": "Saha upapattiyā anāgāmī hotīti?",
+        "analyzed": "saha upapattiyāḥ anāgāmī hoti iti ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:3.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "3"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:4.1",
+        "original": "Saha upapattiyā sotāpanno na hotīti?",
+        "analyzed": "saha upapattiyā sa utāpannaḥ na hoti iti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:4.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:4.3",
+        "original": "Hañci saha upapattiyā sotāpanno na hoti, no ca vata re vattabbe—",
+        "analyzed": "hañci saha upapattiyā sotāpannaḥ na hoti no ca vata re vattabbe ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:4.4",
+        "original": "“saha upapattiyā arahā”ti.",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "4"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:5.1",
+        "original": "Saha upapattiyā sakadāgāmī na hotīti?",
+        "analyzed": "saha upapattiyā sakadāgāmī na hoti iti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:5.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:5.3",
+        "original": "Hañci saha upapattiyā sakadāgāmī na hoti, no ca vata re vattabbe—",
+        "analyzed": "hañci saha upapattiyā sakadāgāmī na hoti no ca vata re vattabbe ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:5.4",
+        "original": "“saha upapattiyā arahā”ti.",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "5"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:6.1",
+        "original": "Saha upapattiyā anāgāmī na hotīti?",
+        "analyzed": "saha upapattiyāḥ anāgāmī na hoti iti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:6.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:6.3",
+        "original": "Hañci saha upapattiyā anāgāmī na hoti, no ca vata re vattabbe—",
+        "analyzed": "hañci saha upapattiyā anāgāmī na hoti no ca vata re vattabbe ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:6.4",
+        "original": "“saha upapattiyā arahā”ti.",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "6"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.3",
+        "original": "Sāriputto thero saha upapattiyā arahāti?",
+        "analyzed": "sāriputto thero saha upapattiyā arahāti ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.4",
+        "original": "Na hevaṁ vattabbe.",
+        "analyzed": "na ha ivam vattabbe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.5",
+        "original": "Mahāmoggallāno thero …pe…",
+        "analyzed": "mahāmoggallāno thero pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.6",
+        "original": "mahākassapo thero …pe…",
+        "analyzed": "mahākassapaḥ theraḥ pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.7",
+        "original": "mahākaccāno thero …pe…",
+        "analyzed": "mahākaccāno thero pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.8",
+        "original": "mahākoṭṭhiko thero …pe…",
+        "analyzed": "mahākoṭṭhikaḥ theraḥ pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.9",
+        "original": "mahāpanthako thero saha upapattiyā arahāti?",
+        "analyzed": "mahāpanthakaḥ theraḥ saha upapattiyāḥ ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:7.10",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "7"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:8.1",
+        "original": "Sāriputto thero na saha upapattiyā arahāti?",
+        "analyzed": "sāriputto theraḥ na saha upapattiyā arahāti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:8.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:8.3",
+        "original": "Hañci sāriputto thero na saha upapattiyā arahā, no ca vata re vattabbe—",
+        "analyzed": "hañci sāriputto thero na saha upapattiyā arahā no ca vata re vattabbe ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:8.4",
+        "original": "“saha upapattiyā arahā”ti.",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "8"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.1",
+        "original": "Mahāmoggallāno thero …pe…",
+        "analyzed": "mahāmoggallāno thero pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.2",
+        "original": "mahākassapo thero …pe…",
+        "analyzed": "mahākassapaḥ theraḥ pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.3",
+        "original": "mahākaccāno thero …pe…",
+        "analyzed": "mahākaccāno thero pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.4",
+        "original": "mahākoṭṭhiko thero …pe…",
+        "analyzed": "mahākoṭṭhikaḥ theraḥ pe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.5",
+        "original": "mahāpanthako thero na saha upapattiyā arahāti?",
+        "analyzed": "mahā panthakaḥ theraḥ na saha upapattiyāḥ ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.7",
+        "original": "Hañci mahāpanthako thero na saha upapattiyā arahā, no ca vata re vattabbe—",
+        "analyzed": "hañci mahāpanthakaḥ theraḥ na saha upapattiyā arahā no ca vata re vattabbe ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:9.8",
+        "original": "“saha upapattiyā arahā”ti.",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "9"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:10.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:10.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:10.3",
+        "original": "Upapattesiyena cittena arahattaṁ sacchikaroti lokiyena sāsavena …pe… saṅkilesiyenāti?",
+        "analyzed": "upapattesiyena cittena arahattam sacchikaroti lokiyena sa āsavena pe saṅkilesiyena ati ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:10.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "10"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:11.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:11.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:11.3",
+        "original": "Upapattesiyaṁ cittaṁ niyyānikaṁ khayagāmī bodhagāmī apacayagāmī anāsavaṁ …pe…",
+        "analyzed": "cittam niyyānikam khaya gāmī bodha gāmī apacaya gāmī anāsavam pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:11.4",
+        "original": "asaṅkilesiyanti?",
+        "analyzed": "a saṅkilesiyanti ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:11.5",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "11"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:12.1",
+        "original": "Nanu upapattesiyaṁ cittaṁ aniyyānikaṁ na khayagāmi na bodhagāmi na apacayagāmi sāsavaṁ …pe…",
+        "analyzed": "nanu upapattesiyam cittam aniyyānikam na khaya gāmi na bodha gāmi na apacaya gāmi sa āsavam pe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:12.2",
+        "original": "saṅkilesiyanti?",
+        "analyzed": "saṅkilesiyanti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:12.3",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:12.4",
+        "original": "Hañci upapattesiyaṁ cittaṁ aniyyānikaṁ na khayagāmi na bodhagāmi na apacayagāmi sāsavaṁ …pe… saṅkilesiyaṁ, no ca vata re vattabbe—",
+        "analyzed": "hañci upapattesiyam cittam aniyyānikam na khaya gāmi na bodha gāmi na apacaya gāmi sa āsavam pe saṅkilesiya no ca vata re vattabbe ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:12.5",
+        "original": "“saha upapattiyā arahā”ti.",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "12"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:13.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:13.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:13.3",
+        "original": "Upapattesiyena cittena rāgaṁ pajahati, dosaṁ pajahati, mohaṁ pajahati, anottappaṁ pajahatīti?",
+        "analyzed": "upapattesiyena cittena rāgam pajahati dosam pajahati moham pajahati anottappam pajahati iti ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:13.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "13"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:14.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:14.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:14.3",
+        "original": "Upapattesiyaṁ cittaṁ maggo … satipaṭṭhānaṁ …pe… sammappadhānaṁ … iddhipādo … indriyaṁ … balaṁ … bojjhaṅgoti?",
+        "analyzed": "cittam maggaḥ satipaṭṭhānam pe sammappadhānam iddhipādaḥ indriyam balam bojjhaṅgo ti ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:14.4",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "14"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.1",
+        "original": "Saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.2",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.3",
+        "original": "Upapattesiyena cittena dukkhaṁ parijānāti, samudayaṁ pajahati, nirodhaṁ sacchikaroti, maggaṁ bhāvetīti?",
+        "analyzed": "upapattesiyena cittena dukkham parijānāti samudayam pajahati nirodham sacchikaroti maggam bhāveti iti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.4",
+        "original": "Na hevaṁ vattabbe …pe…",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.5",
+        "original": "saha upapattiyā arahāti?",
+        "analyzed": "saha upapattiyāḥ arahāti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.6",
+        "original": "Āmantā.",
+        "analyzed": "āmantā ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.7",
+        "original": "Cuticittaṁ maggacittaṁ upapattesiyaṁ cittaṁ phalacittanti?",
+        "analyzed": "cuti cittam magga cittam upapattesiyam cittam phala cittanti ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.8",
+        "original": "Na hevaṁ vattabbe …pe….",
+        "analyzed": "na ha ivam vattabbe pe ",
+        "folio": "15"
+    },
+    {
+        "segmentnr": "PA_kv_4.2:15.9",
+        "original": "Upapattikathā niṭṭhitā.",
+        "analyzed": "upapatti kathā niṭṭhitā ",
+        "folio": "15"
+    }
+]

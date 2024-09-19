@@ -1,86 +1,338 @@
-{
-    "dn": "Dīghanikāya",
-    "mn": "Majjhimanikāya",
-    "sn": "Saṁyuttanikāya",
-    "an": "Aṅguttaranikāya",
-    "kp": "Khuddakapāṭha",
-    "dhp": "Dhammapada",
-    "ud": "Udāna",
-    "iti": "Itivuttaka",
-    "snp": "Suttanipāta",
-    "vv": "Vimānavatthu",
-    "pv": "Petavatthu",
-    "thag": "Theragāthā",
-    "thig": "Therīgāthā",
-    "tha-ap": "Therāpadāna",
-    "thi-ap": "Therīapadāna",
-    "bv": "Buddhavaṁsa",
-    "cp": "Cariyāpiṭaka",
-    "ja": "Jātaka",
-    "mnd": "Mahāniddesa",
-    "cnd": "Cūḷaniddesa",
-    "ps": "Paṭisambhidāmagga",
-    "ne": "Netti",
-    "pe": "Peṭakopadesa",
-    "mil": "Milindapañha",
-    "pm": "Pātimokkha",
-    "bu-vb": "Bhikkhu Vibhaṅga",
-    "bi-vb": "Bhikkhunī Vibhaṅga",
-    "kd": "Khandhaka",
-    "pvr": "Parivāra",
-    "ds": "Dhammasaṅgaṇī",
-    "vb": "Vibhaṅga",
-    "dt": "Dhātukathā",
-    "pp": "Puggalapaññatti",
-    "kv": "Kathāvatthu",
-    "ya": "Yamaka",
-    "patthana": "Patthana",
-    "atk-s01": "Aṭṭhakathā Dīghanikāya",
-    "atk-s02": "Aṭṭhakathā Majjhimanikāya",
-    "atk-s03": "Aṭṭhakathā Saṁyuttanikāya",
-    "atk-s04": "Aṭṭhakathā Aṅguttaranikāya",
-    "atk-s05": "Aṭṭhakathā Khuddakanikāya",
-    "atk-vin01": "Aṭṭhakathā Vinayapiṭake (Paṭhamo bhāgo)",
-    "atk-vin02": "Aṭṭhakathā Vinayapiṭake (Dutiyo bhāgo)",
-    "atk-abh01": "Aṭṭhasālinī-aṭṭhakathā",
-    "atk-abh02": "Sammohavinodanī-aṭṭhakathā",
-    "atk-abh03": "Pañcapakaraṇa-aṭṭhakathā",
-    "tika-s01": "Tīkā Dīghanikāya",
-    "tika-s02": "Tīkā Majjhimanikāya",
-    "tika-s03": "Tīkā Saṁyuttanikāya",
-    "tika-s04": "Tīkā Aṅguttaranikāya",
-    "tika-s05": "Tikā Khuddakanikāya",
-    "tika-vin01": "Tikā Sāratthadīpanī part 1",
-    "tika-vin02": "Tikā Sāratthadīpanī part 2",
-    "tika-vin04": "Tikā Dvemātikāpāḷi",
-    "tika-vin05": "Tikā Vinayasaṅgaha-aṭṭhakathā",
-    "tika-vin06": "Tikā Vajirabuddhi",
-    "tika-vin07": "Tikā Vimativinodanī",
-    "tika-vin08": "Tikā Vinayālaṅkāra",
-    "tika-vin09": "Tikā Kaṅkhāvitaraṇīpurāṇa",
-    "tika-vin10": "Tikā Vinayavinicchaya-uttaravinicchaya",
-    "tika-vin11": "Tikā Vinayavinicchaya",
-    "tika-vin12": "Tikā Pācityādiyojanāpāḷi",
-    "tika-vin13": "Tikā Khuddasikkhā-mūlasikkhā",
-    "tika-abh01": "Tīkā Dhammasaṅgaṇī-mūlaṭīkā",
-    "tika-abh02": "Tīkā Vibhaṅga-mūlaṭīkā",
-    "tika-abh03": "Tīkā Pañcapakaraṇa-mūlaṭīkā",
-    "tika-abh04": "Tīkā Dhammasaṅgaṇī-anuṭīkā",
-    "tika-abh05": "Tīkā Pañcapakaraṇa-anuṭīkā",
-    "tika-abh06": "Tīkā Abhidhammāvatāro-nāmarūpaparicchedo",
-    "tika-abh07": "Tīkā Abhidhammatthasaṅgaho",
-    "tika-abh08": "Tīkā Abhidhammāvatāra-purāṇaṭīkā",
-    "tika-abh09": "Tīkā Abhidhammamātikāpāḷi",
-    "anya-e01": "Visuddhimagga",
-    "anya-e02": "Leḍī sayāḍo gantha-saṅgaho part 1",
-    "anya-e03": "Leḍī sayāḍo gantha-saṅgaho part 2",
-    "anya-e04": "Leḍī sayāḍo gantha-saṅgaho part 3",
-    "anya-e05": "Leḍī sayāḍo gantha-saṅgaho part 4",
-    "anya-e06": "Buddha-vandanā gantha-saṅgaho",
-    "anya-e07": "Vaṁsa-gantha-saṅgaho",
-    "anya-e08": "Byākaraṇa gantha-saṅgaho",
-    "anya-e09": "Saṅgāyana-puccha vissajjanā",
-    "anya-e10": "Nīti-gantha-saṅgaho",
-    "anya-e11": "Pakiṇṇaka-gantha-saṅgaho",
-    "anya-e12": "Sihaḷa-gantha-saṅgaho"
-}
+[
+  {
+    "category": "dn",
+    "displayName": "Dīghanikāya"
+  },
+  {
+    "category": "mn",
+    "displayName": "Majjhimanikāya"
+  },
+  {
+    "category": "sn",
+    "displayName": "Saṁyuttanikāya"
+  },
+  {
+    "category": "an",
+    "displayName": "Aṅguttaranikāya"
+  },
+  {
+    "category": "kp",
+    "displayName": "Khuddakapāṭha"
+  },
+  {
+    "category": "dhp",
+    "displayName": "Dhammapada"
+  },
+  {
+    "category": "ud",
+    "displayName": "Udāna"
+  },
+  {
+    "category": "iti",
+    "displayName": "Itivuttaka"
+  },
+  {
+    "category": "snp",
+    "displayName": "Suttanipāta"
+  },
+  {
+    "category": "vv",
+    "displayName": "Vimānavatthu"
+  },
+  {
+    "category": "pv",
+    "displayName": "Petavatthu"
+  },
+  {
+    "category": "thag",
+    "displayName": "Theragāthā"
+  },
+  {
+    "category": "thig",
+    "displayName": "Therīgāthā"
+  },
+  {
+    "category": "tha-ap",
+    "displayName": "Therāpadāna"
+  },
+  {
+    "category": "thi-ap",
+    "displayName": "Therīapadāna"
+  },
+  {
+    "category": "bv",
+    "displayName": "Buddhavaṁsa"
+  },
+  {
+    "category": "cp",
+    "displayName": "Cariyāpiṭaka"
+  },
+  {
+    "category": "ja",
+    "displayName": "Jātaka"
+  },
+  {
+    "category": "mnd",
+    "displayName": "Mahāniddesa"
+  },
+  {
+    "category": "cnd",
+    "displayName": "Cūḷaniddesa"
+  },
+  {
+    "category": "ps",
+    "displayName": "Paṭisambhidāmagga"
+  },
+  {
+    "category": "ne",
+    "displayName": "Netti"
+  },
+  {
+    "category": "pe",
+    "displayName": "Peṭakopadesa"
+  },
+  {
+    "category": "mil",
+    "displayName": "Milindapañha"
+  },
+  {
+    "category": "pm",
+    "displayName": "Pātimokkha"
+  },
+  {
+    "category": "bu-vb",
+    "displayName": "Bhikkhu Vibhaṅga"
+  },
+  {
+    "category": "bi-vb",
+    "displayName": "Bhikkhunī Vibhaṅga"
+  },
+  {
+    "category": "kd",
+    "displayName": "Khandhaka"
+  },
+  {
+    "category": "pvr",
+    "displayName": "Parivāra"
+  },
+  {
+    "category": "ds",
+    "displayName": "Dhammasaṅgaṇī"
+  },
+  {
+    "category": "vb",
+    "displayName": "Vibhaṅga"
+  },
+  {
+    "category": "dt",
+    "displayName": "Dhātukathā"
+  },
+  {
+    "category": "pp",
+    "displayName": "Puggalapaññatti"
+  },
+  {
+    "category": "kv",
+    "displayName": "Kathāvatthu"
+  },
+  {
+    "category": "ya",
+    "displayName": "Yamaka"
+  },
+  {
+    "category": "patthana",
+    "displayName": "Patthana"
+  },
+  {
+    "category": "atk-s01",
+    "displayName": "Aṭṭhakathā Dīghanikāya"
+  },
+  {
+    "category": "atk-s02",
+    "displayName": "Aṭṭhakathā Majjhimanikāya"
+  },
+  {
+    "category": "atk-s03",
+    "displayName": "Aṭṭhakathā Saṁyuttanikāya"
+  },
+  {
+    "category": "atk-s04",
+    "displayName": "Aṭṭhakathā Aṅguttaranikāya"
+  },
+  {
+    "category": "atk-s05",
+    "displayName": "Aṭṭhakathā Khuddakanikāya"
+  },
+  {
+    "category": "atk-vin01",
+    "displayName": "Aṭṭhakathā Vinayapiṭake (Paṭhamo bhāgo)"
+  },
+  {
+    "category": "atk-vin02",
+    "displayName": "Aṭṭhakathā Vinayapiṭake (Dutiyo bhāgo)"
+  },
+  {
+    "category": "atk-abh01",
+    "displayName": "Aṭṭhasālinī-aṭṭhakathā"
+  },
+  {
+    "category": "atk-abh02",
+    "displayName": "Sammohavinodanī-aṭṭhakathā"
+  },
+  {
+    "category": "atk-abh03",
+    "displayName": "Pañcapakaraṇa-aṭṭhakathā"
+  },
+  {
+    "category": "tika-s01",
+    "displayName": "Tīkā Dīghanikāya"
+  },
+  {
+    "category": "tika-s02",
+    "displayName": "Tīkā Majjhimanikāya"
+  },
+  {
+    "category": "tika-s03",
+    "displayName": "Tīkā Saṁyuttanikāya"
+  },
+  {
+    "category": "tika-s04",
+    "displayName": "Tīkā Aṅguttaranikāya"
+  },
+  {
+    "category": "tika-s05",
+    "displayName": "Tikā Khuddakanikāya"
+  },
+  {
+    "category": "tika-vin01",
+    "displayName": "Tikā Sāratthadīpanī part 1"
+  },
+  {
+    "category": "tika-vin02",
+    "displayName": "Tikā Sāratthadīpanī part 2"
+  },
+  {
+    "category": "tika-vin04",
+    "displayName": "Tikā Dvemātikāpāḷi"
+  },
+  {
+    "category": "tika-vin05",
+    "displayName": "Tikā Vinayasaṅgaha-aṭṭhakathā"
+  },
+  {
+    "category": "tika-vin06",
+    "displayName": "Tikā Vajirabuddhi"
+  },
+  {
+    "category": "tika-vin07",
+    "displayName": "Tikā Vimativinodanī"
+  },
+  {
+    "category": "tika-vin08",
+    "displayName": "Tikā Vinayālaṅkāra"
+  },
+  {
+    "category": "tika-vin09",
+    "displayName": "Tikā Kaṅkhāvitaraṇīpurāṇa"
+  },
+  {
+    "category": "tika-vin10",
+    "displayName": "Tikā Vinayavinicchaya-uttaravinicchaya"
+  },
+  {
+    "category": "tika-vin11",
+    "displayName": "Tikā Vinayavinicchaya"
+  },
+  {
+    "category": "tika-vin12",
+    "displayName": "Tikā Pācityādiyojanāpāḷi"
+  },
+  {
+    "category": "tika-vin13",
+    "displayName": "Tikā Khuddasikkhā-mūlasikkhā"
+  },
+  {
+    "category": "tika-abh01",
+    "displayName": "Tīkā Dhammasaṅgaṇī-mūlaṭīkā"
+  },
+  {
+    "category": "tika-abh02",
+    "displayName": "Tīkā Vibhaṅga-mūlaṭīkā"
+  },
+  {
+    "category": "tika-abh03",
+    "displayName": "Tīkā Pañcapakaraṇa-mūlaṭīkā"
+  },
+  {
+    "category": "tika-abh04",
+    "displayName": "Tīkā Dhammasaṅgaṇī-anuṭīkā"
+  },
+  {
+    "category": "tika-abh05",
+    "displayName": "Tīkā Pañcapakaraṇa-anuṭīkā"
+  },
+  {
+    "category": "tika-abh06",
+    "displayName": "Tīkā Abhidhammāvatāro-nāmarūpaparicchedo"
+  },
+  {
+    "category": "tika-abh07",
+    "displayName": "Tīkā Abhidhammatthasaṅgaho"
+  },
+  {
+    "category": "tika-abh08",
+    "displayName": "Tīkā Abhidhammāvatāra-purāṇaṭīkā"
+  },
+  {
+    "category": "tika-abh09",
+    "displayName": "Tīkā Abhidhammamātikāpāḷi"
+  },
+  {
+    "category": "anya-e01",
+    "displayName": "Visuddhimagga"
+  },
+  {
+    "category": "anya-e02",
+    "displayName": "Leḍī sayāḍo gantha-saṅgaho part 1"
+  },
+  {
+    "category": "anya-e03",
+    "displayName": "Leḍī sayāḍo gantha-saṅgaho part 2"
+  },
+  {
+    "category": "anya-e04",
+    "displayName": "Leḍī sayāḍo gantha-saṅgaho part 3"
+  },
+  {
+    "category": "anya-e05",
+    "displayName": "Leḍī sayāḍo gantha-saṅgaho part 4"
+  },
+  {
+    "category": "anya-e06",
+    "displayName": "Buddha-vandanā gantha-saṅgaho"
+  },
+  {
+    "category": "anya-e07",
+    "displayName": "Vaṁsa-gantha-saṅgaho"
+  },
+  {
+    "category": "anya-e08",
+    "displayName": "Byākaraṇa gantha-saṅgaho"
+  },
+  {
+    "category": "anya-e09",
+    "displayName": "Saṅgāyana-puccha vissajjanā"
+  },
+  {
+    "category": "anya-e10",
+    "displayName": "Nīti-gantha-saṅgaho"
+  },
+  {
+    "category": "anya-e11",
+    "displayName": "Pakiṇṇaka-gantha-saṅgaho"
+  },
+  {
+    "category": "anya-e12",
+    "displayName": "Sihaḷa-gantha-saṅgaho"
+  }
+]

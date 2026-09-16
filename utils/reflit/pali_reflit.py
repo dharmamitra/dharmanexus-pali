@@ -325,7 +325,7 @@ def sc_fetch(e):
     x = ix['extra'].get(uid, {})
     rec['suttaplex'] = {'uid': uid, 'acronym': x.get('acronym'), 'original_title': ix['name'].get(uid), 'translated_title': None,   # English titles are Sujato's; excluded
                         'blurb': ix['blurb'].get(uid), 'type': 'branch' if uid in ix['branches'] else 'leaf', 'volpages': x.get('volpage')}
-    rec['translations'] = [{'lang': lang, 'author': ix['authors'].get(au, au) if au != 'legacy' else 'legacy translation(s) on SuttaCentral', 'title': None}
+    rec['translations'] = [{'lang': lang, 'author': ix['authors'].get(au, au) if au != 'legacy' else 'other translation(s)', 'title': None}
                            for lang, au in sorted(ix['tr'].get(uid, ())) if au not in EXCLUDE_AUTHORS]
     return rec
 
@@ -419,10 +419,10 @@ def sc_par_block(uid, branch):
         return out
     if not branch or (len(kids) == 1 and kids[0] == uid):
         d = per.get(uid) or next(iter(per.values()))
-        if d.get('full'): out.append('- Full parallels (SC): ' + '; '.join(uid_label(v) for v in d['full'][:40]))
-        if d.get('segment'): out.append('- Passage-level parallels (SC): ' + '; '.join(uid_label(v) for v in d['segment'][:40]))
-        if d.get('resembling'): out.append('- Resembling parallels (SC): ' + '; '.join(uid_label(v) for v in d['resembling'][:40]))
-        if d.get('mentions'): out.append('- Mentioned in (SC): ' + '; '.join(uid_label(v) for v in d['mentions'][:20]))
+        if d.get('full'): out.append('- Full parallels: ' + '; '.join(uid_label(v) for v in d['full'][:40]))
+        if d.get('segment'): out.append('- Passage-level parallels: ' + '; '.join(uid_label(v) for v in d['segment'][:40]))
+        if d.get('resembling'): out.append('- Resembling parallels: ' + '; '.join(uid_label(v) for v in d['resembling'][:40]))
+        if d.get('mentions'): out.append('- Mentioned in: ' + '; '.join(uid_label(v) for v in d['mentions'][:20]))
         return out
     # branch: summarise over the constituent suttas
     coll = collections.Counter(); ex = []
@@ -431,27 +431,25 @@ def sc_par_block(uid, branch):
             lab = uid_label(v); coll['Pali' if is_pali(v) else {'SA': 'SĀ', 'MA': 'MĀ', 'DA': 'DĀ', 'EA': 'EĀ'}.get(lab.split(' ')[0], lab.split(' ')[0])] += 1
             if len(ex) < 60 and not is_pali(v):
                 ex.append(f"{uid_label(k)} ↔ {lab}")
-    out.append(f"- This file contains {len(kids)} suttas; {len(per)} of them have parallels listed on SuttaCentral. Full parallels by collection: " +
+    out.append(f"- This file contains {len(kids)} suttas; {len(per)} of them have known parallels. Full parallels by collection: " +
                ', '.join(f"{c} ({n})" for c, n in coll.most_common(12)))
     if ex:
-        out.append('- Examples of full non-Pali parallels (SC): ' + '; '.join(ex))
+        out.append('- Examples of full non-Pali parallels: ' + '; '.join(ex))
     return out
 
 def sc_block(rec):
     if not rec.get('suttaplex'):
-        return f"(no SuttaCentral record{': ' + rec['error'] if rec.get('error') else ''})\n"
+        return f"(no catalog record{': ' + rec['error'] if rec.get('error') else ''})\n"
     s = rec['suttaplex']; out = []
-    out.append(f"- SuttaCentral uid: {s['uid']}   acronym: {s.get('acronym') or '-'}   type: {s.get('type')}")
-    out.append(f"- Pali title (SC): {s.get('original_title')}")
-    if s.get('blurb'):
-        out.append(f"- SC blurb: {s['blurb'].strip()}")
+    out.append(f"- Catalog id: {s['uid']}   acronym: {s.get('acronym') or '-'}   type: {s.get('type')}")
+    out.append(f"- Pali title: {s.get('original_title')}")
     tr = rec.get('translations') or []
     if tr:
         by = collections.defaultdict(list)
         for t in tr:
             by[t['lang']].append(t['author'])
         en = ', '.join(a for a in dict.fromkeys(by.get('en', [])) if not a.startswith('legacy'))
-        out.append(f"- Translations listed on SC: {len(tr)} in {len(by)} languages" + (f"; English: {en}" if en else ''))
+        out.append(f"- Translations listed: {len(tr)} in {len(by)} languages" + (f"; English: {en}" if en else ''))
     out += sc_par_block(s['uid'], s.get('type') != 'leaf')
     return '\n'.join(out) + '\n'
 
@@ -574,8 +572,8 @@ def write_dossiers(q):
         with open(os.path.join(W, 'research', f'{tid}.md'), 'w') as out:
             out.write(f"# {tid} — research dossier\n\n")
             out.write(f"- Text: {e['displayName']}   ID: {e['textname']}\n- Section: {e['category_name']} ({e['category']})   Collection: {e['collection']}\n")
-            out.write(f"- SuttaCentral: {e['sc'] or '-'}   tipitaka.org: {e['link'] or '-'}\n\n")
-            out.write("## SuttaCentral record (reliable; cite as [SuttaCentral])\n\n" + sc_block(rec) + '\n')
+            out.write(f"- tipitaka.org: {e['link'] or '-'}\n\n")
+            out.write("## Catalog record: translations and parallels (reliable; cite as [Catalog])\n\n" + sc_block(rec) + '\n')
             e['_dn'] = dn_block(tid)
             out.write("## DharmaNexus computed parallels (local match data; cite as [DharmaNexus])\n\n" + e['_dn'] + '\n')
             out.write(f"## Passages found in the reference literature ({len(snips)} passages)\n\n")
@@ -589,13 +587,14 @@ overview of ONE text of the Pali Tipiṭaka / Pali literature ({category_name}),
 
 INPUT
 1. A catalog record (title, sutta number, PTS reference, section) — ground truth for the identity of the text.
-2. A SuttaCentral record (blurb, titles, list of translations, parallels in other languages) — reliable; cite it with
-   the tag [SuttaCentral].
+2. A catalog record (Pali title, list of translations, parallels in other languages, for collections a summary of the
+   parallels of the constituent suttas) — reliable; cite it with the tag [Catalog]. Never name the website or database it
+   comes from in the overview; treat it as catalog data.
 3. A DharmaNexus block: automatically computed text-reuse matches between this text and other texts in the DharmaNexus
    corpora (Pali-internal reuse, and cross-language alignments with Chinese, Sanskrit or Tibetan texts). These are
    machine results, not curated parallels: cite them with the tag [DharmaNexus], describe them as "shares passages with"
    / "is aligned by DharmaNexus with", give the segment ranges when useful, and do not present them as established
-   parallels unless SuttaCentral or a passage confirms the relation. Where SuttaCentral and DharmaNexus agree, say so.
+   parallels unless the catalog or a passage confirms the relation. Where the catalog and DharmaNexus agree, say so.
 4. Numbered passages [1], [2], ... found by keyword search (sutta numbers, PTS references, Pali titles) in a corpus of
    secondary literature and translations. Each passage is labelled with its source file, the matched string and a tier
    (A = sutta number / full title; B = short title or PTS page; C = generic name with a cue). Passages are noisy: they may
@@ -604,25 +603,25 @@ INPUT
    cite the text without saying anything about it.
 
 RULES
-- Use only information that the passages, the SuttaCentral record, the DharmaNexus block or the catalog record actually support. Do NOT add facts
+- Use only information that the passages, the catalog record or the DharmaNexus block actually support. Do NOT add facts
   from memory, even if you know them. Background knowledge may only be used for uncontroversial framing, never for
   specifics (dates, names, numbers of verses, editions).
 - Verify identity before using a passage: sutta numbers / PTS references must match the record; titles must fit; if a
   passage is about another text, reject it and say why in rejected_passages. A bare PTS page number can be a citation of a
   passage of this text or of an adjacent text — use it only if the context fits.
 - Every sentence with a substantive claim ends with one or more citation tags in square brackets, e.g. [Norman 1983] or
-  [SuttaCentral; Anālayo 2011]. Define every tag in "sources" (one entry per source FILE, plus one for SuttaCentral if
+  [Catalog; Anālayo 2011]. Define every tag in "sources" (one entry per source FILE, plus one for Catalog if
   used, with the passage numbers used). A tag is "Author Year" when the file name gives both, otherwise "Author, Short
   title" or "Short title". Do not cite passages you did not use.
 - Prefer facts of bibliographic value: what the text is and what it contains (structure, sections, main teaching, setting
   and interlocutors); its place in the collection; parallels in Chinese Āgamas, Sanskrit, Gāndhārī or Tibetan and extant
   fragments; the commentary (aṭṭhakathā) and later Pali literature that discusses it; questions of date, composition and
   transmission discussed by scholars; modern editions, translations and studies; how the text is used or cited (only if
-  the passages show it). Always include a short paragraph on parallels and text reuse, combining SuttaCentral's
-  curated parallels with the DharmaNexus matches (which sections of this text are shared with which texts).
+  the passages show it). Always include a short paragraph on parallels and text reuse, combining the
+  catalog parallels with the DharmaNexus matches (which sections of this text are shared with which texts).
 - If the passages only quote the text or mention it in passing, say exactly that (which sources cite it and in what
-  connection); the SuttaCentral blurb and parallels can still carry the overview. If nothing reliably concerns this text
-  and there is no SuttaCentral record, set identification_confidence to "none".
+  connection); the catalog parallels can still carry the overview. If nothing reliably concerns this text
+  and there is no catalog record, set identification_confidence to "none".
 - Write in clear scholarly English, markdown, 1–5 paragraphs, ideally 120–350 words, no headings. Use standard Pali
   diacritics (copy the catalog record's spellings).
 
@@ -633,13 +632,13 @@ OUTPUT: a single JSON object (no markdown fences) with exactly these fields:
   "english_title": string or null,
   "alternative_titles": [strings actually attested, may be empty],
   "overview_md": string,
-  "sources": [{{"tag": "Author Year", "file": "<exact source file label as given in the passage header, or SuttaCentral, or DharmaNexus>",
+  "sources": [{{"tag": "Author Year", "file": "<exact source file label as given in the passage header, or Catalog, or DharmaNexus>",
                "citation": "Author, Title (year) — as far as the file name allows", "passages": [ints],
                "contribution": "one short phrase"}}],
   "rejected_passages": [{{"passages": [ints], "reason": "short"}}]
 }}
 
-=== CATALOG RECORD, SUTTACENTRAL RECORD, DHARMANEXUS MATCHES AND PASSAGES ===
+=== CATALOG RECORDS, DHARMANEXUS MATCHES AND PASSAGES ===
 {dossier}
 """
 
@@ -726,13 +725,13 @@ def gemini(q, model, force=False, workers=12):
     print(f'gemini done {done}, errors {errs}, {time.time()-t0:.0f}s', flush=True)
 
 # ------------------------------------------------------------------ assemble
-NOTE = "*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*"
+NOTE = "*This overview was drafted by an AI model from the cited scholarship and catalog data and may contain errors; verify against the sources before relying on it.*"
 
 def parallels_block(e, sc):
     out = []
     s = sc.get('suttaplex') or {}
     if s.get('uid'):
-        out += [x.replace('(SC)', '(SuttaCentral)') for x in sc_par_block(s['uid'], s.get('type') != 'leaf')]
+        out += [x.replace(' (SC)', '') for x in sc_par_block(s['uid'], s.get('type') != 'leaf')]
     pr = pali_reuse(e['id'], top=8)
     if pr and pr['top']:
         out.append("- Text reuse within the Pali corpus (DharmaNexus): " + '; '.join(f"{t['name']} ({t['longest'][1]} ↔ {t['longest'][2]})" for t in pr['top']))
@@ -755,17 +754,16 @@ def assemble(q, outdir):
         if o and o.get('english_title') and o['english_title'].strip() != (s.get('translated_title') or '').strip():
             head += f"**Title (English, from literature):** {o['english_title']}\n"
         if e.get('pts'): head += f"**PTS:** {e['pts'][0]} {e['pts'][1]} {e['pts'][2]}\n"
-        if e.get('sc'): head += f"**SuttaCentral:** {e['sc']}\n"
         if e.get('link'): head += f"**tipitaka.org (CST):** {e['link']}\n"
-        body = "\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n"
+        body = "\n## AI-generated Overview (from reference literature)\n\n"
         conf = o.get('identification_confidence') if o else None
         pb = parallels_block(e, sc)
         srcs = [x for x in (o or {}).get('sources', []) if x.get('file')]
-        lit = [x for x in srcs if x['file'] not in ('SuttaCentral', 'DharmaNexus')]
+        lit = [x for x in srcs if x['file'] not in ('Catalog', 'SuttaCentral', 'DharmaNexus')]
         if o and conf != 'none' and o.get('overview_md', '').strip():
             body += NOTE + '\n\n' + o['overview_md'].strip() + '\n\n'
             if not lit:
-                body += "*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n"
+                body += "*No discussion of this text was found in the reference-literature corpus; the overview relies on catalog and DharmaNexus data.*\n\n"
             body += pb
             if srcs:
                 body += "**Sources**\n\n"

@@ -31,6 +31,7 @@ SKIP = {'cleaned_skt-en-mono.txt', 'english_sc_monolingual.txt'}
 SECRETS = os.path.expanduser('~/code/mitra-evaluation/.secrets.env')
 MATCHES = os.environ.get('DN_MATCHES', os.path.expanduser('~/data/dharmanexus-data/matches'))
 XLANG_MIN = int(os.environ.get('REFLIT_XLANG_MIN', '10'))   # min gemini_score for cross-language matches
+EXCLUDE_AUTHORS = {'sujato'}   # Bhikkhu Sujato's work (titles, translations, blurbs) is left out at his wish
 REUSE_MIN_CHARS = 300   # ignore Pali-internal reuse partners sharing less than this (header boilerplate)
 for d in ('research', 'overviews', 'metadata_preview', 'sc'):
     os.makedirs(os.path.join(W, d), exist_ok=True)
@@ -167,7 +168,7 @@ def scan_file(fn):
     return out
 
 def scan(q):
-    files = [f for f in sorted(os.listdir(LIT)) if f not in SKIP and os.path.isfile(os.path.join(LIT, f))]
+    files = [f for f in sorted(os.listdir(LIT)) if f not in SKIP and 'sujato' not in f.lower() and os.path.isfile(os.path.join(LIT, f))]   # Sujato's own books excluded too
     files.sort(key=lambda f: -os.path.getsize(os.path.join(LIT, f)))
     total = 0
     with Pool(96, initializer=init, initargs=(q,)) as pool, open(os.path.join(W, 'hits.jsonl'), 'w') as out:
@@ -322,10 +323,10 @@ def sc_fetch(e):
         rec['error'] = 'uid not in sc-data'
         return rec
     x = ix['extra'].get(uid, {})
-    rec['suttaplex'] = {'uid': uid, 'acronym': x.get('acronym'), 'original_title': ix['name'].get(uid), 'translated_title': ix['en'].get(uid),
+    rec['suttaplex'] = {'uid': uid, 'acronym': x.get('acronym'), 'original_title': ix['name'].get(uid), 'translated_title': None,   # English titles are Sujato's; excluded
                         'blurb': ix['blurb'].get(uid), 'type': 'branch' if uid in ix['branches'] else 'leaf', 'volpages': x.get('volpage')}
     rec['translations'] = [{'lang': lang, 'author': ix['authors'].get(au, au) if au != 'legacy' else 'legacy translation(s) on SuttaCentral', 'title': None}
-                           for lang, au in sorted(ix['tr'].get(uid, ()))]
+                           for lang, au in sorted(ix['tr'].get(uid, ())) if au not in EXCLUDE_AUTHORS]
     return rec
 
 def sc_prefetch(q, workers=8):
@@ -441,7 +442,7 @@ def sc_block(rec):
         return f"(no SuttaCentral record{': ' + rec['error'] if rec.get('error') else ''})\n"
     s = rec['suttaplex']; out = []
     out.append(f"- SuttaCentral uid: {s['uid']}   acronym: {s.get('acronym') or '-'}   type: {s.get('type')}")
-    out.append(f"- Pali title (SC): {s.get('original_title')}   English title (SC, Sujato): {(s.get('translated_title') or '').strip() or '-'}")
+    out.append(f"- Pali title (SC): {s.get('original_title')}")
     if s.get('blurb'):
         out.append(f"- SC blurb: {s['blurb'].strip()}")
     tr = rec.get('translations') or []
@@ -751,7 +752,6 @@ def assemble(q, outdir):
         head = f"# {e['displayName']} ({e['textname']})\n\n"
         head += f"**ID:** {e['textname']}\n**Section:** {e['category_name']} ({e['category']})\n**Collection:** {e['collection']}\n"
         head += f"**Title (Pali):** {e['displayName']}\n"
-        if s.get('translated_title'): head += f"**Title (English, SuttaCentral):** {s['translated_title'].strip()}\n"
         if o and o.get('english_title') and o['english_title'].strip() != (s.get('translated_title') or '').strip():
             head += f"**Title (English, from literature):** {o['english_title']}\n"
         if e.get('pts'): head += f"**PTS:** {e['pts'][0]} {e['pts'][1]} {e['pts'][2]}\n"

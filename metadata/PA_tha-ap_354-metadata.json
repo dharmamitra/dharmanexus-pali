@@ -1,0 +1,14 @@
+{
+  "displayName": "Yavakalāpiyattheraapadāna",
+  "textname": "Tha-Ap 354",
+  "category": "tha-ap",
+  "filenr": 1355,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_tha-ap_354",
+  "raw_metadata": "# Yavakalāpiyattheraapadāna (Tha-Ap 354)\n\n**ID:** Tha-Ap 354\n**Section:** Therāpadāna (tha-ap)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Yavakalāpiyattheraapadāna\n**SuttaCentral:** https://suttacentral.net/tha-ap354\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0510m1.mul35.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Yavakalāpiyattheraapadāna* (Tha-Ap 354) is a Pali verse text preserved within the Therāpadāna collection of the Sutta Piṭaka [SuttaCentral]. Following the standard genre of the Therāpadāna, the work presents the biographical and karmic narrative (*apadāna*) of the elder (*thera*) Yavakalāpiya [SuttaCentral]. SuttaCentral records five translations of the poem into five modern languages [SuttaCentral].\n\nIn terms of parallels and text reuse, no curated parallels are registered on SuttaCentral, and DharmaNexus finds no cross-language alignments with Chinese, Sanskrit, or Tibetan collections scoring 10 or higher [SuttaCentral; DharmaNexus]. Within Pali literature, DharmaNexus detects internal text reuse between the *Yavakalāpiyattheraapadāna* and another Therāpadāna text, the *Āluvadāyakattheraapadāna* (Tha-Ap 280) [DharmaNexus]. This connection consists of two shared passages totaling 309 characters, the longest of which links segments §4.1–6.1 of the *Yavakalāpiyattheraapadāna* with segments §3.1–5.1 of Tha-Ap 280 with a similarity score of 0.8 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Āluvadāyakattheraapadāna (Tha-Ap 280) (§4.1–6.1 ↔ §3.1–5.1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for tha-ap354 — Title, collection, and list of translations\n- [DharmaNexus] DharmaNexus text-reuse database — Automated internal text reuse with Tha-Ap 280 and lack of cross-language matches\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

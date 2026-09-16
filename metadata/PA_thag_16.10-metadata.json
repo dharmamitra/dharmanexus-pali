@@ -1,0 +1,15 @@
+{
+  "displayName": "Pārāpariyattheragāthā",
+  "textname": "Thag 16.10",
+  "category": "thag",
+  "filenr": 921,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_16.10",
+  "raw_metadata": "# Pārāpariyattheragāthā (Thag 16.10)\n\n**ID:** Thag 16.10\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Pārāpariyattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag16.10\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul15.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Pārāpariyattheragāthā* (Thag 16.10) is a verse text belonging to the *Theragāthā* in the *Khuddakanikāya* of the Pali Tipiṭaka [SuttaCentral]. It forms the tenth piece in the sixteenth chapter (*Soḷasakanipāta*) of the collection [SuttaCentral]. In secondary scholarship, Walpola Rahula mentions the *Pārāpariyattheragāthā* in passing when discussing how the Buddha refrained from laying down disciplinary rules until occasions specifically required them, drawing a comparison with the Buddha's explanation to Bhaddāli [Rahula 1978]. The text has received nine translations across eight languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nNo curated parallels in other early Buddhist collections are recorded by SuttaCentral [SuttaCentral]. Computerized analysis via DharmaNexus demonstrates widespread text reuse within Pali literature, detecting 20 shared segments (comprising over 5,300 characters) between the verses of Thag 16.10 and the *Theragāthā-aṭṭhakathā* (*Dutiyo bhāgo*), with the most extensive match covering segments 1.4–15.3 [DharmaNexus]. In cross-language matches, DharmaNexus detects low-plausibility automatic alignments (score 20) with passages in the Tibetan Kangyur translation of the *Ārya-caturdārakasamādhi-nāma-mahāyāna-sūtra* (D0136 / H0137) at segments 27.4–28.3, though these reflect shared phraseology rather than direct parallels [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§1.4–15.3 ↔ §4247–4287)\n- Cross-language matches (DharmaNexus): BO_K10_D0136_H0137 [bo]; འཕགས་པ་ཁྱེའུ་བཞིའི་ཏིང་ངེ་འཛིན་ཅེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། (ārya-caturdārakasamādhi-nāma-mahāyāna-sūtra) (D0136) [bo]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral (https://suttacentral.net/thag16.10) — Bibliographic details, section placement, and translation metadata\n- [Rahula 1978] Walpola Rahula, Zen and the Taming of the Bull (1978) — Brief citation regarding the promulgation of monastic disciplinary rules\n- [DharmaNexus] DharmaNexus database (matches for thag16.10) — Internal reuse matches with the Theragāthā-aṭṭhakathā and cross-language alignments with the Tibetan Kangyur\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "Zen and the Taming of the Bull_Walpola Rahula, 1978",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Nāgavimānavatthu",
+  "textname": "Vv 41",
+  "category": "vv",
+  "filenr": 569,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_vv_41",
+  "raw_metadata": "# Nāgavimānavatthu (Vv 41)\n\n**ID:** Vv 41\n**Section:** Vimānavatthu (vv)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Nāgavimānavatthu\n**Title (English, SuttaCentral):** Elephant Mansion\n**SuttaCentral:** https://suttacentral.net/vv41\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0506m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Nāgavimānavatthu* (Vv 41), translated as \"Elephant Mansion\", is a verse text included in the *Vimānavatthu* collection of the Pali canon [SuttaCentral]. It relates the story of a deity (*deva*) who, having offered a pair of robes to the Buddha in a previous life, reaped the karmic fruit of substantial celestial happiness [SuttaCentral]. SuttaCentral records five modern translations of the text in five languages [SuttaCentral].\n\nNo curated cross-language parallels are cataloged by SuttaCentral [SuttaCentral]. However, computational text-reuse analysis via DharmaNexus identifies 24 matching passages shared across three Pali texts [DharmaNexus]. Most prominently, the *Vimānavatthu-aṭṭhakathā* incorporates 18 matching segments (most substantially §3.4–6.4) [DharmaNexus]. The text also exhibits substantial internal formulaic overlap with other *Vimānavatthu* texts, sharing passages with *Paṭhamanāgavimānavatthu* (Vv 60, segments §1.3–3.4) and *Pallaṅkavimānavatthu* (Vv 31, segments §2.4–3.4) [DharmaNexus]. DharmaNexus also indicates minor cross-language alignments with the Sanskrit *Ajitasenavyākaraṇa* (best score 25, segments §0.4–2.1), although these represent machine-computed text reuse rather than confirmed canonical parallels [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Vimānavatthu-aṭṭhakathā (Atk S0506a) (§3.4–6.4 ↔ §1855–1865); Paṭhamanāgavimānavatthu (Vv 60) (§1.3–3.4 ↔ §1.3–3.4); Pallaṅkavimānavatthu (Vv 31) (§2.4–3.4 ↔ §2.3–2.6)\n- Cross-language matches (DharmaNexus): Ajitasenavyākaraṇa (SA_K14_ajitsvyu) [sa]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry vv41 — Title, English translation title, blurb summary, translation counts, parallel cataloging\n- [DharmaNexus] DharmaNexus computed text-reuse matches for vv41 — Internal Pali matches with Vimānavatthu-aṭṭhakathā, Vv 60, and Vv 31, as well as alignment with the Sanskrit Ajitasenavyākaraṇa\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

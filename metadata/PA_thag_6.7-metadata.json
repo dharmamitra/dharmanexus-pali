@@ -1,0 +1,14 @@
+{
+  "displayName": "Kātiyānattheragāthā",
+  "textname": "Thag 6.7",
+  "category": "thag",
+  "filenr": 880,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_6.7",
+  "raw_metadata": "# Kātiyānattheragāthā (Thag 6.7)\n\n**ID:** Thag 6.7\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Kātiyānattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag6.7\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul5.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Kātiyānattheragāthā* is a poetic text preserved within the *Theragāthā* (Thag 6.7), assigned to the six-verse collection of the early Buddhist verses of the elders [SuttaCentral]. On SuttaCentral, it is indexed with nine modern translations across eight languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nIn terms of textual reuse and parallels, computational analysis by DharmaNexus documents four matching passages shared with the Pali commentary, the *Theragāthā-aṭṭhakathā* (*Dutiyo bhāgo*), spanning segments §0.4–6.7 [DharmaNexus]. In cross-language comparisons, DharmaNexus aligns verses of the text with six passages in the Chinese *Saṃyuktāgama* (*Zá āhán jīng*, Taishō 99, scroll 50), notably matching segment §1.2 with T 99 at page 367c25 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§0.4–6.7 ↔ §1270–1287)\n- Cross-language matches (DharmaNexus): 雜阿含經 (ZH_T02_0099) [zh]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Thag 6.7 — Title, canonical classification, and modern translation records.\n- [DharmaNexus] DharmaNexus text-reuse matches for Thag 6.7 — Textual reuse data linking verses to the Theragāthā-aṭṭhakathā and the Chinese Saṃyuktāgama.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

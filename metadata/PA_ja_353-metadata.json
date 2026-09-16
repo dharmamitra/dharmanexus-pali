@@ -1,0 +1,14 @@
+{
+  "displayName": "Venasākhajātaka",
+  "textname": "Ja 353",
+  "category": "ja",
+  "filenr": 2021,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_353",
+  "raw_metadata": "# Venasākhajātaka (Ja 353)\n\n**ID:** Ja 353\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Venasākhajātaka\n**Title (English, SuttaCentral):** Beneath the Spreading Branches\n**SuttaCentral:** https://suttacentral.net/ja353\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul4.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Venasākhajātaka* (Ja 353) is a story included in the Jātaka collection of the Pali canon [SuttaCentral]. The narrative opens with the verse line \"‘Though thou art now’\" [SuttaCentral]. According to its framing narrative, the Buddha related the discourse while residing in the Bhesakaḷā grove near Suṁsumāragiri (Mount Crocodile) in the territory of the Bhaggas, with reference to the young prince Bodhi [SuttaCentral]. Modern translations of the text in four languages are cataloged on SuttaCentral [SuttaCentral].\n\nIn terms of textual parallels, SuttaCentral records a passage-level parallel to the *Cūḷanandiyajātaka* (Ja 222) and notes that the work is mentioned in the *Peṭakopadesa* (Pe 2, *Sāsanapaṭṭhānadutiyabhūmi*) [SuttaCentral]. DharmaNexus detects Pali-internal text reuse strictly within the commentary (*Jātaka-aṭṭhakathā*), identifying five matches with the third volume (segments §0.4–2.6) and five matches with the second volume (segments §2.1–2.6) [DharmaNexus]. No cross-language matches with Chinese, Sanskrit, or Tibetan corpora are identified by DharmaNexus [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Passage-level parallels (SuttaCentral): Ja 222 Cūḷanandiyajātaka\n- Mentioned in (SuttaCentral): Pe 2 Sāsanapaṭṭhānadutiyabhūmi\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§0.4–2.6 ↔ §1339–1344); Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§2.1–2.6 ↔ §1279–1281)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja353 (Venasākhajātaka) — Title, English translation title, frame story blurb, parallel with Ja 222, reference in Pe 2, and translation count\n- [DharmaNexus] DharmaNexus text-reuse database record for PA_ja_353 — Internal text-reuse alignments with Jātaka-aṭṭhakathā volumes and absence of cross-language matches\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

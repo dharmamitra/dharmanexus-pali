@@ -1,0 +1,14 @@
+{
+  "displayName": "Samuddapañha",
+  "textname": "Mil 3.7.12",
+  "category": "mil",
+  "filenr": 2415,
+  "collection": "Suttas-Late-2",
+  "filename": "PA_mil_3.7.12",
+  "raw_metadata": "# Samuddapañha (Mil 3.7.12)\n\n**ID:** Mil 3.7.12\n**Section:** Milindapañha (mil)\n**Collection:** Suttas-Late-2\n**Title (Pali):** Samuddapañha\n**Title (English, SuttaCentral):** The Question on the Ocean\n**SuttaCentral:** https://suttacentral.net/mil3.7.12\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0518m.nrf1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Samuddapañha* (\"The Question on the Ocean\") constitutes a textual unit within the *Milindapañha* (Mil 3.7.12), classified in the collection of late Pali texts [SuttaCentral]. SuttaCentral records three modern translations of the text in two languages, among which is an English translation prepared by John Kelly [SuttaCentral].\n\nRegarding parallels and text reuse, SuttaCentral identifies no curated parallel versions for this text in other canonical collections [SuttaCentral]. Machine-computed matches from DharmaNexus likewise record no cross-language alignments with Chinese, Sanskrit, or Tibetan corpora reaching a similarity score of 10 or greater [DharmaNexus]. Within Pali literature, DharmaNexus identifies internal text reuse with the grammatical treatise *Byākaraṇa gantha-saṅgaho Saddanītippakaraṇaṃ (Dhātumālā)*, showing two matching passages amounting to 322 shared characters, with the longest match connecting segments 1.1–1.5 of the *Samuddapañha* with segments 3170_3–3170_5 of the *Saddanītippakaraṇaṃ* [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Byākaraṇa gantha-saṅgaho Saddanītippakaraṇaṃ (Dhātumālā) (Anya E0804n) (§1.1–1.5 ↔ §3170_3–3170_5)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Mil 3.7.12 — Supplied the canonical identification, English title, and modern translation records\n- [DharmaNexus] DharmaNexus database alignment data — Supplied Pali-internal text reuse with the Saddanītippakaraṇaṃ and noted the lack of significant cross-language matches\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

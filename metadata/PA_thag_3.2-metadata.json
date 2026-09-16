@@ -1,0 +1,14 @@
+{
+  "displayName": "Paccayattheragāthā",
+  "textname": "Thag 3.2",
+  "category": "thag",
+  "filenr": 835,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_3.2",
+  "raw_metadata": "# Paccayattheragāthā (Thag 3.2)\n\n**ID:** Thag 3.2\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Paccayattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag3.2\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Paccayattheragāthā* (Thag 3.2) is a short poetic discourse included in the *Theragāthā* section of the Pali Canon [SuttaCentral]. The text has been translated into multiple modern languages, with nine translations across eight languages indexed on SuttaCentral, including an English rendering by Bhikkhu Sujato [SuttaCentral].\n\nNo external parallels in Chinese, Sanskrit, or Tibetan are cataloged by SuttaCentral or detected by DharmaNexus with a score of 10 or greater [SuttaCentral; DharmaNexus]. Automated text-reuse analysis by DharmaNexus identifies substantial Pali-internal matches with the commentary, the *Theragāthā-aṭṭhakathā* (*Paṭhamo bhāgo* and *Dutiyo bhāgo*), which quotes and comments on the verses [DharmaNexus]. In addition, DharmaNexus records internal poetic reuse with another poem in the *Theragāthā*, namely *Muditattheragāthā* (Thag 4.12), specifically aligning segments 2.1–3.5 of Thag 3.2 with segments 3.1–4.5 of Thag 4.12 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.4–3.5 ↔ §4676–4683); Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§2.1–3.4 ↔ §385–389); Muditattheragāthā (Thag 4.12) (§2.1–3.5 ↔ §3.1–4.5)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry thag3.2 — Basic bibliographic details, title, and listing of translations\n- [DharmaNexus] DharmaNexus text-reuse database — Pali-internal text reuse alignments with Theragāthā-aṭṭhakathā and Muditattheragāthā (Thag 4.12)\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

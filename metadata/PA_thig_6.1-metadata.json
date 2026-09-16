@@ -1,0 +1,14 @@
+{
+  "displayName": "Pañcasatamattātherīgāthā",
+  "textname": "Thig 6.1",
+  "category": "thig",
+  "filenr": 978,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thig_6.1",
+  "raw_metadata": "# Pañcasatamattātherīgāthā (Thig 6.1)\n\n**ID:** Thig 6.1\n**Section:** Therīgāthā (thig)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Pañcasatamattātherīgāthā\n**SuttaCentral:** https://suttacentral.net/thig6.1\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0509m.mul5.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Pañcasatamattātherīgāthā* (Thig 6.1) is a canonical Pali verse text located in the *Therīgāthā* collection of the Tipiṭaka [SuttaCentral]. Modern translations of the text include English versions by Bhikkhu Sujato and Ayya Soma, alongside translations into nine other languages indexed on SuttaCentral [SuttaCentral].\n\nNo cross-language matches in Chinese, Sanskrit, or Tibetan corpora meet the standard match threshold for this poem [DharmaNexus]. However, automated text-reuse analysis identifies significant Pali-internal textual parallels and reuse [DharmaNexus]. Notably, verses in segments §5.1–6.4 are aligned by DharmaNexus with the *Ubbiritherīgāthā* (Thig 3.5, segments §1.6–3.4) with very high similarity [DharmaNexus]. In addition, the text is heavily cited and shared within the Pali commentarial corpus, including seven matching passages in the *Therīgāthā-aṭṭhakathā* (the longest covering segments §0.3–4.4) and six matching passages in the *Petavatthu-aṭṭhakathā* (notably covering segments §5.1–6.1) [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Therīgāthā-aṭṭhakathā (Atk S0509a) (§0.3–4.4 ↔ §1834_6–1847); Petavatthu-aṭṭhakathā (Atk S0507a) (§5.1–6.1 ↔ §953–956); Ubbiritherīgāthā (Thig 3.5) (§5.1–6.4 ↔ §1.6–3.4)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral, Thig 6.1 record — basic metadata, canonical section, and modern translations\n- [DharmaNexus] DharmaNexus alignment database for Thig 6.1 — Pali-internal text-reuse alignments with Thig 3.5 and commentarial texts\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

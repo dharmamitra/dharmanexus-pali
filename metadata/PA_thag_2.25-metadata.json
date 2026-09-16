@@ -1,0 +1,14 @@
+{
+  "displayName": "Vītasokattheragāthā",
+  "textname": "Thag 2.25",
+  "category": "thag",
+  "filenr": 809,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_2.25",
+  "raw_metadata": "# Vītasokattheragāthā (Thag 2.25)\n\n**ID:** Thag 2.25\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Vītasokattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag2.25\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Vītasokattheragāthā* (Thag 2.25) is a short poetic text situated within the *Theragāthā* collection of the Pali canon [SuttaCentral]. On SuttaCentral, nine translations into eight modern languages are recorded for this discourse, including an English rendering by Bhikkhu Sujato [SuttaCentral].\n\nNo early canonical parallels in other languages or traditions are documented for the text on SuttaCentral [SuttaCentral]. Algorithmic text-reuse analysis via DharmaNexus similarly identifies no cross-language matches meeting its scoring threshold in Sanskrit, Chinese, or Tibetan corpora [DharmaNexus]. Within the Pali tradition, DharmaNexus identifies five matching passages shared with the *Theragāthā-aṭṭhakathā* (Paṭhamo bhāgo), with the primary overlap spanning segments 0.4–2.5 of the root text against commentary segments 3954–3960 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.4–2.5 ↔ §3954–3960)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry thag2.25 — Title, canonical classification, and modern translation records\n- [DharmaNexus] DharmaNexus text-reuse database (thag2.25) — Text-reuse alignments with the Theragāthā commentary and cross-language match assessments\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

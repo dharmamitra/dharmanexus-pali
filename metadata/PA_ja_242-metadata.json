@@ -1,0 +1,16 @@
+{
+  "displayName": "Sunakhajātaka",
+  "textname": "Ja 242",
+  "category": "ja",
+  "filenr": 1910,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_242",
+  "raw_metadata": "# Sunakhajātaka (Ja 242)\n\n**ID:** Ja 242\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sunakhajātaka\n**Title (English, SuttaCentral):** The Dog\n**SuttaCentral:** https://suttacentral.net/ja242\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sunakhajātaka* (Ja 242) is a short Pali birth story located in the Jātaka collection [Catalog; Fausböll 1879]. The canonical verse opens with the line *Bālo vatāyam sunakho ti* (\"Foolish dog\") [SuttaCentral; Fausböll 1879]. The framing commentary records that the Buddha delivered this teaching while residing at Jetavana about a dog that was sheltered and fed in the hall by the Ambala tower (*ambalakoṭṭhaka-āsanasālā*), where water-carriers had reared it from birth until it grew stout on donated food [SuttaCentral; Fausböll 1879].\n\nSuttaCentral registers four modern translations in four languages but lists no direct parallels in other Buddhist canonical corpora [SuttaCentral]. DharmaNexus detects no cross-language matches with a score of 10 or higher, confirming the absence of automated alignments with Sanskrit, Chinese, or Tibetan witnesses [DharmaNexus]. Internally within Pali literature, DharmaNexus identifies four matching segments (comprising 315 shared characters) between the canonical text and the prose commentary in the *Jātaka-aṭṭhakathā* (*Dutiyo bhāgo*), with the longest continuous correspondence spanning segments §0.4–1.4 and §1605_6–1608 at a similarity of 0.79 [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§0.4–1.4 ↔ §1605_6–1608)\n\n**Sources**\n\n- [Catalog] Catalog record for PA_ja_242 — Text identifier, classification, and canonical placement.\n- [SuttaCentral] SuttaCentral entry for ja242 (Sunakhajātaka) — English title, translation counts, framing blurb, and lack of external parallels.\n- [DharmaNexus] DharmaNexus text-reuse database — Alignment and segment metrics for Pali-internal text reuse with the Jātaka-aṭṭhakathā.\n- [Fausböll 1879] V. Fausböll, The Jātaka together with Its Commentary, Vol. II (London: Trübner & Co., 1879) — Pali incipit and introductory narrative details of the Jātaka.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "Catalog record",
+    "SuttaCentral record",
+    "DharmaNexus computed parallels",
+    "Jataka Together with Its Commentary 2_ V. Fausböll, 1879"
+  ]
+}

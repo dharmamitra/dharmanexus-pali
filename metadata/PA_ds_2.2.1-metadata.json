@@ -1,0 +1,14 @@
+{
+  "displayName": "Uddesa",
+  "textname": "Ds 2.2.1",
+  "category": "ds",
+  "filenr": 3014,
+  "collection": "Abhidhamma",
+  "filename": "PA_ds_2.2.1",
+  "raw_metadata": "# Uddesa (Ds 2.2.1)\n\n**ID:** Ds 2.2.1\n**Section:** Dhammasaṅgaṇī (ds)\n**Collection:** Abhidhamma\n**Title (Pali):** Uddesa\n**SuttaCentral:** https://suttacentral.net/ds2.2.1\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/abh01m.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Uddesa* (Ds 2.2.1) is a constituent section of the *Dhammasaṅgaṇī*, the opening book of the Pali Abhidhamma Piṭaka [SuttaCentral]. SuttaCentral records two translations of the text in two languages, but lists no curated cross-tradition parallels [SuttaCentral].\n\nAutomated analysis by DharmaNexus detects extensive Pali-internal text reuse, recording 101 matching passages across six other Pali works [DharmaNexus]. The strongest correspondences within the *Dhammasaṅgaṇī* are with the *Dukanikkhepa* (Ds 2.3.2; 55 matches) and the *Tikanikkhepa* (Ds 2.3.1; 21 matches) [DharmaNexus]. Outside the *Dhammasaṅgaṇī*, DharmaNexus shares passages with sections of the *Vibhaṅga*, including the *Saccavibhaṅga* (Vb 4) and the *Dhammahadayavibhaṅga* (Vb 18), as well as post-canonical and sub-commentarial works such as the *Saṅgāyana-pucchā vissajjanā Abhidhammapiṭaka* and the Vinaya sub-commentary *Sāratthadīpanī-ṭīkā* [DharmaNexus]. No cross-language matches with Chinese, Sanskrit, or Tibetan corpora meet the reporting threshold [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Dukanikkhepa (Ds 2.3.2) (§1.2_0–1.2_2 ↔ §189.2–189.4); Tikanikkhepa (Ds 2.3.1) (§1.1–1.3 ↔ §3.1–4.0); Saccavibhaṅga (Vb 4) (§1.2_1–1.2_2 ↔ §72.2_1); Saṅgāyana-puccha vissajjanā Abhidhammapiṭaka (Anya E0906n) (§0.3–1.2_2 ↔ §45_4–45_7); Vinayapiṭake Sāratthadīpanī-ṭīkā (paṭhamo bhāgo) (Tika Vin01t1) (§1.1–1.3 ↔ §416_0–416_2); Dhammahadayavibhaṅga (Vb 18) (§1.1–1.2_1 ↔ §173.2–174.1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for Ds 2.2.1 (https://suttacentral.net/ds2.2.1) — bibliographic identification, title, and translation count\n- [DharmaNexus] DharmaNexus machine text-reuse alignments for Ds 2.2.1 — computed Pali-internal text-reuse matches\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

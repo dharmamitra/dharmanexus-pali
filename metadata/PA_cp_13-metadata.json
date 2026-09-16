@@ -1,0 +1,15 @@
+{
+  "displayName": "Campeyyanāgacariya",
+  "textname": "Cp 13",
+  "category": "cp",
+  "filenr": 1646,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_cp_13",
+  "raw_metadata": "# Campeyyanāgacariya (Cp 13)\n\n**ID:** Cp 13\n**Section:** Cariyāpiṭaka (cp)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Campeyyanāgacariya\n**Title (English, SuttaCentral):** The Conduct of the Dragon of Campeyya\n**SuttaCentral:** https://suttacentral.net/cp13\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0512m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Campeyyanāgacariya* (Cp 13), translated by Bhikkhu Sujato as *The Conduct of the Dragon of Campeyya*, is a poetic narrative found within the *Cariyāpiṭaka* collection of the Pali canon [SuttaCentral]. It recounts the bodhisatta's practice of perfection (*cariyā*) while reborn as the nāga king Campeyya. In comparative scholarship on canonical Pali narrative literature, André Bareau identifies it as the thirteenth story of the *Cariyāpiṭaka* in relation to the broader Jātaka tradition [Bareau].\n\nSuttaCentral registers translations of the text in three modern languages, including the English rendering by Bhikkhu Sujato [SuttaCentral]. In machine-computed textual analysis by DharmaNexus, the text exhibits Pali-internal text reuse with the post-canonical commentary tradition, specifically sharing two passages (666 characters in total) with the first part of Buddhaghosa's *Visuddhimagga* (*Visuddhimaggo: Paṭhamo bhāgo*), where verses §2.2–5.4 align closely with §1838–1845 (similarity score 0.88) [DharmaNexus]. No cross-language parallels meeting the significance threshold (score ≥ 10) are recorded by DharmaNexus [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Visuddhimaggo (Paṭhamo bhāgo) (Anya E0101n) (§2.2–5.4 ↔ §1838–1845)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Cp 13 (Campeyyanāgacariya) — Title, English translation title, and translation metadata.\n- [DharmaNexus] DharmaNexus text-reuse database for Cp 13 — Text reuse matches with Visuddhimagga and absence of high-scoring cross-language matches.\n- [Bareau] André Bareau, Les récits canoniques du Cariyāpiṭaka et les Jātaka Pāli — Enumeration and spelling of the text as item 13 in the Cariyāpiṭaka sequence.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Bareau_Les récits canoniques du Cariyāpiṭaka et les Jātaka Pāli"
+  ]
+}

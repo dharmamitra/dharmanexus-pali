@@ -1,0 +1,15 @@
+{
+  "displayName": "Sattamabhavikakathā",
+  "textname": "Kv 12.10",
+  "category": "kv",
+  "filenr": 3202,
+  "collection": "Abhidhamma",
+  "filename": "PA_kv_12.10",
+  "raw_metadata": "# Sattamabhavikakathā (Kv 12.10)\n\n**ID:** Kv 12.10\n**Section:** Kathāvatthu (kv)\n**Collection:** Abhidhamma\n**Title (Pali):** Sattamabhavikakathā\n**SuttaCentral:** https://suttacentral.net/kv12.10\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/abh03m3.mul19.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sattamabhavikakathā* (Kv 12.10) is a canonical debate text located in the twelfth chapter of the *Kathāvatthu*, within the Abhidhamma Piṭaka [SuttaCentral]. In English scholarship, Shwe Zan Aung and C.A.F. Rhys Davids note the variant or related terminology *sattamabhavika* and *sattamaka* in their translation of the *Kathāvatthu*, *Points of Controversy* [Shwe Zan Aung & Rhys Davids 1915]. SuttaCentral records one modern translation of the text [SuttaCentral].\n\nNo cross-language parallels in Chinese, Sanskrit, or Tibetan traditions are recorded by SuttaCentral, and DharmaNexus finds no cross-language matches with a score of 10 or higher [SuttaCentral; DharmaNexus]. However, DharmaNexus detects 34 internal Pali text-reuse matches across four texts, reflecting formulaic debate patterns within the collection [DharmaNexus]. The largest reuse partner is the immediately preceding *Duggatikathā* (Kv 12.9; 18 matches, including §1.2–1.7 matching §5.2–5.9), alongside further parallels within the twelfth chapter in the *Sattakkhattuparamakathā* (Kv 12.5; 7 matches) and the *Jīvitāvoropanakathā* (Kv 12.8; 6 matches), as well as 3 shared matches with the *Abhidhammamātikāpāḷi* (Tika Abh09t) [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Duggatikathā (Kv 12.9) (§1.2–1.7 ↔ §5.2–5.9); Sattakkhattuparamakathā (Kv 12.5) (§2.1_1 ↔ §5.5); Abhidhammamātikāpāḷi (Tika Abh09t) (§2.1_2–2.1_3 ↔ §2449_2–2449_4); Jīvitāvoropanakathā (Kv 12.8) (§2.1_2 ↔ §1.3)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry kv12.10 — Canonical placement, Pali title, and translation count.\n- [DharmaNexus] DharmaNexus text-reuse database — Pali-internal text reuse and absence of cross-language matches.\n- [Shwe Zan Aung & Rhys Davids 1915] Shwe Zan Aung & C.A.F. Rhys Davids, Points of Controversy; or, Subjects of Discourse (1915) — Terminology noting sattamabhavika and sattamaka.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Points of Controversy. Katha-vatthu_Shwe Zan Aung & Mrs. Rhys Davids, 1915"
+  ]
+}

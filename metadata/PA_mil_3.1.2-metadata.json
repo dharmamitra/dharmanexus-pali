@@ -1,0 +1,14 @@
+{
+  "displayName": "Vassagaṇanapañha",
+  "textname": "Mil 3.1.2",
+  "category": "mil",
+  "filenr": 2335,
+  "collection": "Suttas-Late-2",
+  "filename": "PA_mil_3.1.2",
+  "raw_metadata": "# Vassagaṇanapañha (Mil 3.1.2)\n\n**ID:** Mil 3.1.2\n**Section:** Milindapañha (mil)\n**Collection:** Suttas-Late-2\n**Title (Pali):** Vassagaṇanapañha\n**Title (English, SuttaCentral):** The Question on Seniority\n**SuttaCentral:** https://suttacentral.net/mil3.1.2\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0518m.nrf1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Vassagaṇanapañha* (\"The Question on Seniority\") is a short discourse in the *Milindapañha* (Mil 3.1.2) [SuttaCentral]. It forms part of the famous dialogue between King Milinda and the venerable elder Nāgasena in the late Pali canonical and paracanonical collections [SuttaCentral]. SuttaCentral records four modern translations across three languages, including an English rendering by John Kelly [SuttaCentral].\n\nNo distinct external parallels are curated for the text on SuttaCentral [SuttaCentral]. Computational analysis by DharmaNexus records internal Pali text reuse exclusively with the preceding discourse, the *Paññattipañha* (Mil 3.1.1), across seven shared segments (encompassing 426 shared characters, with its most substantial alignment occurring between §2.6 and §8.4–9.1_1 at 0.99 similarity) [DharmaNexus]. No cross-language textual alignments meeting the significance threshold are identified in Chinese, Sanskrit, or Tibetan corpora [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Paññattipañha (Mil 3.1.1) (§2.6 ↔ §8.4–9.1_1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for mil3.1.2 — Supplied Pali and English titles, classification within the Milindapañha, and list of modern translations.\n- [DharmaNexus] DharmaNexus text-reuse database for PA_mil_3.1.2 — Provided computed Pali-internal text reuse data with Mil 3.1.1 and confirmed the absence of cross-language matches.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

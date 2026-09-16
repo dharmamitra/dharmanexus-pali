@@ -1,0 +1,15 @@
+{
+  "displayName": "Pūtimaṁsajātaka",
+  "textname": "Ja 437",
+  "category": "ja",
+  "filenr": 2105,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_437",
+  "raw_metadata": "# Pūtimaṁsajātaka (Ja 437)\n\n**ID:** Ja 437\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Pūtimaṁsajātaka\n**Title (English, SuttaCentral):** The Jackal Pūtimaṁsa\n**SuttaCentral:** https://suttacentral.net/ja437\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul8.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Pūtimaṁsajātaka* (Ja 437) is a canonical Jātaka tale situated in the *Jātaka* collection of the Pali canon [SuttaCentral]. The text opens with the verse phrase *Na kho me ruccatîti* (“Why thus does Putimansa”) [SuttaCentral; Fausböll 1883]. According to the narrative framework preserved in V. Fausböll's edition of the Jātaka commentary, the Buddha delivered the discourse while residing at Jetavana, taking occasion from a situation where several monks had failed to guard the doors of their senses (*indriyesu aguttadvārā*), thereby discoursing on the restraint of the senses (*indriyasaṁvara*) [SuttaCentral; Fausböll 1883]. In the concluding identification (*samodhāna*), the Buddha explains that in that former life he was the tree spirit (*vanajeṭṭharukkhe nibbattadevatā*) presiding in the principal forest tree [Fausböll 1883].\n\nText-reuse analysis by DharmaNexus identifies 10 matching segments totaling 1,143 characters shared with the Pali *Jātaka-aṭṭhakathā* (Tatiyo bhāgo), with the longest match encompassing segments §2.4–4.4 [DharmaNexus]. Neither SuttaCentral nor DharmaNexus reports any cross-language parallels in Chinese, Sanskrit, or Tibetan [SuttaCentral; DharmaNexus]. SuttaCentral records four modern translations of the text in four languages [SuttaCentral].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§2.4–4.4 ↔ §4776–4783)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja437 — Supplied canonical metadata, English title, narrative blurb, and translation counts.\n- [DharmaNexus] DharmaNexus parallel computing analysis — Provided text-reuse alignments with the Jātaka-aṭṭhakathā.\n- [Fausböll 1883] V. Fausböll, The Jātaka together with its Commentary, Vol. 3 (1883) — Provided opening pratīka, Jetavana setting on indriyasaṁvara, and closing samodhāna.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Jataka Together with Its Commentary 3_ V. Fausböll, 1883"
+  ]
+}

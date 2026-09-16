@@ -1,0 +1,15 @@
+{
+  "displayName": "Sumaṅgalajātaka",
+  "textname": "Ja 420",
+  "category": "ja",
+  "filenr": 2088,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_420",
+  "raw_metadata": "# Sumaṅgalajātaka (Ja 420)\n\n**ID:** Ja 420\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sumaṅgalajātaka\n**Title (English, SuttaCentral):** The Park-Keeper Sumaṅgala\n**SuttaCentral:** https://suttacentral.net/ja420\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul7.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sumaṅgalajātaka* (Ja 420) is a canonical birth tale belonging to the Jātaka collection of the Pali Tipiṭaka [SuttaCentral]. According to its traditional framing story, the Buddha related this account while residing at Jetavana to provide an admonition to a king, telling the tale of the past at the monarch's request and opening with the line “Conscious of an angry frown” [SuttaCentral]. The narrative conveys principles of governance and justice free from wrath; in modern studies of Buddhist ethics, verses from the Jātaka are highlighted as evidence of Buddhism's rejection of righteous indignation and retributive anger, asserting that any necessary chastisement must proceed from compassion rather than hatred: “Anger shall not check my bent: / When to vice I take the sword, / Pity prompts the punishment” [Goodman 2009].\n\nIn terms of parallels and text reuse, SuttaCentral identifies a resembling canonical parallel in the *Kiṁsīla Sutta* (Snp 2.9 / PTS Snp 56) [SuttaCentral]. DharmaNexus detects five internal Pali matching passages with the *Jātaka-aṭṭhakathā* (longest §1.1–6.4), as well as low-scoring automated cross-language alignments between §3.3 and the Tibetan translation of the *Saṃskṛtāsaṃskṛtaviniścaya-nāma* (D3897) [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Resembling parallels (SuttaCentral): Snp 2.9 (PTS Snp 56) Kiṁsīla Sutta\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§1.1–6.4 ↔ §3947–3963)\n- Cross-language matches (DharmaNexus): འདུས་བྱས་དང་འདུས་མ་བྱས་རྣམ་པར་ངེས་པ་ཞེས་བྱ་བ། (saṃskṛtāsaṃskṛtaviniścaya-nāma) (D3897) [bo]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja420 — Supplied canonical identity, English title, blurb, and resembling parallel to Snp 2.9.\n- [Goodman 2009] Charles Goodman, Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics (2009) — Discussed the Jātaka's rejection of anger in punishment and quoted its verse.\n- [DharmaNexus] DharmaNexus text-reuse database — Provided text-reuse data with the Jātaka-aṭṭhakathā and automated Tibetan alignments.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "Consequences of Compassion. An Interpretation and Defense of Buddhist Ethics_Charles Goodman, 2009",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Ekadhammasavanīyattheragāthā",
+  "textname": "Thag 1.67",
+  "category": "thag",
+  "filenr": 731,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_1.67",
+  "raw_metadata": "# Ekadhammasavanīyattheragāthā (Thag 1.67)\n\n**ID:** Thag 1.67\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Ekadhammasavanīyattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag1.67\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Ekadhammasavanīyattheragāthā* (Thag 1.67) is a short canonical poem preserved in the *Theragāthā* collection of the Pali Tipiṭaka [SuttaCentral]. It consists of the verse attributed to the elder (thera) Ekadhammasavanīya [SuttaCentral]. While no historical or narrative context is provided in the root text itself, SuttaCentral catalogues nine modern translations across eight languages, including an English rendering by Bhikkhu Sujato [SuttaCentral].\n\nNo curated parallels in other Buddhist traditions or canonical collections are listed on SuttaCentral [SuttaCentral]. However, automated text-reuse analysis via DharmaNexus demonstrates close internal reuse within Pali literature, detecting 14 matching passages with the *Theragāthā-aṭṭhakathā* (first volume), including a substantial alignment between segments 0.4–1.5 and commentary segments 1731–1734 [DharmaNexus]. In cross-language matches, DharmaNexus identifies three potential textual alignments with a Tibetan Buddhist canon text (BO_K01_D0001-3_H0001-3), with a highest plausibility score of 60 for segment 0.2 aligned with folio 407a-27 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.4–1.5 ↔ §1731–1734)\n- Cross-language matches (DharmaNexus): BO_K01_D0001-3_H0001-3 [bo]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for Thag 1.67 (Ekadhammasavanīyattheragāthā) — Basic bibliographic details, title, and translation listings\n- [DharmaNexus] DharmaNexus text-reuse database for Thag 1.67 — Pali-internal commentary reuse data and cross-language Tibetan alignments\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

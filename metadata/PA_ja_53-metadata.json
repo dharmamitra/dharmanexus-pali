@@ -1,0 +1,16 @@
+{
+  "displayName": "Puṇṇapātijātaka",
+  "textname": "Ja 53",
+  "category": "ja",
+  "filenr": 1721,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_53",
+  "raw_metadata": "# Puṇṇapātijātaka (Ja 53)\n\n**ID:** Ja 53\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Puṇṇapātijātaka\n**Title (English, SuttaCentral):** The Full Cup\n**SuttaCentral:** https://suttacentral.net/ja53\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Puṇṇapātijātaka* (Ja 53) is a short narrative belonging to the Jātaka collection of the Pali canon [SuttaCentral]. In the standard edition of the *Jātakaṭṭhakathā*, it appears as the third story of its vagga, opening with the verse line *Tatheva puṇṇapātiyo ti* [Fausböll 1877]. \n\nThe background narrative (*paccuppannavatthu*) is set at Jetavana near Sāvatthi and concerns drugged liquor (*visavāruṇī*) [SuttaCentral; Fausböll 1877]. A band of impoverished rogues concocted a plot to drug and rob the wealthy householder Anāthapiṇḍika by inviting him to drink spirits [Nyanaponika et al. 2003; Fausböll 1877]. Anāthapiṇḍika initially declined on his way to see the king; on his return, noticing that the drink stood completely untouched and full (*puṇṇapātiyo*), he astutely deduced that the sellers would not leave their own brew untasted unless it were poisoned, and boldly confronted the swindlers, causing them to flee in fear [Nyanaponika et al. 2003; Fausböll 1877]. In the conclusion (*samodhāna*), the Buddha reveals that the swindlers were the same rogues from the past, while he himself had been the wise merchant of Bārāṇasī (*Bārāṇasiseṭṭhi*) who outsmarted them in a former life [Fausböll 1877].\n\nNeither SuttaCentral nor the automated text-matching of DharmaNexus identifies any Pali-internal text reuse or cross-language parallels in Sanskrit, Chinese, or Tibetan for this Jātaka [SuttaCentral; DharmaNexus].\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja53 — Provides catalog metadata, English title ('The Full Cup'), blurb, and confirms absence of curated parallels.\n- [DharmaNexus] DharmaNexus alignment database — Confirms absence of significant Pali-internal text reuse and cross-language matches.\n- [Fausböll 1877] V. Fausböll, The Jātaka together with its Commentary, Vol. 1 (1877) — Supplies the text opening, verse cue, Jetavana setting, story of the drugged liquor, and the identification of the Bodhisatta as the merchant of Bārāṇasī.\n- [Nyanaponika et al. 2003] Nyanaponika Thera, Hellmuth Hecker, and Bhikkhu Bodhi, Great Disciples of the Buddha: Their Lives, Their Works, Their Legacy (2003) — Describes Anāthapiṇḍika's encounter with the liquor-swindlers and his deduction from the untouched drink.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Jataka Together with Its Commentary 1_ V. Fausböll, 1877",
+    "Great Disciples of the Buddha. Their Lives, Their Works, Their Legacy_Nyanaponika Thera, Hellmuth Hecker, Bhikkhu Bodhi, 2003"
+  ]
+}

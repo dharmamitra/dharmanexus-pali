@@ -1,0 +1,14 @@
+{
+  "displayName": "Purohitaputtajentattheragāthā",
+  "textname": "Thag 6.9",
+  "category": "thag",
+  "filenr": 882,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_6.9",
+  "raw_metadata": "# Purohitaputtajentattheragāthā (Thag 6.9)\n\n**ID:** Thag 6.9\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Purohitaputtajentattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag6.9\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul5.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Purohitaputtajentattheragāthā* (Thag 6.9) is a poem in the *Theragāthā* collection of the Pali Canon [SuttaCentral]. Modern translations cataloged on SuttaCentral include an English rendering by Bhikkhu Sujato as part of ten translations across nine languages [SuttaCentral].\n\nNo curated parallels are identified for this text on SuttaCentral [SuttaCentral]. Automated text-reuse analysis via DharmaNexus indicates extensive Pali-internal alignment with the commentary, the *Theragāthā-aṭṭhakathā* (Dutiyo bhāgo), covering segments §0.4–6.5 across five matching passages [DharmaNexus]. Cross-language machine alignments by DharmaNexus also match segments of the Pali text with Vimalamitra's Sanskrit *Vibhāṣāprabhāvṛtti* (e.g., §1.1–1.4) and a Tibetan canonical work cataloged as BO_K08_D0056_H0056 (matching §2.3) [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§0.4–6.5 ↔ §1340–1356)\n- Cross-language matches (DharmaNexus): Vimalamitra: Vibhāṣāprabhāvṛtti (SA_T07_vabhdicu) [sa]; BO_K08_D0056_H0056 [bo]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for thag6.9 — Text title, collection details, and translations listing.\n- [DharmaNexus] DharmaNexus text-reuse and alignment database — Pali-internal commentary reuse and cross-language alignments with Sanskrit and Tibetan texts.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

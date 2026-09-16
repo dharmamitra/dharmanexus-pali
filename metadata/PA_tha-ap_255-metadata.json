@@ -1,0 +1,14 @@
+{
+  "displayName": "Citakapūjakattheraapadāna",
+  "textname": "Tha-Ap 255",
+  "category": "tha-ap",
+  "filenr": 1256,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_tha-ap_255",
+  "raw_metadata": "# Citakapūjakattheraapadāna (Tha-Ap 255)\n\n**ID:** Tha-Ap 255\n**Section:** Therāpadāna (tha-ap)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Citakapūjakattheraapadāna\n**SuttaCentral:** https://suttacentral.net/tha-ap255\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0510m1.mul25.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Citakapūjakattheraapadāna* (Tha Ap 255) is a short poetic account found within the Therāpadāna section of the Pali Khuddaka Nikāya [SuttaCentral]. SuttaCentral records five translations of the poem across five different languages [SuttaCentral].\n\nNo direct external parallels in Chinese, Sanskrit, or Tibetan corpora are listed by SuttaCentral or matched at score threshold ≥10 by DharmaNexus [SuttaCentral; DharmaNexus]. However, DharmaNexus identifies significant internal Pali text reuse within the Therāpadāna collection itself [DharmaNexus]. In particular, segments §2.4–5.1 share material with the *Hāsajanakattheraapadāna* (Tha-Ap 325), and segments §3.1–4.3 share formulaic verse passages with the *Saddasaññakattheraapadāna* (Tha-Ap 296) and the *Pādapūjakattheraapadāna* (Tha-Ap 298) [DharmaNexus]. No further secondary literature or commentary extracts were identified in the reference dossier.\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Hāsajanakattheraapadāna (Tha-Ap 325) (§2.4–5.1 ↔ §3.1–5.1); Saddasaññakattheraapadāna (Tha-Ap 296) (§3.1–4.3 ↔ §3.1–4.3); Pādapūjakattheraapadāna (Tha-Ap 298) (§3.1–4.3 ↔ §2.4–4.3)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for tha-ap255 — Identified text title, collection placement, and modern translation records.\n- [DharmaNexus] DharmaNexus alignment database — Identified Pali-internal text reuse with Tha-Ap 325, Tha-Ap 296, and Tha-Ap 298.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Amarādevīpañha",
+  "textname": "Mil 5.4.8",
+  "category": "mil",
+  "filenr": 2464,
+  "collection": "Suttas-Late-2",
+  "filename": "PA_mil_5.4.8",
+  "raw_metadata": "# Amarādevīpañha (Mil 5.4.8)\n\n**ID:** Mil 5.4.8\n**Section:** Milindapañha (mil)\n**Collection:** Suttas-Late-2\n**Title (Pali):** Amarādevīpañha\n**Title (English, SuttaCentral):** Queen Amarā\n**SuttaCentral:** https://suttacentral.net/mil5.4.8\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0518m.nrf2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Amarādevīpañha* (\"Question concerning Queen Amarā\", Mil 5.4.8) is a dialogue situated within the *Milindapañha* [SuttaCentral]. SuttaCentral records the English rendering \"Queen Amarā\" and lists two translations across two modern languages [SuttaCentral].\n\nThe text shows clear intertextual connections to the Jātaka tradition. SuttaCentral records a cross-reference to the *Kuṇālajātaka* (Ja 536) [SuttaCentral], an alignment confirmed by automated analysis in DharmaNexus, which detects a shared passage between Mil 5.4.8 (§§1.1–2.4) and Ja 536 (§§59.1–59.4) with 0.94 similarity [DharmaNexus]. In total, DharmaNexus identifies 92 matching passages shared with 18 Pali texts, dominated by recurring phrasing and formulaic dialogue shared across other sections of the *Milindapañha* (including Mil 5.5.3, Mil 5.4.4, Mil 5.4.9, and Mil 5.4.1) as well as commentary in the *Milindaṭīkā* (*Sihaḷa-gantha-saṅgaho*, §§7.2–7.4_3) [DharmaNexus]. No cross-language matches with a score of 10 or higher are identified [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Mentioned in (SuttaCentral): Ja 536 Kuṇālajātaka\n- Text reuse within the Pali corpus (DharmaNexus): Sihaḷa-gantha-saṅgaho Milidaṭīkā (Anya E1210n) (§7.2–7.4_3 ↔ §1142_6–1143_3); Buddhaappābādhapañha (Mil 5.5.3) (§3.1–4.1 ↔ §1.6–2.1); Bodhisattadhammatāpañha (Mil 5.4.4) (§3.5–4.1 ↔ §1.7–2.1); Arahantaabhāyanapañha (Mil 5.4.9) (§3.1–3.6 ↔ §1.4_2–1.8_0); Iddhikammavipākapañha (Mil 5.4.1) (§0.1–1.1 ↔ §0.1–1.1); Musāvādagarulahubhāvapañha (Mil 5.4.3) (§3.8–4.2 ↔ §1.9–2.2); Vatthaguyhanidassanapañha (Mil 5.3.3) (§3.5–4.1 ↔ §3.3–4.1); Abyākaraṇīyapañha (Mil 5.2.2) (§3.8–4.1 ↔ §1.7–2.1_0)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for mil5.4.8 — Title, English translation title, translation count, and cross-reference to Ja 536.\n- [DharmaNexus] DharmaNexus match data for mil5.4.8 — Text-reuse alignments with Ja 536, the Milindaṭīkā, and internal Milindapañha parallels.\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

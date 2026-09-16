@@ -1,0 +1,15 @@
+{
+  "displayName": "Sadhāyamāna Sutta",
+  "textname": "Ud 5.9 (PTS Ud 61)",
+  "category": "ud",
+  "filenr": 312,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_ud_5.9",
+  "raw_metadata": "# Sadhāyamāna Sutta (Ud 5.9 (PTS Ud 61))\n\n**ID:** Ud 5.9 (PTS Ud 61)\n**Section:** Udāna (ud)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Sadhāyamāna Sutta\n**SuttaCentral:** https://suttacentral.net/ud5.9\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0503m.mul4.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sadhāyamāna Sutta* is the ninth discourse of the fifth chapter (*Soṇavagga*) of the *Udāna* (PTS Ud 61) [Masefield 1997; SuttaCentral]. In this sutta, a group of youths jeers at the monks [SuttaCentral]. In his translation notes, Peter Masefield observes textual variants for the text, adopting the reading *sadhāyamānā* with the Siamese edition (*Se*, alongside the Burmese reading *sadhāya*) in place of the Pali Text Society reading *saddāyamānā* [Masefield 1997]. SuttaCentral records sixteen translations across thirteen modern languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nSuttaCentral identifies verse parallels in the Sanskrit and Tibetan versions of the *Udānavarga* (UV 14 *Drohavarga* and Uv Kg 14 *Hatred*), as well as thematic and verse parallels in other Pali works, including the *Upakkilesa Sutta* (MN 128), the *Kosambiyajātaka* (Ja 428), and the Vinaya *Kosambakakkhandhaka* (Kd 10) [SuttaCentral]. In addition, automated text-reuse analysis by DharmaNexus detects Pali-internal shared formulaic passages between this sutta and the *Mahāparinibbāna Sutta* (DN 16), the *Pañcakanipāta* (AN 5), and the *Tikanipāta* (AN 3) [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Passage-level parallels (SuttaCentral): UV 14 Drohavarga; Uv Kg 14 Hatred; MN 128 (PTS MN iii 152) Upakkilesa Sutta; Ja 428 Kosambiyajātaka; Kd 10 Kosambakakkhandhaka\n- Text reuse within the Pali corpus (DharmaNexus): Mahāparinibbāna Sutta (DN 16 (PTS DN ii 72)) (§2.1 ↔ §1.34.2); Pañcakanipāta (AN 5) (§0.2–1.2 ↔ §30.0.3–30.1.2); Tikanipāta (AN 3) (§1.1–1.3 ↔ §65.1.1–65.1.2)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ud5.9 — Supplied the Pali title, summary blurb, translation count, and canonical and verse parallels.\n- [DharmaNexus] DharmaNexus database — Identified Pali-internal formulaic text reuse with DN 16, AN 5, and AN 3.\n- [Masefield 1997] Peter Masefield, The Udāna: Translated from the Pali (1997) — Confirmed chapter placement and noted textual variants (sadhāyamānā / sadhāya vs. saddāyamānā).\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "UDANA. Translated from the Pali_PETER MASEFIELD, 1997"
+  ]
+}

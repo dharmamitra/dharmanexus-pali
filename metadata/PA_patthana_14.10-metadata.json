@@ -1,0 +1,14 @@
+{
+  "displayName": "Rūpīduka",
+  "textname": "Patthana 14.10",
+  "category": "patthana",
+  "filenr": 3633,
+  "collection": "Abhidhamma",
+  "filename": "PA_patthana_14.10",
+  "raw_metadata": "# Rūpīduka (Patthana 14.10)\n\n**ID:** Patthana 14.10\n**Section:** Patthana (patthana)\n**Collection:** Abhidhamma\n**Title (Pali):** Rūpīduka\n**SuttaCentral:** https://suttacentral.net/patthana14.10\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/abh03m11.mul9.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Rūpīduka* (Patthana 14.10) is a textual unit within the *Paṭṭhāna*, the final book of the Abhidhamma Piṭaka in the Pali Canon [SuttaCentral]. SuttaCentral does not record any translated English title, translation history, or curated parallels in non-Pali corpora for this specific section [SuttaCentral].\n\nComputational analysis via DharmaNexus demonstrates extensive internal text reuse across the *Paṭṭhāna*, recording 59 matching passages shared with 21 other Pali texts [DharmaNexus]. The largest textual alignments occur with other structural sections of the *Paṭṭhāna*, notably the *Hetuduka, Tika* (Patthana 3.1; segments §1.1–2.1 ↔ §951.1–952.1), the *Hetuduka, Duka* (Patthana 6.1), the *Mahantaraduka, Kusalattika* (Patthana 3.10), and the *Piṭṭhiduka, Kusalattika* (Patthana 3.13) [DharmaNexus]. Significant reuse is also identified with another treatment of the same dyad, the *Rūpīduka* of Patthana 8.11, as well as proximate sections in the collection such as *Sappītikadukādi* (Patthana 14.31) and *Sārammaṇaduka* (Patthana 14.21) [DharmaNexus]. No cross-language matches meet the threshold score of 10 in DharmaNexus [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Hetuduka, Tika (Patthana 3.1) (§1.1–2.1 ↔ §951.1–952.1); Hetuduka, Duka (Patthana 6.1) (§1.1–1.1_0 ↔ §88.1–91.1_0); Mahantaraduka, Kusalattika (Patthana 3.10) (§1.1–2.1 ↔ §92.1–93.1); Piṭṭhiduka, Kusalattika (Patthana 3.13) (§1.1–2.1 ↔ §151.1–152.1); Sappītikadukādi (Patthana 14.31) (§0.1–1.1 ↔ §0.1–1.1); Rūpīduka (Patthana 8.11) (§1.1–2.1 ↔ §3.1_1–5.1); Cūḷantaraduka, Kusalattika (Patthana 3.3) (§1.1–2.1 ↔ §69.1–70.1_1); Cūḷantaraduka (Patthana 20.2) (§0.1–1.1 ↔ §0.1–1.1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for patthana14.10 — Structural metadata, title, and confirmation of collection placement.\n- [DharmaNexus] DharmaNexus text-reuse database — Automated text-reuse matches with other Paṭṭhāna texts and absence of cross-language parallels.\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Vacchagottattheragāthā",
+  "textname": "Thag 1.112",
+  "category": "thag",
+  "filenr": 776,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_1.112",
+  "raw_metadata": "# Vacchagottattheragāthā (Thag 1.112)\n\n**ID:** Thag 1.112\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Vacchagottattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag1.112\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Vacchagottattheragāthā* (Thag 1.112) is a canonical verse text situated within the *Theragāthā* collection of the Pali canon [SuttaCentral]. It preserves the verse attributed to the elder (thera) Vacchagotta [SuttaCentral]. The text has been translated into several modern languages, with SuttaCentral recording nine translations across eight languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nIn terms of textual parallels and reuse, SuttaCentral records no curated cross-canonical parallels in other Buddhist traditions [SuttaCentral]. Likewise, automated analysis through DharmaNexus registers no cross-language alignments with Chinese, Sanskrit, or Tibetan corpora with a similarity score of 10 or greater [DharmaNexus]. Within Pali literature, DharmaNexus detects textual reuse exclusively with the primary commentary on the collection, the *Theragāthā-aṭṭhakathā* (Paṭhamo bhāgo), identifying 17 matching passages totaling 722 characters, with the primary alignment matching segments 1.1–1.4 with commentary sections 2720–2721 at a 0.91 similarity score [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§1.1–1.4 ↔ §2720–2721)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for thag1.112 (Vacchagottattheragāthā) — text identification, section, and translation records\n- [DharmaNexus] DharmaNexus text-reuse data for thag1.112 — internal Pali text reuse matches with the Theragāthā-aṭṭhakathā and lack of cross-language matches\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

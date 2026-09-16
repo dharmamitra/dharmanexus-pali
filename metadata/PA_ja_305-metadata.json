@@ -1,0 +1,15 @@
+{
+  "displayName": "Sīlavīmaṁsanajātaka",
+  "textname": "Ja 305",
+  "category": "ja",
+  "filenr": 1973,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_305",
+  "raw_metadata": "# Sīlavīmaṁsanajātaka (Ja 305)\n\n**ID:** Ja 305\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sīlavīmaṁsanajātaka\n**Title (English, SuttaCentral):** A Test of Virtue\n**SuttaCentral:** https://suttacentral.net/ja305\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul3.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sīlavīmaṁsanajātaka* (Ja 305), titled in English as \"A Test of Virtue,\" is a canonical Jātaka tale preserved in the Pali Canon [SuttaCentral]. According to the narrative framework, the Buddha delivered this teaching while residing at Jetavana regarding the restraint of defilements (*kilesaniggaha*), specifically prompted by five hundred resident monks who had fallen into sensual thoughts during the middle watch of the night [SuttaCentral; Fausböll 1883]. The commentary notes that the full background story is related in the *Pānīyajātaka* of the Eleventh Book (*Ekādasanipāta*) [SuttaCentral; Fausböll 1883]. The canonical verse opens with the incipit *N'atthi loke raho nāma* (\"There is no secrecy in the world\") [Fausböll 1883]. At the end of the exposition, the five hundred monks achieved arahantship, and the Buddha identified the previous births (*samodhāna*), revealing that the teacher of that time was Sāriputta and the wise youth (*paṇḍitamāṇavo*) was the Bodhisatta [Fausböll 1883].\n\nText-reuse analysis computed by DharmaNexus demonstrates close Pali-internal reuse across three segments with the commentary in the third volume of the *Jātaka-aṭṭhakathā* (longest match at §3.1–4.4 ↔ §127–131 with 0.95 similarity) [DharmaNexus]. In cross-language matches, DharmaNexus automatically aligns the text with sections of Āryaśūra's Sanskrit *Jātakamālā*, though these are machine alignments rather than established historical parallels [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§3.1–4.4 ↔ §127–131)\n- Cross-language matches (DharmaNexus): Āryaśūra: Jātakamālā (SA_T09_ajm_u) [sa]; Āryaśūra: Jātakamālā (SA_T09_bsa032) [sa]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja305 — Pali and English titles, blurb, and translation counts\n- [Fausböll 1883] V. Fausböll, The Jātaka together with Its Commentary, Vol. 3 (1883) — Pali text, opening verse incipit, setting at Jetavana, background circumstances, and the samodhāna\n- [DharmaNexus] DharmaNexus text-reuse database — Computed Pali-internal text reuse with Jātaka-aṭṭhakathā and alignments with Āryaśūra's Jātakamālā\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "Jataka Together with Its Commentary 3_ V. Fausböll, 1883",
+    "DharmaNexus"
+  ]
+}

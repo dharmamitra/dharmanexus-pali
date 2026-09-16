@@ -1,0 +1,19 @@
+{
+  "displayName": "Vaṭṭakajātaka",
+  "textname": "Ja 118",
+  "category": "ja",
+  "filenr": 1786,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_118",
+  "raw_metadata": "# Vaṭṭakajātaka (Ja 118)\n\n**ID:** Ja 118\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Vaṭṭakajātaka\n**Title (English, SuttaCentral):** The Quail\n**SuttaCentral:** https://suttacentral.net/ja118\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Vaṭṭakajātaka* (Ja 118) is a birth story found in the *Ekanipāta* of the Pali Jātaka collection [Fausböll 1877]. Its opening verse begins with the phrase *Nācintayanto puriso* (\"The thoughtless man\") [SuttaCentral; Fausböll 1877]. According to its commentary (*nidāna*), the Buddha recounted the narrative while dwelling at Jetavana in connection with the son of the Over-Treasurer (Uttaraseṭṭhiputta) of Sāvatthī, a wealthy merchant whose wife gave birth to a meritorious being descending from the realm of Brahmā deities [SuttaCentral; Fausböll 1877]. The title is listed among other canonical Jātaka verses in modern anthologies [Anandajoti 2010].\n\nWhile DharmaNexus identifies no significant internal Pali text reuse or cross-language matches above its threshold [DharmaNexus], SuttaCentral records a full parallel to the narrative in the Sanskrit Mahāvastu under the title *The Jātaka of the Bird* (Mvu 56) [SuttaCentral]. This text should not be confused with other Jātakas bearing the same name, particularly the well-known *Vaṭṭakajātaka* (Ja 35), which concerns a baby quail's act of truth holding back a forest fire [Appleton 2010; Söhnen-Thieme], or the *Vaṭṭakajātaka* of the higher nipātas (Ja 394) [Fausböll 1883].\n\n**Parallels and text reuse**\n\n- Full parallels (SuttaCentral): San Lo Mvu 56 The Jātaka of the Bird\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja118 (Vaṭṭakajātaka) — Supplied the English title, canonical blurb, and cross-language parallel in the Mahāvastu (Mvu 56).\n- [DharmaNexus] DharmaNexus database query for ja118 — Confirmed lack of computed text reuse matches or high-scoring cross-language alignments.\n- [Fausböll 1877] V. Fausböll (ed.), The Jātaka together with Its Commentary, Vol. 1 (1877) — Provided the Pali incipit and the commentary's narrative frame concerning Uttaraseṭṭhiputta.\n- [Anandajoti 2010] Bhikkhu Ānandajoti, Buddhist Wisdom Verses (2010) — Cites the title in an index of Jātaka verse texts.\n- [Appleton 2010] Naomi Appleton, Jātaka Stories in Theravāda Buddhism: Narrating the Bodhisatta Path (2010) — Used to distinguish Ja 118 from the homonymous Ja 35.\n- [Fausböll 1883] V. Fausböll (ed.), The Jātaka together with Its Commentary, Vol. 3 (1883) — Used to distinguish Ja 118 from the homonymous Ja 394.\n- [Söhnen-Thieme] Renate Söhnen-Thieme, Buddhist Tales in the Mahābhārata — Used to distinguish Ja 118 from the homonymous Ja 35.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Jataka Together with Its Commentary 1_ V. Fausböll, 1877",
+    "Buddhist Wisdom Verses. 551 verses from the Canon_Anandajoti, 2010",
+    "Jataka Stories in Theravada Buddhism. Narrating the Bodhisatta Path_Naomi Appleton, 2010",
+    "Jataka Together with Its Commentary 3_ V. Fausböll, 1883",
+    "Söhnen-Thieme_Buddhist tales in the Mahabharata"
+  ]
+}

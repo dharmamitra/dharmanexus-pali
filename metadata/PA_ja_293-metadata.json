@@ -1,0 +1,16 @@
+{
+  "displayName": "Kāyanibbindajātaka",
+  "textname": "Ja 293",
+  "category": "ja",
+  "filenr": 1961,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_293",
+  "raw_metadata": "# Kāyanibbindajātaka (Ja 293)\n\n**ID:** Ja 293\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Kāyanibbindajātaka\n**Title (English, SuttaCentral):** Dispassion for the Body\n**SuttaCentral:** https://suttacentral.net/ja293\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Kāyanibbindajātaka* (Ja 293), rendered in English as *Dispassion for the Body*, is a canonical narrative in the Pali Jātaka collection [SuttaCentral]. The framing story (*nidāna*) is situated at the Jetavana monastery, where the Buddha delivered the teaching concerning a man afflicted with jaundice who had been given up by his physicians as incurable [SuttaCentral]. In early modern scholarship, the critical apparatus to V. Fausböll’s edition records the manuscript reading *kayanibbinda-* [Fausböll 1879], while the index volume cross-references *Kayanibbinda-jātaka* to the form *Kāyavicchinda-* [Fausböll 1897].\n\nSuttaCentral notes modern translations into four languages, without cataloging any curated external parallels [SuttaCentral]. Computational analysis by DharmaNexus indicates Pali-internal text reuse between segments of the jātaka (§1.1–3.4) and both the commentary (*Jātaka-aṭṭhakathā*) and the *Visuddhimagga* (§326_5–334) [DharmaNexus]. In cross-language matching, DharmaNexus also identifies an automated textual alignment with the Tibetan *Suvarṇavarṇāvadāna* (D4144) [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§1.1–3.4 ↔ §2832–2839); Visuddhimaggo (Paṭhamo bhāgo) (Anya E0101n) (§1.1–3.4 ↔ §326_5–334)\n- Cross-language matches (DharmaNexus): གསེར་མདོག་གི་རྟོགས་པ་བརྗོད་པ། (suvarṇavarṇāvadāna) (D4144) [bo]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja293 — Title, English translation, setting, opening incident, and translation statistics\n- [DharmaNexus] DharmaNexus text-reuse matches for ja293 — Pali-internal text reuse with the commentary and Visuddhimagga, and Tibetan alignment\n- [Fausböll 1879] V. Fausböll, Jātaka Together with Its Commentary, Vol. 2 (1879) — Manuscript variant reading kayanibbinda- in critical apparatus\n- [Fausböll 1897] V. Fausböll, Jātaka Together with Its Commentary, Vol. 7: Index (1897) — Cross-reference to the alternative title Kāyavicchinda-\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Jataka Together with Its Commentary 2_ V. Fausböll, 1879",
+    "Jataka Together with Its Commentary 7_ V. Fausböll, 1897"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "displayName": "Sāketajātaka",
+  "textname": "Ja 237",
+  "category": "ja",
+  "filenr": 1905,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_237",
+  "raw_metadata": "# Sāketajātaka (Ja 237)\n\n**ID:** Ja 237\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sāketajātaka\n**Title (English, SuttaCentral):** The Brahmin Sāketa\n**SuttaCentral:** https://suttacentral.net/ja237\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sāketajātaka* (Ja 237) is a birth story in the *Dukanipāta* of the Pali Jātaka collection [Fausböll 1879]. Framed by the opening verse question *Ko nu kho bhagavā hetu* (\"Why are hearts cold...\"), the story was delivered by the Buddha while residing near the city of Sāketa, concerning an elderly brahmin of Sāketa [Fausböll 1879; SuttaCentral; Buswell & Lopez 2014]. The prose commentary explicitly observes that both the background story of the present (*paccuppannavatthu*) and the narrative of the past (*atītavatthu*) are identical to those previously related in the First Book (*Ekanipāta*, Ja 68) [Fausböll 1879; SuttaCentral]. In the resolution (*samodhāna*), the Buddha explains that the elderly brahmin and his wife had been his parents in former lives, and he himself was their son [Fausböll 1879].\n\nSuttaCentral records four translations of the text in four languages [SuttaCentral]. According to automated text-reuse analysis by DharmaNexus, the text exhibits internal Pali textual reuse with the *Jātaka-aṭṭhakathā* and the *Dhammapada-aṭṭhakathā*, centered on segments §2.1–2.4 (each sharing over 300 characters at 0.93 similarity) [DharmaNexus]. No cross-language parallels meeting the match threshold are reported by DharmaNexus [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Dhammapada-aṭṭhakathā (Atk S0502a) (§2.1–2.4 ↔ §596_4–598); Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§2.1–2.4 ↔ §1522–1523)\n\n**Sources**\n\n- [Fausböll 1879] V. Fausböll, Jātaka Together with Its Commentary, Vol. 2 (1879) — Provides the Pali edition text, incipit, contextual frame, commentary note referring back to the Ekanipāta, and samodhāna.\n- [SuttaCentral] SuttaCentral entry for ja237 — Supplies English title, blurb, and translation count.\n- [DharmaNexus] DharmaNexus text-reuse database — Supplies automated internal Pali reuse data for the Dhammapada-aṭṭhakathā and Jātaka-aṭṭhakathā.\n- [Buswell & Lopez 2014] Robert E. Buswell Jr. and Donald S. Lopez Jr., Princeton Dictionary of Buddhism (2014) — Attests Sāketa as the setting for the Sāketajātaka.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "Jataka Together with Its Commentary 2_ V. Fausböll, 1879",
+    "SuttaCentral",
+    "DharmaNexus",
+    "Princeton Dictionary of Buddhism_Buswell & Lopez 2014_"
+  ]
+}

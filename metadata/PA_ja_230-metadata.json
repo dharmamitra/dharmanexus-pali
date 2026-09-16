@@ -1,0 +1,14 @@
+{
+  "displayName": "Dutiyapalāyitajātaka",
+  "textname": "Ja 230",
+  "category": "ja",
+  "filenr": 1898,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_230",
+  "raw_metadata": "# Dutiyapalāyitajātaka (Ja 230)\n\n**ID:** Ja 230\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Dutiyapalāyitajātaka\n**Title (English, SuttaCentral):** The Fleer (2nd)\n**SuttaCentral:** https://suttacentral.net/ja230\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Dutiyapalāyitajātaka* (Ja 230), titled *The Fleer (2nd)*, is a narrative text preserved within the Pali Jātaka collection [SuttaCentral]. According to its traditional opening context, the Buddha related this account while staying at Jetavana concerning a wandering or \"gadabout\" mendicant, beginning with the opening verse words: \"Countless are my banners\" [SuttaCentral]. SuttaCentral records four translations of the text across four languages [SuttaCentral].\n\nIn terms of parallels and text reuse, SuttaCentral does not record any curated cross-canonical parallels in other languages [SuttaCentral]. Automated text alignment via DharmaNexus likewise reports no cross-language matches exceeding the standard similarity threshold in Chinese, Sanskrit, or Tibetan collections [DharmaNexus]. Within the Pali literary corpus, DharmaNexus identifies nine internal matches (amounting to 613 matching characters) between the canonical text and the commentary in the *Jātaka-aṭṭhakathā* (Dutiyo bhāgo), with the most extensive alignment connecting segments 2.1–2.4 of Ja 230 with segments 1404–1405 of the commentary [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§2.1–2.4 ↔ §1404–1405)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja230 — Provides canonical ID, Pali title, English translation title, opening blurb, and translation counts.\n- [DharmaNexus] DharmaNexus alignment database for Ja 230 — Supplies automated text-reuse matches between the canonical text and the Jātaka-aṭṭhakathā.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

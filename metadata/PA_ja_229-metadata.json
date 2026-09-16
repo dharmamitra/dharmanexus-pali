@@ -1,0 +1,15 @@
+{
+  "displayName": "Palāyitajātaka",
+  "textname": "Ja 229",
+  "category": "ja",
+  "filenr": 1897,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_229",
+  "raw_metadata": "# Palāyitajātaka (Ja 229)\n\n**ID:** Ja 229\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Palāyitajātaka\n**Title (English, SuttaCentral):** The Fleer (1st)\n**SuttaCentral:** https://suttacentral.net/ja229\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Palāyitajātaka* (Ja 229), rendered by Bhikkhu Sujato as *The Fleer (1st)*, is a short birth story preserved in the Pali Jātaka collection [SuttaCentral]. According to its traditional frame narrative, the Buddha recounted this story while dwelling at Jetavana in connection with a mendicant with vagrant inclinations, beginning with the opening phrase, “Lo, my elephants” [SuttaCentral].\n\nIn studies of early Buddhist perspectives on conflict, the *Palāyitajātaka* is cited alongside Jātaka 181 and Jātaka 230 as a narrative illustrating the valorization of capturing an enemy alive (*jīvagrāham*) or prevailing over opponents through psychological intimidation rather than bloodshed [Jerryson and Juergensmeyer 2010].\n\nSuttaCentral records four translations of the text in four languages [SuttaCentral]. While DharmaNexus reports no cross-language parallels with a similarity score of 10 or greater, it identifies four Pali-internal matching segments (totaling 596 characters) shared between the canonical text and the commentary in the *Jātaka-aṭṭhakathā* (Dutiyo bhāgo), with the longest match aligning §1.1–2.4 to commentary segments §1382_4–1388 at a similarity of 0.96 [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§1.1–2.4 ↔ §1382_4–1388)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral, entry for Ja 229 — Supplied the canonical identification, English title, narrative blurb, and translation count.\n- [DharmaNexus] DharmaNexus database — Supplied text-reuse matches with the Jātaka-aṭṭhakathā and confirmed the lack of high-scoring cross-language alignments.\n- [Jerryson and Juergensmeyer 2010] Michael Jerryson and Mark Juergensmeyer, eds., Buddhist Warfare (2010) — Discussed the text's valorization of winning without bloodshed or taking enemies alive through intimidation.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Buddhist Warfare_michael jerryson and mark juergensmeyer ed, 2010"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Valliyattheragāthā",
+  "textname": "Thag 2.3",
+  "category": "thag",
+  "filenr": 787,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_2.3",
+  "raw_metadata": "# Valliyattheragāthā (Thag 2.3)\n\n**ID:** Thag 2.3\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Valliyattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag2.3\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Valliyattheragāthā* (Thag 2.3) is a short poetic text situated within the *Dukanipāta* (Book of Twos) of the *Theragāthā* in the Pali canon [SuttaCentral]. It consists of verses associated with the elder (thera) Valliya [SuttaCentral]. The text has been widely translated in modern collections, with SuttaCentral cataloging nine translations across eight languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nNo independent parallels are curated by SuttaCentral, but automated text-reuse analysis via DharmaNexus demonstrates significant internal and cross-language textual connections [SuttaCentral; DharmaNexus]. Within the Pali tradition, DharmaNexus records three matching passages with the primary commentary, the *Theragāthā-aṭṭhakathā* (*Paṭhamo bhāgo*), spanning segments 0.4–2.5, corresponding to the commentary's lemma citations and line-by-line exegesis [DharmaNexus]. Across language corpora, DharmaNexus identifies six alignments with Harivarman's *Satyasiddhiśāstra* (*Tattvasiddhiśāstra*, as reconstructed in Sanskrit from the Chinese by N. Aiyaswami Sastri), including an alignment with opening segments 0.1–0.2 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.4–2.5 ↔ §3163–3167)\n- Cross-language matches (DharmaNexus): Harivarman (original author); N. Aiyaswami Sastri (Sanskrit reconstruction from Chinese): Satyasiddhiśāstra [Tattvasiddhiśāstra] (SA_T07_hvsatssu) [sa]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for thag2.3 — Supplied metadata on title, structure, and translations.\n- [DharmaNexus] DharmaNexus parallel matching data for thag2.3 — Identified Pali commentary citations and cross-language alignments with the Satyasiddhiśāstra.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

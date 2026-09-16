@@ -1,0 +1,14 @@
+{
+  "displayName": "Ahituṇḍikajātaka",
+  "textname": "Ja 365",
+  "category": "ja",
+  "filenr": 2033,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_365",
+  "raw_metadata": "# Ahituṇḍikajātaka (Ja 365)\n\n**ID:** Ja 365\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Ahituṇḍikajātaka\n**Title (English, SuttaCentral):** The Snake-Charmer\n**SuttaCentral:** https://suttacentral.net/ja365\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul4.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Ahituṇḍikajātaka* (Ja 365) is a canonical birth story found in the Jātaka section of the Pali Tipiṭaka [SuttaCentral]. According to the narrative framework recorded in its opening verse blurb (“Lo! here we lie”), the Buddha delivered this teaching while residing at Jetavana concerning an aged priest or elder monk, with the full narrative context noted as having been related previously in the *Sāḷaka* Birth (*Sāḷakajātaka*) [SuttaCentral]. SuttaCentral records four translations of the text across four languages [SuttaCentral].\n\nNo cross-language parallels with a score of 10 or greater are detected by DharmaNexus [DharmaNexus]. Internally within Pali literature, DharmaNexus identifies three matching text-reuse passages (totaling 556 characters) shared with the third volume of the *Jātaka-aṭṭhakathā* (Atk S0513a3), with the longest aligned sequence running between segments 1.4–5.4 and 1692–1704 at a 0.92 similarity score [DharmaNexus]. None of the gathered secondary literature passages discuss this Pali Jātaka directly, instead matching the lexical term *ahituṇḍika* in Sanskrit contexts or representing unrelated search collisions.\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§1.4–5.4 ↔ §1692–1704)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for Ja 365 (ja365) — Title, English translation title, opening blurb, setting, and translation counts\n- [DharmaNexus] DharmaNexus database (Ja 365 text-reuse matches) — Computed text-reuse alignments with the Jātaka-aṭṭhakathā and lack of cross-language matches\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

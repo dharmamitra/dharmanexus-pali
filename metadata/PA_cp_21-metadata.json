@@ -1,0 +1,14 @@
+{
+  "displayName": "Yudhañjayacariya",
+  "textname": "Cp 21",
+  "category": "cp",
+  "filenr": 1654,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_cp_21",
+  "raw_metadata": "# Yudhañjayacariya (Cp 21)\n\n**ID:** Cp 21\n**Section:** Cariyāpiṭaka (cp)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Yudhañjayacariya\n**Title (English, SuttaCentral):** The Conduct of Yudhañjaya\n**SuttaCentral:** https://suttacentral.net/cp21\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0512m.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Yudhañjayacariya* (\"The Conduct of Yudhañjaya\") is the twenty-first poem of the *Cariyāpiṭaka*, situated in the late Khuddaka Nikāya section of the Pali Canon [SuttaCentral]. Like other poems in the collection, it recounts a past life of the Bodhisatta demonstrating the cultivation of spiritual perfections (*pāramī*). Modern translations include an English rendering by Bhikkhu Sujato (*The Conduct of Yudhañjaya*), alongside two other translations recorded on SuttaCentral [SuttaCentral].\n\nIn terms of parallels and textual reuse, SuttaCentral records no curated cross-canonical parallels for this specific poem [SuttaCentral]. DharmaNexus identifies substantial Pali-internal text reuse with the commentary, the *Cariyāpiṭaka-aṭṭhakathā*, across eight matching segments, most notably between verses 1.2–2.4 and commentary sections 1267–1270 [DharmaNexus]. Automated cross-linguistic alignment by DharmaNexus also notes minor low-scoring similarities with the Sanskrit *Suvarṇaprabhāsasūtra*, though these constitute machine-detected phrase reuses rather than established historical parallels [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Cariyāpiṭaka-aṭṭhakathā (Atk S0512a) (§1.2–2.4 ↔ §1267–1270)\n- Cross-language matches (DharmaNexus): Suvarṇaprabhāsasūtra [Suvarṇaprabhāsottama(sūtra), Suvarṇabhāsottama-sūtra, Suvarṇa(pra)bhāsottama-sūtrendrarāja] (SA_K12_bsu035_u) [sa]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry cp21 (Yudhañjayacariya) — Title, canonical classification, English translation title, and translation metadata\n- [DharmaNexus] DharmaNexus text-reuse database (PA_cp_21) — Identified text reuse matches with the Cariyāpiṭaka-aṭṭhakathā and low-scoring Sanskrit Suvarṇaprabhāsasūtra alignments\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

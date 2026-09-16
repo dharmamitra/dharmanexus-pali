@@ -1,0 +1,15 @@
+{
+  "displayName": "Garahitajātaka",
+  "textname": "Ja 219",
+  "category": "ja",
+  "filenr": 1887,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_219",
+  "raw_metadata": "# Garahitajātaka (Ja 219)\n\n**ID:** Ja 219\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Garahitajātaka\n**Title (English, SuttaCentral):** Despised\n**SuttaCentral:** https://suttacentral.net/ja219\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Garahitajātaka* (Ja 219), rendered in English as \"Despised\", is a birth story preserved in the Pali Jātaka collection [SuttaCentral]. According to the narrative framework (*nidāna*), the Buddha related this story while dwelling at Jetavana concerning a monk afflicted with discontent and downcast in the religious life (*anabhiratiyā ukkaṇṭhita*) [Fausböll 1879; SuttaCentral]. The incipit of the story's verse begins *Hiraññam me suvaṇṇam me ti* (\"The gold is mine...\") [Fausböll 1879; SuttaCentral].\n\nIn the past-life narrative recounted by the Master, a certain location was scorned or despised, leading the characters to abandon it for another site, which gave rise to the place name *Garahitapiṭṭhipāsāṇa* [Fausböll 1879]. Upon the conclusion of the teaching of the Truths, the discontented monk attained the fruit of stream-entry (*sotāpattiphala*) [Fausböll 1879]. In the closing identification of the birth (*samodhāna*), the Buddha revealed that the troop of monkeys (*vānaragaṇa*) was the contemporary assembly of the Buddha (*Buddhaparisā*), while the monkey chief (*vānarinda*) was the Bodhisatta himself [Fausböll 1879].\n\nNo cross-language parallels in Chinese, Sanskrit, or Tibetan collections are listed on SuttaCentral [SuttaCentral]. DharmaNexus detects textual overlap exclusively within the Pali tradition, matching three passages with the commentary in the *Jātaka-aṭṭhakathā* (*Dutiyo bhāgo*), where the longest segment alignment (§1.1–2.6 with §1179–1184) exhibits a 0.93 similarity score [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§1.1–2.6 ↔ §1179–1184)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja219 — Pali title, English translation title, setting blurb, and parallel information\n- [DharmaNexus] DharmaNexus text-reuse database — Computed text-reuse data showing Pali-internal alignment with the Jātaka commentary\n- [Fausböll 1879] V. Fausböll, Jātaka Together with Its Commentary, Vol. 2 (1879) — Nidāna setting, incipit verse, Garahitapiṭṭhipāsāṇa narrative detail, fruit of stream-entry, and samodhāna\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Jataka Together with Its Commentary 2_ V. Fausböll, 1879"
+  ]
+}

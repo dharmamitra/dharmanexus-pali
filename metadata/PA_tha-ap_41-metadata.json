@@ -1,0 +1,14 @@
+{
+  "displayName": "Dhammacakkikattheraapadāna",
+  "textname": "Tha-Ap 41",
+  "category": "tha-ap",
+  "filenr": 1042,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_tha-ap_41",
+  "raw_metadata": "# Dhammacakkikattheraapadāna (Tha-Ap 41)\n\n**ID:** Tha-Ap 41\n**Section:** Therāpadāna (tha-ap)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Dhammacakkikattheraapadāna\n**SuttaCentral:** https://suttacentral.net/tha-ap41\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0510m1.mul3.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Dhammacakkikattheraapadāna* (Tha-Ap 41) is a verse text belonging to the Therāpadāna section of the late canonical Pali literature [SuttaCentral]. SuttaCentral records five modern translations of the text in five languages, but provides no translated English title [SuttaCentral].\n\nNo cross-language parallels in Chinese, Sanskrit, or Tibetan are recorded on SuttaCentral, and DharmaNexus finds no cross-language matches scoring 10 or higher [SuttaCentral; DharmaNexus]. Within Pali literature, DharmaNexus registers seven passages of internal text reuse across two other Therāpadāna poems [DharmaNexus]. The closest text-reuse partner is the immediately succeeding *Kapparukkhiyattheraapadāna* (Tha-Ap 42), which shares five passages totaling 502 characters, centered notably around segments §5.4–7.1 in both texts with a similarity of 0.91 [DharmaNexus]. In addition, the text shares two passages totaling 416 characters with the *Umāpupphiyattheraapadāna* (Tha-Ap 147), with the longest match aligning segments §3.4–8.1 of this text with §3.1–7.1 of Tha-Ap 147 (similarity 0.65) [DharmaNexus].\n\nDirect discussion or critical study of this specific text is absent from the surveyed reference literature; passages matching the designation 'Apadāna 41' in secondary sources refer instead to page 41 of the Pali Text Society volume or represent incidental footnote numbers.\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Kapparukkhiyattheraapadāna (Tha-Ap 42) (§5.4–7.1 ↔ §5.4–7.1); Umāpupphiyattheraapadāna (Tha-Ap 147) (§3.4–8.1 ↔ §3.1–7.1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for tha-ap41 — Text title, acronym, section, and translation availability.\n- [DharmaNexus] DharmaNexus database match results for PA_tha-ap_41 — Pali-internal text reuse matches with Tha-Ap 42 and Tha-Ap 147, and confirmation of lack of high-scoring cross-language alignments.\n",
+  "reflit_confidence": "low",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Sabbamittattheragāthā",
+  "textname": "Thag 2.15",
+  "category": "thag",
+  "filenr": 799,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_2.15",
+  "raw_metadata": "# Sabbamittattheragāthā (Thag 2.15)\n\n**ID:** Thag 2.15\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Sabbamittattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag2.15\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sabbamittattheragāthā* (Thag 2.15) is a short Pali poetic text situated in the *Theragāthā* section of the early Buddhist discourses [SuttaCentral]. On SuttaCentral, nine translations across eight languages are registered, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nNo direct external parallels in other canonical collections are recorded on SuttaCentral [SuttaCentral]. Computational analysis through DharmaNexus shows internal Pali text reuse exclusively with the commentary on the work, the *Theragāthā-aṭṭhakathā* (Paṭhamo bhāgo), involving six matching segments (including the segment range §0.4–2.5) [DharmaNexus]. DharmaNexus records no cross-language matches in Chinese, Sanskrit, or Tibetan corpora [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.4–2.5 ↔ §3464_14–3470)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for thag2.15 — Canonical location, title, and listing of translations and parallels\n- [DharmaNexus] DharmaNexus alignment data for thag2.15 — Text-reuse matches with the Theragāthā commentary and lack of cross-language matches\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

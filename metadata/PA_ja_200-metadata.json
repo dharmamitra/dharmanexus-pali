@@ -1,0 +1,15 @@
+{
+  "displayName": "Sādhusīlajātaka",
+  "textname": "Ja 200",
+  "category": "ja",
+  "filenr": 1868,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_200",
+  "raw_metadata": "# Sādhusīlajātaka (Ja 200)\n\n**ID:** Ja 200\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sādhusīlajātaka\n**Title (English, SuttaCentral):** Good is Virtue\n**SuttaCentral:** https://suttacentral.net/ja200\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sādhusīlajātaka* (Ja 200), translated in modern listings as \"Good is Virtue,\" is a canonical Jātaka tale belonging to the *Jātaka* collection of the Pali Tipiṭaka [SuttaCentral]. In the Pali text and commentary edited by V. Fausböll, it constitutes the tenth and final story of the *Ruhakavagga*, the fifth section of the *Dukanipāta* [Fausböll 1879]. The story is framed by a setting at Jetavana, where the Buddha addresses a situation involving a certain brahmin with four daughters [SuttaCentral; Fausböll 1879]. Four suitors sought the daughters in marriage: one was handsome and well-formed (*abhirūpo sarīrasampanno*), one elderly (*vayappatto mahallako*), one of noble birth (*jātisampanno*), and one virtuous (*sīlavā*) [Fausböll 1879]. Resolving to bestow the daughters upon the virtuous man, the brahmin followed the advice of a world-renowned teacher (*disāpāmokkhācariya*), whom the Buddha identifies in the *samodhāna* as having been himself in a past life [Fausböll 1879].\n\nTextual reuse analysis by DharmaNexus identifies four matching segments between the verses of the *Sādhusīlajātaka* and the *Jātaka-aṭṭhakathā* (Dutiyo bhāgo), the longest span encompassing segments §2.1–2.4 aligned with commentary sections §847–848 at a 0.95 similarity score [DharmaNexus]. Neither SuttaCentral nor DharmaNexus identifies any cross-language parallels in Sanskrit, Chinese, or Tibetan traditions [SuttaCentral; DharmaNexus]. SuttaCentral records four translations across four languages [SuttaCentral].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§2.1–2.4 ↔ §847–848)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja200 — Pali and English titles, blurb, and translation count.\n- [DharmaNexus] DharmaNexus database alignment data for ja200 — Text-reuse matches with Jātaka-aṭṭhakathā and lack of cross-language matches.\n- [Fausböll 1879] V. Fausböll, The Jātaka together with its commentary, Vol. 2 (1879) — Pali text, chapter placement in the Ruhakavagga, narrative setting, and samodhāna.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Jataka Together with Its Commentary 2_ V. Fausböll, 1879"
+  ]
+}

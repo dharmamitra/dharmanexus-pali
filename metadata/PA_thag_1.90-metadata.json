@@ -1,0 +1,14 @@
+{
+  "displayName": "Sāmidattattheragāthā",
+  "textname": "Thag 1.90",
+  "category": "thag",
+  "filenr": 754,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_1.90",
+  "raw_metadata": "# Sāmidattattheragāthā (Thag 1.90)\n\n**ID:** Thag 1.90\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Sāmidattattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag1.90\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sāmidattattheragāthā* (Thag 1.90) is a short canonical poem located within the *Theragāthā* of the Pali Tipiṭaka [SuttaCentral]. The text preserves the verse attributed to the elder (thera) Sāmidatta [SuttaCentral]. On SuttaCentral, nine translations in eight modern languages are recorded, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nNeither SuttaCentral nor DharmaNexus reports any curated or machine-detected cross-language parallels in Sanskrit, Chinese, or Tibetan traditions [SuttaCentral; DharmaNexus]. DharmaNexus records fourteen Pali-internal text-reuse alignments, all occurring within the *Theragāthā-aṭṭhakathā*: eight matches with the first volume (*Paṭhamo bhāgo*, centered around segments 0.4–1.5) and six matches with the second volume (*Dutiyo bhāgo*) [DharmaNexus]. No secondary literature passages discussing the text were retrieved in the dataset.\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.4–1.5 ↔ §2311–2312); Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§0.4–1.5 ↔ §1408–1409)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for Thag 1.90 — Title, textual classification, and catalog of translations\n- [DharmaNexus] DharmaNexus computed parallels for Thag 1.90 — Pali-internal text reuse alignments with Theragāthā-aṭṭhakathā\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

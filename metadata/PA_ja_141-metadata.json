@@ -1,0 +1,17 @@
+{
+  "displayName": "Godhajātaka",
+  "textname": "Ja 141",
+  "category": "ja",
+  "filenr": 1809,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_141",
+  "raw_metadata": "# Godhajātaka (Ja 141)\n\n**ID:** Ja 141\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Godhajātaka\n**Title (English, SuttaCentral):** The Iguana Who Befriended a Chameleon\n**SuttaCentral:** https://suttacentral.net/ja141\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Godhajātaka* (Ja 141) is the opening narrative of the fourteenth chapter (*Asampadānavagga*) in the first book of the Pali *Jātaka* collection [Anandajoti 2010; Fausböll 1877]. Its canonical verse begins *Na pāpajanasamsevī accantasukham edhati* (\"He who consorts with evil persons never attains lasting happiness\") [Adikaram 1946; Fausböll 1877]. In the commentarial framing, the Buddha delivered this discourse while residing at the Bamboo Grove (Veḷuvana) concerning a treacherous monk who consorted with the hostile faction; the commentary notes that the introductory account (*paccuppannavatthu*) corresponds to that of the *Mahilāmukhajātaka* [Fausböll 1877; SuttaCentral]. In the narrative of the past set during the reign of King Brahmadatta of Bārāṇasī, the Bodhisatta was reborn as an iguana or monitor lizard (*godhayoni*) [Fausböll 1877].\n\nThe text preserves an important philological note regarding the transmission of Pali canonical verses: E. W. Adikaram highlights that the Pali *Jātaka-aṭṭhakathā* explicitly records a variant between the canonical text and the older Sinhalese commentary tradition [Adikaram 1946]. In the verse line *Godhākulaṁ kakanto va kaliṁ pāpeti attānaṁ*, the canonical text read *phalaṁ* in place of *kaliṁ*, but the commentator rejected *phalaṁ* as irrelevant to the meaning [Adikaram 1946].\n\nRegarding parallels and text reuse, SuttaCentral lists four modern translations in four languages but no external parallels in other Buddhist canonical corpora [SuttaCentral]. Automated analysis by DharmaNexus similarly identifies no Pali-internal text reuse and no cross-language matches with a score of 10 or greater [DharmaNexus].\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Ja 141 — Provides English title, blurb on setting and introductory incident, and translation data.\n- [DharmaNexus] DharmaNexus database match results for Ja 141 — Confirms lack of significant Pali-internal text reuse and cross-language alignments.\n- [Anandajoti 2010] Anandajoti, Buddhist Wisdom Verses: 551 verses from the Canon (2010) — Lists Godhajātaka within the sequential list of canonical Jātaka verses.\n- [Adikaram 1946] E. W. Adikaram, Early History of Buddhism in Ceylon (1946) — Documents the canonical verse and commentarial variation between phalaṁ and kaliṁ.\n- [Fausböll 1877] V. Fausböll, The Jātaka together with Its Commentary, Vol. 1 (1877) — Supplies the text and commentary incipit, vagga placement, setting at Veḷuvana, and past-life setting.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Buddhist Wisdom Verses. 551 verses from the Canon_Anandajoti, 2010",
+    "Early History of Buddhism in Ceylon_E. W. Adikaram, 1946",
+    "Jataka Together with Its Commentary 1_ V. Fausböll, 1877"
+  ]
+}

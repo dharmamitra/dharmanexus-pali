@@ -1,0 +1,14 @@
+{
+  "displayName": "Kāyapiyāyanapañha",
+  "textname": "Mil 3.6.1",
+  "category": "mil",
+  "filenr": 2393,
+  "collection": "Suttas-Late-2",
+  "filename": "PA_mil_3.6.1",
+  "raw_metadata": "# Kāyapiyāyanapañha (Mil 3.6.1)\n\n**ID:** Mil 3.6.1\n**Section:** Milindapañha (mil)\n**Collection:** Suttas-Late-2\n**Title (Pali):** Kāyapiyāyanapañha\n**Title (English, SuttaCentral):** The Question on Love for the Body\n**SuttaCentral:** https://suttacentral.net/mil3.6.1\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0518m.nrf1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Kāyapiyāyanapañha* (\"The Question on Love for the Body\", Mil 3.6.1) is a dialogue situated within the *Milindapañha* [SuttaCentral]. The text has been translated into multiple modern languages, including an English translation by John Kelly [SuttaCentral].\n\nIn terms of parallels and text reuse, SuttaCentral identifies a full Chinese parallel in the second Chinese recension of the Milinda dialogue, T 1670b 2.53 (\"The Function of a Sramana’s Body\") [SuttaCentral]. While DharmaNexus reports no Pali-internal text reuse, it identifies low-scoring automated cross-language alignments between this text and the Chinese *Madhyama Āgama* (中阿含經, T 26, fascicle 38), matching segment §1.4 with §0671b25_10–0671b25_21 with a maximum plausibility score of 20 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Full parallels (SuttaCentral): T 1670b 2.53 2.53 The Function of a Sramana’s Body\n- Cross-language matches (DharmaNexus): 中阿含經 (ZH_T01_0026) [zh]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for mil3.6.1 — Title, English title, translation listing, and identification of the Chinese parallel T 1670b.\n- [DharmaNexus] DharmaNexus text-reuse database — Pali-internal reuse absence and cross-language alignment matches with the Chinese Madhyama Āgama (T 26).\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

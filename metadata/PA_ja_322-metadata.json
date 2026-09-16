@@ -1,0 +1,16 @@
+{
+  "displayName": "Duddubhajātaka",
+  "textname": "Ja 322",
+  "category": "ja",
+  "filenr": 1990,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_322",
+  "raw_metadata": "# Duddubhajātaka (Ja 322)\n\n**ID:** Ja 322\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Duddubhajātaka\n**Title (English, SuttaCentral):** It Fell With a Thud\n**SuttaCentral:** https://suttacentral.net/ja322\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul3.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Duddubhajātaka* (Ja 322; alternatively spelled *Daddabhajātaka*) is a story belonging to the Jātaka collection of the Pali Canon [Anandajoti 2010]. According to its opening nidāna, the framing story was related by the Buddha while residing at Jetavana concerning a group of heretics [SuttaCentral]. \n\nThe narrative relates the well-known fable of a hare who hears the sound of a falling fruit—commented upon as a ripe bael fruit (*beluvapakka*) falling with a thud (*duddubha* / *dabhakka*)—and panics under the delusion that the world is ending [Anandajoti 2010; Fausböll 1883]. The hare's flight triggers widespread panic among a vast multitude of animals (*migavāhinī*), until the Bodhisatta investigates the source of the commotion and calms the beasts [Anandajoti 2010; Fausböll 1883]. The concluding verses (*abhisambuddhagāthā*) observe that fools who heed rumors without discerning the truth succumb to negligence and hearsay (*paraghosānusārino*), whereas virtuous and wise practitioners who find peace through discernment remain unaffected by external panic [Fausböll 1883].\n\nText-reuse analysis in DharmaNexus identifies three internal Pali matches between the canonical text and the commentary in the *Jātaka-aṭṭhakathā* (Tatiyo bhāgo), covering verses §1.4–4.4 [DharmaNexus]. Neither SuttaCentral nor DharmaNexus records cross-language parallels in Chinese, Sanskrit, or Tibetan corpora [SuttaCentral; DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§1.4–4.4 ↔ §582_5–591)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Ja 322 (Duddubhajātaka) — Supplied the canonical title, English title, framing setting blurb, and translation counts.\n- [DharmaNexus] DharmaNexus automated text reuse matches for Ja 322 — Provided text reuse alignments with the Jātaka-aṭṭhakathā.\n- [Anandajoti 2010] Bhikkhu Ānandajoti, Buddhist Wisdom Verses: 551 Verses from the Canon (2010) — Provided the variant title Daddabhajātakam, English subtitle, and narrative summary of the panicked hare.\n- [Fausböll 1883] V. Fausböll, The Jātaka Together with Its Commentary, Vol. 3 (1883) — Provided the Pali verse text, gloss on the bael fruit and thud sound, and identification of the three abhisambuddhagāthā.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Buddhist Wisdom Verses. 551 verses from the Canon_Anandajoti, 2010",
+    "Jataka Together with Its Commentary 3_ V. Fausböll, 1883"
+  ]
+}

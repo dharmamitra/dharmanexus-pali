@@ -1,0 +1,15 @@
+{
+  "displayName": "Uragajātaka",
+  "textname": "Ja 154",
+  "category": "ja",
+  "filenr": 1822,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_154",
+  "raw_metadata": "# Uragajātaka (Ja 154)\n\n**ID:** Ja 154\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Uragajātaka\n**Title (English, SuttaCentral):** The Snake\n**SuttaCentral:** https://suttacentral.net/ja154\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Uragajātaka* (Ja 154), translated as *The Snake*, is a birth story belonging to the Jātaka collection of the Khuddaka Nikāya [Catalog; SuttaCentral]. According to the narrative framework recorded in the tradition, the Buddha recounted this discourse while residing at Jetavana to address a quarrel among soldiers, opening with the phrase \"Concealed within a stone\" [SuttaCentral]. In secondary scholarship, Cecil Bendall cites Jātaka No. 154 in his edition of Śāntideva's *Śikṣāsamuccaya* as an instance demonstrating that serpents in Buddhist narrative literature are credited with the capacity for metamorphosis [Bendall 1902]. This text must be distinguished from the homonymous and widely known *Uragajātaka* of the *Pañcakanipāta* (Ja 354), which treats grief over a son's fatal snakebite [Bendall 1902; SuttaCentral].\n\nTextual alignment data from DharmaNexus identifies no cross-language matches with Chinese, Sanskrit, or Tibetan corpora at or above the threshold score of 10 [DharmaNexus]. Within Pali literature, DharmaNexus records ten matching passages totaling 765 characters of canonical and prose overlap with the second volume of the *Jātaka-aṭṭhakathā* (Dutiyo bhāgo), the longest continuous parallel spanning segments 1.4–2.4 of the text against segments 71–74 of the commentary [DharmaNexus]. SuttaCentral registers four modern translations in four languages [SuttaCentral].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§1.4–2.4 ↔ §71–74)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja154 (Uragajātaka) — Supplies titles, narrative setting at Jetavana regarding a soldiers' quarrel, opening line, and translation counts.\n- [DharmaNexus] DharmaNexus database analysis for ja154 — Provides Pali-internal text reuse matches with the Jātaka commentary and notes the absence of cross-language matches.\n- [Bendall 1902] Cecil Bendall, Cikshasamuccaya: A Compendium of Buddhistic Teaching (1902) — Notes that Jātaka No. 154 demonstrates the metamorphic power of snakes in Buddhist literature.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Cikshasamuccaya (Sikshasamuccaya). Compendium of Buddhistic Teaching by Cantideva_Cecil Bendall, 1902"
+  ]
+}

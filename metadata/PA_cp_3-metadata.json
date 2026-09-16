@@ -1,0 +1,14 @@
+{
+  "displayName": "Kururājacariya",
+  "textname": "Cp 3",
+  "category": "cp",
+  "filenr": 1636,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_cp_3",
+  "raw_metadata": "# Kururājacariya (Cp 3)\n\n**ID:** Cp 3\n**Section:** Cariyāpiṭaka (cp)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Kururājacariya\n**Title (English, SuttaCentral):** The Conduct of the King of Kuru\n**SuttaCentral:** https://suttacentral.net/cp3\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0512m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Kururājacariya* (\"The Conduct of the King of Kuru\") is the third text in the *Cariyāpiṭaka* collection of the Pali Canon [SuttaCentral]. SuttaCentral records three translations across three modern languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\nRegarding textual parallels and internal reuse, DharmaNexus identifies 15 Pali-internal matching passages across two texts [DharmaNexus]. The *Kururājacariya* shares substantial material with the *Vessantaracariya* (Cp 9), comprising six matches totalling 827 characters, with its longest parallel alignment spanning segments §2.1–5.4 of the *Kururājacariya* and §15.4–20.4 of the *Vessantaracariya* [DharmaNexus]. Furthermore, DharmaNexus aligns nine passages (752 characters) of the text with its commentary, the *Cariyāpiṭaka-aṭṭhakathā* (Atk S0512a), with the longest segment match occurring between §4.1–5.4 and commentary sections §287–291 [DharmaNexus]. No cross-language matches with Chinese, Tibetan, or Sanskrit corpora are reported with a score of 10 or higher [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Vessantaracariya (Cp 9) (§2.1–5.4 ↔ §15.4–20.4); Cariyāpiṭaka-aṭṭhakathā (Atk S0512a) (§4.1–5.4 ↔ §287–291)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for Cp 3 — Title, English translation title, and translation count\n- [DharmaNexus] DharmaNexus automated text-reuse matches for Cp 3 — Pali-internal text-reuse matches with Cp 9 and the Cariyāpiṭaka commentary, and absence of high-scoring cross-language alignments\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

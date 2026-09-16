@@ -1,0 +1,14 @@
+{
+  "displayName": "Catuposathiyajātaka",
+  "textname": "Ja 441",
+  "category": "ja",
+  "filenr": 2109,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_441",
+  "raw_metadata": "# Catuposathiyajātaka (Ja 441)\n\n**ID:** Ja 441\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Catuposathiyajātaka\n**Title (English, SuttaCentral):** The Four Sabbaths\n**SuttaCentral:** https://suttacentral.net/ja441\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul9.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Catuposathiyajātaka* (Ja 441), translated as \"The Four Sabbaths\", is a canonical story in the Jātaka collection of the Pali Tipiṭaka [SuttaCentral]. The text is closely connected to the story of Puṇṇaka, with SuttaCentral recording that the narrative of this birth is described within the Punnaka Birth [SuttaCentral]. SuttaCentral catalogs four translations of the text across four languages [SuttaCentral].\n\nText-reuse data computed by DharmaNexus indicates 28 internal Pali reuse matches across two texts [DharmaNexus]. Substantial verse or prose material is shared with the *Jātaka-aṭṭhakathā* (*Sattamo bhāgo*), totaling 16 matches (2,394 characters; longest matching passage at §11.1–14.4) [DharmaNexus]. Furthermore, 12 matches (503 characters) are shared with the *Aggaggasamaṇapañha* of the *Milindapañha* (Mil 5.3.9), with a prominent alignment at §9.4–9.6 [DharmaNexus]. Beyond Pali, DharmaNexus identifies low-scoring automated cross-language matches with the Sanskrit *Patna Dharmapada* (6 matches, including §8.4–9.1) and the Chinese *Bieyi za ahan jing* (別譯雜阿含經, T 100; 2 matches, including §9.1) [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Sattamo bhāgo) (Atk S0514a3) (§11.1–14.4 ↔ §2257–2264); Aggaggasamaṇapañha (Mil 5.3.9) (§9.4–9.6 ↔ §1.3–2.2)\n- Cross-language matches (DharmaNexus): Patna Dharmapada (SA_K14_dhppat_u) [sa]; 別譯雜阿含經 (ZH_T02_0100) [zh]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Ja 441 (Catuposathiyajātaka) — Pali title, English translation title, cross-reference note to the Punnaka Birth, and translation count\n- [DharmaNexus] DharmaNexus text-reuse database — Pali-internal reuse matches with the Jātaka commentary and Milindapañha, and cross-language alignments with the Patna Dharmapada and T 100\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Bhusapetavatthu",
+  "textname": "Pv 29",
+  "category": "pv",
+  "filenr": 642,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_pv_29",
+  "raw_metadata": "# Bhusapetavatthu (Pv 29)\n\n**ID:** Pv 29\n**Section:** Petavatthu (pv)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Bhusapetavatthu\n**Title (English, SuttaCentral):** The Hay Ghost\n**SuttaCentral:** https://suttacentral.net/pv29\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0507m.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Bhusapetavatthu* (\"The Hay Ghost\", Pv 29) is a verse narrative preserved in the *Petavatthu* collection [SuttaCentral]. The text illustrates the karmic consequences of unwholesome actions, emphasizing that greed and deceit lead inevitably to pain and suffering [SuttaCentral]. SuttaCentral records five translations of the story across five languages [SuttaCentral].\n\nRegarding text reuse, DharmaNexus identifies seven shared passages between the text and the commentary, the *Petavatthu-aṭṭhakathā*, with the most extensive alignment covering segments 2.1–6.4 [DharmaNexus]. DharmaNexus also reports automatically computed cross-language alignments with Śāntideva's *Bodhicaryāvatāra* in Sanskrit and Tibetan, as well as minor shared segments with the Sanskrit *Carmavastu* [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Petavatthu-aṭṭhakathā (Atk S0507a) (§2.1–6.4 ↔ §1973–1988)\n- Cross-language matches (DharmaNexus): བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ། (bodhisattvacaryāvatāra) (D3871) [bo]; Śāntideva: Bodhicaryāvatāra [Bodhisattvacaryāvatāra] (SA_T04_bsa003_u) [sa]; Carmavastu (SA_K01_vinv05_u) [sa]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Pv 29 (Bhusapetavatthu) — Supplied title, English translation title, moral theme blurb, and translation count.\n- [DharmaNexus] DharmaNexus computed text-reuse database — Provided Pali-internal matches with the Petavatthu-aṭṭhakathā and cross-language alignments with the Bodhicaryāvatāra and Carmavastu.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

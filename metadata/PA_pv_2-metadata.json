@@ -1,0 +1,15 @@
+{
+  "displayName": "Sūkaramukhapetavatthu",
+  "textname": "Pv 2",
+  "category": "pv",
+  "filenr": 615,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_pv_2",
+  "raw_metadata": "# Sūkaramukhapetavatthu (Pv 2)\n\n**ID:** Pv 2\n**Section:** Petavatthu (pv)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sūkaramukhapetavatthu\n**Title (English, SuttaCentral):** The Story of a Ghost With a Pig’s Mouth\n**SuttaCentral:** https://suttacentral.net/pv2\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0507m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sūkaramukhapetavatthu* (Pv 2) is a canonical verse narrative located in the *Petavatthu* collection of the Pali Khuddaka Nikāya [SuttaCentral]. Translated into English as *The Story of a Ghost With a Pig’s Mouth*, its central moral lesson is that even the use of harsh speech is enough to cause severe karmic retribution and suffering in the afterlife [SuttaCentral].\n\nAn early European translation from the Pali was published in French under the title *Histoire du Preta à museau de cochon (Sukara-mukha-peta-vatthu)* in the volume *Fragments extraits du Kandjour* (1883) [Fragments extraits du Kandjour 1883]. SuttaCentral records five modern translations across five languages [SuttaCentral].\n\nRegarding text reuse and parallels, SuttaCentral lists no parallels for this text [SuttaCentral]. Text-reuse analysis by DharmaNexus identifies five Pali-internal matches between Pv 2 and its commentary, the *Petavatthu-aṭṭhakathā*, with the longest shared passage occurring across segments 3.1–3.4 (aligned with commentary segments 68–69); no cross-language matches above threshold are detected [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Petavatthu-aṭṭhakathā (Atk S0507a) (§3.1–3.4 ↔ §68–69)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for pv2 (Sūkaramukhapetavatthu) — Supplied the canonical title, English translation, blurb on harsh speech, lack of external parallels, and count of translations.\n- [DharmaNexus] DharmaNexus text-reuse database for PA_pv_2 — Reported 5 internal text-reuse segments shared with Petavatthu-aṭṭhakathā and lack of cross-language matches.\n- [Fragments extraits du Kandjour 1883] Léon Feer (ed./transl.), Fragments extraits du Kandjour (1883) — Attests the early French translation from Pali entitled 'Histoire du Preta à museau de cochon (Sukara-mukha-peta-vatthu)'.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Fragments extraits du Kandjour_1883"
+  ]
+}

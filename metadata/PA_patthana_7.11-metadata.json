@@ -1,0 +1,14 @@
+{
+  "displayName": "Sekkhattika",
+  "textname": "Patthana 7.11",
+  "category": "patthana",
+  "filenr": 3445,
+  "collection": "Abhidhamma",
+  "filename": "PA_patthana_7.11",
+  "raw_metadata": "# Sekkhattika (Patthana 7.11)\n\n**ID:** Patthana 7.11\n**Section:** Patthana (patthana)\n**Collection:** Abhidhamma\n**Title (Pali):** Sekkhattika\n**SuttaCentral:** https://suttacentral.net/patthana7.11\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/abh03m11.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\n*Sekkhattika* (Patthana 7.11) is a canonical text belonging to the *Paṭṭhāna* division of the *Abhidhamma Piṭaka* [SuttaCentral]. No English translations or curated external parallels are recorded for this individual section on SuttaCentral [SuttaCentral].\n\nComputational analysis via DharmaNexus identifies no cross-language matches with Chinese, Sanskrit, or Tibetan texts meeting the score threshold, but reveals substantial Pali-internal text reuse within the *Paṭṭhāna* collection [DharmaNexus]. The text shares 38 passages with 12 other *Paṭṭhāna* sections, demonstrating high formulaic overlap [DharmaNexus]. Its primary reuse partners include *Vitakkattikādi, Kusalattika* (Patthana 11.15; sharing 1,272 characters, especially between segments §1.1–2.1 and §5.1_0–6.1), *Vipākattikādi, Hetuduka* (Patthana 10.11; 1,132 characters, notably segments §1.1–2.1 and §3.1–4.1), and the closely situated *Ācayagāmittika* (Patthana 7.10; segments §0.1–2.1 matching §0.1–2.1) [DharmaNexus]. Other recurring textual alignments are shared with sections such as Patthana 10.4, Patthana 10.13, and Patthana 7.9 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Vitakkattikādi, Kusalattika (Patthana 11.15) (§1.1–2.1 ↔ §5.1_0–6.1); Vipākattikādi, Hetuduka (Patthana 10.11) (§1.1–2.1 ↔ §3.1–4.1); Ācayagāmittika (Patthana 7.10) (§0.1–2.1 ↔ §0.1–2.1); Kusalattika, Cūḷantaraduka (Patthana 10.4) (§1.1–2.1 ↔ §17.1–18.1); Sanidassanattika, Cūḷantaraduka (Patthana 10.13) (§0.1–2.1 ↔ §0.1–2.1); Upādinnattika, Kusalattika (Patthana 11.13) (§0.1–1.1 ↔ §0.1–1.1); Dassanahetuttika (Patthana 7.9) (§0.1–1.1 ↔ §0.1–1.1); Kusalattika, Piṭṭhiduka (Patthana 10.9) (§0.1–1.1 ↔ §0.1–1.1_1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for patthana7.11 — Identification, structural placement in the Abhidhamma, and title details.\n- [DharmaNexus] DharmaNexus text-reuse database — Internal text-reuse alignments across other sections of the Paṭṭhāna.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

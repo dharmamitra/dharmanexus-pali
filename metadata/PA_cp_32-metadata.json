@@ -1,0 +1,15 @@
+{
+  "displayName": "Sutasomacariya",
+  "textname": "Cp 32",
+  "category": "cp",
+  "filenr": 1665,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_cp_32",
+  "raw_metadata": "# Sutasomacariya (Cp 32)\n\n**ID:** Cp 32\n**Section:** Cariyāpiṭaka (cp)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Sutasomacariya\n**Title (English, SuttaCentral):** The Conduct of Sutasoma\n**SuttaCentral:** https://suttacentral.net/cp32\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0512m.mul2.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Sutasomacariya* (\"The Conduct of Sutasoma\", Cp 32) is a canonical verse narrative belonging to the *Cariyāpiṭaka* section of the late Pali Sutta Piṭaka [SuttaCentral]. The text recounts the bodhisatta's conduct in past lives as King Sutasoma, exemplifying the perfection of virtues leading to awakening within the present aeon (*kappa*) [Bareau, Récits canoniques]. In modern scholarship, André Bareau identifies and enumerates it as the thirty-second story (*Sutasoma-Cariyam*) in his study of canonical *Cariyāpiṭaka* narratives and their relation to the Pali Jātakas [Bareau, Récits canoniques]. An English translation entitled *The Conduct of Sutasoma* has been produced by Bhikkhu Sujato, with translations into two other modern languages also recorded [SuttaCentral].\n\nIn terms of parallels and text reuse, SuttaCentral identifies no external parallels in Chinese Āgama, Sanskrit, or Tibetan collections [SuttaCentral]. Automated alignment via DharmaNexus likewise reports no cross-language matches meeting significance thresholds [DharmaNexus]. Within Pali literature, DharmaNexus identifies 13 matching segments (comprising 711 characters in total) shared exclusively with its traditional commentary, the *Cariyāpiṭaka-aṭṭhakathā* (Atk S0512a), with the longest continuous correspondence occurring between §3.3–4.2 of the root text and §1736_2–1737_0 of the commentary [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Cariyāpiṭaka-aṭṭhakathā (Atk S0512a) (§3.3–4.2 ↔ §1736_2–1737_0)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry cp32 — titles, catalog placement, modern translations, and lack of external parallels\n- [DharmaNexus] DharmaNexus text-reuse database — text-reuse data with Cariyāpiṭaka-aṭṭhakathā and lack of cross-language matches\n- [Bareau, Récits canoniques] André Bareau, Les récits canoniques du Cariyāpiṭaka et les Jātaka Pāli — attestation of the title Sutasoma-Cariyam and collection numbering in comparative Jātaka study\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Bareau_Les récits canoniques du Cariyāpiṭaka et les Jātaka Pāli"
+  ]
+}

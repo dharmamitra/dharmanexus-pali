@@ -1,0 +1,15 @@
+{
+  "displayName": "Pūtimukhapetavatthu",
+  "textname": "Pv 3",
+  "category": "pv",
+  "filenr": 616,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_pv_3",
+  "raw_metadata": "# Pūtimukhapetavatthu (Pv 3)\n\n**ID:** Pv 3\n**Section:** Petavatthu (pv)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Pūtimukhapetavatthu\n**Title (English, SuttaCentral):** The Story of a Ghost With a Stinky Mouth\n**SuttaCentral:** https://suttacentral.net/pv3\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0507m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Pūtimukhapetavatthu* (Pv 3) is a text within the *Petavatthu* collection concerning the karmic consequences of verbal misconduct [SuttaCentral]. In the narrative, a hungry ghost explains the danger of harsh speech, lying, and slander [SuttaCentral; Shirker]. The ghost—a former monk who is encountered floating in mid-air by the elder Nārada—exhibits a striking contrast: while possessing a radiant, heavenly body, he is tormented by a worm-infested, foul-smelling mouth as retribution for his past slander [Shirker]. The peta implores Nārada that compassionate and skilled teachers should caution others never to engage in slander or falsehoods [Shirker]. The story's background involves two austere monks residing harmoniously in a village setting, touching upon the status of a *puthujjana* (an uninstructed worldling lacking the insight of noble disciples) [Shirker].\n\nSuttaCentral notes five translations of the text in five modern languages, without recording any external parallels [SuttaCentral]. Computational analysis by DharmaNexus identified no cross-language parallels with score ≥ 10, but found internal Pali text reuse spanning eight matching passages (709 characters, longest segment §0.3–1.4) shared with the commentary, the *Petavatthu-aṭṭhakathā* [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Petavatthu-aṭṭhakathā (Atk S0507a) (§0.3–1.4 ↔ §78_3–81)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for pv3 — Title, English translation title, blurb, and translation counts.\n- [DharmaNexus] DharmaNexus computed text reuse data for pv3 — Internal text reuse matches with Petavatthu-aṭṭhakathā and absence of cross-language matches.\n- [Shirker] Shirker, Petavatthu dissertation — Details on the narrative, the peta's appearance and verses addressed to Nārada, karma of slander, and thematic context of the puthujjana.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Shirker_Petavatthu dissertation"
+  ]
+}

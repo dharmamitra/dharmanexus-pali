@@ -1,0 +1,14 @@
+{
+  "displayName": "Vedikārakattheraapadāna",
+  "textname": "Tha-Ap 145",
+  "category": "tha-ap",
+  "filenr": 1146,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_tha-ap_145",
+  "raw_metadata": "# Vedikārakattheraapadāna (Tha-Ap 145)\n\n**ID:** Tha-Ap 145\n**Section:** Therāpadāna (tha-ap)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Vedikārakattheraapadāna\n**SuttaCentral:** https://suttacentral.net/tha-ap145\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0510m1.mul14.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Vedikārakattheraapadāna* (Tha Ap 145) is a verse narrative preserved in the *Therāpadāna* section of the Pali Khuddaka Nikāya [SuttaCentral]. SuttaCentral records five modern translations of the text in five languages [SuttaCentral].\n\nNo curated cross-language parallels are catalogued on SuttaCentral, and DharmaNexus finds no cross-language matches meeting its threshold [SuttaCentral; DharmaNexus]. However, automated text-reuse analysis via DharmaNexus identifies internal Pali reuse across two works: nine passages are shared with the commentary to the *Theragāthā* (*Theragāthā-aṭṭhakathā*, Paṭhamo bhāgo; longest segment alignment §0.3–4.3 with §2332_9–2340), and three passages are shared with another Apadāna poem, the *Kapparukkhiyattheraapadāna* (Tha Ap 42; longest segment alignment §4.4–6.1 with §5.4–7.1) [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.3–4.3 ↔ §2332_9–2340); Kapparukkhiyattheraapadāna (Tha-Ap 42) (§4.4–6.1 ↔ §5.4–7.1)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for tha-ap145 — Provides canonical title, identification details, and translation count.\n- [DharmaNexus] DharmaNexus text-reuse database for PA_tha-ap_145 — Identifies Pali-internal shared segments with Theragāthā-aṭṭhakathā and Kapparukkhiyattheraapadāna.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

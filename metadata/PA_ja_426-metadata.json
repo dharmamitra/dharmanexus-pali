@@ -1,0 +1,16 @@
+{
+  "displayName": "Dīpijātaka",
+  "textname": "Ja 426",
+  "category": "ja",
+  "filenr": 2094,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_426",
+  "raw_metadata": "# Dīpijātaka (Ja 426)\n\n**ID:** Ja 426\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Dīpijātaka\n**Title (English, SuttaCentral):** The Panther\n**SuttaCentral:** https://suttacentral.net/ja426\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul7.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Dīpijātaka* (Ja 426) is a canonical birth story in the Jātaka collection, positioned within the *Kaccānivagga* of the *Aṭṭhanipāta* [Fausböll 1883]. According to the traditional framework, the Buddha related this story while residing at Jetavana with reference to a certain she-goat [SuttaCentral]. The narrative features an interaction between a she-goat (*eḷikā*) and a panther (*dīpi* / *dīpika*), observed by an ascetic (*tāpaso*); in the concluding identification (*samodhāna*), the Buddha identifies himself as having been that ascetic [Fausböll 1883]. The text is cataloged with verse selections in modern collections such as that of Ānandajoti [Ānandajoti 2010].\n\nTextual reuse is recorded between the verse text and the commentary in the third volume of the *Jātaka-aṭṭhakathā* [DharmaNexus; Fausböll 1883]. DharmaNexus also detects substantial cross-language text-reuse alignments with the Sanskrit *Saṅghabhedavastu* (14 matches, similarity scores reaching 85) and identifies lower-level correspondence with Tibetan texts, including the *Bodhisatvāvadānakalpalatā* [DharmaNexus]. Four modern translations across four languages are indexed on SuttaCentral [SuttaCentral].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Tatiyo bhāgo) (Atk S0513a3) (§7.1–8.4 ↔ §4282_2–4288)\n- Cross-language matches (DharmaNexus): Saṅghabhedavastu 2 (SA_K01_vinv172u) [sa]; BO_K01_D0001-4_H0001-4 [bo]; བྱང་ཆུབ་སེམས་དཔའི་རྟོགས་པ་བརྗོད་པ་དཔག་བསམ་གྱི་འཁྲི་ཤིང་། (bodhisatvāvadānakalpalatā) (D4155-2) [bo]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ja426 — Provides English title, incipit, opening setting, and translation count.\n- [DharmaNexus] DharmaNexus text-reuse database — Identifies Pali-internal reuse in the Jātaka commentary and cross-language alignments with Sanskrit and Tibetan works.\n- [Ānandajoti 2010] Ānandajoti, Buddhist Wisdom Verses: 551 verses from the Canon (2010) — Lists Dīpijātakam among canonical verse texts.\n- [Fausböll 1883] V. Fausböll, The Jātaka together with its Commentary, Vol. 3 (1883) — Provides the edition of the samodhāna and commentary, placing it in the Kaccānivagga of the Aṭṭhanipāta.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Buddhist Wisdom Verses. 551 verses from the Canon_Anandajoti, 2010",
+    "Jataka Together with Its Commentary 3_ V. Fausböll, 1883"
+  ]
+}

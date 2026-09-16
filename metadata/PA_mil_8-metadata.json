@@ -1,0 +1,14 @@
+{
+  "displayName": "Nigamana",
+  "textname": "Mil 8",
+  "category": "mil",
+  "filenr": 2579,
+  "collection": "Suttas-Late-2",
+  "filename": "PA_mil_8",
+  "raw_metadata": "# Nigamana (Mil 8)\n\n**ID:** Mil 8\n**Section:** Milindapañha (mil)\n**Collection:** Suttas-Late-2\n**Title (Pali):** Nigamana\n**Title (English, SuttaCentral):** Epilogue\n**SuttaCentral:** https://suttacentral.net/mil8\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0518m.nrf4.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Nigamana* (\"Epilogue\"), designated as Mil 8, constitutes the terminal section of the post-canonical *Milindapañha* [SuttaCentral]. SuttaCentral records three modern translations of this text across three languages [SuttaCentral]. None of the secondary literature passages located in the research corpus specifically discuss this concluding portion of the *Milindapañha*, as the matches for *nigamana* refer entirely to closing verses or colophons of other canonical and post-canonical works, or to the concluding statement (*nigamana*) within Indian syllogistic logic.\n\nNo cross-language parallels are cataloged on SuttaCentral or identified by DharmaNexus with a score of 10 or higher [SuttaCentral; DharmaNexus]. DharmaNexus does, however, record Pali-internal text reuse comprising 44 matches across three texts [DharmaNexus]. The text shares extensive material with the commentary on the *Theragāthā* (*Theragāthā-aṭṭhakathā*), including 34 matching passages (2,179 characters; longest match §4.1_3 ↔ §1635_15) in the first volume and 5 matches (327 characters) in the second volume [DharmaNexus]. Additionally, 5 passages (332 characters) are shared with the *Catukkanipāta* of the *Aṅguttara Nikāya* (AN 4), with the longest correspondence found between §3.2_2–3.2_3 and AN 4.111 (§111.5.3) at a similarity score of 0.86 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§4.1_3 ↔ §1635_15); Catukkanipāta (AN 4) (§3.2_2–3.2_3 ↔ §111.5.3); Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§4.1_3 ↔ §159_11–159_12)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Mil 8 (mil8) — Basic bibliographic identity, English title, and translation count\n- [DharmaNexus] DharmaNexus text reuse matches for PA_mil_8 — Pali-internal text reuse matches with the Theragāthā-aṭṭhakathā and Aṅguttara Nikāya (AN 4)\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Upātidhāvanti Sutta",
+  "textname": "Ud 6.9 (PTS Ud 72)",
+  "category": "ud",
+  "filenr": 322,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_ud_6.9",
+  "raw_metadata": "# Upātidhāvanti Sutta (Ud 6.9 (PTS Ud 72))\n\n**ID:** Ud 6.9 (PTS Ud 72)\n**Section:** Udāna (ud)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Upātidhāvanti Sutta\n**SuttaCentral:** https://suttacentral.net/ud6.9\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0503m.mul5.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Upātidhāvanti Sutta* is the ninth discourse of the sixth chapter of the *Udāna* in the Khuddaka Nikāya, cataloged at page 72 of the Pali Text Society edition [SuttaCentral]. The discourse delivers an inspired utterance centered on the imagery of insects flying into the open flames of lamps set out during the night [SuttaCentral].\n\nPassage-level parallels to the verse are identified across multiple recensions of the *Udānavarga* tradition, specifically corresponding to chapter 29 (the *Yugavarga* or \"Day and Night\" chapter; Chinese 相應品 / 雙要品) in Sanskrit texts (UV 29, UVS 29), the Tibetan translation (Uv Kg 29), and Chinese translations in the Taishō canon (T 212.30 and T 213.29) [SuttaCentral]. In addition, computational analysis by DharmaNexus records internal Pali text-reuse alignments in the introductory narrative frame (§0.2–1.3), which is shared with other discourses in the *Udāna*, including the *Nanda Sutta* (Ud 3.2), the *Sundarī Sutta* (Ud 4.8), and the *Catutthanibbānapaṭisaṁyutta Sutta* (Ud 8.4) [DharmaNexus].\n\nThe sutta is represented on SuttaCentral with sixteen translations across thirteen modern languages, including an English translation by Bhikkhu Sujato [SuttaCentral].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Passage-level parallels (SuttaCentral): UV 29 Yugavarga; T 212.30 雙要品第三十; T 213.29 法集要頌經相應品第二十九; Uv Kg 29 Day and Night; UVS 29 Yugavarga\n- Text reuse within the Pali corpus (DharmaNexus): Nanda Sutta (Ud 3.2 (PTS Ud 21)) (§0.2–1.3 ↔ §0.1–1.3); Catutthanibbānapaṭisaṁyutta Sutta (Ud 8.4 (PTS Ud 81)) (§0.2–1.3 ↔ §0.1–1.3); Sundarī Sutta (Ud 4.8 (PTS Ud 43)) (§0.2–1.3 ↔ §0.1–1.3)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for ud6.9 — Bibliographic metadata, summary blurb, parallel relations, and modern translation records\n- [DharmaNexus] DharmaNexus text-reuse database — Identification of shared formulaic narrative segments across Udāna discourses\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

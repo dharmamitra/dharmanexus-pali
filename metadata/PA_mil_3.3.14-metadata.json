@@ -1,0 +1,14 @@
+{
+  "displayName": "Vicāralakkhaṇapañha",
+  "textname": "Mil 3.3.14",
+  "category": "mil",
+  "filenr": 2372,
+  "collection": "Suttas-Late-2",
+  "filename": "PA_mil_3.3.14",
+  "raw_metadata": "# Vicāralakkhaṇapañha (Mil 3.3.14)\n\n**ID:** Mil 3.3.14\n**Section:** Milindapañha (mil)\n**Collection:** Suttas-Late-2\n**Title (Pali):** Vicāralakkhaṇapañha\n**Title (English, SuttaCentral):** The Question on the Mark of Examination\n**SuttaCentral:** https://suttacentral.net/mil3.3.14\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0518m.nrf1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Vicāralakkhaṇapañha* (\"The Question on the Mark of Examination\", Mil 3.3.14) is a dialogue situated within the third division of the *Milindapañha* [SuttaCentral]. SuttaCentral records four translations of the dialogue across three modern languages, including an English translation by John Kelly [SuttaCentral].\n\nIn comparative literature, SuttaCentral identifies a full parallel to the text in the Chinese translation of the *Nāgasena-sūtra* tradition at T 1670b 2.34, under the title \"The Sustained Thought\" [SuttaCentral]. Computationally, DharmaNexus identifies internal Pali text reuse consisting of five matching segments (358 characters in total) shared with the *Phassalakkhaṇapañha* (Mil 3.3.8), with the longest corresponding sequence running between segments §0.3–2.2 of the present text and §1.3_2–3.2 of Mil 3.3.8 [DharmaNexus]. DharmaNexus reports no cross-language alignments with a score of 10 or higher [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Full parallels (SuttaCentral): T 1670b 2.34 2.34 The Sustained Thought\n- Text reuse within the Pali corpus (DharmaNexus): Phassalakkhaṇapañha (Mil 3.3.8) (§0.3–2.2 ↔ §1.3_2–3.2)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry mil3.3.14 — Pali title, English title, translation inventory, and Chinese parallel T 1670b 2.34\n- [DharmaNexus] DharmaNexus database alignment results for mil3.3.14 — Pali-internal text reuse data matching Mil 3.3.8 and cross-language alignment data\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "displayName": "Kosiyattheragāthā",
+  "textname": "Thag 5.12",
+  "category": "thag",
+  "filenr": 873,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thag_5.12",
+  "raw_metadata": "# Kosiyattheragāthā (Thag 5.12)\n\n**ID:** Thag 5.12\n**Section:** Theragāthā (thag)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Kosiyattheragāthā\n**SuttaCentral:** https://suttacentral.net/thag5.12\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0508m.mul4.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Kosiyattheragāthā* (Thag 5.12) is a canonical Pali verse text located in the *Theragāthā* collection of the Khuddaka Nikāya [SuttaCentral]. The verses are attributed to the elder (thera) Kosiya. While no dedicated English title is provided in the SuttaCentral record, the text has been translated into multiple modern languages, with nine translations across eight languages recorded on SuttaCentral, including an English rendering by Bhikkhu Sujato [SuttaCentral].\n\nNo cross-language parallels or early external concordances are recorded in SuttaCentral or identified by DharmaNexus with a score of 10 or higher [SuttaCentral; DharmaNexus]. DharmaNexus detects substantial Pali-internal text reuse exclusively with the text's commentary, the *Theragāthā-aṭṭhakathā (Dutiyo bhāgo)* (Atk S0508a2), across eleven matching passages (1,728 characters), with the primary alignment covering verses §0.4–5.5 of the root text against commentary segments §963–980 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Dutiyo bhāgo) (Atk S0508a2) (§0.4–5.5 ↔ §963–980)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for Thag 5.12 (Kosiyattheragāthā) — Supplied metadata on title, collection, translation records, and absence of external parallels\n- [DharmaNexus] DharmaNexus alignment database for Thag 5.12 — Supplied Pali-internal text reuse matches with the Theragāthā commentary and confirmed absence of cross-language matches\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

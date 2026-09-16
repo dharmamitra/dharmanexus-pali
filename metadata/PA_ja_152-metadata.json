@@ -1,0 +1,15 @@
+{
+  "displayName": "Siṅgālajātaka",
+  "textname": "Ja 152",
+  "category": "ja",
+  "filenr": 1820,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_152",
+  "raw_metadata": "# Siṅgālajātaka (Ja 152)\n\n**ID:** Ja 152\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Siṅgālajātaka\n**Title (English, SuttaCentral):** The Jackal\n**SuttaCentral:** https://suttacentral.net/ja152\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Siṅgālajātaka* (Ja 152, also attested as *Sigālajātaka*) is a birth story preserved in the *Jātaka* section of the Pali canon [Catalog; Anandajoti 2010]. In modern presentation it is titled *The Jackal* [SuttaCentral] and rendered thematically by Anandajoti as *Acting without Consideration* [Anandajoti 2010]. According to its opening nidāna, the Buddha recounted this story while dwelling in his gabled chamber at Vesālī, occasioned by a barber of that city [SuttaCentral].\n\nIn the story of the past, a pack of lions seeks to avenge an insult committed against their sister; they rashly pounce upon what seems to be a jackal, but which is merely a reflection. All the lions perish as a result of their unreflective leap, save for the Bodhisatta, who correctly perceives the illusion [Anandajoti 2010].\n\nSuttaCentral records no curated cross-language parallels for this text, though it notes four translations into modern languages [SuttaCentral]. Text-reuse analysis by DharmaNexus confirms this absence of significant cross-language alignments (score ≥ 10), while identifying six Pali-internal reuse segments shared directly with the *Jātaka-aṭṭhakathā* (Dutiyo bhāgo), the longest correspondence occurring at segments 2.2–2.6 [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Dutiyo bhāgo) (Atk S0513a2) (§2.2–2.6 ↔ §40–41)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja152 — Supplied title, setting in Vesālī involving a barber, blurb, and translation counts.\n- [Anandajoti 2010] Anandajoti, Bhikkhu, Buddhist Wisdom Verses: 551 verses from the Canon (2010) — Provided alternative title spelling Sigālajātakam, English thematic subtitle, and story summary.\n- [DharmaNexus] DharmaNexus database alignment matches for ja152 — Provided text-reuse data with the Jātaka-aṭṭhakathā and lack of cross-language parallels.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "Buddhist Wisdom Verses. 551 verses from the Canon_Anandajoti, 2010",
+    "DharmaNexus"
+  ]
+}

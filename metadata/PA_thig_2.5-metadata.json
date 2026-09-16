@@ -1,0 +1,14 @@
+{
+  "displayName": "Cittātherīgāthā",
+  "textname": "Thig 2.5",
+  "category": "thig",
+  "filenr": 951,
+  "collection": "Suttas-Early-2",
+  "filename": "PA_thig_2.5",
+  "raw_metadata": "# Cittātherīgāthā (Thig 2.5)\n\n**ID:** Thig 2.5\n**Section:** Therīgāthā (thig)\n**Collection:** Suttas-Early-2\n**Title (Pali):** Cittātherīgāthā\n**SuttaCentral:** https://suttacentral.net/thig2.5\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0509m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Cittātherīgāthā* (Thig 2.5) is a short poetic text belonging to the *Therīgāthā* (“Verses of Senior Nuns”) in the Pali Canon's *Khuddakanikāya* [SuttaCentral]. It preserves the verses ascribed to the elder nun (*therī*) Cittā. The text is represented on SuttaCentral in thirteen translations across ten modern languages, including English translations by Bhikkhu Sujato and Ayya Soma [SuttaCentral]. None of the secondary literature passages provided in the dossier address this poem directly, as all returned results represent homonymous matches for the common doctrinal term *citta* (“mind”, “consciousness”) or for male figures named Citta [SuttaCentral].\n\nIn terms of parallels and textual reuse, SuttaCentral lists no curated parallels in other Buddhist traditions [SuttaCentral]. DharmaNexus reports no cross-language matches with a score of 10 or higher in Chinese, Sanskrit, or Tibetan corpora [DharmaNexus]. However, DharmaNexus identifies internal Pali reuse with two texts: the commentary *Therīgāthā-aṭṭhakathā* (four matches, with segments §1.1–3.1 matching commentary sections §415–421 at 0.94 similarity) and the immediately following poem in the collection, the *Mettikātherīgāthā* (Thig 2.6; two matches, sharing segments §0.1–2.2 at 0.67 similarity), reflecting formulaic and phrasing affinities common across the *Therīgāthā* [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on SuttaCentral and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Therīgāthā-aṭṭhakathā (Atk S0509a) (§1.1–3.1 ↔ §415–421); Mettikātherīgāthā (Thig 2.6) (§0.1–2.2 ↔ §0.1–2.2)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry thig2.5 (Cittātherīgāthā) — Bibliographic details, modern translations, and confirmation of no curated parallels.\n- [DharmaNexus] DharmaNexus text-reuse database for PA_thig_2.5 — Data on Pali-internal text reuse with the Therīgāthā-aṭṭhakathā and Thig 2.6, and absence of cross-language matches.\n",
+  "reflit_confidence": "medium",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "displayName": "Mahiṁsarājacariya",
+  "textname": "Cp 15",
+  "category": "cp",
+  "filenr": 1648,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_cp_15",
+  "raw_metadata": "# Mahiṁsarājacariya (Cp 15)\n\n**ID:** Cp 15\n**Section:** Cariyāpiṭaka (cp)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Mahiṁsarājacariya\n**Title (English, SuttaCentral):** The Conduct of the Buffalo King\n**SuttaCentral:** https://suttacentral.net/cp15\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0512m.mul1.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Mahiṁsarājacariya* (“The Conduct of the Buffalo King”) is the fifteenth narrative of the *Cariyāpiṭaka* [Catalog; SuttaCentral; Bareau, Les récits canoniques]. The text is linked thematically to the *Mahiṁsarājajātaka* (Ja 278) of the Jātaka collection [SuttaCentral]. In his edition of the text, Richard Morris notes that tales such as the *Mahiṁsarājacariya* are substantially shorter than their prose Jātaka counterparts, because the compiler was primarily concerned with illustrating the moral virtue of the Bodhisatta, deliberately setting aside the humor, narrative elaboration, and entertainment of the older stories [Morris 1882].\n\nTextual reuse data computed by DharmaNexus indicates five matching passages between the *Mahiṁsarājacariya* and its commentary, the *Cariyāpiṭaka-aṭṭhakathā* (the longest match spanning segments 6.3–7.1) [DharmaNexus]. DharmaNexus also detects minor cross-language alignments with the Chinese *Qishi yinben jing* (起世因本經, T 25), though with low similarity scores (maximum 15) and without confirmation as an established parallel [DharmaNexus]. Modern translations listed on SuttaCentral include three translations across three languages, including an English version by Bhikkhu Sujato [SuttaCentral].\n\n**Parallels and text reuse**\n\n- Mentioned in (SuttaCentral): Ja 278 Mahiṁsarājajātaka\n- Text reuse within the Pali corpus (DharmaNexus): Cariyāpiṭaka-aṭṭhakathā (Atk S0512a) (§6.3–7.1 ↔ §1022_2–1023_0)\n- Cross-language matches (DharmaNexus): 起世因本經 (ZH_T01_0025) [zh]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for cp15 — Title, English translation title, link to Ja 278, and listing of translations.\n- [DharmaNexus] DharmaNexus matches for PA_cp_15 — Internal reuse matches with Cariyāpiṭaka-aṭṭhakathā and cross-language alignments with T 25.\n- [Morris 1882] Richard Morris, The Cariyā-Piṭaka (London: Pali Text Society, 1882) — Analysis of the extreme brevity and moral focus of the Mahiṁsarājacariya compared to the Jātaka prose.\n- [Bareau, Les récits canoniques] André Bareau, Les récits canoniques du Cariyāpiṭaka et les Jātaka Pāli — Enumeration and title form within the Cariyāpiṭaka corpus.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Cariyapitaka_Richard Morris, 1882",
+    "Bareau_Les récits canoniques du Cariyāpiṭaka et les Jātaka Pāli"
+  ]
+}

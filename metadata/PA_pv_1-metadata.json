@@ -1,0 +1,15 @@
+{
+  "displayName": "Khettūpamapetavatthu",
+  "textname": "Pv 1",
+  "category": "pv",
+  "filenr": 614,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_pv_1",
+  "raw_metadata": "# Khettūpamapetavatthu (Pv 1)\n\n**ID:** Pv 1\n**Section:** Petavatthu (pv)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Khettūpamapetavatthu\n**Title (English, SuttaCentral):** The Simile of a Field\n**SuttaCentral:** https://suttacentral.net/pv1\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0507m.mul0.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Khettūpamapetavatthu* (\"The Simile of a Field\", Pv 1) is the opening story (*vatthu*) of the canonical *Petavatthu* [SuttaCentral; Norman 1983]. Unlike many stories in the collection that follow a conventional narrative dialogue between an observer and a suffering spirit (*peta*) recounting past misdeeds, the text appears to have been included simply because it incorporates the word *peta* [Norman 1983]. It conveys the teaching that arahants are like a fertile field wherein offerings can be planted, and that honouring arahants and *petas* is like planting seeds that will produce a corresponding karmic reward (*phala*) in due course [SuttaCentral; Norman 1983].\n\nTranslations of the text are cataloged in five languages on SuttaCentral, including an English version by Kovilo Bhikkhu [SuttaCentral].\n\nNeither SuttaCentral nor DharmaNexus records any cross-language parallels in Chinese, Sanskrit, or Tibetan collections [SuttaCentral; DharmaNexus]. In terms of internal Pali reuse, machine alignment via DharmaNexus records six matching passages with the commentary, the *Petavatthu-aṭṭhakathā* (longest match spanning §1.1–4.4 of this text and §38_7–47 of the commentary) [DharmaNexus].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Petavatthu-aṭṭhakathā (Atk S0507a) (§1.1–4.4 ↔ §38_7–47)\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral record for pv1 — Title, English translation title, blurb on arahants as a field for offerings, and translation listings.\n- [DharmaNexus] DharmaNexus alignment data for PA_pv_1 — Pali-internal text reuse with Petavatthu-aṭṭhakathā and lack of cross-language matches.\n- [Norman 1983] K. R. Norman, Pali Literature (1983) — Identification as the first story of the Petavatthu, doctrinal content on honouring arahants and petas as planting seeds to receive karmic reward, and context within the collection.\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "DharmaNexus",
+    "Pali literature. Including the canonical literature in Prakrit and Sanskrit of all the Hinayana schools of Buddhism_K. R Norman, 1983"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "displayName": "Meṇḍakapañhajātaka",
+  "textname": "Ja 471",
+  "category": "ja",
+  "filenr": 2139,
+  "collection": "Suttas-Late-1",
+  "filename": "PA_ja_471",
+  "raw_metadata": "# Meṇḍakapañhajātaka (Ja 471)\n\n**ID:** Ja 471\n**Section:** Jātaka (ja)\n**Collection:** Suttas-Late-1\n**Title (Pali):** Meṇḍakapañhajātaka\n**Title (English, SuttaCentral):** The Question of Meṇḍaka\n**SuttaCentral:** https://suttacentral.net/ja471\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0513m.mul11.xml\n\n## AI-generated Overview (from reference literature and SuttaCentral)\n\n*This overview was drafted by an AI model from the cited scholarship and SuttaCentral data and may contain errors; verify against the sources before relying on it.*\n\nThe *Meṇḍakapañhajātaka* (Ja 471) is a narrative within the canonical Pāli Jātaka collection [SuttaCentral]. According to the traditional editorial framework, the problem or tale of Meṇḍaka is cross-referenced or given fully under the Ummagga Birth (*Mahā-ummagga Jātaka*) [SuttaCentral]. SuttaCentral records translations of the text in four modern languages [SuttaCentral].\n\nEpigraphic and artistic evidence from the Pagan period in Burma demonstrates that the story was regularly identified and depicted in temple illustrations [WinThanTun 2002]. In Pagan-era temple plaques and inscriptions, the Jātaka appears under several variant titles and spellings, including *Mendakapañha* (found at Winido and Shwezigon), *Mendapañha* (at Ajagona, Chaukhpayahla, and Gubyaukgyi [Myinkaba]), *Mindapañha* (at Thingaraza and Thambula), *Mendoka* (at Gubyaukgyi [Wetkyi-in]), and *Siriminda* (at the Ananda Temple) [WinThanTun 2002].\n\nRegarding text reuse and parallels, DharmaNexus reports extensive Pāli-internal correspondence with the commentary, identifying 22 matching segments comprising 2,549 shared characters with the *Jātaka-aṭṭhakathā* (*Chaṭṭho bhāgo*, Atk S0514a2) [DharmaNexus]. DharmaNexus also suggests minor machine-computed cross-language alignments with the Chinese *Madhyama Āgama* (中阿含經, T 26), though these are not confirmed as historical parallels by SuttaCentral [DharmaNexus; SuttaCentral].\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Jātaka-aṭṭhakathā (Chaṭṭho bhāgo) (Atk S0514a2) (§0.4–2.4 ↔ §2405–2410)\n- Cross-language matches (DharmaNexus): 中阿含經 (ZH_T01_0026) [zh]\n\n**Sources**\n\n- [SuttaCentral] SuttaCentral entry for ja471 (Meṇḍakapañhajātaka) — Title, English title translation, blurb note on Ummagga Jātaka, translation count\n- [WinThanTun 2002] Win Than Tun, Buddhism Pagan period (2002) — Pagan-era temple inscriptions, depictions, and title variants (Mendapañha, Mindapañha, Mendoka, Siriminda)\n- [DharmaNexus] DharmaNexus computed text reuse database — Internal text matches with Jātaka-aṭṭhakathā and alignment scores with Chinese Madhyama Āgama\n",
+  "reflit_confidence": "high",
+  "reflit_sources": [
+    "SuttaCentral",
+    "Buddhism Pagan period_WinThanTun, 2002",
+    "DharmaNexus"
+  ]
+}

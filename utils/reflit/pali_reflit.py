@@ -12,7 +12,7 @@ Steps (all in one file for the pilot):
 Usage: pali_reflit.py [--files PA_dn_1,PA_mn_10 | all] [--steps scan,aggregate,dossier,gemini,assemble] [--model M] [--workers N]
        assemble writes into ../../metadata/ unless --out is given
 """
-import argparse, collections, gzip, hashlib, json, os, re, sys, time
+import argparse, collections, hashlib, json, os, re, sys, time
 from multiprocessing import Pool
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
@@ -29,10 +29,7 @@ SC_PAR = os.path.join(SC_DATA, 'relationship', 'parallels.json')
 META_OUT = os.path.join(HERE, '..', '..', 'metadata')
 SKIP = {'cleaned_skt-en-mono.txt', 'english_sc_monolingual.txt'}
 SECRETS = os.path.expanduser('~/code/mitra-evaluation/.secrets.env')
-MATCHES = os.environ.get('DN_MATCHES', os.path.expanduser('~/data/dharmanexus-data/matches'))
-XLANG_MIN = int(os.environ.get('REFLIT_XLANG_MIN', '10'))   # min gemini_score for cross-language matches
 EXCLUDE_AUTHORS = {'sujato'}   # Bhikkhu Sujato's work (titles, translations, blurbs) is left out at his wish
-REUSE_MIN_CHARS = 300   # ignore Pali-internal reuse partners sharing less than this (header boilerplate)
 for d in ('research', 'overviews', 'metadata_preview', 'sc'):
     os.makedirs(os.path.join(W, d), exist_ok=True)
 
@@ -453,112 +450,6 @@ def sc_block(rec):
     out += sc_par_block(s['uid'], s.get('type') != 'leaf')
     return '\n'.join(out) + '\n'
 
-# ------------------------------------------------------------------ local (DharmaNexus) parallels
-_names = {}
-def text_name(fn):
-    """displayName + textname for a DharmaNexus file id of any language."""
-    lang = fn[:2]
-    if lang not in _names:
-        cat = {'PA': PA, 'ZH': '~/data/dharmanexus-chinese/ZH_files.json', 'SA': '~/data/dharmanexus-sanskrit/SA_files.json',
-               'BO': '~/data/dharmanexus-tibetan/BO_files.json', 'EN': '~/data/dharmanexus-english/EN_files.json'}.get(lang)
-        _names[lang] = {}
-        if cat and os.path.exists(os.path.expanduser(cat)):
-            for x in json.load(open(os.path.expanduser(cat))):
-                _names[lang][x['filename']] = x
-    x = _names[lang].get(fn)
-    if not x:
-        return fn
-    dn, tn = x.get('displayName', ''), x.get('textname', '')
-    return f"{dn} ({tn})" if tn and tn != dn else (dn or fn)
-
-def seg_range(segs):
-    a, b = segs[0].split(':', 1)[1], segs[-1].split(':', 1)[1]
-    return f"§{a}" if a == b else f"§{a}–{b}"
-
-def pali_reuse(tid, top=15):
-    """Pali-internal text reuse from matches/pa/<tid>.ndjson.gz, aggregated per partner file."""
-    p = os.path.join(MATCHES, 'pa', f'{tid}.ndjson.gz')
-    if not os.path.exists(p):
-        return None
-    by = collections.defaultdict(lambda: {'n': 0, 'len': 0, 'best': None})
-    for line in gzip.open(p, 'rt', encoding='utf-8'):
-        m = json.loads(line)
-        par = m['par_segnr'][0].split(':', 1)[0]
-        if par == tid:
-            continue
-        d = by[par]; d['n'] += 1; d['len'] += m.get('par_length', 0)
-        if d['best'] is None or m.get('par_length', 0) > d['best'][0]:
-            d['best'] = (m.get('par_length', 0), seg_range(m['root_segnr']), seg_range(m['par_segnr']), round(m.get('score', 0), 2))
-    by = {f: d for f, d in by.items() if d['len'] >= REUSE_MIN_CHARS}
-    out = sorted(by.items(), key=lambda kv: -kv[1]['len'])
-    return {'n_partners': len(by), 'n_matches': sum(d['n'] for d in by.values()),
-            'top': [{'file': f, 'name': text_name(f), 'n': d['n'], 'chars': d['len'], 'longest': d['best']} for f, d in out[:top]]}
-
-_xidx = None
-def xlang_index(files):
-    """Cross-language matches (pa->zh/sa/bo) for the given Pali files, read once from matches/multilingual/pa-*."""
-    global _xidx
-    if _xidx is not None:
-        return _xidx
-    _xidx = collections.defaultdict(lambda: collections.defaultdict(lambda: {'n': 0, 'len': 0, 'best': 0, 'ex': None}))
-    global _xprom; _xprom = collections.defaultdict(set)   # partner -> set of Pali files it matches (promiscuity)
-    md = os.path.join(MATCHES, 'multilingual')
-    for fn in sorted(os.listdir(md)):
-        if not fn.startswith('pa-'):
-            continue
-        for line in gzip.open(os.path.join(md, fn), 'rt', encoding='utf-8'):
-            m = json.loads(line)
-            gs = m.get('gemini_score', 0) or 0
-            if m.get('filename') not in files:
-                par = m['par_segnr'][0].split(':', 1)[0]
-                if gs >= XLANG_MIN: _xprom[par].add(m['filename'])
-                continue
-            if gs < XLANG_MIN:
-                continue
-            par = m['par_segnr'][0].split(':', 1)[0]
-            _xprom[par].add(m['filename'])
-            d = _xidx[m['filename']][par]; d['n'] += 1; d['len'] += m.get('par_length', 0); d['best'] = max(d['best'], gs)
-            if d['ex'] is None or gs > d['ex'][0]:
-                d['ex'] = (gs, seg_range(m['root_segnr']), seg_range(m['par_segnr']))
-    return _xidx
-
-def xlang_parallels(tid, top=12):
-    idx = xlang_index({tid}) if _xidx is None else _xidx
-    by = idx.get(tid, {})
-    # stock-phrase partners (matching hundreds of Pali files) only count with many matches here
-    by = {f: d for f, d in by.items() if d['n'] >= 2 and (len(_xprom.get(f, ())) <= 150 or d['n'] >= 10)}
-    out = sorted(by.items(), key=lambda kv: (-(kv[1]['n'] * kv[1]['best']), -kv[1]['len']))
-    res = []; perlang = collections.Counter()
-    for f, d in out:
-        lang = f[:2].lower()
-        if perlang[lang] >= max(4, top // 2):
-            continue
-        perlang[lang] += 1
-        res.append({'file': f, 'lang': lang, 'name': text_name(f), 'n': d['n'], 'chars': d['len'], 'best': d['best'], 'ex': d['ex']})
-        if len(res) >= top: break
-    return res
-
-def dn_block(tid):
-    out = []
-    pr = pali_reuse(tid)
-    if pr is None:
-        out.append('- Pali-internal text reuse: (no match file)')
-    elif not pr['top']:
-        out.append('- Pali-internal text reuse: none found')
-    else:
-        out.append(f"- Pali-internal text reuse (DharmaNexus): {pr['n_matches']} matching passages shared with {pr['n_partners']} other Pali texts. Largest partners (matched chars; longest shared passage as segment ranges of this text ↔ partner):")
-        for t in pr['top']:
-            b = t['longest']
-            out.append(f"  - {t['name']} [{t['file']}]: {t['n']} matches, {t['chars']} chars; longest {b[1]} ↔ {b[2]} (similarity {b[3]})")
-    xl = xlang_parallels(tid)
-    if xl:
-        out.append(f"- Cross-language matches (DharmaNexus, automatic alignment with a model-assigned plausibility score 0–100, only ≥{XLANG_MIN} listed):")
-        for t in xl:
-            out.append(f"  - [{t['lang']}] {t['name']} [{t['file']}]: {t['n']} matches, best score {t['best']}; e.g. {t['ex'][1]} ↔ {t['ex'][2]}")
-    else:
-        out.append(f'- Cross-language matches (DharmaNexus): none with score ≥{XLANG_MIN}')
-    return '\n'.join(out) + '\n'
-
 # ------------------------------------------------------------------ dossier
 def write_dossiers(q):
     n = 0
@@ -574,8 +465,6 @@ def write_dossiers(q):
             out.write(f"- Text: {e['displayName']}   ID: {e['textname']}\n- Section: {e['category_name']} ({e['category']})   Collection: {e['collection']}\n")
             out.write(f"- tipitaka.org: {e['link'] or '-'}\n\n")
             out.write("## Catalog record: translations and parallels (reliable; cite as [Catalog])\n\n" + sc_block(rec) + '\n')
-            e['_dn'] = dn_block(tid)
-            out.write("## DharmaNexus computed parallels (local match data; cite as [DharmaNexus])\n\n" + e['_dn'] + '\n')
             out.write(f"## Passages found in the reference literature ({len(snips)} passages)\n\n")
             for i, s in enumerate(snips, 1):
                 out.write(f"### [{i}] {nice(s['file'])}  (line {s['line']}, tier {s['tier']}, matched: {s['kind']} '{s['match']}')\n\n{s['text']}\n\n")
@@ -590,12 +479,7 @@ INPUT
 2. A catalog record (Pali title, list of translations, parallels in other languages, for collections a summary of the
    parallels of the constituent suttas) — reliable; cite it with the tag [Catalog]. Never name the website or database it
    comes from in the overview; treat it as catalog data.
-3. A DharmaNexus block: automatically computed text-reuse matches between this text and other texts in the DharmaNexus
-   corpora (Pali-internal reuse, and cross-language alignments with Chinese, Sanskrit or Tibetan texts). These are
-   machine results, not curated parallels: cite them with the tag [DharmaNexus], describe them as "shares passages with"
-   / "is aligned by DharmaNexus with", give the segment ranges when useful, and do not present them as established
-   parallels unless the catalog or a passage confirms the relation. Where the catalog and DharmaNexus agree, say so.
-4. Numbered passages [1], [2], ... found by keyword search (sutta numbers, PTS references, Pali titles) in a corpus of
+3. Numbered passages [1], [2], ... found by keyword search (sutta numbers, PTS references, Pali titles) in a corpus of
    secondary literature and translations. Each passage is labelled with its source file, the matched string and a tier
    (A = sutta number / full title; B = short title or PTS page; C = generic name with a cue). Passages are noisy: they may
    concern a different text with the same or a similar name (a homonymous sutta in another Nikāya, a Jātaka with the same
@@ -603,7 +487,7 @@ INPUT
    cite the text without saying anything about it.
 
 RULES
-- Use only information that the passages, the catalog record or the DharmaNexus block actually support. Do NOT add facts
+- Use only information that the passages or the catalog record actually support. Do NOT add facts
   from memory, even if you know them. Background knowledge may only be used for uncontroversial framing, never for
   specifics (dates, names, numbers of verses, editions).
 - Verify identity before using a passage: sutta numbers / PTS references must match the record; titles must fit; if a
@@ -617,8 +501,7 @@ RULES
   and interlocutors); its place in the collection; parallels in Chinese Āgamas, Sanskrit, Gāndhārī or Tibetan and extant
   fragments; the commentary (aṭṭhakathā) and later Pali literature that discusses it; questions of date, composition and
   transmission discussed by scholars; modern editions, translations and studies; how the text is used or cited (only if
-  the passages show it). Always include a short paragraph on parallels and text reuse, combining the
-  catalog parallels with the DharmaNexus matches (which sections of this text are shared with which texts).
+  the passages show it). Always include a short paragraph on the catalog parallels.
 - If the passages only quote the text or mention it in passing, say exactly that (which sources cite it and in what
   connection); the catalog parallels can still carry the overview. If nothing reliably concerns this text
   and there is no catalog record, set identification_confidence to "none".
@@ -632,13 +515,13 @@ OUTPUT: a single JSON object (no markdown fences) with exactly these fields:
   "english_title": string or null,
   "alternative_titles": [strings actually attested, may be empty],
   "overview_md": string,
-  "sources": [{{"tag": "Author Year", "file": "<exact source file label as given in the passage header, or Catalog, or DharmaNexus>",
+  "sources": [{{"tag": "Author Year", "file": "<exact source file label as given in the passage header, or Catalog>",
                "citation": "Author, Title (year) — as far as the file name allows", "passages": [ints],
                "contribution": "one short phrase"}}],
   "rejected_passages": [{{"passages": [ints], "reason": "short"}}]
 }}
 
-=== CATALOG RECORDS, DHARMANEXUS MATCHES AND PASSAGES ===
+=== CATALOG RECORDS AND PASSAGES ===
 {dossier}
 """
 
@@ -732,12 +615,6 @@ def parallels_block(e, sc):
     s = sc.get('suttaplex') or {}
     if s.get('uid'):
         out += [x.replace(' (SC)', '') for x in sc_par_block(s['uid'], s.get('type') != 'leaf')]
-    pr = pali_reuse(e['id'], top=8)
-    if pr and pr['top']:
-        out.append("- Text reuse within the Pali corpus (DharmaNexus): " + '; '.join(f"{t['name']} ({t['longest'][1]} ↔ {t['longest'][2]})" for t in pr['top']))
-    xl = xlang_parallels(e['id'], top=8)
-    if xl:
-        out.append("- Cross-language matches (DharmaNexus): " + '; '.join(f"{t['name']} [{t['lang']}]" for t in xl))
     return ("**Parallels and text reuse**\n\n" + '\n'.join(out) + '\n\n') if out else ''
 
 def assemble(q, outdir):
@@ -758,12 +635,12 @@ def assemble(q, outdir):
         body = "\n## AI-generated Overview (from reference literature)\n\n"
         conf = o.get('identification_confidence') if o else None
         pb = parallels_block(e, sc)
-        srcs = [x for x in (o or {}).get('sources', []) if x.get('file')]
-        lit = [x for x in srcs if x['file'] not in ('Catalog', 'SuttaCentral', 'DharmaNexus')]
+        srcs = [x for x in (o or {}).get('sources', []) if x.get('file') and x['file'] != 'DharmaNexus']
+        lit = [x for x in srcs if x['file'] not in ('Catalog', 'SuttaCentral')]
         if o and conf != 'none' and o.get('overview_md', '').strip():
             body += NOTE + '\n\n' + o['overview_md'].strip() + '\n\n'
             if not lit:
-                body += "*No discussion of this text was found in the reference-literature corpus; the overview relies on catalog and DharmaNexus data.*\n\n"
+                body += "*No discussion of this text was found in the reference-literature corpus; the overview relies on catalog data.*\n\n"
             body += pb
             if srcs:
                 body += "**Sources**\n\n"
@@ -799,7 +676,7 @@ def main():
     if 'scan' in steps: scan(q)
     if 'aggregate' in steps or 'dossier' in steps: aggregate(q)
     if 'dossier' in steps or 'assemble' in steps:
-        xlang_index(set(q)); sc_prefetch(q)
+        sc_prefetch(q)
     if 'dossier' in steps: write_dossiers(q)
     if 'gemini' in steps: gemini(q, a.model, a.force, a.workers)
     if 'assemble' in steps: assemble(q, a.out)

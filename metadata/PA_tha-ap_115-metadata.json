@@ -5,9 +5,7 @@
   "filenr": 1116,
   "collection": "Sutta",
   "filename": "PA_tha-ap_115",
-  "raw_metadata": "# Saraṇagamaniyattheraapadāna (Tha-Ap 115)\n\n**ID:** Tha-Ap 115\n**Section:** Therāpadāna (tha-ap)\n**Collection:** Sutta\n**Title (Pali):** Saraṇagamaniyattheraapadāna\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0510m1.mul11.xml\n\n## AI-generated Overview (from reference literature)\n\n*This overview was drafted by an AI model from the cited scholarship and catalog data and may contain errors; verify against the sources before relying on it.*\n\n However, DharmaNexus detects significant Pali-internal text reuse between this apadāna and the commentary on the *Theragāthā*, namely the *Theragāthā-aṭṭhakathā* (Paṭhamo bhāgo) [DharmaNexus]. This alignment spans 14 shared passages totaling 2,293 characters, with the primary continuous correspondence linking segments §0.3–10.4 of the apadāna to segments §1561_13–1581 of the commentary at a similarity score of 0.91 [DharmaNexus].\n\n*No discussion of this text was found in the reference-literature corpus; the overview relies on catalog and DharmaNexus data.*\n\n**Parallels and text reuse**\n\n- Text reuse within the Pali corpus (DharmaNexus): Theragāthā-aṭṭhakathā (Paṭhamo bhāgo) (Atk S0508a1) (§0.3–10.4 ↔ §1561_13–1581)\n- [DharmaNexus] DharmaNexus text-reuse database (tha-ap115) — Alignment data showing internal reuse with the Theragāthā-aṭṭhakathā and lack of cross-language matches\n",
+  "raw_metadata": "# Saraṇagamaniyattheraapadāna (Tha-Ap 115)\n\n**ID:** Tha-Ap 115\n**Section:** Therāpadāna (tha-ap)\n**Collection:** Sutta\n**Title (Pali):** Saraṇagamaniyattheraapadāna\n**tipitaka.org (CST):** https://tipitaka.org/romn/cscd/s0510m1.mul11.xml\n\n## AI-generated Overview (from reference literature)\n\nNo reliable discussion of this text was found in the reference-literature corpus.\n",
   "reflit_confidence": "high",
-  "reflit_sources": [
-    "DharmaNexus"
-  ]
+  "reflit_sources": []
 }

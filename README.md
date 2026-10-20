@@ -1,6 +1,6 @@
 # DharmaNexus Pali segments Repository
 
-This repository contains the Pali segments input files for DharmaNexus. 
+This repository contains the Pali segments input files for DharmaNexus. This dataset is based on the SuttaCentral Pali segmented data. 
 
 ## File Naming Convention
 

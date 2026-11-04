@@ -1,6 +1,6 @@
 # DharmaNexus Pali segments Repository
 
-This repository contains the Pali segments input files for DharmaNexus. This dataset is based on the SuttaCentral Pali segmented data. 
+This repository contains the Pali segments input files for DharmaNexus. 
 
 ## File Naming Convention
 
@@ -29,3 +29,13 @@ Example (in Python):
 ```python
 filename = "pn_dn_4"
 lang, category, text = filename.split('_')
+```
+
+## Text sources and licensing
+
+
+The original source of these texts is the authenticated Tipitaka from the Chaṭṭha Saṅgāyana CD published by the Vipassana Research Institute and can be found on their GitHub repository: https://github.com/VipassanaTech/tipitaka-xml. 
+
+The DharmaMitra dataset is based on the SuttaCentral Pali segmented data. 
+
+The original texts of Buddhism in Pali are in the public domain. Such material does not fall within the scope of copyright. These files are therefore made freely available for non-commericial use. Please attribute Vipassana Research Institute when incorporating these files into your projects.

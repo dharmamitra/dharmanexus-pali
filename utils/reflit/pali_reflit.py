@@ -18,6 +18,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 import ahocorasick, requests
 from unidecode import unidecode
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from linkify_metadata import fix as _linkify  # bare URLs -> links, hard line breaks (2026-11-21)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PA = os.path.join(HERE, '..', '..', 'PA_files.json')
@@ -653,7 +655,7 @@ def assemble(q, outdir):
             stats['no_overview'] += 1
         raw = head + body.rstrip('\n') + '\n'
         rec = {'displayName': e['displayName'], 'textname': e['textname'], 'category': e['category'], 'filenr': e.get('filenr'),
-               'collection': e['collection'], 'filename': tid, 'raw_metadata': raw, 'reflit_confidence': conf,
+               'collection': e['collection'], 'filename': tid, 'raw_metadata': _linkify(raw)[0], 'reflit_confidence': conf,
                'reflit_sources': [x['file'] for x in srcs]}
         json.dump(rec, open(os.path.join(outdir, f'{tid}-metadata.json'), 'w'), ensure_ascii=False, indent=2)
     print('assembled:', dict(stats), '->', outdir, flush=True)

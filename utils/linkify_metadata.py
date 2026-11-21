@@ -9,7 +9,7 @@ python3 utils/linkify_metadata.py [--dry-run]     (run from the repo root)
 
 Touches only the raw_metadata field of <XX>_files.json and metadata/*.json. URLs already inside a markdown link
 ([text](url)), an autolink (<url>) or link text are left alone. Trailing punctuation and unbalanced closing
-brackets are not part of the URL. Each file is written back with the JSON layout it had (detected by re-dumping).
+brackets are not part of the URL; URLs in code spans/blocks stay literal. Each file is written back with the JSON layout it had (detected by re-dumping).
 """
 import glob
 import json
@@ -38,10 +38,11 @@ def linkify(md):
     if not md or "http" not in md:
         return md, 0
     out, pos, n = [], 0, 0
+    code = [(c.start(), c.end()) for c in re.finditer(r"(?ms)^\s*(```|~~~).*?^\s*\1|`[^`\n]+`", md)]
     for m in URL.finditer(md):
         s = m.start()
-        if s < pos:
-            continue
+        if s < pos or any(a <= s < b for a, b in code):
+            continue                                       # inside inline code / a fenced block: literal
         before = md[max(0, s - 2):s]
         if before.endswith("(") and before.startswith("]") or before.endswith("<") or before.endswith("]("):
             continue                                       # already a link target / autolink
